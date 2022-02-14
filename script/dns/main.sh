@@ -5,11 +5,11 @@ cd script/dns/src
 curl -o i1.txt https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 curl -o i6.txt https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 curl -o i7.txt https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
-curl -o i8.txt https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-edentw.txt
+curl -o i8.txt https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts
 curl -o i9.txt https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
 curl -o i10.txt https://hblock.molinero.dev/hosts
 curl -o i11.txt https://adaway.org/hosts.txt
-curl -o i12.txt https://phishing.army/download/phishing_army_blocklist.txt
+curl -o i12.txt https://abp.oisd.nl/basic/
 curl -o i19.txt https://www.kbsml.com/wp-content/uploads/adblock/adguard/adg-kall-dns.txt
 wget https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
 

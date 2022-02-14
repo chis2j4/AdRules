@@ -9,7 +9,7 @@ curl -o i8.txt https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-
 curl -o i9.txt https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
 curl -o i10.txt https://hblock.molinero.dev/hosts
 curl -o i11.txt https://adaway.org/hosts.txt
-curl -o i12.txt https://abp.oisd.nl/basic/
+curl -o i12.txt https://abp.oisd.nl/
 curl -o i19.txt https://www.kbsml.com/wp-content/uploads/adblock/adguard/adg-kall-dns.txt
 wget https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
 

@@ -4,7 +4,7 @@ cd script/dns/src
 # Start Download
 curl -o i1.txt https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 curl -o i6.txt https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
-curl -o i7.txt https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_host
+curl -o i7.txt https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
 curl -o i8.txt https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-edentw.txt
 curl -o i9.txt https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
 curl -o i10.txt https://hblock.molinero.dev/hosts

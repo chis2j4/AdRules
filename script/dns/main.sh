@@ -4,12 +4,12 @@ cd script/dns/src
 # Start Download
 curl -o i1.txt https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 curl -o i6.txt https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
-curl -o i7.txt https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt
+curl -o i7.txt https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_host
 curl -o i8.txt https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-edentw.txt
 curl -o i9.txt https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
-curl -o i10.txt https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt
-#curl -o i11.txt https://raw.githubusercontent.com/Cats-Team/AdRules_dev/main/adguard-full.txt
-curl -o i12.txt https://adaway.org/hosts.txt
+curl -o i10.txt https://hblock.molinero.dev/hosts
+curl -o i11.txt https://adaway.org/hosts.txt
+curl -o i12.txt https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_host
 wget https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
 
 # Start Merge and Duplicate Removal

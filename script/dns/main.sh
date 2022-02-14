@@ -3,7 +3,7 @@ cd script/dns/src
 #cd ./src
 # Start Download
 curl -o i1.txt https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-curl -o i6.txt https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
+curl -o i6.txt https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt
 curl -o i7.txt https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 curl -o i8.txt https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts
 curl -o i9.txt https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt

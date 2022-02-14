@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-02-14 18:14:46（北京时间） 
-! Total count: 53796
+! Version: 2022-02-14 21:13:34（北京时间） 
+! Total count: 53798
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -21067,6 +21067,7 @@
 @@||eztv.io/js/search_shows*.js
 @@||eztv.io^$csp=script-src 'self' 'unsafe-inline'
 @@||f*.baidu.com^
+@@||f-droid.org/assets/Ads_$~third-party
 @@||f-droid.org^
 @@||f-secure.com^
 @@||f-spot.org^
@@ -33976,6 +33977,7 @@
 @@||manhua.weibo.com/adv/
 @@||manhua.weibo.com/adv/
 @@||manhuagui.com^$stealth
+@@||manhwaid.org^$generichide
 @@||maniac-game.tistory.com^$generichide
 @@||maniarfamily.com^
 @@||manifest-dp.hulustream.com^

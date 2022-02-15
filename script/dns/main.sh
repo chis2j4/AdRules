@@ -33,7 +33,7 @@ sort -n ttmp.txt | uniq -u > tmp.txt
 num=`cat tmp.txt | wc -l`
 
 # Start Add title and date
-echo "! Version: $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间） " >> tpdate.txt
+echo "! Version: $(TZ=Asia/Taipei date +'%Y-%m-%d %H:%M:%S')（台北時間） " >> tpdate.txt
 echo "! Total count: $num" >> tpdate.txt
 cat title.dd tpdate.txt tmp.txt > final.txt
 

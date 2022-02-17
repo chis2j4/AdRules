@@ -9,7 +9,7 @@ curl -o i8.txt https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Host
 curl -o i9.txt https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
 curl -o i10.txt https://hblock.molinero.dev/hosts
 curl -o i11.txt https://adaway.org/hosts.txt
-curl -o i12.txt https://abp.oisd.nl/basic/
+curl -o i12.txt https://abp.oisd.nl/
 curl -o i19.txt https://block.energized.pro/spark/formats/hosts
 wget https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
 

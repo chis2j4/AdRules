@@ -5,12 +5,12 @@ cd script/dns/src
 curl -o i1.txt https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 curl -o i6.txt https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt
 curl -o i7.txt https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-curl -o i8.txt https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
+curl -o i8.txt https://gitlab.com/badmojr/1hosts/-/raw/main/Lite/adblock.txt
 curl -o i9.txt https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
 curl -o i10.txt https://hblock.molinero.dev/hosts
 curl -o i11.txt https://adaway.org/hosts.txt
 curl -o i12.txt https://abp.oisd.nl/basic
-curl -o i19.txt https://block.energized.pro/spark/formats/hosts
+curl -o i19.txt https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
 wget https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
 
 # Start Merge and Duplicate Removal

@@ -10,7 +10,7 @@ curl -o i9.txt https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.tx
 curl -o i10.txt https://hblock.molinero.dev/hosts
 curl -o i11.txt https://adaway.org/hosts.txt
 curl -o i12.txt https://abp.oisd.nl/basic
-curl -o i19.txt https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
+curl -o i19.txt https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&startdate%5Bday%5D=23&startdate%5Bmonth%5D=2&startdate%5Byear%5D=2002&useip=0.0.0.0
 wget https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
 
 # Start Merge and Duplicate Removal

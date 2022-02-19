@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-02-19 00:10:08（北京时间） 
-! Total count: 53870
+! Version: 2022-02-19 08:32:51（北京时间） 
+! Total count: 53871
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3931,7 +3931,7 @@
 @@/frosmo.easy.js$domain=sklep.pl.canalplus.com
 @@/fuckadblock.$domain=bde4.com|ck101.com|datehub.co|dilidili.one|golangnote.com|lnk2.cc|nfmovies.com|papalah.com|qqdie.com
 @@/fuckadblock.$domain=ck101.com|datehub.co|golangnote.com|joyk.com|liumingye.cn|lnk2.cc|papalah.com|poedb.tw|share1223.com
-@@/fuckadblock.$domain=ck101.com|datehub.co|golangnote.com|joyk.com|liumingye.cn|lnk2.cc|papalah.com|poedb.tw|share1223.com
+@@/fuckadblock.$domain=datehub.co|golangnote.com|joyk.com|liumingye.cn|lnk2.cc|papalah.com|poedb.tw|share1223.com
 @@/fuckadblock.js$domain=animedub.ru
 @@/fuckadblock.js$domain=bemad.es|cuatro.com|divinity.es|eltiempohoy.es|energytv.es|factoriadeficcion.com|mitele.es|mtmad.es|telecinco.es
 @@/fuckadblock.js$domain=camiris.com
@@ -6298,7 +6298,6 @@
 @@||ads.businessmixer.net^$domain=ads.businessmixer.net
 @@||ads.cdn.tvb.com^*.key
 @@||ads.cdn.tvb.com^*.key
-@@||ads.ck101.com/www/delivery/asyncjs.php
 @@||ads.ck101.com/www/delivery/asyncjs.php
 @@||ads.clubedohardware.com.br/
 @@||ads.co.ua^$domain=ads.co.ua
@@ -15521,6 +15520,7 @@
 @@||code.jquery.com/jquery-*.min.js$domain=kimcartoon.to
 @@||code.jquery.com^
 @@||code.jquery.com^$domain=debridnet.com
+@@||code.jquery.com^$domain=mixdrop.co
 @@||code.jquery.com^$script,domain=adkami.com|animecomplet.net|bypassed.in|bypassed.zone|evoload.io|extratorrent.si|flowyourvideo.com|fullsharez.com|fux0r.fun|fux0r.fyi|fux0r.icu|fux0r.ooo|fux0r.top|geneafrance.com|getsurl.com|ianimes.org|immunicity.st|indishare.org|insta-stories.com|japscan.ws|jetload.net|lirescan.me|mp4upload.com|protect-mylinks.com|protect-stream.com|ratopi.com|sandup.co|shahidlive.co|sonyoutube.com|streamingfrance.com|subfb.us|sznpaste.net|tntendirect.com|torlock.com|unblockall.org|unblocked.is|unblocked.lc|unblocked2.vip|unblockproject.info|uploadrar.com|videowood.tv|waaw.tv|younetu.com
 @@||code.jquery.com^$script,domain=anime-loads.org
 @@||code.jquery.com^$script,domain=lalamus.cc
@@ -23681,6 +23681,7 @@
 @@||geolite.maxmind.com^
 @@||geoloc.hurriyet.com.tr/api/country/$domain=hurriyet.com.tr
 @@||geoloc.hurriyet.com.tr/api/country/$domain=hurriyet.com.tr
+@@||geolocation-db.com/jsonp$script,domain=parts.hp.com
 @@||geolocation.garmin.com^
 @@||geolocation.onetrust.com/cookieconsentpub/$domain=new.cappex.com
 @@||geolocation.onetrust.com/cookieconsentpub/*/geo/location

@@ -3,13 +3,15 @@ cd script/dns/src
 #cd ./src
 # Start Download
 curl -o i1.txt https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-curl -o i6.txt https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt
+curl -o i6.txt https://someonewhocares.org/hosts/zero/hosts
 curl -o i7.txt https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 curl -o i8.txt https://gitlab.com/badmojr/1hosts/-/raw/main/Lite/adblock.txt
 curl -o i9.txt https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
 curl -o i10.txt https://hblock.molinero.dev/hosts
 curl -o i11.txt https://adaway.org/hosts.txt
 curl -o i12.txt https://abp.oisd.nl/basic
+curl -o i13.txt https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
+curl -o i14.txt https://curben.gitlab.io/malware-filter/urlhaus-filter-agh-online.txt
 curl -o i19.txt https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&startdate%5Bday%5D=23&startdate%5Bmonth%5D=2&startdate%5Byear%5D=2002&useip=0.0.0.0
 wget https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
 

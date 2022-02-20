@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 12 Hours
 ! Description: 自用合并規則AdRules (For AdBlock)+AdRules (For AdGuard)
-! Version: 2022-02-20 08:09:24
-! Total count: 64082
+! Version: 2022-02-20 16:09:41
+! Total count: 64104
 
 
 ###ACCsmallCookieLayer
@@ -9829,6 +9829,7 @@
 ##.bar-eu-cookies
 ##.bar-eu-cookies:not(body):not(html)
 ##.bar.cookie
+##.bar.udc-bar-holder
 ##.barCookie
 ##.barCookie:not(body):not(html)
 ##.barWrap[data-id="cookieBar"]
@@ -15079,6 +15080,7 @@
 ##.gdpr_discplaimer
 ##.gdpr_gdpr-composer-panel__toolbar
 ##.gdpr_hdr
+##.gdpr_infobar_postion_bottom
 ##.gdpr_ip
 ##.gdpr_main
 ##.gdpr_msg
@@ -15938,6 +15940,7 @@
 ##.ld-cookie-notice
 ##.lds-cookie-consent
 ##.lds__privacy-policy
+##.left.udc-holder
 ##.legal-acknowledgement:not(body):not(html)
 ##.legal-cookie
 ##.legal-cookie-disclaimer
@@ -16094,6 +16097,7 @@
 ##.main-cookie-bar-container
 ##.main-cookie-title
 ##.main-cookie-warning
+##.main-cookies
 ##.main-cookies-warning
 ##.main-footer ~ .cookie
 ##.main-footer-cookie-info
@@ -16370,6 +16374,7 @@
 ##.moduloCookieAlert:not(body):not(html)
 ##.mol-ads-cmp
 ##.moneseCookies
+##.moove-gdpr-align-center
 ##.moove-gdpr-dark-scheme
 ##.moove_gdpr_cookie_info_bar
 ##.moove_gdpr_cookie_modal_open
@@ -17690,6 +17695,8 @@
 ##.show-for-small-only > div[data-id="gdprAlert"]
 ##.show-gdpr:not(body)
 ##.show.cp-wrap
+##.show.udc-bar-holder
+##.show.udc-ovr
 ##.showCookieInformation
 ##.showCookiebanner
 ##.showGDPR
@@ -19899,7 +19906,7 @@ $removeparam=yclid
 */statics/js/hth1111.html
 *tplv-noop.gif*
 ,e8o,$xmlhttprequest,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
---.?/statics/js/hth1111.html
+--.+/statics/js/hth1111.html
 --.com/gg.js
 --/360mse/360mse_.+.apk?
 --/api/ad/
@@ -25619,6 +25626,7 @@ alko-garden.it###divDisabledBackground
 alko-garden.pl###divDisabledBackground
 alko-memy.pl###cookieMain
 alkskdjf.chixingkeji.com
+all-bikes.fr,store-opart.fr###ocw_conteneur
 all-episodes.net###odin
 all-hashtag.com##.disclaimer-container
 allboxing.ru#$#abort-current-inline-script document.querySelector open
@@ -25683,6 +25691,7 @@ alsacechampagneardennelorraine.eu##.cm-message
 alskdj9u7.xcj-pmi.com
 also.com##.alert-dismissible, .alert-dismissable, .alert--dismissable, .pmd-alert-dismissible
 altaprofits.com###notification
+altaprofits.com,aujourdhui.com###notification
 alter-science.info,alterexit.info,viziya.info###pop
 alterego.waw.pl###SITE_ROOT ~ .siteAspectsContainer
 alternative.me###footer > div[style*="fixed"]
@@ -25767,8 +25776,8 @@ androiding.how##.jsXY6yjBmGN4
 androiding.how##.jsXY6yjBmGN4-bg
 androidmagazine.pl##body > div:not([id]):not([class])
 andyguitar.co.uk##.v-dialog__content
-andyguitar.co.uk##.v-overlay
 andyguitar.co.uk##.v-overlay, .v-dialog__content
+andyguitar.co.uk,rypsv.scot##.v-overlay
 andyhayler.com##.cookie
 andyhoppe.com###cmsg
 angolodelregalo.it,bottegaverde.it,cerutti.it,dehoniane.it,e-glossa.it,ebayextra.it,esso.it,fluorsidgroup.com,fondazionehenraux.it,gatorade.it,gogedizioni.it,ilbestiariorivista.it,italotreno.it,lintellettualedissidente.it,perfumesclub.it,radioitalia.it,rivistacontrasti.it,saint-gobain.it,tirrenia.it,tivu.tv,tivusat.tv,walliance.eu##.cookies
@@ -27159,6 +27168,7 @@ caferosenhaven.dk##body > div:not([id]):not([class])
 cafpi.fr##.warning
 caib.es##.imc-cookie
 caishuitonghr.com
+caithnesslodges.scot##.prominent
 caixabank.cat##.cookies-region
 caixabank.es##.cookies-region
 cajeando.com##.cookies
@@ -29581,6 +29591,7 @@ ffsa.org###DeltaPageStatusBar
 fg.cqbuchouhua.com
 fg.daochengwowo.top
 fg.eezu.cn
+fg.geoparker.net
 fg.glwxw.net
 fg.kzxsrxf.cn
 fg.yilianqing.com
@@ -31426,6 +31437,7 @@ infobox.ru##.ibx-coockie-agree
 infodefensa.com###cookies
 infojobs.it##.notification-body
 infojobs.net###cmpContainer
+infojobs.net###notification-type
 infomir.eu###cb
 infoorel.ru##a[href="http://www.infoorel.ru/stat/stat.php"]
 infopedia.pt###klaro-pe-overlay
@@ -31912,6 +31924,7 @@ jr.jd.com###app-jr
 jr.jd.com##.app.ui-sidebar-block
 js.363lm.com
 js.bbdsdy.com
+js.bcrealm.com
 js.bluecarvin.xyz
 js.brstke.top
 js.cookietagmanager.net
@@ -32201,6 +32214,7 @@ kme.duoquwawa.cn
 kmg.fshanys-vip.top
 kmr.jiujigroup.top
 kmr.yhjzg.cn
+kmr.yvfnb.cn
 kmt.xkzjq.cn
 kmt.zhwpg.cn
 kmweg.de###colorbox, #cboxOverlay
@@ -33756,6 +33770,7 @@ mkidn.gov.pl###pa
 mkik.hu###alert-box
 mklr.pl##body > div:not([id]):not([class])[style*="fixed"], body > div:not([id]):not([class])[style*="absolute"]
 mkt.mcfarland.cn
+mkt.xhtlw.cn
 mkvcage.com,pastehere.xyz,vidshare.tv,govid.me,hdvid.tv,ovid.pro#$#abort-on-property-read adcashMacros
 mla.org##.donate-banner
 mlexmarketinsight.com##.banner-message-cpopup
@@ -34007,7 +34022,7 @@ mtv.com###balaMainContainer
 mtva.hu##.resultCookie
 mtvmobile.nl###exposeMask, #TMobile_nl_WebPortals_UI_PageComponents_CookieSettingsOverlay_CookieSettingsOverlayController_OverlayRootDiv
 mu.se##div[data-storage-item*="cookiename"]
-mubi.com##.appear-enter-done
+mubi.com##.css-1usnlyf
 mubi.pl##.cookies, header ~ div[aria-label*="Cookie"]
 mudes.org.br##.elementor-popup-modal
 mudrunner-spintires.com###cookies-interface
@@ -34095,6 +34110,7 @@ mydealz.de,preisjaeger.at###softMessages-list
 mydisc.net#@#.ad_1
 mydisc.net#@#.ad_2
 mydraw.com##.cookie
+mydress.com##.sc-LzLqH.kaclpw
 myegy.cc,myegy.io,myegy.to##.disclaimer
 myfirstcomp.ru#?#.tm-sidebar-b > div.uk-panel:has(script[src^="https://adcounter"])
 myfitnesspal.com###app > div[class^="MFPApp-"] > div > footer + div[class]
@@ -35453,6 +35469,7 @@ pmg-mainz.de###footer > section
 pmi.com###lightbox-panel
 pmmp.io###remindTos
 pn.birjkhm.cn
+pn.mdkjefq.cn
 pn.qijpaih.cn
 pna.ro##.ui-sidebar.ui-widget
 pnbbanka.eu##.cookie
@@ -36438,6 +36455,7 @@ rymer.org###divzasobu
 ryneklazienek.pl###axnBodyContainer
 rynekzdrowia.pl##.rodo
 ryobitools.eu##div[class*="OneTrustOverlay"]
+rypsv.scot##.v-dialog
 ryzerobotics.com##footer > div[class*="pop-up"]
 rzeszow.pl###__next > .fixed
 s.cchvc.net
@@ -37309,7 +37327,6 @@ spot-a-shop.at,spot-a-shop.de,spot-a-shop.fi,spot-a-shop.fr,spot-a-shop.pl,spot-
 spot-a-shop.de###popup-notifications
 spotify.com###main > .Root > section, .mh-message-bar
 spotify.com##.mh-message-bar
-spotify.com##div > div[aria-live="polite"]
 spotlight.pl##.statement-container
 spox.com##.spxcib
 spox.com##.spxcib.open
@@ -37457,7 +37474,6 @@ stokokkino.gr##.popup
 stopad.io##.js-gdpr-modal
 stoppub.fr##.elementor-popup-modal
 storaenso.com##.overlay-wrapper
-store-opart.fr###ocw_conteneur
 store.line.me#%#//scriptlet('remove-class', 'async-hide', 'html')
 store.steampowered.com#%#//scriptlet('set-cookie','bGameHighlightAudioEnabled','false')
 store.steampowered.com#%#//scriptlet('set-cookie','bGameHighlightAutoplayDisabled','true')
@@ -37555,6 +37571,7 @@ sued.aldi-liefert.de##.modal-backdrop
 suedkaelte.com##.infobar-wrapper
 suelo.pl###modalCookies
 sugarsync.com###agreementBar
+suki-kira.com#%#//scriptlet("remove-attr", "disabled", "button.vote-submit")
 sumcumo.com##.cookies
 sumup.de##.su-footer ~ div[class*="css"]
 suncorp.com.au##.one-pixel-margin-bottom.sg-Box
@@ -39744,8 +39761,10 @@ www.govhechi.cn
 www.govjieyang.cn
 www.govkunming.cn
 www.govlaibing.cn
+www.govliuzhou.cn
 www.govshenzhen.cn
 www.govxian.cn
+www.govxinjiang.cn
 www.govyunfu.cn
 www.govyunnan.cn
 www.govzhajian.cn
@@ -39799,6 +39818,7 @@ www.qsptv.net/tpl/newstyle/js/pv.js
 www.qwupoq.com
 www.rdezbie.com
 www.renrenhaigou.com
+www.repyua.com
 www.ruten.com.tw#@#.adslot
 www.ruten.com.tw#@#.adver
 www.ruten.com.tw#@#[class^="ad-"]:not(body):not(#ad-preview)
@@ -39884,6 +39904,7 @@ xc.muhnbc.cn
 xc.nhpwwd.cn
 xc.nimaxrv.cn
 xc.nuheoub.cn
+xc.yynncbn.cn
 xcdn.pgcm58.com
 xcmz999.com
 xe.gr##.google_diaclaimer
@@ -39902,6 +39923,7 @@ xg.kmgfjc.cn
 xg.lgygy.cn
 xg.monsteredward.com
 xg.mvlkvth.cn
+xg.svvbrkk.cn
 xg.t415n.cn
 xg.wdswgjn.cn
 xg.y0764.cn

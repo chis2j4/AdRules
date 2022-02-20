@@ -23,6 +23,7 @@ jobs:
           bash ./script/allow/main.sh
           bash ./script/hosts/main.sh
           bash ./script/adblock+adguard/main.sh
+          bash ./script/test/main.sh
       - name: Update other rules
         run: |
           cd rules

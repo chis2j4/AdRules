@@ -2,8 +2,8 @@
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 12 Hours
-# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2022-02-19 16:09:58
-# Total count: 64345
+# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2022-02-20 00:35:43
+# Total count: 64346
 0.0.0.0 --tplv-noop.gif
 0.0.0.0 --www.xxmh.+.com
 0.0.0.0 .weixingshexiangji.net
@@ -50574,6 +50574,7 @@
 0.0.0.0 ss.chelaile.net.cn
 0.0.0.0 ss.ting55.com
 0.0.0.0 ss.yomedia.vn
+0.0.0.0 ss.zuixinyiqi.com
 0.0.0.0 ss229.com
 0.0.0.0 ssa.asianfoodnetwork.com
 0.0.0.0 ssa.cookingchanneltv.com

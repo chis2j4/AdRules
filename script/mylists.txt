@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 12 Hours
 ! Description: 自用合并規則AdRules (For AdBlock)+AdRules (For AdGuard)
-! Version: 2022-02-21 00:31:28
-! Total count: 64105
+! Version: 2022-02-21 08:10:00
+! Total count: 64118
 
 
 ###ACCsmallCookieLayer
@@ -2865,6 +2865,7 @@
 ###cookieBannerContent
 ###cookieBannerContent_new
 ###cookieBannerD
+###cookieBannerDBPrivacyNotice
 ###cookieBannerDiv
 ###cookieBannerGTV
 ###cookieBannerInfo
@@ -8384,6 +8385,7 @@
 ###use_cookie
 ###use_cookie_remind
 ###use_cookies
+###use_of_cookie
 ###usecookies
 ###user-cookie-confirm
 ###user-cookie-message
@@ -11366,6 +11368,7 @@
 ##.cookie-identification
 ##.cookie-image-wrapper
 ##.cookie-img
+##.cookie-info-background
 ##.cookie-info-banner
 ##.cookie-info-banner:not(body):not(html)
 ##.cookie-info-bar
@@ -11385,6 +11388,8 @@
 ##.cookie-info-header
 ##.cookie-info-layer
 ##.cookie-info-modal
+##.cookie-info-more-options-background
+##.cookie-info-more-options-layer
 ##.cookie-info-overlay
 ##.cookie-info-slider
 ##.cookie-info-slider:not(body):not(html)
@@ -15515,6 +15520,7 @@
 ##.js--cookiebar:not(body):not(html)
 ##.js--cookiecontrol
 ##.js--cookiecontrol:not(body):not(html)
+##.js--cookies-consent
 ##.js-Cookie
 ##.js-CookieBanner
 ##.js-CookieBanner:not(body):not(html)
@@ -25349,7 +25355,7 @@ admiral.at##asw-cookie-acceptance-overlay
 admiral.com##hub-gdpr-popup
 ado1szazalek.com###layout_advertising_bottom
 ado1szazalek.com,boraszportal.hu,termalfurdo.hu###layout_advertising_bottom
-adobe.com,investors.com,merixstudio.com,sapabuildingsystem.com,timesofisrael.com##.message
+adobe.com,investors.com,merixstudio.com,sapabuildingsystem.com,steadfastnz.nz,timesofisrael.com##.message
 adoc.pub###ADOCPUB_cookie_box
 adoc.tips###ADOCTIPS_cookie_box
 adomino.net###cf__widget-outer
@@ -25466,6 +25472,7 @@ ahlens.se##.ah-warning
 ahliunited.com.kw##.greyCookie
 ahri-hentai.com#$#abort-current-inline-script document.querySelectorAll popMagic
 ahrsteig.de##.modal
+aia.co.nz##.alertFooterContent
 aia.com.my##.alert-dismissable
 aicanet.it##.popup-view
 aicanet.it,eurojackpot.it,venetobanca.it##.yui3-widget-modal
@@ -25493,7 +25500,7 @@ airhelp.com##.css-4l2e5b
 airleben.de,datafox.de##.popup-banner
 airlinecheckins.com##.app-header + .layout-row
 airlinecheckins.com##.layout-row
-airnewzealand.eu,arlingtoncemetery.mil,arthrex.com,axminster.co.uk,daf.be,daf.co.uk,daf.com,daf.fr,daf.global,daf.nl,daf.ru,daf.se,daftrucks.de,daftrucks.dk,daftrucks.it,daftrucks.pl,daftrucks.sk,ferratum.co.uk,fiveguys.co.uk,flaine.com,flipsnack.com,interactivebrokers.ie,kon-boot.com,lam.co.mz,medtronic.com,primaresearch.org,qv.co.nz##.modal-backdrop
+airnewzealand.eu,arlingtoncemetery.mil,arthrex.com,axminster.co.uk,daf.be,daf.co.uk,daf.com,daf.fr,daf.global,daf.nl,daf.ru,daf.se,daftrucks.de,daftrucks.dk,daftrucks.it,daftrucks.pl,daftrucks.sk,ferratum.co.uk,fiveguys.co.uk,flaine.com,flipsnack.com,interactivebrokers.com.au,interactivebrokers.ie,kon-boot.com,lam.co.mz,medtronic.com,primaresearch.org,qv.co.nz##.modal-backdrop
 airnewzealand.eu,przekroj.pl,qv.co.nz,thelittleboxoffice.com##.modal
 airproducts.co.uk##.eu-dp
 airsoft.ch##.cb
@@ -26465,6 +26472,7 @@ basilica.ro##.alert, #alert
 basiszinssatz.de###wrapperdiv
 basketzone.pl###polityka
 bastler-zentrale.de###dsok, #coplh
+bata.com.au,testmy.net###overlay
 batcmd.com###cmsg
 bati-info.be##div[class*="cookie-alert"]
 bati-orient-import.com###overlayCookie2015
@@ -27013,8 +27021,8 @@ brodportal.hr##.privatnost
 brookes.ac.uk###PopUp
 brookesalumni.co.uk###PopUp
 broughtons.com##.notice-wrap
-brouwland.com##.notification-alert
 brouwland.com##.notification-top
+brouwland.com,collaw.ac.nz##.notification-alert
 browar.biz##.page > div > div[style*="gray"]
 browardpalmbeach.com,dallasobserver.com,houstonpress.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.compliance
 browser-consent-front.coco.s-cloud.fi
@@ -27097,7 +27105,7 @@ burgopapers.com##.floatFooter
 burn-out-forum.de##.ifancybox-overlay-fixed
 burncoose.co.uk###cNotice
 burnleyfootballclub.com##footer ~ div > .fixed
-burnleyfootballclub.com,centricabusinesssolutions.ie,cherryservers.com,mirabilisapartments.com,moonpay.com,truecaller.com,vilavitaparc.com,webcatalog.io##.bottom-0
+burnleyfootballclub.com,centricabusinesssolutions.ie,cherryservers.com,mirabilisapartments.com,moonpay.com,nucleusnetwork.com,truecaller.com,vilavitaparc.com,webcatalog.io##.bottom-0
 buro247.hr###subscriptionPopupBottom
 burze.dzis.net#@#.adsbygoogle
 bus-pvl.kz###useragreement
@@ -27636,7 +27644,7 @@ cmail1.com/t$image
 cmegroup.com###cmePermissionQuestion
 cmjornal.pt,jornaldenegocios.pt###termos
 cmmonitor.com#@#.adsbygoogle
-cmoto.ru###oct-policy
+cmoto.ru,kolibry-rotang.com###oct-policy
 cmp-loader.choice.faktor.io
 cmp.$domain=nouvelobs.com|huffingtonpost.fr|telerama.fr|courrierinternational.com|vodkaster.com|netzwelt.de|tek.no|finn.no
 cmp.cdntrf.com
@@ -31979,6 +31987,7 @@ jupako.uk###over-small
 jurnalul.ro###gdpr
 jus.com.br##.gdpr
 jusan.it###privacy-popup
+just-eat.ie##.c-megaModal
 just-for-fun.ru##body > div[class*="-container"][class*="-hide"]
 just-machinery.com
 justanswer.com##.Banner__container
@@ -32202,6 +32211,7 @@ kleiderkreisel.de,mamikreisel.de##.js-notification
 kleientertainment.com###gpdr, #GPDR, #gdpr, #GDPR
 klimaanlage.at##.notificationArea
 klimaanlage.at##.privacyControlBadge
+klingspor.net.vn###vinegar-bottle
 kliniken-koeln.de##.cookies
 klix.ba##.consent_wrapper
 klockolandia.pl##body > div:not([id]):not([class])
@@ -33384,6 +33394,7 @@ massivum.de##.cn_box
 masvision.es###lycok
 masymasbarato.com###galetes
 matchbook.com##div[class^="Cookies__cookies"]
+matchpint.com.au##.top-0.fixed
 mate-tee.de##.cc-container
 material.io##mio-cookie-notice
 math-prosto.ru###requestShutOfBlocker
@@ -35696,6 +35707,7 @@ privacy-mgmt.com$domain=~standard.co.uk|~bild.de|~computerbild.de|~bold.dk|~welt
 privacy-policy.u-lab.nl
 privacy.claytonhomes.com
 privacy.net##.di-cookie-consent-pop
+privacy.org.nz###trackingmessage
 privacysavvy.com##.fixed
 private.com###cookies
 privatesportshop.es##body > div:not([id]):not([class])
@@ -39639,7 +39651,7 @@ wp.pl#$#hide-if-matches-xpath './/img[@class][string-length(@src) >115]/followin
 wp.pl#$#hide-if-matches-xpath '//a[@class][string-length(@href) >2200]/div[@class]/div/ancestor::div[@class="rail"]'
 wp.pl,pudelek.pl#$#abort-on-property-read wpjscb
 wpbakery.com###vcv-top-banner
-wpengine.com##.opt-in-modal
+wpengine.com,wpengine.com.au##.opt-in-modal
 wpjslib-chunk-consent-form.js^
 wpjslib-chunk-notification.js^
 wpmienphi.com###d7b2
@@ -39950,6 +39962,7 @@ xlpe.husky.sogou.com
 xm.co.uk###cookies-block
 xm.gzwxdq.cn
 xm.lyszsz.cn
+xmarkets.db.com##.disclaimer_web
 xmlgold.eu##.cookie-window
 xn--30-wka.de###privacy-bar
 xn--3bs795g.chat

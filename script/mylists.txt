@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 12 Hours
 ! Description: 自用合并規則AdRules (For AdBlock)+AdRules (For AdGuard)
-! Version: 2022-02-22 08:10:08
-! Total count: 63790
+! Version: 2022-02-22 16:10:59
+! Total count: 63899
 
 
 ###ACCsmallCookieLayer
@@ -1414,6 +1414,7 @@
 ###block-asn-privacy-cookie-privacy
 ###block-bean-cookie-popup
 ###block-btm_blocks-cookie_notice
+###block-ccpa
 ###block-cookie-agreement
 ###block-cookie-compliance-cookie-compliance
 ###block-cookie-disclaimer-cookie-disclaimer-block
@@ -19305,6 +19306,7 @@
 ##cookiless-div
 ##cru-cookie-policy
 ##devsite-snackbar[type*="cookie-notification"]
+##dile-cookies-consent
 ##div > #cnsh[style="display: block;"]
 ##div>span>[href='###']
 ##div>span>[href='###']->m:0
@@ -24637,7 +24639,7 @@ $removeparam=yclid
 @@||scsb.com.tw^$important,document
 @@||scv.band.us/jackpotlog/*/logs$domain=m.cafe.naver.com
 @@||sdk.privacy-center.org/sdk.$script,domain=filmweb.pl
-@@||sdk.privacy-center.org^$script,domain=allocine.fr|bonduelle.it|cnews.fr|corrieredellosport.it|dumpert.nl|dziennikwschodni.pl|dziennikzachodni.pl|filmweb.pl|fip.fr|franceculture.fr|franceinter.fr|francetvinfo.fr|funradio.fr|gamepro.de|gamestar.de|gloswielkopolski.pl|gofeminin.de|ivoox.com|jeuxvideo.com|jofogas.hu|lavanguardia.com|lequipe.fr|marianne.net|melty.fr|metronieuws.nl|mundodeportivo.com|naszemiasto.pl|okdiario.com|onmeda.de|podcasts.leparisien.fr|rtl.be|rtl.fr|seguro.elespanol.com|standaard.be|telegraaf.nl|tuttosport.com|vecernji.hr
+@@||sdk.privacy-center.org^$script,domain=allocine.fr|bfmtv.com|bonduelle.it|cnews.fr|corrieredellosport.it|dumpert.nl|dziennikwschodni.pl|dziennikzachodni.pl|filmweb.pl|fip.fr|franceculture.fr|franceinter.fr|francetvinfo.fr|funradio.fr|gamepro.de|gamestar.de|gloswielkopolski.pl|gofeminin.de|ivoox.com|jeuxvideo.com|jofogas.hu|lavanguardia.com|lequipe.fr|marianne.net|melty.fr|metronieuws.nl|mundodeportivo.com|naszemiasto.pl|okdiario.com|onmeda.de|podcasts.leparisien.fr|rtl.be|rtl.fr|seguro.elespanol.com|standaard.be|telegraaf.nl|tuttosport.com|vecernji.hr
 @@||sdk.privacy-center.org^*/loader.js$domain=filmweb.pl
 @@||se.com/myschneider/assets/onetrust.$~third-party
 @@||se.monetate.net/js/*/custom.js$domain=debenhams.com
@@ -25061,6 +25063,7 @@ $removeparam=yclid
 @@||waterbitco.in/show_ads.js$script
 @@||wbshop.com/fcgi-bin/iipsrv.fcgi?
 @@||wcpstatic.microsoft.com/mscc/lib/v2/wcp-consent.js$~third-party,domain=~halowaypoint.com
+@@||wcs.naver.net/wcslog.js$domain=ciokorea.com|adpiamall.com|live.joins.com|naver.com|jbe.go.kr|privatenote.co.kr
 @@||web.facebook.com^$generichide
 @@||webcenter.tiscali.it/distribuzione/_script/audience_science.js$domain=mail.tiscali.it
 @@||webnews.bg/assets/js/ads.js$script,domain=topsport.bg|news.bg
@@ -26750,6 +26753,7 @@ billhop.com##.ant-notification
 billigflieger.de###Notifications
 bim.com.tr##.cookie-window-select
 bim.yaskawa.com##.pop
+bimbim.com##.notifier-message
 bimedis.com##.b-cookie-text
 bimibimi.cc##[src^='https://dd-static.jd.com']
 binary.com###dialog_notification
@@ -27577,8 +27581,6 @@ cinquantamila.corriere.it,cinquantamila.it###privacy_advisor
 cinquantamila.it###privacy_advisor
 cio-online.com###dialog.bulle_bas
 cio.com.tw##div[class^="dialog-widget"]
-ciokorea.com,adpiamall.com,live.joins.com,naver.com,jbe.go.kr#%#//scriptlet('set-constant', 'window.wcs_add', 'noopFunc')
-ciokorea.com,adpiamall.com,live.joins.com,naver.com,jbe.go.kr#%#//scriptlet('set-constant', 'window.wcs_do', 'noopFunc')
 cioreview.com###footerr
 cippy.it###toast-container
 cipriani-phe.com###myAlert
@@ -29767,6 +29769,7 @@ fireandflower.com###main > footer ~ div
 firebit.info###adv-300 + div[class][align="center"][style^="background-color"]
 firefoxosdevices.org###storage-notice
 fireteam.net##.cc-container
+firstbanknigeria.com##.elementor-location-popup
 firstdraftnews.com##.welcome-message
 firstdraftnews.org##.welcome-message
 firstrowas.co###ad_overlabut
@@ -36565,7 +36568,7 @@ salesmate.io##.footer-popup
 salesviewer.com###klaro
 salidzini.lv###consent-box
 sallyx.org##.topInfo
-salmonsoftware.ie##.cli-modal-backdrop
+salmonsoftware.ie,wemabank.com##.cli-modal-backdrop
 salon404.pl###jqmAlert
 salonocasion.com###fb-cd
 salonroman.pl##body > div:not([id]):not([class])
@@ -41706,6 +41709,20 @@ zzpzero.com
 ||action.logixfiber.com^
 ||action.metaffiliation.com/trk.php
 ||actionallocator.com^$third-party
+||activate.academy.com^
+||activate.delmartimes.net^
+||activate.lajollalight.com^
+||activate.lanebryant.com^
+||activate.latimes.com^
+||activate.loft.com^
+||activate.maurices.com^
+||activate.pacificsandiego.com^
+||activate.platform.californiatimes.com^
+||activate.sandiegouniontribune.com^
+||activate.suncorp.com.au^
+||activate.tacdn.com^
+||activate.united.com^
+||activate1.fidelity.com^
 ||active-r-is-1-2.net.daraz.com^
 ||active-tracking.de^$third-party
 ||active-trk7.com^$third-party
@@ -42206,6 +42223,9 @@ zzpzero.com
 ||agentinteractive.com^$third-party
 ||aghtag.tech^$third-party
 ||agicssecurity.com/Header/ajax/cookie.php
+||agility.cnn.com^
+||agility.nba.com^
+||agility.tbs.com^
 ||agillic.eu^$third-party
 ||agilone.com^$third-party
 ||agkn.com^
@@ -42559,6 +42579,7 @@ zzpzero.com
 ||analytics.adultswim.co.uk^
 ||analytics.ae.com^
 ||analytics.americanfunds.com^
+||analytics.amica.com^
 ||analytics.anvato.net^$third-party
 ||analytics.any.do^
 ||analytics.appsbnet.com.br^
@@ -42584,6 +42605,8 @@ zzpzero.com
 ||analytics.canaltnt.es^
 ||analytics.capitalgroup.com^
 ||analytics.carambo.la^
+||analytics.carecredit.com^
+||analytics.carecreditprovidercenter.com^
 ||analytics.cartoonito.it^
 ||analytics.cartoonnetwork.co.uk^
 ||analytics.cartoonnetwork.com.au^
@@ -42607,6 +42630,8 @@ zzpzero.com
 ||analytics.cloud.unity3d.com^
 ||analytics.cn.ru^
 ||analytics.cnnchile.com^
+||analytics.coach.com^
+||analytics.coachoutlet.com^
 ||analytics.codeforscience.org^
 ||analytics.codeskulptor.org^
 ||analytics.codigo.se^
@@ -42623,6 +42648,7 @@ zzpzero.com
 ||analytics.dogecoin.gg^
 ||analytics.dpd.com^
 ||analytics.dugun.com^
+||analytics.duluthtrading.com^
 ||analytics.ecosia.org^
 ||analytics.edgekey.net^$third-party
 ||analytics.edgesuite.net^
@@ -42669,6 +42695,7 @@ zzpzero.com
 ||analytics.jodelapis.com^
 ||analytics.joincambridge.com^
 ||analytics.jst.ai^$third-party
+||analytics.katespade.com^
 ||analytics.kidoz.net^
 ||analytics.kkb.com.tr^$third-party
 ||analytics.lekumo.jp^
@@ -42676,6 +42703,7 @@ zzpzero.com
 ||analytics.liftoff.io^
 ||analytics.liveact-vault.com^
 ||analytics.livestream.com^
+||analytics.llflooring.com^
 ||analytics.localytics.com^
 ||analytics.logsss.com^$third-party
 ||analytics.lunge.de^
@@ -42695,6 +42723,7 @@ zzpzero.com
 ||analytics.metro.pk^
 ||analytics.metro.ua^
 ||analytics.mhpod.gov.au^
+||analytics.michiganlottery.com^
 ||analytics.mindjolt.com^
 ||analytics.mlstatic.com^$third-party
 ||analytics.mobile.walmart.com^
@@ -42708,6 +42737,7 @@ zzpzero.com
 ||analytics.myapstore.com^
 ||analytics.mycater.fr^
 ||analytics.myhermes.de^
+||analytics.mysynchrony.com^
 ||analytics.nascar.com^
 ||analytics.naturequant.com^
 ||analytics.navyfederal.org^
@@ -42723,6 +42753,7 @@ zzpzero.com
 ||analytics.omgpop.com/log
 ||analytics.omniscientai.com^$third-party
 ||analytics.ooyala.com^
+||analytics.ovative.com^
 ||analytics.ovh.com^
 ||analytics.pgatour.com^
 ||analytics.pgncs.notion.so^
@@ -42789,11 +42820,15 @@ zzpzero.com
 ||analytics.sprint.com^
 ||analytics.ss88.us^
 ||analytics.ssl.net.zooplus.fr^
+||analytics.stuartweitzman.com^
 ||analytics.studiodesignapp.com^
 ||analytics.styria.hr^
 ||analytics.supplyframe.com/trackingservlet/
 ||analytics.surfline.com^
 ||analytics.sweep.net^
+||analytics.syf.com^
+||analytics.synchrony.com^
+||analytics.synchronybank.com^
 ||analytics.tabichan.jp^
 ||analytics.tbs.com^
 ||analytics.tcm.com^
@@ -43497,6 +43532,13 @@ zzpzero.com
 ||assets.ubembed.com/universal$script
 ||assets.vidora.com/*/validate?api_key=
 ||assets.webmanufaktur.ch^
+||assets1.aainsurance.co.nz^
+||assets1.aami.com.au^
+||assets1.bingle.com.au^
+||assets1.gio.com.au^
+||assets1.shannons.com.au^
+||assets1.suncorp.com.au^
+||assets1.vero.co.nz^
 ||assetsdockerapi.net.zooplus.de^
 ||assetssitory-legacy.net.zooplus.com^
 ||assetssupport.api.net.zooplus.de^
@@ -43563,6 +43605,7 @@ zzpzero.com
 ||attracta.com^$third-party
 ||attractiveafternoon.com^$third-party
 ||attractivecap.com^$third-party
+||attribution.theworks.co.uk^
 ||atxqb.psychologies.com^
 ||au.promo.skf.com^
 ||audience.standardchartered.com.tw^
@@ -45887,6 +45930,14 @@ zzpzero.com
 ||cookies.grenke.de^
 ||cookies.innershed.co.uk^
 ||cookies.jeugdjournaal.nl^
+||cookies.jll-mena.com^
+||cookies.jll.cl^
+||cookies.jll.co.in^
+||cookies.jll.com.au^
+||cookies.jll.com.ph^
+||cookies.jll.es^
+||cookies.jll.pl^
+||cookies.jll.ru^
 ||cookies.leadplace.fr^
 ||cookies.lmt.lv^
 ||cookies.nos.nl^
@@ -45898,6 +45949,7 @@ zzpzero.com
 ||cookies.ster.nl^
 ||cookies.teraz.sk^
 ||cookies.unidadeditorial.es^
+||cookies.us.jll.com^
 ||cookiescript.info^$third-party
 ||cookietagmanager.net^$third-party
 ||cookiethough.dev^$third-party
@@ -46501,6 +46553,8 @@ zzpzero.com
 ||data.email-tsb.cjm.adobe.com^
 ||data.email.gamma.be^
 ||data.engelhorn.de^
+||data.experian.co.uk^
+||data.experianidentityservice.co.uk^
 ||data.fans.williamsf1.com^
 ||data.goertz.de^
 ||data.gov.in/ogdp-stats-
@@ -46519,6 +46573,7 @@ zzpzero.com
 ||data.mob.com^$redirect=nooptext
 ||data.ouigo.com^
 ||data.permittingnorthlandseamen.info^
+||data.privacy.ensighten.com^
 ||data.reactandshare.com/track.gif
 ||data.sec.miui.com^
 ||data.shopgate.com/tracking/shopgate-analytics-sdk.production.min.js
@@ -46576,6 +46631,7 @@ zzpzero.com
 ||dc.audi.com^
 ||dc.banggood.com^
 ||dc.cuberoot.co^$third-party
+||dc.directv.com^
 ||dc.plussizetech.com^
 ||dc.services.visualstudio.com/*/track
 ||dc.services.visualstudio.com/v2/track
@@ -46599,6 +46655,8 @@ zzpzero.com
 ||dcclaa.elle.de^
 ||dcdn.cdn.nicovideo.jp/shared_httpd/log.gif
 ||dcf.espn.com/privacy/
+||dcf.espn.com^
+||dcfdata.espn.com^
 ||dcmn.com^$third-party
 ||dcpub.cuberoot.co^$third-party
 ||dcs.audi.com^
@@ -46624,6 +46682,7 @@ zzpzero.com
 ||dcs.reiseversicherung.de^
 ||dct.mango-office.ru^$third-party
 ||dd6zx4ibq538k.cloudfront.net^
+||ddc.statefarm.com^
 ||ddguhg.wickes.co.uk^
 ||de.bca-news.com^
 ||de.inform.janssenpro.eu^
@@ -47302,6 +47361,7 @@ zzpzero.com
 ||eb.bewithyou.jp^
 ||eb.endeavorb2b.com^
 ||eb.informabi.com^
+||eb.trbas.com^
 ||eba-amadeus.netdna-ssl.com^$third-party
 ||ebay.*/beacon/
 ||ebay.com/op/t.do?event
@@ -47632,6 +47692,7 @@ zzpzero.com
 ||emediatrack.com^$third-party
 ||emerse.com/consent.js
 ||emetrics.bose.com^
+||emetrics.eastwestbank.com^
 ||emetriq.de^$third-party
 ||emjcd.com^$third-party
 ||emltrk.com^$third-party
@@ -47776,6 +47837,18 @@ zzpzero.com
 ||enhance.com^$third-party
 ||enhencer.com^$third-party
 ||enquisite.com^$third-party
+||ens.luzernerzeitung.ch^
+||ens.nzz.ch^
+||ens.tagblatt.ch^
+||ens.themarket.ch^
+||ensighten.bhphoto.com^
+||ensighten.davidyurman.com^
+||ensighten.huntingtonbank.com^
+||ensighten.lightstream.com^
+||ensighten.norton.com^
+||ensighten.postoffice.co.uk^
+||ensighten.safeauto.com^
+||ensightenone.danskespil.dk^
 ||enterprise2.secureforms.mcafee.com^
 ||enterpriseenrollment.net.zooplus.de^
 ||enterpriseregistrationns.machinevision.net.zooplus.it^
@@ -48217,7 +48290,10 @@ zzpzero.com
 ||fclog.baidu.com^
 ||fcmatch.google.com/pixel
 ||fcmatch.youtube.com/pixel
+||fcone.fidelitycharitable.org^
 ||fcs.ovh^$third-party
+||fctms.fidelity.com^
+||fctms.fidelitycharitable.org^
 ||fdbs.actonservice.com^
 ||fdplttrk.com^
 ||fearfowl.com^$third-party
@@ -48265,6 +48341,7 @@ zzpzero.com
 ||fhits.xyz^$third-party
 ||fi.on-channel.com^
 ||fiawmk.empik.com^
+||fidelity.activate.ensighten.com^
 ||fiduciaryfirst.actonservice.com^
 ||figma.com/api/web_logger/
 ||fiksu.com^$third-party
@@ -49219,6 +49296,8 @@ zzpzero.com
 ||gsspat.jp^
 ||gsspat.jp^$third-party
 ||gssprt.jp^$third-party
+||gst.pulse.buyatoyota.com^
+||gst.pulse.toyota.com^
 ||gstat.orange.fr^
 ||gstatic.com/gen_204?
 ||gstats.cn^$third-party
@@ -52006,6 +52085,7 @@ zzpzero.com
 ||me-gay.com/analytics.js
 ||me-gay.com/stats.gif^
 ||meapk.com^
+||measure.ensighten.com^
 ||measure.ic.tver.jp^
 ||measure.jstor.org^
 ||measure.ly^$third-party
@@ -52656,6 +52736,7 @@ zzpzero.com
 ||metrics.morningadvertiser.co.uk^
 ||metrics.motortrend.com^
 ||metrics.myprime.com^
+||metrics.mysynchrony.com^
 ||metrics.mytributes.com.au^
 ||metrics.myturnstone.com^
 ||metrics.myvi.in^
@@ -52763,6 +52844,7 @@ zzpzero.com
 ||metrics.starwoodhotels.com^
 ||metrics.steelcase.com^
 ||metrics.suunto.com^
+||metrics.syf.com^
 ||metrics.tamiflu.com^
 ||metrics.taste.com.au^
 ||metrics.tbliab.net^
@@ -53429,6 +53511,8 @@ zzpzero.com
 ||nextclick.pl^$third-party
 ||nextinpact.com/assets/images/autopromo-adblock-1280.jpg
 ||nextstat.com^$third-party
+||nexus.toyota.com^
+||nexus.virginholidays.co.uk^
 ||nf1nknlw.mateforevents.com^
 ||nfl.hb-api.omtrdc.net^
 ||nfl.hb.omtrdc.net^
@@ -54056,6 +54140,7 @@ zzpzero.com
 ||p.neil.gg^
 ||p.nqueue.io^
 ||p.pmu.fr^
+||p.pulse.toyota.com^
 ||p.raasnet.com^$third-party
 ||p.rst.im/q/www.googletagmanager.com/gtag/js?id=
 ||p.ryanhalliday.com^
@@ -54304,6 +54389,7 @@ zzpzero.com
 ||peyqvn.falke.com^
 ||pf.intuit.com^
 ||pf.newegg.com^
+||pfa.levexis.com^
 ||pfx.sma-clsystem.info^$third-party
 ||pfxlive.com^$third-party
 ||pg3b233p99sa.www.marketdata.app^
@@ -54781,6 +54867,7 @@ zzpzero.com
 ||privacy.clion.agency^$third-party
 ||privacy.clym.io/js/clym-widget.js$script
 ||privacy.digimedia.com/check_cookie_country_code.js$script
+||privacy.heishop.mx^
 ||privacy.schibsted.com^
 ||privacy.vtwonen.nl/script/consent.js$script
 ||privacy.www.nu.nl/pixel^
@@ -54905,6 +54992,8 @@ zzpzero.com
 ||pulleymarketing.com^$third-party
 ||puls.lv^$third-party
 ||pulsar.xlisting.jp^$third-party
+||pulse.delta.com^
+||pulse.sleepnumber.com^
 ||pulselog.com^$third-party
 ||pulsemaps.com^$third-party
 ||purchasesuggestion.com^$third-party
@@ -56243,6 +56332,9 @@ zzpzero.com
 ||securemetrics.gap.eu^
 ||securemetrics.gapcanada.ca^
 ||securemetrics.gapfactory.com^
+||securemetrics.mysynchrony.com^
+||securemetrics.syf.com^
+||securemetrics.synchronybusiness.com^
 ||secureod.odfl.com^
 ||securepaths.com^$third-party
 ||secureprivacy.ai/secureprivacy-plugin/$script
@@ -58588,6 +58680,7 @@ zzpzero.com
 ||ssmr2.so-net.ne.jp^
 ||ssp*.rtb.beeline.ru^$third-party
 ||ssrlot.lotoquebec.com^
+||sst.dell.com^
 ||sstat.jetsetter.com^
 ||sstat.spreadex.com^
 ||sstatistikk.telenor.no^
@@ -59882,6 +59975,7 @@ zzpzero.com
 ||t.insigit.com/assets/dct.js
 ||t.irtyc.com^
 ||t.itsehoitoapteekki.fi^
+||t.janieandjack.com^
 ||t.jmusports.com^
 ||t.karte.io^
 ||t.kck.st^
@@ -59984,8 +60078,12 @@ zzpzero.com
 ||tagman.britishairways.com^
 ||tagmanager.alright.network^$third-party
 ||tagmanager.toast.com^$third-party
+||tags.aljazeera.com^
+||tags.aljazeera.net^
 ||tags.bluekai.com^
+||tags.experian.co.uk^
 ||tags.globo.com/utag/globo/*/prod/utag.js
+||tags.hickies.com^
 ||tags.news.com.au^$~script
 ||tags.newscgp.com^
 ||tags.soloway.ru^$third-party
@@ -60008,6 +60106,7 @@ zzpzero.com
 ||talenteq.intuit.com^
 ||talpaholdingnv.hb.omtrdc.net^
 ||talyst.actonservice.com^
+||tam.volkswagen.com^
 ||tamgrt.com^$third-party
 ||tamgrt.com^*&pixel_version=
 ||tamindir.com/cdn-cgi/pe/bag2?r[]=
@@ -60080,6 +60179,7 @@ zzpzero.com
 ||tdf1.easyvoyage.de^
 ||tdf1.laredoute.fr^
 ||tdf1.vente-unique.pt^
+||tdi.cartoonnetwork.com^
 ||tdk.petsplace.nl^
 ||tdn.r42tag.com/lib/ut$script
 ||tdstats.com^$third-party
@@ -60349,6 +60449,7 @@ zzpzero.com
 ||tlctv.com.tr/assets/default/images/pixel.gif
 ||tlzqmv.outl1.se^
 ||tm-awx.com/pageview
+||tm.hdmtools.com^
 ||tm.jsuol.com.br^$third-party
 ||tm.msgs.jp^$third-party
 ||tm.tradetracker.net^
@@ -60363,10 +60464,18 @@ zzpzero.com
 ||tmhgma.juwelo.de^
 ||tmobi.tcdn.nl/*/beacon?
 ||tms-st.cdn.ngenix.net$third-party
+||tms.americanexpress.com^
+||tms.capitalone.com^
+||tms.delta.com^
 ||tms.dmp.wi-fi.ru^
+||tms.kone.com^
 ||tms.marriott.com/error/e.gif
+||tms.marriott.com^
+||tms.nab.com.au^
 ||tms.oracle.com^
+||tms.virginatlantic.com^
 ||tmserver-1.com^$domain=pronpic.org
+||tmsgi.lv.com^
 ||tmvtp.com^$third-party
 ||tmy8.madeindesign.ch^
 ||tnabucks.com/Webservices/jsParseLinks.aspx$script,third-party

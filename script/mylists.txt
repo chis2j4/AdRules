@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 12 Hours
 ! Description: 自用合并規則AdRules (For AdBlock)+AdRules (For AdGuard)
-! Version: 2022-02-22 16:10:59
-! Total count: 63899
+! Version: 2022-02-23 00:35:26
+! Total count: 63914
 
 
 ###ACCsmallCookieLayer
@@ -17702,6 +17702,7 @@
 ##.sg-cw-cookie
 ##.sg-cw-cookie:not(body):not(html)
 ##.sg_cookieaccept
+##.sgdpr-box
 ##.sgs-cookies-consent
 ##.sgs-cookies-consent:not(body):not(html)
 ##.sgsCookies
@@ -27291,6 +27292,7 @@ capri-lublin.pl###mod98
 capstan.fr#@#.js-cookie-container
 capterra.com##.welcome-banner
 captrader.com##.informationContainer
+capture.dropbox.com##.dig-Snackbar
 carbonite.com###notice
 carbonite.com,housemethod.com,theverge.com###notice
 cardsmobile.ru##.cm-m_c-w
@@ -29707,8 +29709,9 @@ filmesonlinegratis.com#$#abort-on-property-read atob
 filmfront.no##.pvern
 filminstitutet.se##.info-banner
 filminstitutet.se##.js-info-banner
-filmix.ac,filmix.beer,filmix.biz,filmix.buzz,filmix.cc,filmix.click,filmix.co,filmix.email,filmix.gay,filmix.ink,filmix.ltd,filmix.online,filmix.site,filmix.today,filmix.wiki,filmix.zone###oframeplayer > pjsdiv[style^="position: absolute; left:"][style*="display: block; visibility: visible;"] ~ pjsdiv[style^="position: absolute; left:"][style*="pointer-events: none; display: block; visibility:"]
-filmix.ac,filmix.beer,filmix.biz,filmix.buzz,filmix.cc,filmix.click,filmix.co,filmix.email,filmix.gay,filmix.ink,filmix.ltd,filmix.online,filmix.site,filmix.today,filmix.wiki,filmix.zone#?##oframeplayer > pjsdiv[style^="position: absolute; left:"][style*="display: block; visibility: visible;"]:-abp-contains(/adblock/i)
+filmix.ac,filmix.beer,filmix.biz,filmix.buzz,filmix.cc,filmix.click,filmix.co,filmix.email,filmix.gay,filmix.ink,filmix.love,filmix.ltd,filmix.online,filmix.site,filmix.today,filmix.wiki,filmix.zone###oframeplayer > pjsdiv[style^="position: absolute; left:"][style*="display: block; visibility: visible;"] ~ pjsdiv[style^="position: absolute; left:"][style*="pointer-events: none; display: block; visibility:"]
+filmix.ac,filmix.beer,filmix.biz,filmix.buzz,filmix.cc,filmix.click,filmix.co,filmix.email,filmix.gay,filmix.ink,filmix.love,filmix.ltd,filmix.online,filmix.site,filmix.today,filmix.wiki,filmix.zone#?##oframeplayer > pjsdiv[style^="position: absolute; left:"][style*="display: block; visibility: visible;"]:-abp-contains(/adblock/i)
+filmix.love,filmix.ac,filmix.beer,filmix.biz,filmix.buzz,filmix.cc,filmix.click,filmix.co,filmix.email,filmix.gay,filmix.ink,filmix.ltd,filmix.online,filmix.site,filmix.today,filmix.wiki,filmix.zone##.remove-sda-wrap
 filmladder.nl,freemeteo.nl,keesvanderspek.nl,mariniersmuseum.nl,nmm.nl,werkenbijumcutrecht.nl###cookies
 filmmakers.de##.Aligner
 filmnow.ro###gpdr, #GPDR, #gdpr, #GDPR
@@ -30820,7 +30823,7 @@ hbv.tobeacon.cn
 hby.ppedp.cn
 hclips.com#$#abort-on-property-read adver
 hclips.com#$#abort-on-property-read btoa
-hclips.com,hdzog.com,hotmovs.com,porntop.com,thegay.com,thegay.tube,txxx.com,upornia.com,vjav.com,voyeurhit.com#$#abort-current-inline-script mz
+hclips.com,hdzog.com,hotmovs.com,pornhits.com,porntop.com,thegay.com,thegay.tube,txxx.com,upornia.com,vjav.com,voyeurhit.com#$#abort-current-inline-script mz
 hcll20.oxjaus.com
 hd.se##.gdpr
 hdcast.org##[id^="html"]
@@ -30901,6 +30904,7 @@ henryschein.at##.hs-block-ui
 henryschein.at##.hs-block-ui, .hs-dialog
 hentai-flix.net###wppa-overlay-bg
 hentai-flix.net##.trs_sticky_notice_text_box
+hentai-sharing.net,news.webike.net###custom_html-3
 hentaiz.org##.adblocker
 hentaiz.org##img[width="31"][height="31"]
 hentenaar.com#@#.adsbygoogle
@@ -32212,7 +32216,7 @@ kingston.com###policy_message
 kinoafisha.ua##.privacy-modal
 kinoafisha.ua##.turn-off-add-block-text
 kinobox.cz##.box.banner_300, #b300_fixbox
-kinobox.cz,novinky.cz,expres.cz,fights.cz,tiscali.cz,hudebniskupiny.cz,osobnosti.cz,ahaonline.cz#$#prevent-listener beforeunload (); cookie-remover /adb/
+kinobox.cz,novinky.cz,expres.cz,fights.cz,tiscali.cz,hudebniskupiny.cz,osobnosti.cz,ahaonline.cz,super.cz#$#prevent-listener beforeunload (); cookie-remover /^_?adb/;
 kinogo.eu,gidonline.eu#$#abort-on-property-read target_script
 kinohome.net##a[data-i]
 kinoman.me#?##extra_block > div.extra_mod > div.extra_mod:has(> div.extra_mod_title:contains(Счетчики))
@@ -34406,7 +34410,6 @@ news.ssp.qq.com/app
 news.tvbs.com.tw##[class="advertising_lightbox"]
 news.tvbs.com.tw##[class="idle_lightbox2"]
 news.tvbs.com.tw#%#//scriptlet('set-cookie-reload', 'no_web_push', 'true')
-news.webike.net###custom_html-3
 news.webike.net###custom_html-5
 news247.gr##.cookie
 news24today.info,vnn24.ru,1news.com.ua,365news.biz,4mama.ua,4studio.com.ua,7days-ua.com,apnews.com.ua,argumentiru.com,asiaplustj.info,autotheme.info,beauty.ua,begemot-media.com,begemot.media,chas.cv.ua,cheline.com.ua,cikavosti.com,cn.ua,comments.ua,day.kyiv.ua,depo.ua,dnews.dn.ua,dv-gazeta.info,dyvys.info,economistua.com,edinstvennaya.ua,ekovolga.com,expert.in.ua,fedpress.ru,forpost.media,fraza.com,glavnoe.ua,glavnoe24.ru,glavpost.ua,golosinfo.com.ua,gorodkiev.com.ua,gov.ua,grad.ua,greenpost.ua,inforpost.com,itechua.com,iz.com.ua,khersonline.net,kolizhanka.com.ua,krymr.com,kurskcity.ru,liga.net,mi100.info,mind.ua,moirebenok.ua,mycompplus.ru,nakanune.ru,narodna-pravda.ua,nashbryansk.ru,newsoneua.tv,ngp-ua.info,novavlada.info,novynarnia.com,odessa-life.od.ua,pg11.ru,pingvin.pro,pl.com.ua,podpricelom.com.ua,politnavigator.net,poltava365.com,portal.lviv.ua,praktika-vlasti.com.ua,prm.ua,procherk.info,profootball.ua,radiosvoboda.org,ratel.kz,real-vin.com,risu.ua,rivnenews.com.ua,rusjev.net,russianshowbiz.info,semobile.com.ua,sport-kr.com.ua,sud.ua,superdom.ua,te.ua,telekritika.ua,ternopillive.com.ua,treebuna.info,tverigrad.ru,tverisport.ru,tvoymalysh.com.ua,uainfo.org,uanews.org.ua,uatv.ua,unn.com.ua,vchaspik.ua,versii.if.ua,vgolos.com.ua,viva.ua,volnorez.com.ua,volyninfo.com,volynpost.com,volynua.com,vsviti.com.ua,westnews.info,womo.ua,wpristav.ru,wworld.com.ua,mignews.com.ua,zbirna.com,panoptikon.org,inkorr.com,kr.ua,rv.ua,oukr.info,zp.ua,np.pl.ua,ukrrain.com,reporter.ua,cvnews.cv.ua,ifnews.org.ua,lvnews.org.ua,rvnews.rv.ua,tenews.org.ua,ck.ua,volyninfa.com.ua,vlast.kz#$#abort-current-inline-script document.createElement /ru-n4p|ua-n4p|загрузка.../
@@ -35546,6 +35549,9 @@ po-sloveniji.com###cookN
 poasotha.com
 poba.hr###meerkat-wrap
 pobieralnia.org###close
+pobre.tv##.inner
+pobre.tv##.max
+pobre.tv##div[class="actualItem"] > span[class="type"]
 pocketracy.com##.dsclmr
 podatnik.info##.p14-footer > div:not([class])
 podbean.com##body > div:not([id]):not([class])
@@ -35624,6 +35630,7 @@ popuz.com###privacyPolicy
 porezna-uprava.hr###cookie, .modal-cookie
 poringapic.com##IMG[src^="http://poringapic.com/image.php?"]
 porn-blog.me###dbx_light
+porn00.org#$#abort-current-inline-script popup_url
 pornhub.com##DIV.adContainer
 pornhub.com##DIV.topAdContainter
 pornhub.com#$#abort-on-property-read HTMLElement.prototype.attachShadow
@@ -43161,6 +43168,7 @@ zzpzero.com
 ||api.paymentrepo.net.zooplus.de^
 ||api.payments.net.zooplus.de^
 ||api.permutive.com/*/events^
+||api.phnx.click/js/article-stat-
 ||api.phoenix-widget.com/c?wid=
 ||api.pico.tools/metrics/
 ||api.priv.europewest.net.zooplus.de^
@@ -45597,6 +45605,7 @@ zzpzero.com
 ||collections.mp.microsoft.com/*/collections/query
 ||collector-*.perimeterx.net^$third-party
 ||collector-*.px-cdn.net^$third-party
+||collector-*.px-cloud.net^
 ||collector-*.pxchk.net^$third-party
 ||collector-*.tvsquared.com^
 ||collector-analytics.efigence.com^
@@ -46185,6 +46194,7 @@ zzpzero.com
 ||crsspxl.com^$third-party
 ||crta.dailymail.co.uk^
 ||crta.metro.co.uk^
+||crunchbase.com/*/collector|
 ||crunchyroll.com/tracker
 ||crunchyroll.com/versioned_assets/js/tracking^
 ||crwdcntrl.net^
@@ -50694,6 +50704,7 @@ zzpzero.com
 ||kavijaseuranta.fi^$third-party
 ||kaxlfq.testingwithtestcafe.com^
 ||kayak.*/privacy/
+||kazi.co.jp/js/analytics.js
 ||kazus.ru/js/*/log_trackjs.htm
 ||kbb.com/pixall/
 ||kbs-services.actonservice.com^
@@ -54736,6 +54747,7 @@ zzpzero.com
 ||pnvnpy.scullyandscully.com^
 ||pny.net.penny.de^
 ||po.ponant.com^
+||pobre.tv/images/bettilt-*.png^$domain=pobre.tv
 ||pocitadlo.cz^$third-party
 ||pocitadlo.sk^$third-party
 ||pocketsonic.com^$third-party
@@ -56194,6 +56206,7 @@ zzpzero.com
 ||scrippscontroller.com^$third-party
 ||script-ad.mobadme.jp^
 ||script.ag^$third-party
+||script.anura.io^
 ||script.banstex.com/script/
 ||script.getcomplied.com/scripts/complyWidget/assets/getCompliedListWidget.js$script
 ||script.opentracker.net$third-party
@@ -62658,6 +62671,8 @@ zzpzero.com
 ||womentop.ru/top$third-party
 ||wompanalytics.azurewebsites.net^
 ||wonder-ma.com^$third-party
+||wondershare.cc/js/sensorsdata.min.js
+||wondershare.com/wsid/com/static/utils/track.js
 ||wongnai.com/_api/consents/
 ||woodpecker.eatfresh.tech^
 ||woodpecker.ember.ly^

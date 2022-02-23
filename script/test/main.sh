@@ -11,6 +11,9 @@ curl -o i2.txt https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-ede
 #curl -o i6.txt https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt
 #curl -o i7.txt https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_lite.txt
 #curl -o i9.txt https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt
+curl -o i7.txt https://sub.adtchrome.com/adt-chinalist-easylist.txt
+curl -o i8.txt https://raw.githubusercontent.com/hezhijie0327/AdFilter/main/adfilter_adblock.txt
+curl -o i9.txt https://raw.githubusercontent.com/examplecode/ad-rules-for-xbrowser/master/core-rule-cn.txt
 #curl -o i8.txt https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_privacy.txt
 #curl -o i11.txt https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
 curl -o i11.txt https://bestpika.github.io/abp/cf.txt

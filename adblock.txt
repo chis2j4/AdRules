@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-02-23 13:54:46（北京时间） 
-! Total count: 126977
+! Version: 2022-02-23 16:09:22（北京时间） 
+! Total count: 126988
 -1688-wp-media/ads/
 -988x60.
 -980x60-
@@ -29089,7 +29089,7 @@ $~xmlhttprequest,~media,removeparam=source,denyallow=googlevideo.com,domain=1sol
 /ad-overlay-
 /ad-overlay.
 /ad-page/*$~image
-/ad-plate/*
+/ad-plate/*$~image
 /ad-plugin/*
 /ad-point/*
 /ad-position-
@@ -55739,6 +55739,7 @@ mydrivers.com###a_showhotnews_list_dia
 mydrivers.com###dangbei_down
 mydrivers.com###recommend
 mydrivers.com##.ab
+mydrivers.com##.adds
 mydrivers.com##.baidu_box
 mydrivers.com##.bb
 mydrivers.com##.btnNext + div:last-child
@@ -67839,6 +67840,7 @@ zzpzero.com
 ||ad.clipcentric.com^
 ||ad.daum.net^
 ||ad.directrev.com^$popup
+||ad.doubleclick.net/ddm/clk/$domain=ad.doubleclick.net
 ||ad.edugram.com^
 ||ad.fx168api.com^
 ||ad.gmw.cn^
@@ -80441,8 +80443,10 @@ zzpzero.com
 ||diangezan.me^
 ||dianjinghu.com/static/frontend/images/lol/penpen
 ||dianjoy.com^
-||dianomi.com/*&offer=$popup
-||dianomi.com/*.epl$popup
+||dianomi.com/brochures.epl?
+||dianomi.com/click.epl
+||dianomi.com^$document
+||dianomi.com^$popup
 ||dianomi.com^$third-party
 ||dianomioffers.co.uk^
 ||dianping.com/hippo.gif?
@@ -82307,6 +82311,7 @@ zzpzero.com
 ||ed2k.2x4u.de/mfc/
 ||ed9wkbpy.com^
 ||edajin.com^
+||edajot.cn^
 ||edampeci.com^
 ||edayday.com/img/ad
 ||edchargina.pro^
@@ -99275,6 +99280,7 @@ zzpzero.com
 ||mydrivers.com/images/hongbao
 ||mydrivers.com/images/icon/gg_
 ||mydrivers.com/img/2005/202112011849.png
+||mydrivers.com/img/2005/xrkoray.
 ||mydrivers.com/m/apptuijian.
 ||mydrivers.com/m/images/v1/kkjapp_down.gif
 ||mydrivers.com/news/*843x80.
@@ -102222,6 +102228,8 @@ zzpzero.com
 ||pahtzh.tech^
 ||paibopse.com^$third-party
 ||paid-to-promote.net^$third-party
+||paid.outbrain.com^
+||paid.outbrain.com^$document
 ||paid.outbrain.com^$popup
 ||paidonresults.net^$third-party
 ||paidsearchexperts.com^$third-party
@@ -107521,6 +107529,7 @@ zzpzero.com
 ||rvkcpqz.com^
 ||rvkfiomrjn.com^
 ||rvlmpo.xyz^
+||rvpbdcf.cn^
 ||rvpmqeoawfedmh.xyz^
 ||rvrpushserv.com^
 ||rvrpushserv.com^$popup
@@ -123049,6 +123058,7 @@ zzpzero.com
 ||yandexadexchange.net^
 ||yanend.com^
 ||yangdasen.cn^
+||yanghuaer.mobi^
 ||yanglangkk.cn^
 ||yangniupiju.com^
 ||yangpinwang.com/wp-content/uploads/*E5%B9%BF%E5%91%8A.
@@ -124767,6 +124777,7 @@ zzpzero.com
 ||zlinkv.com^$popup
 ||zllhtz.cn^
 ||zllnb.top^
+||zllxy.love^
 ||zln44.cn^
 ||zlnmzc.top^
 ||zlolhl.3dnews.ru^

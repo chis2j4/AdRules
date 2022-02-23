@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-02-23 16:09:22（北京时间） 
-! Total count: 126988
+! Version: 2022-02-24 00:10:10（北京时间） 
+! Total count: 127005
 -1688-wp-media/ads/
 -988x60.
 -980x60-
@@ -3999,6 +3999,8 @@
 ###advertising_728
 ###advertising_728_under
 ###advertising__banner__content
+###advertising_anglerect
+###advertising_billboard
 ###advertising_btm
 ###advertising_column
 ###advertising_container
@@ -4008,6 +4010,7 @@
 ###advertising_holder
 ###advertising_horiz_cont
 ###advertising_iab
+###advertising_leaderboard
 ###advertising_top_container
 ###advertising_wrapper
 ###advertisment-block-1
@@ -11853,6 +11856,7 @@
 ##.adRegionSelector
 ##.adRemove
 ##.adRenderer
+##.adRendererInfinite
 ##.adReportsLink
 ##.adResponsive
 ##.adResult
@@ -22092,6 +22096,7 @@
 ##.standard-ad
 ##.star-ad
 ##.start__advertising_container
+##.start__advertising_container_banner
 ##.start__newest__big_game_container_body_games_advertising
 ##.start_overview_adv_container
 ##.statTop_adsense
@@ -29090,8 +29095,8 @@ $~xmlhttprequest,~media,removeparam=source,denyallow=googlevideo.com,domain=1sol
 /ad-overlay.
 /ad-page/*$~image
 /ad-plate/*$~image
-/ad-plugin/*
-/ad-point/*
+/ad-plugin/*$~image
+/ad-point/*$~image
 /ad-position-
 /ad-provider.
 /ad-pub.
@@ -29107,12 +29112,12 @@ $~xmlhttprequest,~media,removeparam=source,denyallow=googlevideo.com,domain=1sol
 /ad-seeding.min.js
 /ad-serve?
 /ad-server.$~script
-/ad-server/*
-/ad-side/*
+/ad-server/*$~image
+/ad-side/*$~image
 /ad-sidebar-
 /ad-skin-
 /ad-skyscraper.
-/ad-source/*
+/ad-source/*$~image
 /ad-sovrn.
 /ad-space/*$~image
 /ad-specs.
@@ -53906,6 +53911,7 @@ khaama.com##.ad8
 kickassanime.io##.ka-ax-wrapper
 kickassanime.io##.ka-ax-wrp.mb-3
 kickasstorrents.to##.dssdffds
+kickoff.com#@#.takeover-ad
 kidspot.com.au##.secondary-video
 kijiji.ca##div[class^="adChoices-"]
 kijiji.ca##div[class^="sponsored-"]
@@ -55290,6 +55296,7 @@ meteocentrale.ch###sponsor-info
 metric-conversions.org###bannerSpace
 metservice.com##.Header
 mf.meizu.cn##.guide-suspend.suspend
+mfe.paqpq.com
 mfiles.pl###float_square
 mg.hxhhb120.cn
 mg.k9dzax.cn
@@ -55385,6 +55392,8 @@ mitbbs.ca,mitbbs.com##.index_add
 mitbbs.ca,mitbbs.com##.newskuang2
 mitbbs.ca,mitbbs.com##table[width="336"][height="280"]
 mitbbs.ca,mitbbs.com##table[width="915"] > tbody > tr:first-child > td[width]
+mitom1.tv#$#'abort-on-property-read adsRedirectPopups
+mitom1.tv#$#abort-current-inline-script jQuery overlay
 miui.com###app
 miui.com##.single-poster-out__img
 miv.ububyiw6655.xyz
@@ -56885,6 +56894,7 @@ playerapp1.pw###divPanel
 playerapp1.pw##[id^="total"]
 playerhd1.pw,playerhd2.pw###divPanel
 playerhd1.pw,playerhd2.pw##[id^="total"]
+playmt.fastlycdn.xyz#$#override-property-read adsPlayer undefined;override-property-read adsTvc undefined;override-property-read adsButton undefined
 playno1.com###frame8I822E
 playno1.com###m12
 playno1.com###m2
@@ -58514,7 +58524,7 @@ slantmagazine.com##.gray_bgBottom
 slashdot.org##.deals-wrapper
 sleazyneasy.com##.advertising
 slickdeals.net##.abc
-slickdeals.net##.rightRailBannerWidget
+slickdeals.net##.rightRailBannerSection
 slickdeals.net#@#a[href*="adzerk.net"]
 slide.history.sina.com.cn##iframe[src^="http://d1.sina.com.cn/litong/"]
 slideme.org###block-block-31
@@ -65834,6 +65844,7 @@ zzpzero.com
 ||7hu8e1u001.com^
 ||7ia9h.cn^
 ||7insight.com^
+||7iouh9y.cn^
 ||7j7jv5.cn^
 ||7jiu.com.hk/hotsearch_box.php
 ||7junshi.com/con/ad
@@ -74643,7 +74654,6 @@ zzpzero.com
 ||browserr.top^
 ||browsers.support^
 ||browsiprod.com^
-||browsiprod.com^$third-party
 ||browsobsolete.com^
 ||brqory.notino.sk^
 ||brqvld0p.com^
@@ -88670,6 +88680,7 @@ zzpzero.com
 ||hlgglm.com^
 ||hlhulu.com^
 ||hljhufengling.cn^
+||hljmao.top^
 ||hljyjm.cn^
 ||hlmiq.com^
 ||hlokux.cn^
@@ -92260,6 +92271,7 @@ zzpzero.com
 ||jku62.com/other/gameEntrance
 ||jkxtd77.com^
 ||jkzlzx.com^
+||jl-mt.com^
 ||jl027.com^
 ||jl1130.com^
 ||jl368.cn^
@@ -94174,6 +94186,7 @@ zzpzero.com
 ||ld3hkhldgbkl.com^
 ||ldb.cc/js/top.js
 ||ldckmk.divarese.com.tr^
+||lddpgn.cn^
 ||lddt.de^$third-party
 ||ldgxsr.locasun-vp.fr^
 ||ldinry.drinks.ch^
@@ -103881,6 +103894,7 @@ zzpzero.com
 ||pornj.com/gabril/
 ||pornjam.com/assets/js/renderer.
 ||pornkings.com^$third-party
+||pornktube.tv/js/kt.js
 ||pornleep.com^$third-party
 ||pornlemon.com^
 ||pornnperfect.com^$third-party
@@ -119042,6 +119056,7 @@ zzpzero.com
 ||viatorayme.com^
 ||vibrant.co^$third-party
 ||vibrantmedia.com^$third-party
+||vic-m.co^
 ||viccscxz.cn^
 ||vice-publishers-cdn.vice.com^
 ||vicspendig.club^
@@ -124665,6 +124680,7 @@ zzpzero.com
 ||ziffstatic.com/zmg/pogoadk.js
 ||zigachogra.com^$popup
 ||zigaokj.top^
+||zihengfx.com^
 ||ziig.com.cn^
 ||zijaipse.com^
 ||zijuejueta.com^
@@ -125434,6 +125450,7 @@ zzpzero.com
 4tube.com###main-jessy-grid
 4tube.com##.cpp
 4tube.com##.footer-la-jesi
+4tube.com##.la-jessy-frame
 4tube.com##img[src][style][width]
 4tube.com,fux.com,pornerbros.com,porntube.com##a[href*="/redirect-channel/"]
 4tuning.ro#@#.adsbygoogle

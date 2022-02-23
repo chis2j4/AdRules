@@ -8,7 +8,7 @@ curl -o i3.txt https://filters.adtidy.org/android/filters/3_optimized.txt
 curl -o i4.txt https://filters.adtidy.org/android/filters/224_optimized.txt
 curl -o i5.txt https://filters.adtidy.org/android/filters/14_optimized.txt
 curl -o i6.txt https://filters.adtidy.org/android/filters/5_optimized.txt
-curl -o i7.txt https://filters.adtidy.org/android/filters/4_optimized.txt
+#curl -o i7.txt https://filters.adtidy.org/android/filters/4_optimized.txt
 
 # Start Merge and Duplicate Removal
 cat i*.txt > mergd.txt
@@ -21,7 +21,7 @@ sort -n tmp.txt > tmmp.txt
 num=`cat tmmp.txt | wc -l`
 
 # Start Add title and date
-echo "! Version: $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间） " >> tpdate.txt
+echo "! Version: $(TZ=Asia/Taipei date +'%Y-%m-%d %H:%M:%S')（台北時間） " >> tpdate.txt
 echo "! Total count: $num" >> tpdate.txt
 cat title.dd tpdate.txt tmmp.txt > final.txt
 

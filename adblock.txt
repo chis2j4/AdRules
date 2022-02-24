@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-02-24 08:31:34（北京时间） 
-! Total count: 127055
+! Version: 2022-02-24 16:09:36（北京时间） 
+! Total count: 127052
 -1688-wp-media/ads/
 -988x60.
 -980x60-
@@ -26690,7 +26690,6 @@ $~xmlhttprequest,~media,removeparam=source,denyallow=googlevideo.com,domain=1sol
 &adr=
 &adsafe=
 &adserver=
-&adslot=
 &adslots=
 &adsrc=
 &adstrade=
@@ -26729,8 +26728,6 @@ $~xmlhttprequest,~media,removeparam=source,denyallow=googlevideo.com,domain=1sol
 &xhtml?$script,third-party
 &zoneid=*&ad_$popup
 &zoneid=*&direct=$popup
-(com?$script,third-party
-(com?$third-party
 *$app=com.miui.systemAdSolution
 *$popup,domain=strtapeadblock.me
 *$popup,third-party,domain=streamega.com|123putlocker.club|openloadmovies.bz
@@ -29147,11 +29144,11 @@ $~xmlhttprequest,~media,removeparam=source,denyallow=googlevideo.com,domain=1sol
 /ad-text.
 /ad-third-party/*$~image
 /ad-third-party?
-/ad-time/*
+/ad-time/*$~image
 /ad-title.
 /ad-top-
 /ad-top.
-/ad-top/*
+/ad-top/*$~image
 /ad-topbanner-
 /ad-unit-
 /ad-updated-
@@ -29183,7 +29180,7 @@ $~xmlhttprequest,~media,removeparam=source,denyallow=googlevideo.com,domain=1sol
 /ad.popup?
 /ad.premium-
 /ad.redirect.
-/ad.sense/*
+/ad.sense/*$~image
 /ad.serve.
 /ad.skin.
 /ad.slot.
@@ -41825,7 +41822,6 @@ $~xmlhttprequest,~media,removeparam=source,denyallow=googlevideo.com,domain=1sol
 @@||apc-pli.com/api/tracking/$~third-party,xmlhttprequest
 @@||api-merchants.skimlinks.com^
 @@||api.academia.edu/v0/users/*/stats$script
-@@||api.ad-gone.com^
 @@||api.adinplay.com/libs/aiptag/$script,domain=bigescapegames.com|brofist.io|findcat.io|squadd.io
 @@||api.adnetmedia.lt/api/$~third-party
 @@||api.ads.tvb.com^
@@ -43381,7 +43377,6 @@ $~xmlhttprequest,~media,removeparam=source,denyallow=googlevideo.com,domain=1sol
 @@||mediav.com/js/feed_ts.js$domain=toutiao.china.com
 @@||mediav.com/js/interactive_plugin.js$domain=v.360kan.com
 @@||mediav.com/js/reward_video_pc.min.js$domain=baiten.cn
-@@||mediav.com^$domain=dev.360.cn
 @@||mediaweaver.jp^$image,domain=ismedia.jp
 @@||mediaworld.it^*/GoogleTagManager.js?
 @@||meduza.io/static/ads/$media,~third-party
@@ -46202,7 +46197,7 @@ androidpolice.com,constructionreviewonline.com,dereeze.com,tyretradenews.co.uk##
 androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkulubu.com,pixiz.com,spoilertv.com#@#.adsbygoogle
 androidsage.com##.code-block-9
 androidsage.com,cryptoreporter.info,ets2.lt,geekdashboard.com,geekspin.co,getdroidtips.com,kanonitv.net,techpp.com,whats-on-netflix.com##.code-block-1
-androidsage.com,patriotfetch.com##.code-block-5
+androidsage.com,patriotfetch.com,welovetrump.com##.code-block-5
 androidweblog.com##.cgdyh > [data-adid]
 andylain.com,bee.coupons,blogspot.com,blogspot.hk,blogspot.jp,blogspot.tw,comic.tw,jasonblog.tw#@#.vertical-ads
 angelweb.cn###G640x60
@@ -48442,7 +48437,6 @@ cnblogs.com##.sidebar-image
 cnblogs.com##a[href*=".gridsumdissector.com/"]
 cnblogs.com##div[id^="google_ad_"],[id^="ad_"],#banner_right,[id^="cnblogs_a"],[id^="cnblogs_b"],[id^="cnblogs_c"].c_ad_block,[id^="div-gpt-ad-"],[height="60"],.adPopup
 cnbzol.com##.ad300x250
-cnc.qzs.qq.com###bottom-sponsor
 cncrk.com##.dxzq
 cndesign.com##.index-add
 cndesign.com##a[href="https://7344.taobao.com/"],ins.adsbygoogle
@@ -51097,7 +51091,7 @@ getAds|
 getdroidtips.com##.code-block-15
 getdroidtips.com,patriotfetch.com,thisisanfield.com##.code-block-13
 getdroidtips.com,thegayuk.com,wisden.com##.code-block-4
-getdroidtips.com,wisden.com##.code-block-8
+getdroidtips.com,welovetrump.com,wisden.com##.code-block-8
 gethuman.com##.gh-ads
 getmyuni.com##.horizontalRectangle
 getmyuni.com##.squareDiv
@@ -56165,6 +56159,12 @@ nohat.cc##div[style="min-height:250px"]
 nomadlist.com##.dynamic-fill
 nonameno.com,rusrek.com##.alert
 nongjitong.com##.ad_sms
+noqreport.com###custom_html-7 > .custom-html-widget
+noqreport.com###rumble_vj59vh
+noqreport.com##.custom-html-widget [href] > [src]
+noqreport.com##[class^="noqre-"]
+noqreport.com##[id^="oqre-"]
+noqreport.com##[src^="https://media.mercola.com/assets/html/"]
 normteam.com##[href$=".taobao.com/"]
 northcountrypublicradio.org###business
 northernstar.info,theprospectordaily.com##.leaderboardwrap
@@ -60942,6 +60942,9 @@ weiyun.com#@#.page-share
 weiyun001.com##.agency-list
 weiyun001.com##.bg-box > .slide-box
 weiyun001.com##.g-side-r > a[onclick^="onLogs"]
+welovetrump.com###enhancedtextwidget-14
+welovetrump.com###enhancedtextwidget-20
+welovetrump.com###enhancedtextwidget-34
 wenda.haosou.com##div#e_idea_wenda_detail_rightBox,.mod-top-ad,div.garllery_ad,div[class="clearfix js-show-data"]
 wenda.so.com##a[href^="http://e.so.com/search/eclk?"]
 wenda.so.com##div#tuiguang,.js-show-data,.garllery_ad
@@ -61796,7 +61799,6 @@ www.yizhibo.com##.register_guide
 www.ynxjf.com
 www.you85.cn##div.a_pb,div.a_pt,div.a_mu
 www.you85.com##div.a_pb,div.a_pt,div.a_mu
-www.youdao.com##div#spTop.sp-h
 www.youfuli8.com##div.textwidget
 www.youtube.com,m.youtube.com,music.youtube.com,youtube-nocookie.com#$#json-prune '0.playerResponse.adPlacements 0.playerResponse.playerAds 1.playerResponse.adPlacements 1.playerResponse.playerAds 2.playerResponse.adPlacements 2.playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds ytInitialPlayerResponse.adPlacements ytInitialPlayerResponse.playerAds adPlacements playerAds'
 www.youtube.com,m.youtube.com,music.youtube.com,youtube-nocookie.com#$#override-property-read playerResponse.adPlacements undefined; override-property-read ytInitialPlayerResponse.adPlacements undefined
@@ -65273,7 +65275,6 @@ zzpzero.com
 ||54kefu.net^$third-party
 ||54new.com*/da/
 ||55.la
-||55.la/anonymous/banner/$domain=lxty66.com
 ||550b3ikb9j.com^
 ||550sky.com^
 ||550tg.com^
@@ -72046,6 +72047,7 @@ zzpzero.com
 ||awhoufob.com^
 ||awifi.cn^$third-party
 ||awin1.com/cawshow.php$third-party
+||awin1.com/cread.php$popup
 ||awin1.com/cshow.php$third-party
 ||awin1.com^$third-party
 ||awkjs.com^
@@ -75134,7 +75136,6 @@ zzpzero.com
 ||c.paypal.com^$script
 ||c.rhapsody.com^
 ||c.sibnet.ru^
-||c.ssp.qq.com^
 ||c.tieba.baidu.com/c/p^
 ||c.tvsou.com^
 ||c.uaa.iqiyi.com^
@@ -81040,6 +81041,7 @@ zzpzero.com
 ||dnhfi5nn2dt67.cloudfront.net^
 ||dnjszp.cn^
 ||dnk2wr2ch6zxa.cloudfront.net^
+||dnk56q7h.cn^
 ||dnn506yrbagrg.cloudfront.net^
 ||dnn506yrbagrg.cloudfront.net^$domain=quoka.de
 ||dnpz123.com^$third-party
@@ -85526,6 +85528,7 @@ zzpzero.com
 ||fuz.cc^$third-party
 ||fuzausb.top^
 ||fuzhang.xyz^
+||fuzhuyuan1688.xyz^
 ||fuziontech.net^$third-party
 ||fuzzybasketball.com^
 ||fuzzyflavor.com^
@@ -87717,7 +87720,6 @@ zzpzero.com
 ||h4k5.com^$third-party
 ||h4kdxs.com^
 ||h5.m.youku.com/act/armorVideogj.html?_wvUseWKWebView=YES&from=bofangye_gj&poplayer_mtid=400$app=com.youku.phone
-||h5.ssp.qq.com/static/web/websites/
 ||h501.cn^$third-party
 ||h51.com^
 ||h5f2.com/image/ll/
@@ -94584,9 +94586,8 @@ zzpzero.com
 ||lianka.cn^
 ||lianle.com^$third-party
 ||lianmen1.joyyang.com^
-||lianmeng.360.cn$third-party,domain=~xinhuanet.com
-||lianmeng.360.cn^
 ||lianmeng.360.cn^$domain=~lianmeng.360.cn
+||lianmeng.360.cn^$third-party,domain=~xinhuanet.com
 ||lianmeng.com^
 ||lianmeng.la/abc/
 ||lianmeng.la/ad1/
@@ -96054,9 +96055,6 @@ zzpzero.com
 ||m.baidu.com/his?callback=jsonp1&type=3&pic=1&lid=2037637247&ishome=1&net=1&islogin=0&hissid=123406,109775,102628,123925,123093,120142,118882,118864,118846,118833,118794,120549,107320,117332,122788,124072,123573,123813,123956,123809,123853,123699,123980,124030,110085,123289&_=1528306435369
 ||m.baidu.com/logo.gif
 ||m.baidu.com/se/transcode/static/img/bgn.png
-||m.baidu.com/tc?tcreq4log=1&r=1528306435328&logid=2037637247&from=844b&pu=sz%2540320_1001%252Cta%2540iphone_2_6.0_3_537&ct=10&cst=1&ref=index_iphone&logFrom=index
-||m.baidu.com/tc?tcreq4log=1&r=1528306435685&logid=2037637247&from=844b&pu=sz%2540320_1001%252Cta%2540iphone_2_6.0_3_537&ct=10&cst=1&ref=index_iphone&logInfo=show_baiduapp_ad&logFrom=callbaidu
-||m.baidu.com/tc?tcreq4log=1&r=1530262217331&logid=3016472129&from=844b&pu=sz%25401320_1001%252Cta%2540iphone_2_6.0_3_537&ct=10&cst=1&ref=index_iphone&logFrom=index
 ||m.baidu.com^$removeparam=from
 ||m.biduo.cc^
 ||m.biqudao.com/js/common.js
@@ -96114,7 +96112,6 @@ zzpzero.com
 ||m.kewaishu.info/uni/$script
 ||m.lanseshuba.com^
 ||m.laonanren.com/js/$script
-||m.legou361.com/dijuh^$domain=lsj.tt-hk.cn
 ||m.lelekan.com/sp/
 ||m.lolvsdota.cn^
 ||m.media-amazon.com/images/S/sash/PNsNtF7MLhjOEin.js$domain=imdb.com
@@ -97440,8 +97437,7 @@ zzpzero.com
 ||mediatraffic.com^$third-party
 ||mediatraks.com^
 ||mediaupdate.co.za/banner/
-||mediav.com^
-||mediav.com^$domain=~v5bjq.com|~999.com
+||mediav.com^$domain=~v5bjq.com|~999.com|dev.360.cn
 ||mediav.com^$third-party
 ||mediav.com^$third-party,domain=~dev.360.cn|~g.360.cn
 ||mediaver.com^
@@ -105497,6 +105493,7 @@ zzpzero.com
 ||qiyou.com^$third-party
 ||qiyu.iqiyi.com/crossdomain.xml
 ||qiyu.iqiyi.com/p13n20?
+||qiyu.shop^
 ||qiyue.com/statics/js/3g.js
 ||qiyun.org/images/js/*.htm
 ||qizhao.com^
@@ -106328,7 +106325,6 @@ zzpzero.com
 ||realmpallduns.com^
 ||realperson.de/system/third-party/rpfp/rpfp.min.js
 ||realpython.net/tag.js
-||realsrv.com/popunder1000.js
 ||realsrv.com^
 ||realsrv.com^$popup
 ||realsrv.name^
@@ -107038,7 +107034,6 @@ zzpzero.com
 ||rijutv.*/statics/skin/hjtv-wap/js/plus.js
 ||rijutv.*/uploadfile/8c96dc2f564c1b56.png
 ||rijutv.com/statics/ajs/alltj.js
-||rijutv.com/statics/alljs/rijutvapp.js?
 ||rijutv.com/statics/alljs^
 ||rijutv.com/statics/comment/embed.js
 ||rijutv.com/statics/js/tb.js
@@ -109452,6 +109447,7 @@ zzpzero.com
 ||shtiesen.cn^
 ||shtptt.cupshe.com^
 ||shua66.vip^
+||shuai.love^
 ||shuaiqiwudixiaoliangzaidddd.icu^
 ||shuake.ink^
 ||shuakongbao.com/resource/images/banner/
@@ -114044,6 +114040,7 @@ zzpzero.com
 ||szlong.weixin.qq.com^
 ||szltwl.com^
 ||szmjskjx.com^
+||szmsao.com^
 ||szmxwjm.com^
 ||sznews.com/*.files/$image,object
 ||sznews.com/s?z=
@@ -115686,7 +115683,6 @@ zzpzero.com
 ||tobaltoyon.com^
 ||tobapplog.ctobsnssdk.com^
 ||tobestaly.com^
-||toblog.ctobsnssdk.com^
 ||toblog.snssdk.com^
 ||toboads.com^
 ||toc.io^$third-party
@@ -116596,6 +116592,7 @@ zzpzero.com
 ||tracker.mrpfd.com^
 ||tracker.mspy.com^
 ||tracker.nbcuas.com^
+||tracker.nitropay.com^
 ||tracker.providence.org^
 ||tracker.publico.pt^
 ||tracker.roitesting.com^
@@ -119458,6 +119455,7 @@ zzpzero.com
 ||vkuay.com^
 ||vkugq.com/data/attachment/portal/
 ||vl665.cn^
+||vlbvgtj.cn^
 ||vlclptmgxmijbyf.com^
 ||vlexokrako.com^$popup
 ||vlexokrako.com^$third-party
@@ -120113,7 +120111,6 @@ zzpzero.com
 ||waytogrow.eu^$third-party
 ||wazensee.net^
 ||wb.gtimg.com/adwin/
-||wbapp.mobile.sina.cn/wbapplua/wbpullad.lua
 ||wbapp.mobile.sina.cn^
 ||wbbmubevftcy.com^
 ||wbdds.com^
@@ -121267,8 +121264,6 @@ zzpzero.com
 ||wrap.tradedoubler.com^
 ||wrapper.lemde.fr^$third-party
 ||wrapstretch.com^
-||wrating.com/$domain=~tudou.com
-||wrating.com^
 ||wrating.com^$third-party
 ||wrating.com^$third-party,domain=~tudou.com|~v.ifeng.com
 ||wreathabble.com^
@@ -122488,6 +122483,7 @@ zzpzero.com
 ||xingxingdd.com^
 ||xingxingdm.com^
 ||xingyao.doubiy.com^
+||xingyou25.xyz^
 ||xingyou46.icu^
 ||xingzhu.top^
 ||xingzuomeixue.com^
@@ -124410,6 +124406,8 @@ zzpzero.com
 ||zelten.fritz-berger.de^
 ||zemanta.com^$third-party
 ||zemqvlylmtu.com^
+||zenaps.com^
+||zenaps.com^$popup
 ||zencdn.net^$domain=freegaypornsex.net|www.gayvl.info
 ||zencu.com.cn^
 ||zengenti.com/tags/
@@ -124857,7 +124855,6 @@ zzpzero.com
 ||zlx.com.br^$third-party
 ||zlyk.com^*/ysapp.
 ||zlys.store^
-||zm.sm-tc.cn^
 ||zm232.com^
 ||zm5d.lexpress.fr^
 ||zmags.com/a/p/p.js

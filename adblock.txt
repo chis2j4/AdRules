@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-03-02 16:10:12（北京时间） 
-! Total count: 127434
+! Version: 2022-03-03 00:10:10（北京时间） 
+! Total count: 127444
 -1688-wp-media/ads/
 -988x60.
 -980x60-
@@ -6130,6 +6130,8 @@
 ###googlesponsor
 ###googletextads
 ###googtxtad
+###gothamadblock_msg
+###gothamadblock_overlayh_n
 ###gpt-ad-1
 ###gpt-ad-halfpage
 ###gpt-ad-outofpage-wp
@@ -13401,6 +13403,7 @@
 ##.ads-widget-sponsor-gallery
 ##.ads-wrap
 ##.ads-wrapper
+##.ads-wrapper-top
 ##.ads-x1
 ##.ads-x1-super
 ##.ads-zone
@@ -42879,7 +42882,7 @@ $~xmlhttprequest,~media,removeparam=source,denyallow=googlevideo.com,domain=1sol
 @@||googletagmanager.com/gtag/js$script,domain=timparty.tim.it
 @@||googletagmanager.com/gtag/js$script,domain=xl-bygg.no
 @@||googletagmanager.com/gtag/js?id=$domain=av01.tv
-@@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|atptour.com|bsa-whitelabel.com|ccleaner.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|fortune.com|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|petsathome.com|pioneer.eu|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz
+@@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|atptour.com|bsa-whitelabel.com|ccleaner.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|fortune.com|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|petsathome.com|pioneer.eu|primeoak.co.uk|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz
 @@||googletagmanager.com/gtm.js$domain=asus.com.cn|support.amd.com
 @@||googletagmanager.com/gtm.js$domain=asus.com.cn|support.amd.com|warnermusic.com.tw
 @@||googletagmanager.com/gtm.js$domain=besplatka.ua|cdek.ru|glamusha.ru|rustih.ru|sportmaster.ru|teddyfood.com
@@ -56519,6 +56522,7 @@ onlinemschool.com###oms_left
 onlineradious.com##.ai-placement
 onlydudes.tv##.b-footer-place
 onlydudes.tv##.b-side-col
+onlyfaps.club#$#abort-current-inline-script univresalP
 onlyfungames.com##.preview3bannerspot
 onlystream.tv#$#abort-on-property-read BetterJsPop
 onmsft.com##.enhanced-text-widget
@@ -75128,6 +75132,7 @@ zzpzero.com
 ||buyeasy.by^$popup
 ||buyflood.com^$third-party
 ||buyihao.com^
+||buyis.cn^
 ||buymusicdirect.com^
 ||buyorselltnhomes.com^$third-party
 ||buysellads.com^
@@ -92198,6 +92203,7 @@ zzpzero.com
 ||jetvis.ru/stat/
 ||jetx.info^
 ||jeu.net/hits.js
+||jeuuhu.cn^
 ||jewellerywoolsqueeze.com^
 ||jewelryedu.cn^
 ||jewgn8une.com^
@@ -92467,6 +92473,7 @@ zzpzero.com
 ||jiuji.ltd^
 ||jiujigroup.top^
 ||jiujiinc.top^
+||jiujiupk.com^
 ||jiujiushishi.com^
 ||jiuku.cc
 ||jiuku.cc^
@@ -105632,6 +105639,7 @@ zzpzero.com
 ||qhweisen.cn^
 ||qhxcdmfj.cn^
 ||qhxxqt.coolstuff.se^
+||qhytkj.xyz^
 ||qhyy8.com/template/default_wap/html/public/img/*.gif
 ||qhzefk.drmartens.com^
 ||qi-shi.top^
@@ -107663,6 +107671,7 @@ zzpzero.com
 ||rrgapzw.cn^
 ||rrimpl.com^$third-party
 ||rrjc.com/home/seo/ad/
+||rrogfhs.cn^
 ||rrsubway.com^
 ||rryy99.com/statics/js/stat.js
 ||rs-stripe.com^
@@ -125454,6 +125463,7 @@ zzpzero.com
 ||zunxiangjiazheng07712444061.com^
 ||zuoche.com/promo/*.jspx
 ||zuofang05.com/template/mytheme/statics/image/1/
+||zuolgc.cn^
 ||zuopp.com^
 ||zuoss.net^
 ||zuowen.hydcd.com^

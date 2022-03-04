@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-03-04 22:01:48（北京时间） 
-! Total count: 126831
+! Version: 2022-03-05 00:10:19（北京时间） 
+! Total count: 126834
 -1688-wp-media/ads/
 -988x60.
 -980x60-
@@ -23972,6 +23972,7 @@
 ##a[href*=".xxmh667.com/"]
 ##a[href*=".xxmh727.com/"]
 ##a[href*=".xxmh735.com/"]
+##a[href*=".xxmh773.com/"]
 ##a[href*=".xxmh779.com/"]
 ##a[href*=".xxmh871.com/"]
 ##a[href*=".xxmh920.com/"]
@@ -54212,7 +54213,7 @@ libhunt.com##.track-event
 libtorrent.org,mailgen.biz,speedcheck.org,torrentfreak.com,tubeoffline.com##[href*="://go.nordvpn.net/"]
 libvio.com##.hidden-log
 libvio.com##.inner-advertise
-libvio.com,nfstar.net##a[target="_blank"] > .img-responsive
+libvio.com##.t-img-box
 lic.me##.miniplayer
 licai18.com##embed,[width="550"][height="60"]
 licenseglobal.com##.banner-top-wrapper
@@ -55972,6 +55973,7 @@ nfmovies.com##body:style(opacity:1!important)
 nfmovies.com##li.dropdown-hover:nth-of-type(9)
 nfmovies.com#?#div[id]:-abp-has(>img[onclick="openurl()"])
 nfmovies.com#@##adright
+nfstar.net##a[target="_blank"] > .img-responsive
 nfstar.net#?#.myui-panel-bg:-abp-has(strong:-abp-contains(广告))
 nfstar.net$$a[href="discountminds.com"]
 nfuwow.com###dl-left-first
@@ -103198,6 +103200,7 @@ zzpzero.com
 ||pjljqp.gap.ru^
 ||pjogndc8ixoidna.360doc.cn^
 ||pjstat.com^
+||pjsxebh.com^
 ||pjtime.com/js/show_ad
 ||pjtlme.rozetka.com.ua^
 ||pjtra.com^$image,script

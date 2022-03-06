@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-03-06 16:09:38（北京时间） 
-! Total count: 4947
+! Version: 2022-03-07 00:09:31（北京时间） 
+! Total count: 4950
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5250,6 +5250,7 @@
 @@||emerald.omeda.com/npdn/custsrv_login.do
 @@||emome.net/files/advertising/
 @@||energy.de^*/ivw.js?$domain=energy.de
+@@||ens.nzz.ch^$~third-party
 @@||ensighten.com^*/Bootstrap.js$domain=americanexpress.com|britishairways.com|capitalone.com|caranddriver.com|cart.autodesk.com|citi.com|citizensbank.com|dell.com|fidelity.com|france24.com|homedepot.com|hp.com|norton.com|rfi.fr|sbs.com.au|sfgate.com|staples.com|t-mobile.com|target.com|verizonwireless.com|williamhill.com|womenshealthmag.com|zales.com
 @@||ensighten.com^*/Bootstrap.js$domain=williamhill.it
 @@||ensighten.com^*/code/$script
@@ -8003,7 +8004,8 @@
 @@||track.ksta.de/cre-*/tracking/tracking.js
 @@||track.mybloglog.com/js/jsserv.php?$domain=egotastic.com
 @@||track.nnn.de/cre-*/tracking/tracking.js
-@@||track.nzz.ch/cre-*/tracking/tracking.js
+@@||track.nzz.ch/cre-*/tracking/
+@@||track.nzz.ch^$script,~third-party
 @@||track.rundschau-online.de/cre-*/tracking/tracking.js
 @@||track.rutarget.ru^|
 @@||track.shipstation.com/collections/trackingEvents.js$~third-party
@@ -8087,6 +8089,7 @@
 @@||uid.mavencoalition.io/v3$xmlhttprequest,domain=discover.hubpages.com
 @@||uid.mavencoalition.io/v3$xmlhttprequest,domain=globalcovidsummit.org
 @@||uid.mavencoalition.io^$xmlhttprequest,domain=mtonews.com|thestreet.com
+@@||uid.mavencoalition.io^$xmlhttprequest,domain=si.com
 @@||uim.tifbs.net/js/$script,domain=web.de
 @@||uim.tifbs.net/js/*.js$domain=web.de|gmx.net|gmx.ch
 @@||uim.tifbs.net/js/3423.js$domain=top.de

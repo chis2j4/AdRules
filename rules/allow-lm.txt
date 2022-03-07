@@ -36257,6 +36257,7 @@
 @@||cloudflare.com/*/fingerprint2.min.js$domain=saavn.com
 @@||cloudflare.com/ajax/$stylesheet,domain=shink.me|shon.xyz
 @@||cloudflare.com/ajax/libs/$script,stylesheet,domain=11anim.com|7-up.net|activetect.net|adf.ly|adshr.ink|adshrinks.com|android-zone.org|anime-loads.org|arabseed.com|atabencot.net|atomcurve.com|atominik.com|ay.gy|babblecase.com|bitigee.com|bluenik.com|brightvar.bid|bypassed.zone|casualient.com|cinebo.net|cloudemb.com|coginator.com|cogismith.com|convertinmp4.com|cpmlink.net|cracksurl.com|dood.la|dood.ws|doodstream.co|doodstream.com|espn-live.stream|evoload.io|ezie.cc|fcine.tv|file-up.org|file-upload.com|file-upload.net|filmenfr.com|filmstreaming-vf.online|fux0r.fun|fux0r.fyi|fux0r.icu|fux0r.ooo|fux0r.top|gamecopyworld.eu|gdriveplayer.me|gdriveplayer.us|gktorrents.net|hdss.la|hindipix.in|illimitestreaming.net|immunicity.st|insta-stories.com|ithepiratebay.com|j.gs|japscan.ws|jetload.net|kaitect.com|kializer.com|kibuilder.com|kimechanic.com|kooralive.info|larati.net|lirescan.me|magnet4you.me|manga-vf.fr|mavanimes.co|mcloud.to|mcloud2.to|microify.com|mmoity.com|mstream.fun|mstream.icu|mstream.press|mstream.rocks|mstream.space|mstream.tech|mstream.website|mystream.to|onion.ly|onion.pet|onlystream.tv|ouo.io|ouo.press|oxtorrent.cx|picocurl.com|picons.eu|pintient.com|piratebayblocked.com|player.freebiesforyou.net|prettyfast.to|protect-stream.com|proxybay.buzz|q.gs|quainator.com|quamiller.com|queuecosm.bid|replaymod.com|riffhold.com|sandup.co|sapixmedia.com|simizer.com|skamaker.com|skamason.com|skytorrents.lol|sonyoutube.com|streamelite.net|streamzt.com|subfb.us|swiftviz.net|telerium.digital|teleriumtv.com|thepiratebay.vip|thevideobee.to|thouth.net|threadsphere.bid|tinyium.com|toonanime.cc|toonanime.tv|toonanime.xyz|torrent9.gg|torrent9.si|tpbprox.com|twineer.com|ukpass.co|unblockall.org|unblocked.is|unblocked.lc|unblocked2.fun|unblocked2.vip|unblockproject.icu|unblockproject.info|unblockthe.net|universanimeize.com|upvid.net|uqload.com|uqload.org|viahold.com|vializer.com|vidia.tv|vidsource.me|vidsrc.me|viva-stream.net|viwright.com|voir-films-series.net|voirfilmshd.net|waaw.tv|waaw1.tv|yabuilder.com|yamechanic.com|yoalizer.com|yobuilder.com|yoineer.com|yoitect.com|youwatch-serie.com|zipansion.com|zo.ee|zone-annuaire.xyz|zone-telechargements.com
+@@||cloudflare.com/ajax/libs/dash-shaka-playback/$script,domain=vpornvideos.com
 @@||cloudflare.com/ajax/libs/fingerprintjs2/$script,domain=gamebox.gesoten.com
 @@||cloudflare.com/ajax/libs/fingerprintjs2/$script,domain=gamebox.gesoten.com
 @@||cloudflare.com/ajax/libs/fingerprintjs2/*/fingerprint2.min.js$domain=nfmovies.com
@@ -37985,6 +37986,7 @@
 @@||engine.widespace.com/map/provisioning?appId=com.sofoot$app=com.sofoot
 @@||engine2.admelon.ru/c?pid=$domain=argumenti.ru
 @@||english-polyglot.com/ads.js
+@@||ens.nzz.ch^$~third-party
 @@||ensage-forum.ru/*adv*.js
 @@||ensighten.com^*/Bootstrap.js$domain=americanexpress.com|britishairways.com|capitalone.com|caranddriver.com|cart.autodesk.com|citi.com|citizensbank.com|dell.com|fidelity.com|france24.com|homedepot.com|hp.com|norton.com|rfi.fr|sbs.com.au|sfgate.com|staples.com|t-mobile.com|target.com|verizonwireless.com|williamhill.com|womenshealthmag.com|zales.com
 @@||ensighten.com^*/Bootstrap.js$domain=williamhill.it
@@ -38264,6 +38266,7 @@
 @@||familie.de/image/
 @@||familie.de^$generichide
 @@||familyhandyman.com$generichide
+@@||familyporner.com/jesojof/js/prebid-ads.js
 @@||fandango.com/b/ss/$image
 @@||fandango.com/b/ss/$image
 @@||fanfiktion.de/pics^
@@ -43212,6 +43215,8 @@
 @@||leanplum.com^$domain=nbc.com|leanplum.com
 @@||learn-automation.com^$generichide
 @@||learningcrux.com^$generichide
+@@||learnmania.org/js/*.js?_v=$script,~third-party
+@@||learnmania.org^$generichide
 @@||leboncoin.fr^$content
 @@||leckerschmecker.me^$generichide
 @@||leclercdrive.fr/_res/release/$elemhide,jsinject,extension
@@ -50751,8 +50756,9 @@
 @@||track.mybloglog.com/js/jsserv.php?$domain=egotastic.com
 @@||track.nnn.de/cre-*/tracking/tracking.js
 @@||track.nnn.de/cre-*/tracking/tracking.js
-@@||track.nzz.ch/cre-*/tracking/tracking.js
-@@||track.nzz.ch/cre-*/tracking/tracking.js
+@@||track.nzz.ch/cre-*/tracking/
+@@||track.nzz.ch/cre-*/tracking/
+@@||track.nzz.ch^$script,~third-party
 @@||track.rundschau-online.de/cre-*/tracking/tracking.js
 @@||track.rundschau-online.de/cre-*/tracking/tracking.js
 @@||track.rutarget.ru^|
@@ -51099,6 +51105,8 @@
 @@||uid.mavencoalition.io/v3$xmlhttprequest,domain=globalcovidsummit.org
 @@||uid.mavencoalition.io^$xmlhttprequest,domain=mtonews.com|thestreet.com
 @@||uid.mavencoalition.io^$xmlhttprequest,domain=mtonews.com|thestreet.com
+@@||uid.mavencoalition.io^$xmlhttprequest,domain=si.com
+@@||uid.mavencoalition.io^$xmlhttprequest,domain=si.com
 @@||uii.io/js/ads.js
 @@||uii.io/links/go$domain=uii.io
 @@||uii.io/links/shorten|$~third-party,xmlhttprequest

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-03-09 08:33:30（北京时间） 
-! Total count: 126110
+! Version: 2022-03-09 16:09:51（北京时间） 
+! Total count: 126126
 -1688-wp-media/ads/
 -988x60.
 -980x60-
@@ -24935,7 +24935,7 @@
 ##div[id^="zergnet-widget"]
 ##div[jsdata*="CarouselPLA-"][data-id^="CarouselPLA-"]
 ##div[onclick*=".8tse9.com"]
-##div[onclick*=".leyu257.com:"]
+##div[onclick*=".leyu"]
 ##div[onclick*=".lyty49.com"]
 ##div[onclick*=".rwnyou.com"]
 ##div[onclick^="window.location.href"][onclick*=".bcebos."]
@@ -47138,6 +47138,7 @@ bd-sanctuary.com,cine-sanctuary.com,comics-sanctuary.com,manga-sanctuary.com##di
 bd1.zuimeitianqi.com
 bd2.zuimeitianqi.com
 bd2020.com###fmtdiv
+bd2020.com##body > div[id^="z"]
 bde4.cc###ayx > img
 bde4.cc###ybad > center:first-child
 bde4.cc##div:last-child > a:last-child > img
@@ -72377,6 +72378,7 @@ zzpzero.com
 ||bd1.yidu.cc^
 ||bd100.010lm.com^
 ||bd11.nipic.com^
+||bd2020.com/gg/
 ||bd202457b.com^
 ||bd2fbnfg.com^
 ||bd3.chuiyue.com^
@@ -72857,6 +72859,7 @@ zzpzero.com
 ||bet365affiliates.com^$third-party
 ||beta-news.org^
 ||beta-news.org^$popup
+||betads.xyz^
 ||betahit.click^
 ||betano.de^*?btag=$subdocument,third-party
 ||betarget.com^$third-party
@@ -77069,6 +77072,7 @@ zzpzero.com
 ||concertainwqa.club^
 ||concludemealswednesday.com^
 ||conclusivegifteddilate.com^
+||concocting.wang^
 ||concord.systems^
 ||concord.systems^$popup
 ||conde.io/beacon
@@ -77848,6 +77852,7 @@ zzpzero.com
 ||creatives.livejasmin.com^
 ||creatives.pichunter.com^
 ||creatives.sunmedia.tv^
+||creativesumo.com^
 ||creator.zmags.com^
 ||credentialpetrolenglish.com^
 ||credentialssagwoo.com^
@@ -84922,6 +84927,7 @@ zzpzero.com
 ||fxyjmp.top^
 ||fy4zb.cn^
 ||fyan.tech^
+||fydckl.com^
 ||fydisk.com/images/showvip.gif
 ||fydyjx.com^
 ||fyesqma.cn^
@@ -88469,6 +88475,7 @@ zzpzero.com
 ||hrtye.com^$popup
 ||hrtyh.com^$popup
 ||hruyiq.auction.co.kr^
+||hryidhf.ltd^
 ||hrzn-nxt.com/pxl?
 ||hs-analytics.net^
 ||hs.cnfol.com/Cm/Imgs/Load.gif
@@ -99675,6 +99682,7 @@ zzpzero.com
 ||noisysortcasualty.com^
 ||nojscontainer.pepperjam.com^$third-party
 ||nokaut.link^$third-party
+||nokiadatabooklet.ltd^
 ||nol.yahoo.com^
 ||nolrougn.com^
 ||nomadpertexcess.com^
@@ -102180,6 +102188,7 @@ zzpzero.com
 ||phabsoun.net^
 ||phabys.com^
 ||phadia.thermofisher.com^
+||phagueq.cn^
 ||phaignoo.com^
 ||phaihoaw.net^
 ||phaikroo.net^
@@ -103398,6 +103407,7 @@ zzpzero.com
 ||prd-ssl.net.zooplus.it^
 ||prd.net.zooplus.it^
 ||prding.net.zooplus.it^
+||prdredir.com^
 ||pre4sentre8dhf.com^
 ||prebid.org^$third-party
 ||precautionbuoy.com^
@@ -108915,7 +108925,6 @@ zzpzero.com
 ||sinaimg.cn/large/007X8olVly1g8cwhgh1img30qo02igm2.gif
 ||sinaimg.cn/large/007cYCbaly1ftdqurgyj4g30hs02iaaq.gif
 ||sinaimg.cn/large/007drMcOly1gfnqzv8a7ij30xc02nwfr.jpg
-||sinaimg.cn/large/008dqLKply1gtj305hxwnj308c0bnwfs.jpg
 ||sinaimg.cn/large/5431d036ly1fh6gmu6gxmg20tg02i3yr.gif
 ||sinaimg.cn/large/5431d036ly1fhxbxz31nkj20tg02ignm.jpg
 ||sinaimg.cn/large/61ac6637gy1go7az1zmucj20pc08cjts.jpg
@@ -113216,6 +113225,7 @@ zzpzero.com
 ||sysad.cn^
 ||sysal.cn^
 ||syseen.com/content/uploadfile/*/hongbao.png
+||sysjazi.cn^
 ||sysomos.com^$third-party
 ||system-notify.app^
 ||systemcity.cn/feed.php
@@ -113256,6 +113266,8 @@ zzpzero.com
 ||szjianxin.net^
 ||szjjzs.com/js/cs*.js
 ||szjjzs.com/js/dd.js
+||szjjzs.com/js/fe
+||szjjzs.com/js/piao.js
 ||szjywn.cn^
 ||szkbyo.zkai.co.jp^
 ||szlong.weixin.qq.com^
@@ -114831,6 +114843,7 @@ zzpzero.com
 ||tmenttoget.com^$popup
 ||tmfkuesmlpto.com^
 ||tmhgma.juwelo.de^
+||tmioe.com/img/att/boom.jpg
 ||tmjhdyghjm.com^
 ||tmlt.actonservice.com^
 ||tmmp.io^$third-party
@@ -117172,6 +117185,7 @@ zzpzero.com
 ||ubt573.org^
 ||ububyiw6655.xyz^
 ||ubuntugeek.com/images/ubuntu1.png
+||ubuyanalytics.ubuy.com^
 ||ubvsjh.pointtown.com^
 ||ubxqerc.cn^
 ||ubxvdx.accuweather.com^
@@ -117453,6 +117467,7 @@ zzpzero.com
 ||uncerneda.work^
 ||uncn.jp^$third-party
 ||uncoilszaniest.com^
+||unconditionally.wang^
 ||uncooleserine.cam^
 ||uncoveredcircle.com^
 ||uncoveredexpert.com^
@@ -120193,6 +120208,7 @@ zzpzero.com
 ||wknhovh.cn^
 ||wknniyu.cn^
 ||wknvmj.cocooncenter.com^
+||wknydhz.cn^
 ||wksrx.cn^
 ||wl.hd.sohu.com^
 ||wl.jd.com^

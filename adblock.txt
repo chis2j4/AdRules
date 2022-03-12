@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-03-12 16:09:30（北京时间） 
-! Total count: 14177
+! Version: 2022-03-13 00:09:34（北京时间） 
+! Total count: 14184
 -960x*0.gif
 -250.js*
 
@@ -9526,6 +9526,7 @@ zzpzero.com
 ||cache.m.iqiyi.com/jp/tmts^$domain=m.iqiyi.com
 ||caclick.baidu.com^
 ||cad.chosun.com^
+||cad.youku.com^
 ||caduka.cn^
 ||caihongxuan.com^
 ||caipiao.163.com/$subdocument
@@ -12033,6 +12034,7 @@ zzpzero.com
 ||propellerads.com^
 ||prscripts.com/pub
 ||prxymecb.cn^
+||pss.alicdn.com/iku/log^
 ||pstatp.com/*from=ad^
 ||pstatp.com/inapp^
 ||pstatp.com/site/reads-sdk/
@@ -12063,6 +12065,7 @@ zzpzero.com
 ||pxene.com^
 ||pxl2015x1.com^
 ||pyk.imrworldwide.com/cgi-bin^$app=com.huawei.hwvplayer.youku
+||pyk.in-neo.cn^
 ||pythontab.com/statics/images/*abc
 ||pythontab.com/statics/images/*ads
 ||pythontab.com/statics/images/*comp
@@ -12354,6 +12357,7 @@ zzpzero.com
 ||sdtieta.com^
 ||se.360.cn^
 ||se967.com^
+||sealine.youku.com^
 ||searchads.apple.com^
 ||sec.umeng.com^
 ||sec.video.qq.com^
@@ -12938,6 +12942,7 @@ zzpzero.com
 ||umengacs.
 ||umiwi.com^
 ||umsns.com^
+||un-acs.youku.com^
 ||un.xz6.com^
 ||un1.takefoto.cn^
 ||uni69.top^
@@ -13532,6 +13537,7 @@ zzpzero.com
 ||yiwanuu.com^
 ||yiyi120.com/x^
 ||yiyilm.com$third-party
+||ykad-data.youku.com^
 ||ykad-gateway.youku.com^
 ||ykbei.com^
 ||ykimg.alicdn.com/product/image/2018-07-05/9aa3f25db2af72927302bd46ac9c7ff9.gif$app=com.huawei.hwvplayer.youku
@@ -13550,6 +13556,7 @@ zzpzero.com
 ||youa.net^
 ||youday.cn^
 ||youkewangluo.cn$third-party,script
+||youku-crm-product.youku.com^
 ||youku.com/rec_ad_show
 ||youle55.com^
 ||youmi.net^

@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-03-13 16:09:32（北京时间） 
-! Total count: 4920
+! Version: 2022-03-14 00:10:48（北京时间） 
+! Total count: 4921
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -7259,6 +7259,7 @@
 @@||ptwxz.com/scripts/readindex/tongji.js
 @@||pub.alimama.com/common/adzone/
 @@||pubads.g.doubleclick.net/gampad/ads?*&description_url=https%3A%2F%2Fani.gamer.com.tw$domain=imasdk.googleapis.com
+@@||publicwww.com^$generichide
 @@||publisher.adservice.com^$domain=publisher.adservice.com
 @@||publisher.adservice.com^$generichide
 @@||puch-ersatzteile.at^*/google-analytics.min.js

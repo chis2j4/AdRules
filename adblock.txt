@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-03-14 00:10:41（北京时间） 
-! Total count: 14193
+! Version: 2022-03-14 08:36:28（北京时间） 
+! Total count: 14195
 -960x*0.gif
 -250.js*
 
@@ -1135,6 +1135,7 @@ $removeparam=int_cmpid
 $removeparam=int_content
 $removeparam=int_medium
 $removeparam=int_source
+$removeparam=intcid,domain=cbsnews.com
 $removeparam=intcid,domain=wired.com
 $removeparam=intcmp
 $removeparam=internal,domain=teletrader.com
@@ -1547,7 +1548,7 @@ $removeparam=sample,domain=arms-retcode.aliyuncs.com
 $removeparam=sampling,domain=arms-retcode.aliyuncs.com
 $removeparam=sb_referer_host
 $removeparam=sc,domain=bing.*
-$removeparam=sc,domain=bing.com|qvc.com
+$removeparam=sc,domain=bing.com|qvc.com|startpage.com
 $removeparam=sc_referrer,domain=snapchat.com
 $removeparam=sc_ua,domain=snapchat.com
 $removeparam=scd,domain=ashleystewart.com
@@ -1694,6 +1695,7 @@ $removeparam=sub_aff_id
 $removeparam=subacctid
 $removeparam=subacctname
 $removeparam=subid,domain=webmasterplan.com|admitad.com|mintmobile.com|secretlab.*
+$removeparam=subref,domain=newsweek.com
 $removeparam=success,domain=arms-retcode.aliyuncs.com
 $removeparam=sudaref
 $removeparam=suid,domain=taobao.com

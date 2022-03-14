@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-03-14 08:36:28（北京时间） 
+! Version: 2022-03-14 16:10:08（北京时间） 
 ! Total count: 14195
 -960x*0.gif
 -250.js*
@@ -1118,7 +1118,6 @@ $removeparam=ignoreNavigationBar
 $removeparam=igshid
 $removeparam=igshid,domain=instagram.com
 $removeparam=iid,domain=cnn.com
-$removeparam=iid,domain=ebay.*
 $removeparam=im_company
 $removeparam=im_edp
 $removeparam=imp_id
@@ -3423,6 +3422,7 @@ cdn.baidu.xahycw.com
 cdn.holmesmind.com
 cdn.jinfu.love
 cdn.pg88cdn.com
+cdn.weiye.net
 cdn.wuxiqiangheng.com
 cdn.wuyulou.com
 cdn.xianliao.me

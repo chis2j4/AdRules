@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-03-14 16:10:08（北京时间） 
-! Total count: 14195
+! Version: 2022-03-15 00:10:50（北京时间） 
+! Total count: 14206
 -960x*0.gif
 -250.js*
 
@@ -43,6 +43,7 @@
 ##.ad-banner-wrapper
 ##.ads
 ##.adsbygoogle
+##.advertise
 ##.afc_close_content,.cfa_popup,[href='http://kst6632.com/']
 ##.appguide-wrap[onclick*="bcebos.com"]
 ##.ayx[style="position: fixed;bottom: -10px;right:0;z-index:999;width:250px"]
@@ -95,6 +96,7 @@
 ##[href='http://yb6277.vip']
 ##[href='https://app.kkj.cn/']
 ##[href='https://blfanss.com']
+##[href='https://cai35b9.com/']
 ##[href='https://fkub.xyz/umko']
 ##[href='https://hongxiu.me']
 ##[href='https://leyu001.ee/']
@@ -117,6 +119,7 @@
 ##[href^='http://pai.597606.com:']
 ##[href^='http://web-bookstore.cread.com/haizhuishushare']
 ##[href^='http://www.blmh77.com/']
+##[href^='https://0414483.com/']
 ##[href^='https://1815844.com/'],.playtop.col-pd
 ##[href^='https://2022025.com/']
 ##[href^='https://23538595.com:']
@@ -4195,6 +4198,7 @@ halihali2.com/js/wap2-jm-100ftop.js
 hanfan.cc##ins.adsbygoogle,div.widget_ui_ads
 hanhuazu.cc##.ad,[id^="ad"]
 hanime.tv##.smart-banner-content,.golden-saucer
+hanyu.baidu.com##DIV#fengchao_els.c-container.card.fengchao-els
 hanzify.org##iframe[allowtransparency="true"],[height="50"],[class="mirror-adr"]
 hao.360.cn##DIV.small-obj.animate,a[href$="src=hao_ncad_yule"],a[href$="src=hao_ncad_yule "],#corner-flash,.plane-hd
 hao.qq.com##[id^="AD_"]
@@ -4247,6 +4251,7 @@ hefei.cc##div#bp_ad,EMBED[src^="http://ad.hefei.cc/"],IMG[src^="http://ad.hefei.
 heiguang.com##.ad-img,[id^="div_heiguang_ad"],.syAd,#syHzBel,#syTowAd,#myadv,[width="310"][height="250"]
 heirui.cn##[class^="ad"],.logorightad,.sidecont,[class$="top5"],.r,[src="http://www.heirui.cn/images/650-70.jpg"],.index711-mask
 help.aliyun.com##div.module-wrap.J_tb_lazyload.aliyun-bottom
+henanqiuzhige.com
 henbt.com##div.clear.text_center,.intro_inner
 hentai89.com##iframe[width="308"][height="258"],[id^="dp-ad"]
 hentaiporno.xxx##div.mibanner
@@ -4338,6 +4343,7 @@ huabian.com##.banner,.title_con,.blanktop,.ad
 huacolor.com##[class^="list_l"]
 huangye88.com##[id^="o"]
 huanqiu.com###adP-Bot-right-float,DIV.ad250x250.fLeft.marRig10,DIV#adUn_1,div.adDingT,div.ad-min-box,div.ad-side,[id^="adFm_"],.ad2,.ad_bar,[class^="ad_"]
+hudiecaifu.com
 huhumh.com,popomh.com###bottom_ads
 hujiang.com##.login-modal-mask
 hujiang.com##.login-modal-wrapper
@@ -4677,6 +4683,7 @@ jiwu.com##.baidu-showcase-news,.in-banner
 jj59.com##.art_tong,.p_ad,.art_a1,.art_a2,.art_a3,#twgg,#wzgg
 jjckb.cn##[class^="adv_"],[class$="guanggao"]
 jjj.amghais.cn
+jjjak.com
 jjwxc.net##DIV[style="height: 90px;"],.ad1,[height="90"],[height="60"],table[style^="width:984px;height:92px;"],.h8px + div[align="center"]
 jjxw.cn##.logo_ad_r,[class$="_banner"],#ad2,.c_banner_02_ad
 jk.aaaa8.top
@@ -4708,6 +4715,7 @@ js.bcrealm.com
 js.bluecarvin.xyz
 js.brstke.top
 js.dilidd.com
+js.js-tianqilm.com
 js.keeyekey.xyz
 js.loveshop8.com
 js.mhdnspro.com
@@ -4718,6 +4726,7 @@ js.njcn888.com
 js.njupt-sacc.com
 js.penxiangge.com
 js.qajypx.com
+js.quanmindi.com
 js.qygzbxpt.com
 js.tongdianku.com
 js.users.51.la
@@ -4915,6 +4924,7 @@ koolearn.com##.zx_banner,.on_mtab,.news_pf,.ktit_sw,.ad
 kos.qasqs.com
 kr.sdykcloud.cn
 krw.yrehdfer.com
+kry.jknrwe.cn
 ks.js.cn##.height45,.height60,[id^="sliderTop"],[class="fontshow k958 clearfix"],.height80
 ks66666661.com
 ksbbs.com##.slideAdvert,.fr
@@ -5482,6 +5492,7 @@ mg.liulanliang.cn
 mg.mngjrn.cn
 mg.njzyjy.cn
 mg.nnocsin.cn
+mg.npftmqv.cn
 mg.rdlbkvo.cn
 mg.rywnvzd.cn
 mg.shengminsy.com

@@ -1,5 +1,5 @@
 ! Title: Allowlist
-! Version: 2022-03-16 08:34:41（北京时间） 
+! Version: 2022-03-16 16:09:59（北京时间） 
 ! Total count: 4928
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
@@ -8082,6 +8082,7 @@
 @@||ultimedia.com/js/common/jquery.gatracker.js
 @@||unifi.me/mootools/classes/*-tracking
 @@||union.bokecc.com/player
+@@||union.video.qq.com/fcgi-bin/$script,domain=qq.com
 @@||union.video.qq.com/fcgi-bin/data?$script
 @@||union2.50bang.org^$third-party
 @@||uniqlo.com^*/trackingservice/$~third-party
@@ -8140,7 +8141,6 @@
 @@||video.520cc.cc^$generichide
 @@||video.oms.eu/crossdomain.xml$domain=badische-zeitung.de
 @@||video.oms.eu/projekt/download/OMSComponent.swf$domain=badische-zeitung.de
-@@||video.qq.com/fcgi-bin/
 @@||video.repubblica.it^*/nielsen.js
 @@||videoplaza1.tv/proxy/as3_vp_player-ku
 @@||videos.nbcolympics.com/beacon?$domain=nbcolympics.com

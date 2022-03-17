@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-03-17 16:09:54（北京时间） 
-! Total count: 14316
+! Version: 2022-03-18 00:10:22（北京时间） 
+! Total count: 14295
 -960x*0.gif
 -250.js*
 
@@ -957,7 +957,7 @@ $removeparam=effi_id
 $removeparam=effi_id2
 $removeparam=ei,domain=google.*
 $removeparam=eid,domain=facebook.com
-$removeparam=eid,~xmlhttprequest,denyallow=embed.tapkal.fi,domain=~howlongtobeat.com|~activationspot.com|~vmware.com|~anidb.net
+$removeparam=eid,~xmlhttprequest,denyallow=embed.tapkal.fi,domain=~activationspot.com|~anidb.net|~howlongtobeat.com|~piwigo.org|~vmware.com
 $removeparam=elq
 $removeparam=elqCampaignId
 $removeparam=elqTrack
@@ -1997,29 +1997,6 @@ $~xmlhttprequest,~media,removeparam=source,denyallow=googlevideo.com,domain=1sol
 *wa5as4.com/vd
 *webad/
 *wwwad/
---.+/statics/js/hth1111.html
---.com/gg.js
---/360mse/360mse_.+.apk?
---/api/ad/
---/app/.+/%E6%B5%8F%E8%A7%88%E5%99%A8.apk
---/app/market/.+/%E9%AB%98%E9%80%9F%E6%B5%8F%E8%A7%88%E5%99%A8.apk
---126.net/.+analysis
---163.com/wap/special/article_cooper_piapia/
---163487\.+\.qmgmw.com
---567\w?\.xyz
---baidu.com/api/wapui/getrelatedbusiness
---baidu.com/newspage/api/getmobads?
---bing.com/fd/ls/l?IG=
---bing.com/fd/ls/lsp.aspx
---boxer.baidu.com/scheme
---chen-xing/figure_bed
---download.2345.cn/2345yd1/apk/
---g.163.com/.+&affiliate=
---nex.163.com/q?
---templates_pc/default/scripts/chapter_bottom.js
---tplv-noop.gif
---uf.haoyu666.top/uploads.+%E7%B2%BE%E5%93%81%E5%BD%B1%E8%A7%86.apk?
---www.xxmh.+.com
 -ads.
 -advertise-
 -gg.js?
@@ -3349,7 +3326,6 @@ bootcdn.meihaoxiangwang.com
 boquge.com##.gad2,.adsbygoogle
 boroboromi.com##.mod-ad
 bouweenpc.nl###header-banner
-boxer.baidu.com/scheme
 bozhou.cn##.bannerad
 bqg5200.com##.content_ad,.ad250left
 brtn.cn##.business-item,[adview-id]
@@ -4415,6 +4391,7 @@ i.ifeng.com##.banner
 i.ifeng.com##div[class^=content-]>div[class^=link-]
 i.ifeng.com##div[class^=list-]:-abp-contains(APP)
 i04.ipc08dt.com
+ia.51.la
 iadctest.qwapi.com^
 iask.sina.com.cn###closed_sj,DIV[class^="ad_"],DIV#specialtopic_daily_tab_ad_new,div.ad680x90,#q_detail_right_1,#q_detail_right_2,.sj_684x90,.common-banner,.sj_680x90,.sj680x90,.sj_1000x90,#closed_ad,.andy_baidu_adv,.sj_680x250
 iauto.ifeng.com###ifgDown
@@ -5498,7 +5475,6 @@ mbd.baidu.com##DIV[class='commentTitle']
 mbd.baidu.com##DIV[class='horizontal']
 mbd.baidu.com##DIV[class='openall3']
 mbd.baidu.com##SPAN[class='openText']
-mbdp02.bdstatic.com
 mbx.tt3edd.com
 mc.a48505.cn
 mc.kmhmyaj.cn
@@ -5597,6 +5573,7 @@ mmszxc.top
 mmweibo.net##[href="/thread-8457589-1-1.html"],[class^="lt-"],.zoom,.a_pr,.a_sxpb,[height="60"],[height="80"],.div-list
 mmybt.com##.a_mu,.a_pt
 mnr.gaojiaju.net
+mnr.jajjo.cn
 mnw.cn##.ads,.ad2,.ad1,.left_300_250,iframe[src^="http://g.mnw.cn/"],.mnw_top_ads,.h65,.mnw_265,[style*="height:140px;width:1000px;"]
 mo.sdalxz.xyz
 mob.iyingdi.com##.down-load-app-container
@@ -11526,6 +11503,7 @@ zzpzero.com
 ||m.qu.la/jsa/p.js
 ||m.qu.la/ll/
 ||m.sfscooter.cn^
+||m.sfw5.me/wx^
 ||m.video.9ddm.com/api$replace=/banner_button//
 ||m.video.9ddm.com/api/$replace=/banner_big//
 ||m.video.9ddm.com/api/a3/splash?
@@ -13277,6 +13255,7 @@ zzpzero.com
 ||whdafei.com^
 ||whinfo.net.cn/js/fly_right.js
 ||whoclick.cn^
+||whwdzgykybnfg.com^
 ||wifi.com^
 ||wifi33.com^
 ||win-winfuture.cn^

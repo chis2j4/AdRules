@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-03-18 00:10:22（北京时间） 
-! Total count: 14295
+! Version: 2022-03-18 08:35:14（北京时间） 
+! Total count: 14296
 -960x*0.gif
 -250.js*
 
@@ -10042,6 +10042,7 @@ zzpzero.com
 ||de.pandora.xiaomi.com^
 ||deepdiscount.com^$removeparam=bid
 ||deezer.com^$removeparam=deferredFl
+||defenseone.com^$removeparam=oref
 ||deliver.kuwo.cn^
 ||delivery*.wasu.cn/d/js/1.0?pos=
 ||delivery.impressionmonster.com/sync.php

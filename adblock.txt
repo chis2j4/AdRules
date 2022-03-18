@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-03-18 08:35:14（北京时间） 
-! Total count: 14296
+! Version: 2022-03-18 16:09:51（北京时间） 
+! Total count: 14297
 -960x*0.gif
 -250.js*
 
@@ -11144,7 +11144,6 @@ zzpzero.com
 ||k8jdwang.com/js/wap_max/waptop.js
 ||kaicn.com/style/js/js.js$script
 ||kaimaohong20.cn^
-||kaipuyun.cn^
 ||kanclick.com$third-party
 ||kang08.com^
 ||kanguba.com/file/js/ifr.asp
@@ -11620,6 +11619,8 @@ zzpzero.com
 ||meiyouad.com/user/union?t=
 ||mengyang.info^
 ||mercadolibre.com.ar^$removeparam=pdp_filters
+||mercadolibre.com.mx^$removeparam=/^matt_/
+||mercadolibre.com.mx^$removeparam=/^reco_/
 ||mercury-sdk.snssdk.com^
 ||metosk.com^
 ||metvb.com/js/z.js

@@ -7000,6 +7000,7 @@
 @@||crl2.alphassl.com^
 @@||crl3.digicert.com^
 @@||crl4.digicert.com^
+@@||crls.pki.goog^
 @@||crn.com^
 @@||crontab.guru^
 @@||cropper.watch.aetnd.com^
@@ -33832,8 +33833,12 @@
 @@||api-secure.solvemedia.com/papi/$image,script,domain=clik.pw
 @@||api-secure.solvemedia.com^
 @@||api-secure.solvemedia.com^$stealth
+@@||api-v*.trbo.com/r.php$domain=blau.de
+@@||api-v*.trbo.com/r.php$domain=blau.de
 @@||api-v*.trbo.com/r.php$domain=o2online.de
 @@||api-v*.trbo.com/r.php$domain=o2online.de
+@@||api-v*.trbo.com^|
+@@||api-v*.trbo.com^|
 @@||api.1plus1.video^$stealth
 @@||api.adinplay.com/$xmlhttprequest,domain=taming.io
 @@||api.adinplay.com/display/pub/*/display.min.js$domain=blastz.io
@@ -38806,7 +38811,6 @@
 @@||footballhd.ru/engine/ajax/$document
 @@||forbes.com^$generichide
 @@||forecast.lemonde.fr/p/event/pageview?$image,~third-party
-@@||forex-gold.net^$generichide
 @@||forex-lab.xyz^$generichide
 @@||forex-trnd.com^$generichide
 @@||forexprostools.com/?columns=$domain=investmentwatchblog.com
@@ -43969,7 +43973,6 @@
 @@||majesy.com^$generichide
 @@||majesy.org^$generichide
 @@||majorgeeks.com/b/advertisement.js
-@@||maka.im/api/v5/advertisements?
 @@||makeuseof.com/public/build/images/bg-advert-with-us.$~third-party
 @@||makeuseof.com/public/build/images/bg-advert-with-us.$~third-party
 @@||malakoffmederic.com/entreprise/*/affiliation/
@@ -46037,6 +46040,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=followcheck.itby.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=fontyukle.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=forex-articles.com|try2link.com|world-trips.net|forex-gold.net|newforex.online|mobi2c.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=forexlap.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=formatatmak.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=forum.auraroleplay.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=forum.blackhatindia.ru
@@ -47017,8 +47021,10 @@
 @@||player.bizportal.co.il/scripts/GoogleAnalytics.js$domain=bizportal.co.il
 @@||player.chillizet.pl^$generichide
 @@||player.clevercast.com/players/video-js/video-js-plugins/videojs.ads.min.js
+@@||player.daznfeeds.com/bootstrap/$stealth
 @@||player.daznfeeds.com/epbootstrap^$stealth
 @@||player.daznfeeds.com/epvod^$stealth
+@@||player.daznfeeds.com/vod/$stealth
 @@||player.daznfeeds.com^$stealth,domain=transfermarkt.*
 @@||player.enetres.net/js/videojs-plugins/videojs-ads-contrib/videojs.ads.js
 @@||player.fc-zenit.ru/msi/geoip?$xmlhttprequest
@@ -49247,6 +49253,7 @@
 @@||sledujserialy.to/theme/js/popunder.js
 @@||slidesharecdn.com/images/share_icon_transparent.png$domain=slideshare.net
 @@||slidesharedownloader.ngelmat.net^$generichide
+@@||sliedrecht24.nl/wp-content/uploads/2022/02/Banner-300x250-1.jpg.webp
 @@||slike.indiatimes.com/feed/$domain=idiva.com
 @@||slike.indiatimes.com/feed/$domain=idiva.com
 @@||slike.indiatimes.com/feed/playerconfig/*.json$domain=zoomtventertainment.com
@@ -49670,6 +49677,7 @@
 @@||staaker.com^$generichide
 @@||stabila.com/*bundles/marketingsuite/css/cookie-bar.css
 @@||stackpathcdn.com/wp-content/plugins/*/adblock-detector/advertisement.js$domain=phoneswiki.com
+@@||stackpathcdn.com^$stealth,domain=tympanus.net
 @@||stacksnippets.net^$jsinject,elemhide,extension
 @@||stacksocial.com^$cookie=ajs_anonymous_id
 @@||stadionowioprawcy.net^$generichide
@@ -49728,8 +49736,12 @@
 @@||static-immobilienscout24.de/fro/image/Ads^
 @@||static-redesign.cnbcfm.com/dist/components-PcmModule-Ads-BoxInline-*.js$domain=cnbc.com
 @@||static-redesign.cnbcfm.com/dist/components-PcmModule-Taboola-*.js$domain=cnbc.com
+@@||static-v*.trbo.com/plugin/trbo_*.js$domain=blau.de
+@@||static-v*.trbo.com/plugin/trbo_*.js$domain=blau.de
 @@||static-v*.trbo.com/plugin/trbo_*.js$domain=o2online.de
 @@||static-v*.trbo.com/plugin/trbo_*.js$domain=o2online.de
+@@||static-v*.trbo.com^|
+@@||static-v*.trbo.com^|
 @@||static-web.last.fm/static/js-build/lib/ua-parser/ua-parser-*.min.js
 @@||static.*-vod-playout-prod.aws.route71.net/ad-source-fetcher/dist/ad-source-fetcher.min.js$domain=joyn.de
 @@||static.*-vod-playout-prod.aws.route71.net/ad-tracker/dist/ad-tracker.min.js$domain=joyn.de
@@ -50904,6 +50916,7 @@
 @@||toolfk.com/tools/js/share/js/jquery.share.min.js
 @@||toolforge.org/ad_block_test.js
 @@||tools.halpas.com^$generichide
+@@||tools.pdf24.org/de/cookie-banner-iframe
 @@||tools.services.tvn.pl/_ads/advert.js
 @@||tools.usps.com/go/TrackConfirmAction
 @@||tools.usps.com/go/scripts/tracking.js
@@ -51934,6 +51947,7 @@
 @@||vintagewinepicks.blogspot.com^$generichide
 @@||vip.de^$generichide
 @@||vip.freelive365.com/adblocker.js
+@@||vip.rtsts.me/?pge=$image,stealth
 @@||vipbox.nu^$stealth
 @@||vipbox.tv/js/cnads.js
 @@||vipi.tv/ads.js

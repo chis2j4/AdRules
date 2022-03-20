@@ -5282,6 +5282,7 @@
 @@||cdn.winscp.net^
 @@||cdn.wordplays.com^
 @@||cdn.wshopon.com^
+@@||cdn.wtzw.com^
 @@||cdn.wwnorton.com^
 @@||cdn.x-kom.pl^
 @@||cdn.xsd.cz^
@@ -36615,6 +36616,8 @@
 @@||cmn.gyro-n.com/js/gyr.min.js$domain=benesse-style-care.co.jp
 @@||cmn.gyro-n.com/js/gyr.min.js$domain=benesse-style-care.co.jp
 @@||cmnw.jp^$generichide
+@@||cmoa.jp^$cookie=_ga
+@@||cmoa.jp^$cookie=_ga
 @@||cmoney.tw/finance/js/googleanalytics.js
 @@||cmoney.tw/follow/js/google_analytics.js
 @@||cmoney.tw/follow/js/google_analytics.js
@@ -37455,6 +37458,8 @@
 @@||deliver.vkcdnservice.com/api/spots^$domain=hqq.tv
 @@||deliver.vkcdnservice.com/vast-im.js$domain=hqq.to
 @@||deliver.vkcdnservice.com/vast-im.js$domain=meucdn.vip|yandexcdn.com|waaw.to|hqq.to|hindipix.in|waaws.tk|hindipix.in|ventax.net|waaw1.tv|fullbeeg.com|waaw.tv|czxxx.org|newhost.me|videoxseries.xyz|scenelife.org|piratulhd.com|hqq.tv
+@@||delivery.satr.jp^$script,domain=mieru-ca.com
+@@||delivery.satr.jp^$script,domain=mieru-ca.com
 @@||delivery.vidible.tv/jsonp/$script,domain=delivery.vidible.tv
 @@||delivery.vidible.tv/jsonp/$script,domain=engadget.com
 @@||delivery.vidible.tv/jsonp/$script,domain=engadget.com
@@ -37986,6 +37991,7 @@
 @@||dyncdn.me/mimages/$stealth
 @@||dz4soft.blogspot.com^$generichide
 @@||dz4soft.blogspot.de^$generichide
+@@||dz9qn8fh4jznm.cloudfront.net/script.js$script,domain=bostonglobe.com
 @@||dzfoot.com/wp-content/themes/dzfoot/js/advertisement.js
 @@||dziennikwschodni.pl/*/*?ads=$~third-party,image
 @@||dziennikwschodni.pl/*/*ads.
@@ -40488,7 +40494,7 @@
 @@||googleapis.com^$script,stylesheet,domain=canyoublockit.com
 @@||googledrive.com$document
 @@||googledrivelinks.com^$generichide
-@@||googleoptimize.com/optimize.js$script,domain=tentree.ca
+@@||googleoptimize.com/optimize.js$script,domain=inquirer.com|tentree.ca
 @@||googleoptimize.com/optimize.js$script,domain=wallapop.com
 @@||googleoptimize.com/optimize.js$script,domain=wallapop.com
 @@||googlesyndication.com/pagead/imgad?$image,domain=auto-motor-und-sport.de
@@ -41044,6 +41050,8 @@
 @@||googletagmanager.com/gtm.js$script,domain=beterbed.nl|finanzen.ch|mediamarkt.nl
 @@||googletagmanager.com/gtm.js$script,domain=cdon.fi|como.fi|episodi.fi|fum.fi|hobbyhall.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi|veho.fi
 @@||googletagmanager.com/gtm.js$script,domain=chronopost.fr|linternaute.com|sciencesetavenir.fr|wamiz.com
+@@||googletagmanager.com/gtm.js$script,domain=cmoa.jp
+@@||googletagmanager.com/gtm.js$script,domain=cmoa.jp
 @@||googletagmanager.com/gtm.js$script,domain=dpoint.jp
 @@||googletagmanager.com/gtm.js$script,domain=dpoint.jp
 @@||googletagmanager.com/gtm.js$script,domain=girlsnews.tv
@@ -41823,6 +41831,8 @@
 @@||hutchgo.advertserve.com^$popup,domain=hutchgo.com|hutchgo.com.cn|hutchgo.com.hk|hutchgo.com.sg|hutchgo.com.tw
 @@||huxiucdn.com/*/*.mp4$stealth
 @@||huynhhieu.com^$generichide
+@@||hvemder.no/api/hitcount/$~third-party
+@@||hvemder.no/js/hitcount.min.js$script,~third-party
 @@||hvg.hu/Content/redesign/js-notbundled/showads.js
 @@||hw-ads.datpiff.com/news/$image,domain=datpiff.com
 @@||hw-ads.datpiff.com/news/$image,domain=datpiff.com
@@ -43090,7 +43100,7 @@
 @@||jsonip.com/?callback=$script,domain=pagtel.com.br
 @@||jsonip.com/?callback=jQuery$domain=pagtel.com.br
 @@||jsonip.com/?callback=jQuery$domain=pagtel.com.br
-@@||jsqsjn.com^$script,domain=yssm.info
+@@||jsqsjn.com^$script,domain=fyxfcw.com|yssm.info
 @@||jsr9.com^$domain=jsr9.com
 @@||jsr9.com^$domain=jsr9.com
 @@||jsrdn.com/s/$script,domain=distro.tv
@@ -43801,6 +43811,8 @@
 @@||localizaagencia.com^$generichide
 @@||log.mmstat.com^|
 @@||log.mmstat.com^|
+@@||log000.goo.ne.jp/gcgw.js$domain=nttxstore.jp
+@@||log000.goo.ne.jp/gcgw.js$domain=nttxstore.jp
 @@||log000.goo.ne.jp/js/VLTraceDMD.js$domain=news.goo.ne.jp
 @@||log000.goo.ne.jp/js/VLTraceDMD.js$domain=news.goo.ne.jp
 @@||logcg.content-delivery.top/wp-content/plugins/bwp-minify/min/?f=
@@ -53284,5 +53296,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-03-19 08:56:55
-! Total count: 53282
+! Version: 2022-03-20 08:59:58
+! Total count: 53294

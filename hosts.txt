@@ -2,8 +2,8 @@
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 12 Hours
-# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2022-03-19 16:10:14
-# Total count: 91031
+# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2022-03-20 00:34:45
+# Total count: 91034
 0.0.0.0 
 0.0.0.0 .weixingshexiangji.net
 0.0.0.0 0--e.info
@@ -23193,6 +23193,7 @@
 0.0.0.0 collector-cdn.github.com
 0.0.0.0 collector-dev.cdp-dev.cnn.com
 0.0.0.0 collector-hpn.cliqz.com
+0.0.0.0 collector-hpn.ghostery.net
 0.0.0.0 collector-main.trafficmanager.net
 0.0.0.0 collector-medium.lightstep.com
 0.0.0.0 collector-px0py5pczn.octopart.com
@@ -77661,6 +77662,7 @@
 0.0.0.0 tguomcq.cn
 0.0.0.0 tguxiijalpaoggr.xyz
 0.0.0.0 tgvbwjbnxz.com
+0.0.0.0 tgvtlpi.cn
 0.0.0.0 tgw-masdk.3g.qq.com
 0.0.0.0 tgw-sasdk.3g.qq.com
 0.0.0.0 tgwopez.cn
@@ -82314,6 +82316,7 @@
 0.0.0.0 ujvilagtudat.blogspot.hu
 0.0.0.0 ujvpma.infinitytools.com
 0.0.0.0 uk-script.dotmetrics.net
+0.0.0.0 uk-tracking.nextdoor.com
 0.0.0.0 uk.activeshopper.com
 0.0.0.0 uk.ads.hexus.net
 0.0.0.0 uk.ads.justpremium.com

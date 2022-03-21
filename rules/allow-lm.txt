@@ -1980,6 +1980,7 @@
 @@||apidis.period-calendar.com^
 @@||apigateway.iqiyi.com^
 @@||apikey.map.qq.com^
+@@||apilog-web.acfun.cn^
 @@||apipos.com^
 @@||apis.247sports.com^
 @@||apis.broadcastify.com^
@@ -16861,6 +16862,7 @@
 @@||lockergnome.com^
 @@||lockharttactical.com^
 @@||lodz.tvp.pl^
+@@||log-sdk.ksapisrv.com^
 @@||log-upload-os.mihoyo.com^
 @@||log.mmstat.com^
 @@||log4j-tester.trendmicro.com^
@@ -31467,6 +31469,7 @@
 @@/OutbrainWidgetConnector.js$domain=foxnews.com
 @@/RealMedia/ads^$domain=aeroplan.com
 @@/Resources/Public/JavaScript/CookieBar.js$~third-party
+@@/Status/ping$stealth,domain=status.bigant.com
 @@/Tag.rb$domain=github.com
 @@/Themes/SamsungShop/Scripts/shop/cookie-notice.js$domain=shop.samsung.com
 @@/WebAd/*$domain=yongyoujia.com
@@ -34931,6 +34934,7 @@
 @@||bitdefender.com/submit/$stealth
 @@||bitearns.com/*/advertisement.js
 @@||bitearns.com^$generichide
+@@||bitefaucet.com/ads/wp-content/plugins/wp-safelink/assets/$image,~third-party
 @@||bitent.com/lock_html5/adPlayer/v*/adPlayer.js
 @@||bitent.com/lock_html5/adscontrol.js$domain=bitent.com
 @@||biters.io^$generichide
@@ -40894,6 +40898,8 @@
 @@||googletagmanager.com/gtm.js$domain=odia.ig.com.br
 @@||googletagmanager.com/gtm.js$domain=oresundsbron.com
 @@||googletagmanager.com/gtm.js$domain=oresundsbron.com
+@@||googletagmanager.com/gtm.js$domain=otomotoklik.pl
+@@||googletagmanager.com/gtm.js$domain=otomotoklik.pl
 @@||googletagmanager.com/gtm.js$domain=overwatchleague.com
 @@||googletagmanager.com/gtm.js$domain=overwatchleague.com
 @@||googletagmanager.com/gtm.js$domain=packtpub.com
@@ -41071,7 +41077,7 @@
 @@||googletagmanager.com/gtm.js$domain=zolotoyvek.ua
 @@||googletagmanager.com/gtm.js$script,domain=animeanime.jp|carcareplus.jp|cinemacafe.net|cyclestyle.net|gamebusiness.jp|gamespark.jp|inside-games.jp|mycar-life.com|newscafe.ne.jp|reanimal.jp|resemom.jp|response.jp|scan.netsecurity.ne.jp|spyder7.com
 @@||googletagmanager.com/gtm.js$script,domain=animeanime.jp|carcareplus.jp|cinemacafe.net|cyclestyle.net|gamebusiness.jp|gamespark.jp|inside-games.jp|mycar-life.com|newscafe.ne.jp|reanimal.jp|resemom.jp|response.jp|scan.netsecurity.ne.jp|spyder7.com
-@@||googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp|benesse-style-care.co.jp|book.impress.co.jp|cyclestyle.net|dengekionline.com|dholic.co.jp|hatenacorp.jp|junonline.jp|kakuyomu.jp|mainichi.jp|mangaseek.net|nap-camp.com|radiko.jp|sanwacompany.co.jp|stage.parco.jp|viviennewestwood-tokyo.com|ymobile.jp|zakzak.co.jp
+@@||googletagmanager.com/gtm.js$script,domain=anond.hatelabo.jp|benesse-style-care.co.jp|book.impress.co.jp|cmoa.jp|cyclestyle.net|dengekionline.com|dholic.co.jp|hatenacorp.jp|junonline.jp|kakuyomu.jp|mainichi.jp|mangaseek.net|nap-camp.com|radiko.jp|sanwacompany.co.jp|stage.parco.jp|viviennewestwood-tokyo.com|ymobile.jp|zakzak.co.jp
 @@||googletagmanager.com/gtm.js$script,domain=beterbed.nl|finanzen.ch|mediamarkt.nl
 @@||googletagmanager.com/gtm.js$script,domain=cdon.fi|como.fi|episodi.fi|fum.fi|hobbyhall.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi|veho.fi
 @@||googletagmanager.com/gtm.js$script,domain=chronopost.fr|linternaute.com|sciencesetavenir.fr|wamiz.com
@@ -41520,6 +41526,7 @@
 @@||hdarkzone.com/wp-content/plugins/block-adsblock/js/ads.core.js
 @@||hdbox.ws^$generichide
 @@||hdcast.org^$stealth
+@@||hdfilme.cx^$generichide
 @@||hdfree.tv/live^$stealth
 @@||hdgo.cc^$generichide
 @@||hdgo.cx^$generichide
@@ -45136,8 +45143,6 @@
 @@||nb-music.net^$generichide
 @@||nbaapi.neulion.com/api_nba/$stealth,domain=nba.com
 @@||nbc.com/generetic/scripts/ads.js
-@@||nbcnews.com/videoplayer$jsinject
-@@||nbcnews.com/widget/pdkplayer$jsinject
 @@||nbcolympics.com/profiles/olympics/*$domain=nbcolympics.com
 @@||nbcume.sc.omtrdc.net/id?d_visid_ver=$domain=nbcdfw.com,important
 @@||nbcume.sc.omtrdc.net/id?d_visid_ver=$domain=nbcdfw.com,important
@@ -45775,6 +45780,7 @@
 @@||orbitfour47.com/adclix.png
 @@||orbitfour47.com^$domain=chicksonright.com
 @@||order-order.com/wp-content/themes/orderorder/admanager.google.com.js
+@@||order-order.com^$generichide
 @@||order.shopping.yahoo.co.jp/cgi-bin/order-form$document
 @@||orduh.com^$generichide
 @@||orf-watch.at/includes/js/ads.js
@@ -46022,6 +46028,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bemiraculous.tk|drivedrama.com|puressh.net|iptvbin.com|htnovo.net|frendz4m.org|bestnhl.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bestopbook.info
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bfas237blog.info
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bitefaucet.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bizjournals.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bleachmx.fr
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=blog-dnz.org
@@ -46440,6 +46447,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ui.memoryhackers.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ujszo.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=unityassets4free.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=unlimitdownloads.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=unlockapk.com|newsjizz.in
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=unrar.flowsoft7.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=unsurcoenlasombra.com
@@ -46605,6 +46613,7 @@
 @@||pagead2.googlesyndication.com/pagead/managed/js/*/show_ads_impl_fy*.js$domain=techyneed.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=ff14angler.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl*.js$domain=exey.io
+@@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_*.js$domain=toolxox.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_fy2019.js$domain=beatsnoop.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_fy2019.js$domain=htmlweb.ru
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_with_ama_fy2019.js$domain=cdkm.com
@@ -47165,7 +47174,6 @@
 @@||player.stb.ua/assets/*/videojs-contrib-ads-master/src/videojs.a-s.js
 @@||player.sundaysky.com^$subdocument
 @@||player.teleportal.ua/js/ads.js
-@@||player.theplatform.com^$jsinject
 @@||player.tree.tv/js/vast/video.ads.js$domain=player.tree.tv
 @@||player.vgtrk.com/js/loader.js
 @@||player.vgtrk.com/js/stat.js?
@@ -47464,7 +47472,7 @@
 @@||pro.hit.gemius.pl/gplayer.js$domain=nova.cz
 @@||pro.hit.gemius.pl/gstream.js$domain=ttv.pl
 @@||pro.hit.gemius.pl/gstream.js$domain=ttv.pl
-@@||pro.ip-api.com/json$xmlhttprequest,domain=aljazeera.com|cookappsgames.com|sheee.co.il|walla.co.il
+@@||pro.ip-api.com/json$xmlhttprequest,domain=aljazeera.com|cookappsgames.com|nontongp.xyz|sheee.co.il|walla.co.il
 @@||pro.similarweb.com^$document
 @@||pro3xplain.com/wp-content/themes/jannah*/assets/js/advertisement.js
 @@||proapkmod.com^$generichide
@@ -51415,6 +51423,8 @@
 @@||tvnow.de^$generichide
 @@||tvnturbo.pl^$generichide
 @@||tvplayer.com^$stealth
+@@||tvpoland.ml^$generichide
+@@||tvpolen.ml^$generichide
 @@||tvs.jagobd.com^$generichide
 @@||tvserial.it^$generichide
 @@||tvshows4mobile.com^$generichide
@@ -52198,8 +52208,6 @@
 @@||vp.videoplaza.tv/resources/pulse-sdk-html5/*/pulse-sdk-html5-$script,domain=mitele.es
 @@||vplayer.ilsemedia.nl/swf/im_player.swf?
 @@||vplayer.ilsemedia.nl/swf/im_player.swf?
-@@||vplayer.nbcolympics.com^$jsinject
-@@||vplayer.nbcsports.com^$jsinject
 @@||vpnjantit.com^$generichide
 @@||vpnsplit.com/ads/advertisement.js
 @@||vpnssh.net^$generichide
@@ -52988,6 +52996,7 @@
 @@||yahoo.bannertrack.net/serv
 @@||yahoo.com/lib/metro/g/myy/advertisement_*.js$domain=boston.com|calgaryherald.com|calgarysun.com|celebuzz.com|infinitiev.com|montrealgazette.com|saveur.com
 @@||yakitoriya.ru^$document,~third-party
+@@||yalla-shoot-now.us^$generichide
 @@||yalla-shoot.com/SpryAssets/SpryTabbedPanels.js
 @@||yalla-shoot.com/js/isMobile/*.js
 @@||yalla-shoot.com/m/lib/*.js
@@ -53321,5 +53330,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-03-21 09:00:47
-! Total count: 53319
+! Version: 2022-03-21 23:55:20
+! Total count: 53328

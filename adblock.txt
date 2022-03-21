@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-03-21 00:09:37（北京时间） 
-! Total count: 14297
+! Version: 2022-03-21 16:11:02（北京时间） 
+! Total count: 14299
 -960x*0.gif
 -250.js*
 
@@ -210,6 +210,7 @@
 ##[target='_blank'][href='https://u.jd.com/J7NwrL ']
 ##[width='100%'][src^='/js/ad_/mobile'][src*='jpg']
 ##a.broad_roll
+##a.gggg[href^="https"]
 ##a.outlink
 ##a[href*=".vxzmok.com"]
 ##a[href*=".yixing-hb.com"]
@@ -5755,6 +5756,7 @@ olevod.com##div.box
 olpv.onlylady.com
 omk13.f4hn9v.com
 omlube.com/O/1000970O3001405O1O.js
+omr.ttayy.cn
 omyy.com##.indexadv,[height="60"]
 one.gongshu168.cn
 oneinstack.com###sidebar > .widget:last-child

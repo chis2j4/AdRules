@@ -1739,6 +1739,7 @@
 @@||api.darksky.net^
 @@||api.deere.com^
 @@||api.deezer.com^
+@@||api.delfi.ee^
 @@||api.device.xiaomi.net^
 @@||api.digitalocean.com^
 @@||api.discogs.com^
@@ -7995,6 +7996,7 @@
 @@||del-ton.com^
 @@||delfi.ee^
 @@||delfi.lt^
+@@||delfi.lv^
 @@||delicious.com^
 @@||delish.com^
 @@||delivery.acm.org^
@@ -11365,17 +11367,21 @@
 @@||g0l9lo-lq8d90yuostw.cloudmaestro.com^
 @@||g0tmi1k.com^
 @@||g1.dcdn.lt^
+@@||g1.delphi.lv^
 @@||g1.img-dpreview.com^
 @@||g1.nh.ee^
 @@||g2.com^
 @@||g2.dcdn.lt^
+@@||g2.delphi.lv^
 @@||g2.img-dpreview.com^
 @@||g2a.co^
 @@||g2a.com^
 @@||g2rammo.com^
 @@||g3.dcdn.lt^
+@@||g3.delphi.lv^
 @@||g3.img-dpreview.com^
 @@||g4.dcdn.lt^
+@@||g4.delphi.lv^
 @@||g4.img-dpreview.com^
 @@||g6.psychcentral.com^
 @@||gab.com^
@@ -34412,10 +34418,10 @@
 @@||asus-zenfone.com^$generichide
 @@||asyadizileri.net^$generichide
 @@||asyadrama.com^$generichide
-@@||at.adtech.redventures.io/lib/api/$xmlhttprequest,domain=gamespot.com|metacritic.com
-@@||at.adtech.redventures.io/lib/api/$xmlhttprequest,domain=gamespot.com|metacritic.com
-@@||at.adtech.redventures.io/lib/dist/$script,domain=gamespot.com|metacritic.com
-@@||at.adtech.redventures.io/lib/dist/$script,domain=gamespot.com|metacritic.com
+@@||at.adtech.redventures.io/lib/api/$xmlhttprequest,domain=gamespot.com|giantbomb.com|metacritic.com
+@@||at.adtech.redventures.io/lib/api/$xmlhttprequest,domain=gamespot.com|giantbomb.com|metacritic.com
+@@||at.adtech.redventures.io/lib/dist/$script,domain=gamespot.com|giantbomb.com|metacritic.com
+@@||at.adtech.redventures.io/lib/dist/$script,domain=gamespot.com|giantbomb.com|metacritic.com
 @@||at.adtech.redventures.io/lib/dist/prod/bidbarrel-techrepublic-ta.min.js$domain=techrepublic.com
 @@||at.adtech.redventures.io/lib/dist/prod/bidbarrel-zdnet-rv.min.js$domain=zdnet.com
 @@||atanx.alicdn.com/t/tanxssp.js$domain=alimarket.tmall.com|www.taobao.com|www.tmall.com
@@ -38929,6 +38935,7 @@
 @@||forexprostools.com/?columns=$domain=investmentwatchblog.com
 @@||forexprostools.com^$domain=shougedui.com
 @@||forgeofempires.com/game/json
+@@||form.typeform.com^$domain=amie.so
 @@||form.typeform.com^$domain=eventcairo.com
 @@||form.typeform.com^$domain=help.anytech365.com
 @@||form.typeform.com^$domain=springpod.co.uk
@@ -53356,5 +53363,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-03-23 09:10:27
-! Total count: 53354
+! Version: 2022-03-23 17:11:49
+! Total count: 53361

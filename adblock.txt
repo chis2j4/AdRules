@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-03-24 16:10:11（北京时间） 
-! Total count: 14320
+! Version: 2022-03-25 00:10:35（北京时间） 
+! Total count: 14333
 -960x*0.gif
 -250.js*
 
@@ -151,6 +151,7 @@
 ##[href^='https://www.hiweha.com/']
 ##[href^='https://www.hthty601.com:']
 ##[href^='https://www.lyty648.com']
+##[href^='https://www.uerlqe.com']
 ##[href^='https://www.visvn.cn/c.php']
 ##[href^='https://www.vofcr2a.com']
 ##[href^='https://www.xdh0808.com/']
@@ -2656,6 +2657,7 @@ $~xmlhttprequest,~media,removeparam=source,denyallow=googlevideo.com,domain=1sol
 @@||mozilla.org/api$removeparam
 @@||mp.weixin.qq.com/mp/qrcode?$removeparam=scene
 @@||msn.wrating.com^
+@@||myqqjd.com^
 @@||mywot.com/user/*/confirmNewEmail$removeparam=/^utm_/i
 @@||news.google.com.*?hl=$removeparam
 @@||nodkey.xyz^$genericblock,generichide
@@ -2664,6 +2666,7 @@ $~xmlhttprequest,~media,removeparam=source,denyallow=googlevideo.com,domain=1sol
 @@||openapi.youku.com/router^$app=com.huawei.hwvplayer.youku
 @@||p.jwpcdn.com$script
 @@||package.wallpaper.cdn.pandora.xiaomi.com.lan^$important
+@@||pagead2.googlesyndication.com^$domain=myqqjd.com
 @@||pan.quark.cn^
 @@||photovms.tv.sohu.com/*/*_hor_small_1.jpg$app=com.sohu.sohuvideo,important
 @@||photovms.tv.sohu.com/*/-*_1.jpg$app=com.sohu.sohuvideo,important
@@ -2728,6 +2731,8 @@ $~xmlhttprequest,~media,removeparam=source,denyallow=googlevideo.com,domain=1sol
 @@||www.avtbf.com/*.css$domain=avtbf.com
 @@||www.bilibili.com/html/iframemessage.html
 @@||www.cyberport.de/adscript.php$removeparam
+@@||www.google-analytics.com^$domain=myqqjd.com
+@@||www.googletagmanager.com^$domain=myqqjd.com
 @@||www.gsxt.gov.cn^
 @@||www.lanzous.com/includes/js/jquery.js$domain=lanzous.com,important
 @@||www.msn.cn/spartan/mmx^
@@ -3028,6 +3033,7 @@ baidu.com##div.wa-guanfanghao-main
 baidu.com##div[class$="-ecom-ads"]
 baidu.com##footer > a[class="dl"]
 baidu.com##section.bottom-intro
+baidu.com#@##page-pre
 baidu.com$$article[rl-link-data-url="mbd.baidu.com"]
 baidu.com$$div[class="bannerad"]
 baidu.com$$div[class="ec_wise_ad"]
@@ -5146,6 +5152,7 @@ m.baidu.com##.square-banner-bgicon.index-banner
 m.baidu.com##.suggest-hot
 m.baidu.com##.water-container.tab-news-content
 m.baidu.com##DIV#se-recommend-word-list-container.se-recommend-word-list-container
+m.baidu.com#@#div[class*="ads"]
 m.baidu.com,www.baidu.com###provider,div[class$="fixed"],SECTION#middle_banner,.ec_ad_results,.shopping-item,#bottomOperate
 m.baidu.com,www.baidu.com##ARTICLE[class='c-container aladdin__10uYO']
 m.baidu.com,www.baidu.com##A[class='hint-qnaire-bar']
@@ -5495,6 +5502,7 @@ mc.msdsd2.cn
 mc.mssdhde.cn
 mc.muhtbnd.cn
 mc.nithisp.cn
+mc.tohpeu.cn
 mc.wbesryx.cn
 mc.xheqbc.cn
 mcar.cc##.a_mu,[style*="background-color:"]
@@ -5521,6 +5529,7 @@ mengmiandaxia.com,mengmiandaxia.cn##[id="mmdx-bottom-ad"]
 mf.meizu.cn##.guide-suspend.suspend
 mfe.paqpq.com
 mg.hxhhb120.cn
+mg.jomwihn.cn
 mg.k9dzax.cn
 mg.ledaren.cn
 mg.lingqinga.cn
@@ -5653,6 +5662,7 @@ mz.xwintop.top
 n.35kds.com
 n.sinaimg.cn/finance/blackcat/pc/blink.gif$image
 n.sinaimg.cn/tech/zcapp2018/zc_new1x.png$image
+n5m5.com/static/js/playcon.js
 na.nawpush.com
 najiaoluo.com##.piclist.listcon
 nandu.com##div#top-ad
@@ -7179,6 +7189,7 @@ www.aoyou4.top
 www.aoyou5.top
 www.avtbo.com$$img[style="padding-bottom"]
 www.baidu.com###content_left > *:not([id]) *,[class="result c-container new-pmd"][id="1"][tpl="se_com_default"][data-click="{"]
+www.baidu.com#@#div[class*="ads"]
 www.baidu.com$@$div[class="ad_"]
 www.baidu.com,m.baidu.com##.listbox
 www.baidu.com,m.baidu.com##DIV[class='qrcode call']
@@ -9567,6 +9578,7 @@ zzpzero.com
 ||blue-tomato.com^$removeparam=zanox
 ||bluehost.com^
 ||bluekai.com^
+||bluematrixs.com^
 ||bmjjs.xzw.com^
 ||bmp.mm323.com/sdk/lt02.php?reef=https:^$domain=lsj.tt-hk.cn
 ||bmw100.cn^
@@ -12232,6 +12244,7 @@ zzpzero.com
 ||qhdzljxsb.cn^
 ||qhimg.com^$domain=1024li.com|mir300.com
 ||qhmsg.com^$domain=1024li.com
+||qhres2.com^
 ||qianjia.com/HotImages/2017/11/img20171109122716999.jpg
 ||qidian.com/bgImg.
 ||qidian.com/bgOps.

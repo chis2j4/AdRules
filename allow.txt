@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-03-24 16:10:20（北京时间） 
-! Total count: 4940
+! Version: 2022-03-25 00:10:42（北京时间） 
+! Total count: 4941
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -6718,6 +6718,7 @@
 @@||marvel-*.bc0a.com/*/images/$domain=whittard.co.uk
 @@||masterkong.com.cn/adimages/
 @@||matchid.adfox.yandex.ru/?url=$script,domain=ctc.ru
+@@||matomo.miraheze.org/matomo.js$script,~third-party
 @@||matsukiyo.co.jp^*/js/analytics/GoogleTagManager.js$~third-party
 @@||mavikadin.com/js/infinite/DFP.js
 @@||maxcdn.bootstrapcdn.com^$stylesheet,domain=shink.me|shon.xyz

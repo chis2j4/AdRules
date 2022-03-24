@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-03-24 08:36:51（北京时间） 
-! Total count: 14319
+! Version: 2022-03-24 16:10:11（北京时间） 
+! Total count: 14320
 -960x*0.gif
 -250.js*
 
@@ -960,7 +960,7 @@ $removeparam=effi_id
 $removeparam=effi_id2
 $removeparam=ei,domain=google.*
 $removeparam=eid,domain=facebook.com
-$removeparam=eid,~xmlhttprequest,denyallow=embed.tapkal.fi,domain=~activationspot.com|~anidb.net|~howlongtobeat.com|~piwigo.org|~vmware.com
+$removeparam=eid,~xmlhttprequest,denyallow=embed.tapkal.fi,domain=~activationspot.com|~anidb.net|~howlongtobeat.com|~piwigo.org|~vmware.com|~eventbrite.*
 $removeparam=elq
 $removeparam=elqCampaignId
 $removeparam=elqTrack
@@ -2520,6 +2520,7 @@ $~xmlhttprequest,~media,removeparam=source,denyallow=googlevideo.com,domain=1sol
 @@^mod=djemalertNEWS^$removeparam=mod
 @@_adview_$domain=muzlan.top
 @@mailinglist$removeparam=/^utm_/i
+@@www.cocomanga.com/js/ad_/ad2.js
 @@|wss://$removeparam
 @@|wss://zoom.us^$removeparam
 @@||*/assets/js/common/juqery/

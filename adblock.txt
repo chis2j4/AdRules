@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-03-26 16:09:32（北京时间） 
+! Version: 2022-03-27 00:09:37（北京时间） 
 ! Total count: 14336
 -960x*0.gif
 -250.js*
@@ -2827,6 +2827,7 @@ acgshenshicha.cn
 acgsou.com##[href^="/qxads/ads"]
 acgzone.us##DIV#page > DIV[style^="width:960px;height:"],a[href^="http://www.S99966.com/?aff="]
 ackcdn.net
+actionewz.com,animemojo.com,comicbookmovie.com,fearhq.com,gamefragger.com,mtvuutiset.fi,sffgazette.com,theringreport.com,toonado.com##+js(set, GSvars.addressTracking, false)
 activity.hnhnmg.com
 activity.tuigorilla.com
 acwifi.net##.ads-content
@@ -5632,7 +5633,6 @@ msn.com##div#adv_banner
 mt30.com##.biaod,[src="downa.jpg"]
 mtime.cn##div#clientAd,div.scrolladd
 mtime.com##div[id^="M14_B_"][id*="TG"]
-mtvuutiset.fi##+js(set, gsSkyId, noopFunc)
 muchong.com##.wrapper.header_table,[width="430"][height="192"],td.todayhot,[height="90"],[class^="App"],#xd_popbox
 muchong.com##[id^="banner"]
 music.163.com##.cmt_more_applink

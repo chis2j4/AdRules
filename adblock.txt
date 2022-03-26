@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-03-26 00:10:41（北京时间） 
-! Total count: 14335
+! Version: 2022-03-26 08:35:26（北京时间） 
+! Total count: 14336
 -960x*0.gif
 -250.js*
 
@@ -5632,6 +5632,7 @@ msn.com##div#adv_banner
 mt30.com##.biaod,[src="downa.jpg"]
 mtime.cn##div#clientAd,div.scrolladd
 mtime.com##div[id^="M14_B_"][id*="TG"]
+mtvuutiset.fi##+js(set, gsSkyId, noopFunc)
 muchong.com##.wrapper.header_table,[width="430"][height="192"],td.todayhot,[height="90"],[class^="App"],#xd_popbox
 muchong.com##[id^="banner"]
 music.163.com##.cmt_more_applink

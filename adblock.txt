@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-03-27 08:39:36（北京时间） 
-! Total count: 14335
+! Version: 2022-03-27 16:09:25（北京时间） 
+! Total count: 14338
 -960x*0.gif
 -250.js*
 
@@ -3460,6 +3460,7 @@ chanel.wohewodejxq.top
 chanel.wohewodejxy.top
 chanel.wohewodejxz.top
 changsha.cn##[class^="site_ad_"]
+changshuohr.net
 chaoku.oss-cn-chengdu.aliyuncs.com
 chapaofan.com##[class^="pf-ad-"],.details-ad
 chasedream.com##.a_h,.a_f,[id^="diycd-board"]
@@ -7281,6 +7282,7 @@ www.govjieyang.cn
 www.govkunming.cn
 www.govlaibing.cn
 www.govliuzhou.cn
+www.govshangxi.cn
 www.govshenzhen.cn
 www.govxian.cn
 www.govxinjiang.cn
@@ -9209,6 +9211,7 @@ zzpzero.com
 ||appjiagu.
 ||apple.com^$removeparam=/^ign-/
 ||apple.com^$removeparam=ct
+||apple.com^$removeparam=ctx_brand
 ||apple.com^$removeparam=fnode
 ||apple.com^$removeparam=mttn3pid
 ||apple.com^$removeparam=mttnagencyid

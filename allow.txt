@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-03-27 00:09:46（北京时间） 
-! Total count: 4945
+! Version: 2022-03-27 08:39:46（北京时间） 
+! Total count: 4946
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -7677,6 +7677,7 @@
 @@||soufunimg.com/count/uvbforpc.js
 @@||sourcepoint.telegraph.co.uk^$~third-party,xmlhttprequest
 @@||sourcepointcmp.bloomberg.*/ccpa.js$script,domain=bloomberg.co.jp|bloomberg.com
+@@||sourcepointcmp.bloomberg.*/mms/get_site_data?$domain=bloomberg.co.jp|bloomberg.com
 @@||sourcepointcmp.bloomberg.*/mms/get_site_data?requestUUID=$domain=bloomberg.*
 @@||sozi.cn/images/ad/tj
 @@||spanishdict.com^$generichide

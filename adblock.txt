@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-03-27 16:09:25（北京时间） 
-! Total count: 14338
+! Version: 2022-03-28 00:10:12（北京时间） 
+! Total count: 14339
 -960x*0.gif
 -250.js*
 
@@ -8032,6 +8032,7 @@ zimuku.net,zimuku.cn###xianliaome_window,[height="90px"],[height="80px"],[style^
 zimushe.com##[href^="https://www.zimushe.com/go.php?url=http"],.videobg
 zimuzu.tv###bbs_list_ad,ul.room,div.lx167,A[href^="http://www.rrliuxue.com"],div.rrmj_ad,div.ad,div[class="couplet couplet_l"],a[href^="http://www.jianai360.com"],#help,#xianliaome_window
 ziyuanbu.cn##[class^="ad"],#advert-7
+zjjbtl.com
 zjjzx.cn##img[src^="http://www.zjjzx.cn/img/zt/yd/"],[id^="Rightgg_banner_"]
 zjol.com.cn##.h50,.h100,[class="mt10"],[class^="a-d-"],#ad1_1,#ad1_2,.wp.a_t,[class="row mb20 cf"],#globalbanner,.banner,.bannnerSadv,.lBottomAD,.lTopAD,[width="1000"][height="65"],[width="520"][height="74"]
 zjrxz.com###bdcs-frame-box,.ads,.column-aside > A[href^="http://www.zjrxz.com/html/201"] > IMG[src^="http://upload.zjrxz.com/201"]

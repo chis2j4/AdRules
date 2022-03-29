@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-03-29 16:10:37（北京时间） 
-! Total count: 14339
+! Version: 2022-03-30 00:11:08（北京时间） 
+! Total count: 14336
 -960x*0.gif
 -250.js*
 
@@ -2466,7 +2466,6 @@ $~xmlhttprequest,~media,removeparam=source,denyallow=googlevideo.com,domain=1sol
 =ga|
 =show_poster&id=
 =vip_skip_ad*
-?*=*=*=$subdocument,domain=00cha.com|01fy.cn|06ps.com|08160.cn|0s.net.cn|10000xing.cn|1010jiajiao.com|1024sj.com|11467.com|114piaowu.com|120ask.com|16xx8.com|192ly.com|1ting.com|201980.com|23yy.com|256.cc|263y.com|2hanju.com|2liang.net|315hyw.com|3199.cn|32xp.com|3454.com|360changshi.com|360doc.cn|360zuowen.com|39.net|39yst.com|4aqq.com|515fa.com|51edu.com|51sxue.com|51test.net|51zxw.net|52che.com|52qj.com|52wubi.com|52zxw.com|59wz.com|5djiaren.com|5h.com|5nd.com|5seestar.com|5tps.com|5ykj.com|66law.cn|66wenshen.com|6822.com|7k7k.com|7y7.com|86huoche.com|8794.cn|911cha.com|91jucai.com|91zhongkao.com|949949.com|9553.com|9939.com|9ht.com|ab126.com|admin5.com|aihami.com|aiyangedu.com|aizhan.com|ankangwang.com|apple886.com|arpun.com|askci.com|aspku.com|atobo.com|baoxianzx.com|blog.sina.cn|chajiaotong.com|chazidian.com|coozhi.com|d1xz.net|daquan.com|dgzj.com|dugoogle.com|faxingzhan.com|fun48.com|hqhot.com|huangye88.com|hydcd.com|icauto.com.cn|isanxia.com|ixinwei.com|jianbihuadq.com|jiazhao.com|jingdianlaoge.com|liuxue86.com|m.douban.com|makepolo.com|mama.cn|mipcache.bdstatic.com|mmonly.cc|pctowap.com|pingshu8.com|riji.cn|riji100zi.com|rr95.com|shangc.net|tianya999.com|weather.com.cn|win7sky.com|woyaogexing.com|xiachufang.com|xiangha.com|xiaole8.com|xinwenlianbo.tv|yiqig.cn|zhifure.com|zhongyoo.com|zjbiz.net|zuowen8.com|zuowenku.net|zuowenwang.net
 ?*__$~xmlhttprequest,removeparam=/^__[bce-z]/,domain=facebook.com|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|messenger.com
 ?adid=
 @@$app=com.x.addon.cast
@@ -2611,8 +2610,6 @@ $~xmlhttprequest,~media,removeparam=source,denyallow=googlevideo.com,domain=1sol
 @@||google.*&tbm=isch&*#imgrc=$removeparam=usg
 @@||google.com/url?$removeparam=ved
 @@||gotunnel.org
-@@||gss0.bdstatic.com/6bMWfDe8BsgCpNKfpU_Y_D3/static/appsapi/js/app_show_webapp_fce68ce.js$domain=wappass.baidu.com,app=com.baidu.netdisk
-@@||gss0.bdstatic.com/6bMWfDe8BsgCpNKfpU_Y_D3/static^$app=com.baidu.netdisk
 @@||gw.m.163.com^
 @@||hangouts.google.com/webchat*zx=$removeparam
 @@||hinta.fi/lib/$removeparam=v
@@ -5171,7 +5168,6 @@ m.baidu.com,www.baidu.com##DIV[class='rw-title']
 m.baidu.com,www.baidu.com##H3[class='c-title c-color-link c-gap-top-small c-gap-bottom-small c-line-clamp3']
 m.baidu.com,www.baidu.com##P[class='c-line-clamp3 c-color ']
 m.baidu.com,www.baidu.com##div[tpl*="ball"]
-m.baidu.com,www.baidu.com$$div[class="main"]
 m.bilibili.com###floatBtn
 m.bilibili.com###openAppBtn
 m.bilibili.com##.home-float-openapp.open-app-btn
@@ -13392,6 +13388,7 @@ zzpzero.com
 ||www.avtbf.com/misc/jquery/jquery.min.js$domain=avtbf.com
 ||www.avtbf.com/templates/defboot/js/scripts.js$domain=avtbf.com
 ||www.avtbo.com/templates/defboot/js/scripts.js
+||www.baidu.com/splg/s.gif?
 ||www.biquge5200.cc/images/md5.js
 ||www.bturl.biz/cdn-cgi/scripts^
 ||www.bturl.biz/static/js/sads.js

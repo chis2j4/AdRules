@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-03-31 08:36:40（北京时间） 
-! Total count: 14303
+! Version: 2022-03-31 16:11:06（北京时间） 
+! Total count: 14306
 -960x*0.gif
 -250.js*
 
@@ -1473,7 +1473,7 @@ $removeparam=redirect_mongo_id
 $removeparam=redirect_source,domain=mozilla.org
 $removeparam=redirectedFrom,domain=academic.oup.com
 $removeparam=ref,domain=9gag.com
-$removeparam=ref,domain=abebooks.com|accounts.binance.com|adobe.com|albiononline.com|altcustoms.com|amazon.*|app.blockfi.com|arvopaperi.fi|audible.*|baidu.com|bestbuy.com|bing.com|bitlox.com|bitwarden.com|blogit.fi|bookdepository.com|brave.com|buzzfeed.com|buzzfeednews.com|bybit.com|catch.com.au|comixology.*|coop.no|deal.no|dell.com|digidip.net|domains.ch|droix.net|eset.com|emag.ro|etsy.com|expo.io|facebook.com|fig.io|geeksforgeeks.org|github.com|github.io|goodreads.com|hintaopas.fi|hintaseuranta.fi|hs.fi|idenati.com|ikea.com|iltapulu.fi|imdb.com|is.fi|jasonsavard.com|kansanuutiset.fi|kauppalehti.fi|kesaduuni.org|kickstarter.com|mastermind.ac|mediuutiset.fi|megapornfreehd.com|merrell.com|mikrobitti.fi|motouutiset.fi|oikotie.fi|omataloyhtio.fi|protonvpn.com|puutarha.net|rakentaja.fi|reddit.com|sahkovertailu.fi|scandinavianphoto.fi|semrush.com|shein.com|shopping.google.*|sketch.com|spiegel.de|sportskeeda.com|suomi24.fi|talouselama.fi|target.com|tekniikkatalous.fi|telsu.fi|tivi.fi|tokenmetrics.com|twitch.tv|udemy.com|uusisuomi.fi|vultr.com|webhallen.no|woot.com|wormhole.app|yle.fi|zappos.com
+$removeparam=ref,domain=abebooks.com|accounts.binance.com|adobe.com|albiononline.com|altcustoms.com|amazon.*|app.blockfi.com|arvopaperi.fi|audible.*|baidu.com|bestbuy.com|bing.com|bitlox.com|bitwarden.com|blogit.fi|bookdepository.com|brave.com|buzzfeed.com|buzzfeednews.com|bybit.com|catch.com.au|comixology.*|coop.no|deal.no|dell.com|digidip.net|domains.ch|droix.net|eset.com|emag.ro|etsy.com|expo.io|facebook.com|fig.io|geeksforgeeks.org|github.com|github.io|goodreads.com|hintaopas.fi|hintaseuranta.fi|hs.fi|idenati.com|ikea.com|iltapulu.fi|imdb.com|is.fi|jasonsavard.com|kansanuutiset.fi|kauppalehti.fi|kesaduuni.org|kickstarter.com|mastermind.ac|mediuutiset.fi|megapornfreehd.com|merrell.com|mikrobitti.fi|motouutiset.fi|oikotie.fi|omataloyhtio.fi|protonvpn.com|puutarha.net|rakentaja.fi|reddit.com|sahkovertailu.fi|scandinavianphoto.fi|semrush.com|shein.com|shodan.io|shopping.google.*|sketch.com|spiegel.de|sportskeeda.com|suomi24.fi|talouselama.fi|target.com|tekniikkatalous.fi|telsu.fi|tivi.fi|tokenmetrics.com|twitch.tv|udemy.com|uusisuomi.fi|vultr.com|webhallen.no|woot.com|wormhole.app|yle.fi|zappos.com
 $removeparam=ref,domain=giphy.com
 $removeparam=ref,domain=readdc.com
 $removeparam=refId,domain=linkedin.com
@@ -9215,6 +9215,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||eclkspbn.com/
 ||eco.taobao.com^
 ||ecomgxh.kuwo.cn^
+||ecosia.org^$removeparam=addon
 ||ed.gumoda.top^
 ||edayday.com/img/ad
 ||eddjf.com^
@@ -11890,6 +11891,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qutyan8848.com^
 ||quyaoya.com^$third-party
 ||qw.kuanxin.top^
+||qwant.com^$removeparam=client
 ||qwsy.com/script/TuiGuang.js
 ||qwsy.com/script/jquery.lazyload.js
 ||qwvv.com^
@@ -12360,6 +12362,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||startappexchange.com^
 ||startappservice.com^
 ||startpage.*^$removeparam=segment
+||startpage.com^$removeparam=pl
 ||stat.api.4399.com/crossdomain.xml
 ||stat.baike.com^
 ||stat.cnmo.com^

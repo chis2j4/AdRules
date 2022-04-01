@@ -2,8 +2,8 @@
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 12 Hours
-# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2022-04-01 00:41:04
-# Total count: 96388
+# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2022-04-01 08:11:49
+# Total count: 96402
 0.0.0.0 .weixingshexiangji.net
 0.0.0.0 0--e.info
 0.0.0.0 0.nextyourcontent.com
@@ -953,6 +953,7 @@
 0.0.0.0 29773.v.fwmrm.net
 0.0.0.0 297772.com
 0.0.0.0 298-ct.c3tag.com
+0.0.0.0 2999.store
 0.0.0.0 29ae58661b9c7178.com
 0.0.0.0 29ccd.v.fwmrm.net
 0.0.0.0 29d65cebb82ef9f.com
@@ -14668,6 +14669,7 @@
 0.0.0.0 atjigglypuffor.com
 0.0.0.0 atkins.vo.llnwd.net
 0.0.0.0 atl.xmlsearch.miva.com
+0.0.0.0 atlabexpo.com
 0.0.0.0 atlantis-asia.com
 0.0.0.0 atlantisjs.brafton.com
 0.0.0.0 atlaqs.com
@@ -24994,6 +24996,7 @@
 0.0.0.0 content.integral-marketing.com
 0.0.0.0 content.joinaxxess.com
 0.0.0.0 content.juniper.net
+0.0.0.0 content.lemonpi.io
 0.0.0.0 content.linkoffers.net
 0.0.0.0 content.livesportmedia.eu
 0.0.0.0 content.logile.com
@@ -28263,6 +28266,7 @@
 0.0.0.0 ddl.3g567.com
 0.0.0.0 ddl7.data.hu
 0.0.0.0 ddl8.data.hu
+0.0.0.0 ddla593ymz72o.cloudfront.net
 0.0.0.0 ddlesswale.co
 0.0.0.0 ddlh1467paih3.cloudfront.net
 0.0.0.0 ddlobrcdoij.com
@@ -31183,6 +31187,7 @@
 0.0.0.0 e-v-e-n.me
 0.0.0.0 e-vcdn.anthill.vn
 0.0.0.0 e-viral.com
+0.0.0.0 e-volution.ai
 0.0.0.0 e-webtrack.net
 0.0.0.0 e-weddingcardswala.in
 0.0.0.0 e-wei.com.cn
@@ -33926,6 +33931,7 @@
 0.0.0.0 events.tubecup.org
 0.0.0.0 events.turbosquid.com
 0.0.0.0 events.tvtime.com
+0.0.0.0 events.virtusize.jp
 0.0.0.0 events.webflowmetrics.com
 0.0.0.0 events.whisk.com
 0.0.0.0 events.xg4ken.com
@@ -51099,6 +51105,7 @@
 0.0.0.0 lqsw3.top
 0.0.0.0 lqunionsoft.top
 0.0.0.0 lqw.me
+0.0.0.0 lr-in.com
 0.0.0.0 lr-ingest.io
 0.0.0.0 lr.us-east-1.bid.bidr.io
 0.0.0.0 lr96.top
@@ -55078,6 +55085,7 @@
 0.0.0.0 mjlsiopjesbn.com
 0.0.0.0 mjlunalaw.com
 0.0.0.0 mjmobi.com
+0.0.0.0 mjnakecyospspgf.com
 0.0.0.0 mjnpya.marktplaats.nl
 0.0.0.0 mjnxku.com
 0.0.0.0 mjonkers.nl
@@ -55371,6 +55379,7 @@
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile-displayads.l.doubleclick.net
 0.0.0.0 mobile-http-intake.logs.datadoghq.com
+0.0.0.0 mobile-http-intake.logs.datadoghq.eu
 0.0.0.0 mobile-production.content-square.net
 0.0.0.0 mobile-pubt.ele.me
 0.0.0.0 mobile-sdk-config.gservice.emarsys.net
@@ -65658,6 +65667,7 @@
 0.0.0.0 pubimgs.sapo.pt
 0.0.0.0 publiads.com
 0.0.0.0 public-gcs.subiz-cdn.com
+0.0.0.0 public-trace-http-intake.logs.datadoghq.eu
 0.0.0.0 public-webservice.apdc1n.adpushup.com
 0.0.0.0 public-webservice.apdc3n.adpushup.com
 0.0.0.0 public-webservice.geo.adpushup.com
@@ -66133,6 +66143,7 @@
 0.0.0.0 pwwysydh.com
 0.0.0.0 px-conf.perimeterx.net
 0.0.0.0 px-eu.adhigh.net
+0.0.0.0 px-eu.dynamicyield.com
 0.0.0.0 px-intl.ucweb.com
 0.0.0.0 px.a8.net
 0.0.0.0 px.adhigh.net
@@ -69592,6 +69603,7 @@
 0.0.0.0 rtb.djaxadserver.com
 0.0.0.0 rtb.eclick.vn
 0.0.0.0 rtb.exoclick.com
+0.0.0.0 rtb.gamoshi.io
 0.0.0.0 rtb.gumgum.com
 0.0.0.0 rtb.hk.as.criteo.com
 0.0.0.0 rtb.kau.li
@@ -70630,7 +70642,6 @@
 0.0.0.0 sadbmetrics.canarias7.es
 0.0.0.0 sadbmetrics.turium.es
 0.0.0.0 sadbmetrics.welife.es
-0.0.0.0 sadbutchi.work
 0.0.0.0 sadc1.outbrain.org
 0.0.0.0 sadesriffsmap.com
 0.0.0.0 sadirectresu.com
@@ -71210,6 +71221,7 @@
 0.0.0.0 scintillatingsilver.com
 0.0.0.0 scintillatingspace.com
 0.0.0.0 scis.tbs.co.jp
+0.0.0.0 scissorshew.com
 0.0.0.0 scjcgj.top
 0.0.0.0 scjlpq.navitime.co.jp
 0.0.0.0 sclatekelia.com
@@ -75360,6 +75372,7 @@
 0.0.0.0 smimarket.com
 0.0.0.0 sminerva.healthcentral.com
 0.0.0.0 sminewsnet.ru
+0.0.0.0 smised.com
 0.0.0.0 smithwick.net
 0.0.0.0 smitionsory.co
 0.0.0.0 smitt.nl
@@ -94524,6 +94537,7 @@
 0.0.0.0 yhig.info
 0.0.0.0 yhjzg.cn
 0.0.0.0 yhkiain.cn
+0.0.0.0 yhkt.online
 0.0.0.0 yhmceakev.com
 0.0.0.0 yhmtech.co.il
 0.0.0.0 yhpknxzspo8a.kvest.ee
@@ -94816,6 +94830,7 @@
 0.0.0.0 yonhelioliskor.com
 0.0.0.0 yonka-centr.ru
 0.0.0.0 yonsandileer.com
+0.0.0.0 yonxatuor.com
 0.0.0.0 yoobest.cn
 0.0.0.0 yoochoose.net
 0.0.0.0 yookcasula.com
@@ -96391,4 +96406,3 @@
 0.0.0.0 zzyonghao.com
 0.0.0.0 zzz.pissrip.net
 0.0.0.0 zzznews.ru
-0.0.0.0 zzznews.ru0 paintifiercute.club

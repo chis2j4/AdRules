@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-04-01 16:11:48（北京时间） 
-! Total count: 4956
+! Version: 2022-04-02 00:10:56（北京时间） 
+! Total count: 4957
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -6922,6 +6922,7 @@
 @@||nc0.co^$script,domain=abc.com
 @@||ncbi.nlm.nih.gov/stat?
 @@||nceea.cn/Content/images/ad/
+@@||ndr.de/common/resources/lib/atinternet/smarttag.js
 @@||nemlog-in.dk/resources/js/adrum.js$~third-party
 @@||netatmo.commander1.com^|
 @@||netd.com/js/piwik-plugin.js

@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-04-01 00:10:51（北京时间） 
-! Total count: 4952
+! Version: 2022-04-01 08:41:03（北京时间） 
+! Total count: 4954
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5498,6 +5498,7 @@
 @@||go.com/stat/dolwebanalytics.js
 @@||go.com/stat/flash/analyticreportingas3.swf
 @@||go.scorptec.com.au^|
+@@||gogoplay5.com^$subdocument
 @@||golangnote.com^$generichide
 @@||goldmansachs.com/a/pg/js/prod/gs-analytics-init.js
 @@||gomein.net.cn^*,
@@ -6887,6 +6888,7 @@
 @@||muzlan.top/ads/banner.png
 @@||muzlan.top^$generichide
 @@||muzu.tv/flash/*tracking
+@@||mxdcontent.net^$xmlhttprequest,domain=mixdrop.co
 @@||mxpnl.com/libs/mixpanel-*.min.js$domain=change.org|frigidaire.com
 @@||mxpnl.com/libs/mixpanel-*.min.js$domain=change.org|thefrisky.com
 @@||mxpnl.com/libs/mixpanel-*.min.js$domain=deezer.com

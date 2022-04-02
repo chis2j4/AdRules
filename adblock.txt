@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-04-02 08:35:39（北京时间） 
-! Total count: 14306
+! Version: 2022-04-02 16:10:12（北京时间） 
+! Total count: 14313
 -960x*0.gif
 -250.js*
 
@@ -6377,6 +6377,7 @@ xlfans.com##div[class$="banner"],div.banner
 xlyy100.com##.nicegame,.dw_propt
 xm9x.net##div.v_l,div.v_r
 xmfish.com###b_login,.top_tip
+xmh/200/200-*.gif
 xp510.com##.zixun.mt20,div.wallpaper-area,A[href^="http://dlc.cga.com.cn/gameclient"],div.apps_touchslider,div#b_downfile,.min-ad,.show-ad,.pic_yd_a_box,p[class="title red"] + ul.clearfix
 xp71.com##img[height="90"][width="1000"]
 xp85.com##.adr-down,.choisdown,.localDown,.adrAddress,.adr
@@ -7039,6 +7040,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||4kfv18.cn^
 ||4name.com^$third-party
 ||4o.cc^
+||4po6iqp9.cn^
 ||4wad.com^
 ||504pk.com^
 ||50bang.org
@@ -7654,6 +7656,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||aisouk.cn^
 ||aiyouji.xyz
 ||ajhdf.com^
+||aksdkfj.biexsite.net^
 ||aksjkdfjk.shqdwh.com^
 ||aksldkjfd.11jianzhan.com^
 ||aksldkjfkdl.bhichong.com^
@@ -7810,6 +7813,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ap.eiasia.ltd^
 ||ap.itresource.vip^
 ||apd-*.v.smtcdns.com/vhot2.qqvideo.tc.qq.com^
+||apfobmfr.cn^
 ||api-access.pangolin-sdk-toutiao-b.com^
 ||api-access.pangolin-sdk-toutiao.com/api/ad^
 ||api-access.pangolin-sdk-toutiao.com^
@@ -9397,6 +9401,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fiverr.com^$removeparam=is_pro
 ||fiverr.com^$removeparam=pckg_id
 ||fix.hpplay.cn^
+||fja9881.niulai0323166.space^
 ||fjctlnn.top^
 ||fjdfqy.com^
 ||fjisu.tv/b_1.js?
@@ -10148,6 +10153,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||j.zykxjt.com^
 ||j07773.com^
 ||j1503.com^
+||j6zh4g0.cn^
 ||j8.ai36588.com^
 ||j8.ccjudian.com^
 ||j8.gzxnqkf.cn^
@@ -10719,6 +10725,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lrswl.com^
 ||lsad.net^
 ||lsdkfjks.fvsymbol.net^
+||lsdkjfkdlsf.ydtykj.net^
 ||lsdkjfslkdf.jiumai88.com^
 ||lsebay.com^
 ||lsj.tt-hk.cn/api.php?url=http:^$domain=lsj.tt-hk.cn

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-04-05 16:11:01（北京时间） 
-! Total count: 14318
+! Version: 2022-04-06 00:10:50（北京时间） 
+! Total count: 14324
 -960x*0.gif
 -250.js*
 
@@ -6931,6 +6931,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||28.fyimg.kukuplay.com/plugins/EggModuleV5.1.swf
 ||2a.com.cn^
 ||2bj.cn^
+||2cnjuh34jbpoint.com^
 ||2te.com$third-party
 ||2te.com^
 ||2vv.cc
@@ -8571,6 +8572,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||changyan.sohu.com^
 ||channel.m.163.com^
 ||channeladvisor.com^
+||chaochaogege.net^
 ||chaoku.oss-cn-chengdu.aliyuncs.com^
 ||chaoxing.com^$domain=igangju.com
 ||chartbeat.com^
@@ -9066,6 +9068,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dl.weshineapp.com^
 ||dlads.cn^
 ||dlamlab.com$third-party
+||dlfvgndsdfsn.com^
 ||dlkoo.com/down/js/index_top
 ||dlswbr.baidu.com^
 ||dm-*.toutiao.com^
@@ -12357,6 +12360,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ssh.ylfgybn.cn^
 ||ssionsupre.fun^
 ||ssjpx.com^
+||ssjy.shop^
 ||ssl.bbbr8.com^
 ||ssp.lionmobo.com^
 ||ssp.qq.com^
@@ -12654,6 +12658,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tj-yijiajing.com^
 ||tj.21ic.com^
 ||tj.7kww.net^$third-party
+||tj.banzhu111.xyz^
 ||tj.tianwenhu.com^
 ||tj.video.qq.com/
 ||tj.youzanyun.com^
@@ -12739,6 +12744,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ts9.cc
 ||tsdf.ajzsa.xyz^
 ||tsis.jpush.cn^
+||tslomhfys.com^
 ||tsyndicate.com^
 ||tt123.hao0202.com^
 ||ttaj.cn^

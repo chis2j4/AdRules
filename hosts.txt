@@ -2,8 +2,8 @@
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 12 Hours
-# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2022-04-05 08:11:10
-# Total count: 79873
+# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2022-04-05 16:11:02
+# Total count: 79876
 0.0.0.0 0--e.info
 0.0.0.0 0.oldgyhogola.com
 0.0.0.0 0.r.msn.com
@@ -17385,6 +17385,7 @@
 0.0.0.0 cdn.rlcdn.com
 0.0.0.0 cdn.rmtag.com
 0.0.0.0 cdn.rocks.io
+0.0.0.0 cdn.rongzhouxing.com
 0.0.0.0 cdn.rove.cl
 0.0.0.0 cdn.rtbid.me
 0.0.0.0 cdn.rudderlabs.com
@@ -31927,6 +31928,7 @@
 0.0.0.0 gov.yanao.ru
 0.0.0.0 govbeijing.cn
 0.0.0.0 govbusi.info
+0.0.0.0 govchaozhou.cn
 0.0.0.0 govchongqing.cn
 0.0.0.0 governessarson.com
 0.0.0.0 governobylgot.info
@@ -61017,6 +61019,7 @@
 0.0.0.0 smartaccess.biz
 0.0.0.0 smartad.ee
 0.0.0.0 smartad.lv
+0.0.0.0 smartadnetwork.net
 0.0.0.0 smartadserver.com
 0.0.0.0 smartadserver.es
 0.0.0.0 smartadserver.ru

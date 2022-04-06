@@ -32023,7 +32023,6 @@
 @@/wp-content/plugins/wp-safelink-v*/assets/fuckadblock.js$domain=wildzz.com|myenemy.club
 @@/wp-content/themes/wp-mason/static/js/ads.js$~third-party
 @@/wp-content/uploads$domain=tele5.de|linux-magazin.de|linux-community.de|rennrad-news.de|emtb-news.de
-@@/ws$removeparam,domain=speedtest.net
 @@/ws$websocket,domain=speedtest.net
 @@/x-kinja-static/assets/new-client/adManager.*.js$domain=gizmodo.com
 @@/yozons-lib/core.js$script,~third-party,domain=bellinghamherald.com|bnd.com|bradenton.com|centredaily.com|charlotteobserver.com|elnuevoherald.com|fresnobee.com|heraldonline.com|heraldsun.com|idahostatesman.com|islandpacket.com|kansas.com|kansascity.com|kentucky.com|ledger-enquirer.com|macon.com|mcclatchydc.com|mercedsunstar.com|miamiherald.com|modbee.com|myrtlebeachonline.com|newsobserver.com|sacbee.com|sanluisobispo.com|star-telegram.com|sunherald.com|thenewstribune.com|theolympian.com|thestate.com|tri-cityherald.com
@@ -35864,6 +35863,7 @@
 @@||4horlover.com^$generichide
 @@||4kfilm.online^$generichide
 @@||4klinks.site^$generichide
+@@||4kya.com/?url=$stealth,domain=netflix.mom
 @@||4p.de/*adtag.check.js
 @@||4players.de/seremshots
 @@||4players.de^$generichide
@@ -36006,6 +36006,7 @@
 @@||a.bf-ad.net/adengine/fff/adengine.js$domain=fitforfun.de
 @@||a.bf-ad.net/makabo/ads_fol_init.js$domain=chip.de
 @@||a.exdynsrv.com/ads.js$domain=loveheaven.net
+@@||a.exoclick.com/ads.js$domain=anydebrid.com
 @@||a.exosrv.com/ads.js$domain=javtiful.com
 @@||a.exosrv.com/video-slider.js$domain=xfreehd.com
 @@||a.f1g.fr/build/2/adsense.js$script
@@ -37640,6 +37641,8 @@
 @@||api.cxense.com/public/widget/data?json$domain=bangkokpost.com
 @@||api.cxense.com/public/widget/data?json$domain=tn.com.ar
 @@||api.cxense.com/public/widget/data?json$domain=tn.com.ar
+@@||api.cxense.com/public/widget/data?json=$domain=delfi.lt
+@@||api.cxense.com/public/widget/data?json=$domain=delfi.lt
 @@||api.cxense.com/public/widget/data?json=$domain=lavoz.com.ar
 @@||api.cxense.com/public/widget/data?json=$domain=lavoz.com.ar
 @@||api.cxense.com/public/widget/data?json=$domain=pcgames.de
@@ -39410,6 +39413,7 @@
 @@||cdn.iubenda.com/cookie_solution/iubenda_cs$script,domain=hwupgrade.it
 @@||cdn.iubenda.com/cookie_solution/iubenda_cs/$domain=ilmessaggero.it
 @@||cdn.iubenda.com/cookie_solution/iubenda_cs/*$domain=video.lastampa.it
+@@||cdn.iubenda.com/cs/*.json$domain=atlantico.fr
 @@||cdn.iubenda.com/cs/iubenda_cs.js$domain=ilmessaggero.it
 @@||cdn.iubenda.com/cs/iubenda_cs.js$domain=video.lastampa.it
 @@||cdn.iubenda.com/cs/tcf/$domain=ilmessaggero.it
@@ -39419,6 +39423,7 @@
 @@||cdn.iubenda.com^$domain=105.net
 @@||cdn.iubenda.com^$domain=video.repubblica.it
 @@||cdn.iubenda.com^$domain=virginradio.it
+@@||cdn.iubenda.com^$script,domain=atlantico.fr
 @@||cdn.jetcdn.co/reklam-button.png
 @@||cdn.jetcdn.co/reklam-button.png
 @@||cdn.jsdelivr.net/*/clappr^
@@ -43503,8 +43508,6 @@
 @@||google-analytics.com/analytics.js$domain=cheatengine.org
 @@||google-analytics.com/analytics.js$domain=chess24.com
 @@||google-analytics.com/analytics.js$domain=chess24.com
-@@||google-analytics.com/analytics.js$domain=chip.com.tr
-@@||google-analytics.com/analytics.js$domain=chip.com.tr
 @@||google-analytics.com/analytics.js$domain=chocotv.com.tw
 @@||google-analytics.com/analytics.js$domain=chocotv.com.tw
 @@||google-analytics.com/analytics.js$domain=chowhound.com
@@ -44075,13 +44078,11 @@
 @@||google.com/maps/embed/v*/place?key=$stealth
 @@||google.com/payments/*/adwords.$document,subdocument
 @@||google.com/payments/*/adwords.$document,subdocument
-@@||google.com/recaptcha/$csp,subdocument
-@@||google.com/recaptcha/$csp,subdocument
+@@||google.com/recaptcha/$csp,script,subdocument
+@@||google.com/recaptcha/$csp,script,subdocument
 @@||google.com/recaptcha/$domain=pornhub.com|pornhub.org|pornhub.net|pornhubthbh7ap3u.onion
 @@||google.com/recaptcha/$domain=vidoza.net
 @@||google.com/recaptcha/$domain=xhamster.com
-@@||google.com/recaptcha/api.js
-@@||google.com/recaptcha/api.js
 @@||google.com/recaptcha/api2/$document
 @@||google.com/settings/ads/onweb$urlblock
 @@||google.com/translate_$media,third-party,xmlhttprequest
@@ -44429,6 +44430,8 @@
 @@||googletagmanager.com/gtm.js$domain=falkirkherald.co.uk
 @@||googletagmanager.com/gtm.js$domain=filgoal.com
 @@||googletagmanager.com/gtm.js$domain=filgoal.com
+@@||googletagmanager.com/gtm.js$domain=filmzie.com
+@@||googletagmanager.com/gtm.js$domain=filmzie.com
 @@||googletagmanager.com/gtm.js$domain=flo.com.tr
 @@||googletagmanager.com/gtm.js$domain=flo.com.tr
 @@||googletagmanager.com/gtm.js$domain=flyingv.cc
@@ -45774,6 +45777,7 @@
 @@||images.taboola.com^$domain=samsung.com|thestartmagazine.com
 @@||images.vertele.eldiario.es/*/noticias/
 @@||images.wildberries.ru/banners/
+@@||images4u.cc^$generichide
 @@||imageshara.ru^$generichide
 @@||imagesrv.adition.com/1x1.gif$domain=joyn.de
 @@||imagesrv.adition.com/banners^$domain=finya.de|t-online.de|freenet.de|spiegel.de|kicker.de|quoka.de|fanfiktion.de|meinestadt.de
@@ -46580,6 +46584,7 @@
 @@||itv.com/itv/tserver/*size=*/*/viewid=
 @@||itworld.com/elqnow/elq*.js
 @@||itworld.com/elqnow/elq*.js
+@@||iubenda.com/cookie-solution/confs/js/$domain=atlantico.fr
 @@||iubenda.com/cookie-solution/confs/js/*.js$domain=movieplayer.it
 @@||iubenda.com^$domain=mediaset.it
 @@||iubenda.com^$domain=multiplayer.it
@@ -48339,6 +48344,7 @@
 @@||minioppai.org^$generichide
 @@||miniroyale2.io/*adblock.js
 @@||ministryofsolutions.com^$generichide
+@@||minkou.jp^$generichide
 @@||minnetonkamoccasin.com/colorswatch/json/$document
 @@||minorpatch.com^$generichide
 @@||minpromtorg.gov.ru/common/upload/content/news/video/preview/Banner.jpg
@@ -49362,6 +49368,7 @@
 @@||online.a1.by/l/v/track.php?event=$domain=a1.by
 @@||online.a1.by/l/v/track.php?event=$domain=a1.by
 @@||online.americanexpress.com/myca/statementimage/$document
+@@||online.anidub.com/player/js/anidub-ad*.js
 @@||online.bcs.ru^*/piwik.bcs.js$script
 @@||online.bfgruppe.de^$extension
 @@||online.citi.com/GFC/branding/
@@ -49931,6 +49938,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=karbagi.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=keralatelecom.info
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=kharisma-adzana.blogspot.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=kienthucrangmieng.com|coin-free.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=kiiw.icu
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=kimochi.info
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=king-shoot.com
@@ -51466,6 +51474,7 @@
 @@||quantcast.mgr.consensu.org^$domain=pcgamer.com
 @@||quantcast.mgr.consensu.org^$domain=podcasts.podinstall.com
 @@||quantcast.mgr.consensu.org^$domain=standard.co.uk
+@@||quantcast.mgr.consensu.org^$domain=t3.com
 @@||quantserve.com/quant.js$domain=apps.facebook.com|caranddriver.com|g4tv.com|nymag.com|salon.com|theblaze.com
 @@||quantserve.com/quant.js$domain=apps.facebook.com|caranddriver.com|g4tv.com|nymag.com|salon.com|theblaze.com
 @@||quantserve.com^
@@ -52230,6 +52239,8 @@
 @@||scdn.cxense.com/cx.js$domain=13.cl
 @@||scdn.cxense.com/cx.js$domain=deadspin.com|theinventory.com|thetakeout.com|splinternews.com|theroot.com|kotaku.com|jezebel.com|gizmodo.com
 @@||scdn.cxense.com/cx.js$domain=deadspin.com|theinventory.com|thetakeout.com|splinternews.com|theroot.com|kotaku.com|jezebel.com|gizmodo.com
+@@||scdn.cxense.com/cx.js$domain=delfi.lt
+@@||scdn.cxense.com/cx.js$domain=delfi.lt
 @@||scdn.cxense.com/cx.js$domain=digi24.ro
 @@||scdn.cxense.com/cx.js$domain=digi24.ro
 @@||scdn.cxense.com/cx.js$domain=digisport.ro
@@ -55004,6 +55015,7 @@
 @@||trj.valuecommerce.com/vcushion.js
 @@||trj.valuecommerce.com^$app=jp.co.alc.eow
 @@||trollvid.net/embed/$stealth
+@@||tron-free.com^$generichide
 @@||trplus.com.tw/_ui/responsive/*/trplusLcatePage_ADV.js$domain=trplus.com.tw
 @@||truck1.eu/_BANNERS_/client/*
 @@||truckscout24.de^$generichide
@@ -56649,6 +56661,7 @@
 @@||xda-cdn.com^$stealth,domain=xda-developers.com
 @@||xda-developers-android.blogspot.com^$generichide
 @@||xda-developers-forum.blogspot.com^$generichide
+@@||xda-developers.com/adsninja_package/js/adsninja-refreshing-ad-zone.js
 @@||xdate.ch/bundles/omsportal/img/footer_banner_ads_$image,domain=xdate.ch
 @@||xe.com/themes/xe/js/react/cookie-consent.*.min.js
 @@||xe.com^$stealth
@@ -57067,5 +57080,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-04-05 09:04:12
-! Total count: 57065
+! Version: 2022-04-06 09:08:27
+! Total count: 57078

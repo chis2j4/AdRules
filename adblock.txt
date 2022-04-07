@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-04-07 16:11:31（北京时间） 
-! Total count: 14332
+! Version: 2022-04-08 00:10:41（北京时间） 
+! Total count: 14338
 -960x*0.gif
 -250.js*
 
@@ -431,7 +431,7 @@ $removeparam=2p_affiliate_id
 $removeparam=2p_click_token
 $removeparam=ACRID
 $removeparam=AFFNAME
-$removeparam=AFID,domain=~chggtrx.com
+$removeparam=AFID,domain=~chggtrx.com|~state.gov
 $removeparam=AID,domain=~docs.google.*
 $removeparam=ASID
 $removeparam=ASUBID
@@ -1923,6 +1923,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 *$app=com.miui.systemAdSolution
 *-stats.jpush.cn^
 *.com/css/showfloatdiv^
+*.gif$domain=m.imomoe.live
 */?tzbilibili
 */ad.
 */adbox/
@@ -5048,6 +5049,7 @@ piao.js|
 piaohua.com###Wl_Float_Div,.mtbanner
 piaoliang.com##div.hot960
 pic.dlili.tv/ufile/22222.js
+pic.rmb.bdstatic.com/bjh/*.gif
 pingpang.info##[height="90"],[id$="_ad"],.yd_banner
 pingwest.com###J_newsListModule > article.item.bd:-abp-contains(广告)
 pingwest.com##.article-bottom-bd
@@ -7176,6 +7178,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||6c.cn^
 ||6dad.com^
 ||6g.sybnzs.cn^
+||6gukaitu.xyz^
 ||6k.com/g1000/$script
 ||6rooms.com/$image,domain=~6.cn
 ||6rr.lm882.com^
@@ -7331,6 +7334,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||98fen.com/wordpress/head.js
 ||997.000123456789.site^
 ||999.com^
+||99999999.club^
 ||999xs.com/js/999xs.js
 ||99ddd.com^
 ||99kubo.com/568ads/
@@ -11678,6 +11682,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pok.hnyrd.com.cn^
 ||policy.jd.com/m/log^
 ||policy.video.iqiyi.com^
+||pool.wenrunyu.com^
 ||popads.net^
 ||popcash.net^
 ||poppyta.com^
@@ -13463,6 +13468,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xe2c.com^
 ||xerkv.com^
 ||xfile.a.88cdn.com/file^$third-party
+||xflsj.com^
 ||xfvcd.com/js/dd/$script
 ||xfyjz.cn^$third-party
 ||xg.adbeuch.cn^

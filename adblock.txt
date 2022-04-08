@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-04-08 08:39:54（北京时间） 
-! Total count: 14343
+! Version: 2022-04-08 16:10:25（北京时间） 
+! Total count: 14348
 -960x*0.gif
 -250.js*
 
@@ -6899,6 +6899,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||211.91.124.4/qpdxv/other^
 ||211.91.124.7/qpdxv/other/*/*/*/*.mp4?^&$domain=m.iqiyi.com
 ||2155ec.com^
+||21gebd.store^
 ||21mob.com^
 ||21shebao.com$third-party
 ||21union.com^
@@ -7014,6 +7015,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||3munion.net^
 ||3p-link.com^
 ||3q3l.cn^
+||3qz8c.site^
 ||3shangyou.com^
 ||3wtuan.com^
 ||3xy1.dvv9dkv.site^
@@ -8158,6 +8160,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||banmeng.com^
 ||banner-cfnetwork.cdn.hinet.net^
 ||banquansuoyou:banbendalao
+||banzhu111.xyz/js/51.js
+||banzhu111.xyz/js/cdn.js
 ||banzhuxs.org/js/function.js
 ||baobaoshiye.com.cn^
 ||baoshuu.com/img/dd.js
@@ -10169,6 +10173,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||j.zhuyonglawyer.com^
 ||j.zlszw.com^
 ||j.zykxjt.com^
+||j05ot.online^
 ||j07773.com^
 ||j1503.com^
 ||j6zh4g0.cn^

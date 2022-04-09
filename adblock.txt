@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-04-09 08:36:52（北京时间） 
-! Total count: 14348
+! Version: 2022-04-09 16:09:42（北京时间） 
+! Total count: 14354
 -960x*0.gif
 -250.js*
 
@@ -2022,6 +2022,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 -mobile-default/static/js/app-download-
 -time.js?
 -tongji.
+.com/ads.
 .com/gg.js
 .userapi.com/impg^$removeparam=proxy
 .userapi.com/impg^$removeparam=type
@@ -6162,6 +6163,7 @@ www.newasp.net##div.banner,div.a_box10,IFRAME[src*=".e399.com/html/"]
 www.news.cn##[id^="adBody"],#topAdv,.guanggao
 www.newsmth.net##div#sogou_banner
 www.nuxue.com##DIV[id^="f21ac82b21eeb7322631b6aa94e17f"]
+www.olevod.com##DIV.B1Lss,.B1Rss
 www.pabopa.com##DIV[style='width: 100%;'],DIV[carousel-item],DIV#slide.layui-carousel,DIV.closeable
 www.paipai.fm##a#picleft,a#picright,div.wrapbg
 www.pbhz.com##.agoogled,#text-html-widget-2
@@ -7364,6 +7366,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||9yad.com^
 ||a-cn.duoyi.com^
 ||a-m-s.adnonstop.com^
+||a-mo.net^
 ||a.ac.qq.com^
 ||a.amghais.cn^
 ||a.bjhuajing.com.cn^
@@ -11522,6 +11525,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ouo.us/nyad/
 ||oupai.cc
 ||ourot.com^
+||outbrain.com^$third-party
 ||outoctillerytor.com^
 ||owlskfhhgljkl.alivelivevideos.com^
 ||oyell.net^
@@ -11744,6 +11748,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ptfish.com/08html/ggf/cptdgg.html$document
 ||pthejzb.com^
 ||pub.mop.com/show_script.jsp
+||pubfuture.com^$third-party
 ||public.juxia.com/js/juxia.js
 ||public.wlbaike.com^
 ||public6.com/
@@ -12467,6 +12472,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||storyren.com/images/dl
 ||storyren.com/imgg/
 ||strategy.beacon.qq.com^
+||stunthedge.com^
 ||stuowq.cn^
 ||sub.ykimg.com^
 ||subhd.com/images/970pujin.gif

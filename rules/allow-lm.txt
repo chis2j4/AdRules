@@ -5682,6 +5682,7 @@
 @@||cf2.imgobject.com^
 @@||cf96a73cf.lwcdn.com^
 @@||cfdtrading.com^
+@@||cfg.imtt.qq.com^
 @@||cfl.dropboxstatic.com^
 @@||cfm.jd.com^
 @@||cfota1.ospserver.net^
@@ -10167,6 +10168,7 @@
 @@||f7.pmo.ee^
 @@||f7q8y2u3.stackpathcdn.com^
 @@||f8.baidu.com^
+@@||f8.market.xiaomi.com^
 @@||f8.pmo.ee^
 @@||f8splash3.pagedemo.co^
 @@||f9.baidu.com^
@@ -22156,6 +22158,7 @@
 @@||providerhub.com^
 @@||providers.nortonhealthcare.com^
 @@||providesupport.com^
+@@||provision.ccs.mcafee.com^
 @@||proxibid.com^
 @@||proxmark.org^
 @@||proxsee.pscp.tv^
@@ -31149,6 +31152,7 @@
 @@||x.fortnine.ca^
 @@||x.kinja-static.com^
 @@||x.klarnacdn.net^
+@@||x.research.qq.com^
 @@||x0.ifengimg.com^
 @@||x1.c.lencr.org^
 @@||x1.com^
@@ -31963,6 +31967,7 @@
 @@/popunder.$domain=streameast.*
 @@/popunder.js$domain=happy-hack.ru
 @@/prebid.$domain=aternos.org
+@@/prebid/ad.gif?user=*&adId=$domain=kijk.nl
 @@/prison/universal.php$document
 @@/pro_hide_advertise.svg$domain=myshows.me
 @@/progress.php?callback=$script,domain=ytmp3.cc
@@ -32256,6 +32261,7 @@
 @@|_http._tcp.archive.canonical.com^$important
 @@|_http._tcp.archive.ubuntu.com^$important
 @@|_http._tcp.au.archive.ubuntu.com^$important
+@@|_http._tcp.deb.debian.org^$important
 @@|_http._tcp.debian.mirror.digitalpacific.com.au^$important
 @@|_http._tcp.mirror.aarnet.edu.au^$important
 @@|_http._tcp.mirrors.ubuntu.com^$important
@@ -32559,6 +32565,7 @@
 @@|assets.zorincdn.com^$important
 @@|ato.gov.au^$important
 @@|attestation.xboxlive.com^$important
+@@|au-syd-anx-r*.teamviewer.com^$important
 @@|au.archive.ubuntu.com^$important
 @@|au.download.windowsupdate.com^$important
 @@|au.playstation.com^$important
@@ -34726,6 +34733,7 @@
 @@|security.cloudflare-dns.com^$important
 @@|security.debian.org^$important
 @@|security.ubuntu.com^$important
+@@|securityintelligencecenter-eastus.azurewebsites.net^$important
 @@|seed*.debrid.link^$important
 @@|seedr.cc^$important
 @@|segments-s.msedge.net^$important
@@ -35197,6 +35205,7 @@
 @@|ubuntuforums.org^$important
 @@|ucmirror.canterbury.ac.nz^$important
 @@|udomain.dl.sourceforge.net^$important
+@@|udp.ping.teamviewer.com^$important
 @@|ue-launcher-website-prod.ol.epicgames.com^$important
 @@|ufs*.steamcontent.com^$important
 @@|ugc.api.playstation.com^$important
@@ -35286,6 +35295,7 @@
 @@|versioncheck.prod.mozaws.net^$important
 @@|vfr0.gpsoft.com.au^$important
 @@|vfr3.gpsoft.com.au^$important
+@@|vfr4.gpsoft.com.au^$important
 @@|vic-crlt-speedtest.aarnet.net.au.prod.hosts.ooklaserver.net^$important
 @@|vic-crlt-speedtest.aarnet.net.au^$important
 @@|vic.speedtest.exetel.com.au^$important
@@ -35348,6 +35358,7 @@
 @@|web.vortex.data.microsoft.com^$important
 @@|web.vortex.data.trafficmanager.net^$important
 @@|webchat.kde.org^$important
+@@|webident.service.nsw.gov.au^$important
 @@|webinstallers.gog-statics.com^$important
 @@|websiteapi.acronis.com^$important
 @@|welcome.adguard.com^$important
@@ -35638,6 +35649,7 @@
 @@|wwz.wwzapi.com^$important
 @@|x1.c.lencr.org^$important
 @@|x1streamingplans.azureedge.net^$important
+@@|xamarinstorage.blob.core.windows.net^$important
 @@|xblcx*.cloudapp.net^$important
 @@|xblmessaging.xboxlive.com^$important
 @@|xbox.com^$important
@@ -36437,7 +36449,6 @@
 @@||adform.net/stoat/*/s1.adform.net/bootstrap.js$domain=rewe.de
 @@||adform.net/stoat/*/s1.adform.net/load/$script,domain=rewe.de
 @@||adfox.ru/crossdomain.xml
-@@||adfox.ru^$domain=adfox.ru
 @@||adfox.ru^$domain=ntv.ru
 @@||adfox.ru^$~third-party
 @@||adgaterewards.com/assets/js/vc/advertisement.js|$~third-party
@@ -37861,6 +37872,7 @@
 @@||app.usercentrics.eu/*/main.js$domain=liebherr.com
 @@||app.usercentrics.eu/browser-sdk/*/cross-domain-bridge.html$domain=sixx.de|prosiebenmaxx.de|sat1.de|prosieben.de|kabeleins.de|sixx.de|sat1gold.de|ran.de|joyn.de|sat1.at
 @@||app.usercentrics.eu/browser-ui/latest/bundle.js$domain=studycheck.de
+@@||app.usercentrics.eu/browser-ui^$domain=app.usercentrics.eu
 @@||app.usercentrics.eu/latest/bundle.js$domain=wetter.com|joyn.de|stromseite.de
 @@||app.usercentrics.eu/latest/main.js$domain=liebherr.com
 @@||app.usercentrics.eu/latest/main.js$domain=wetter.com|joyn.de|stromseite.de
@@ -44364,7 +44376,7 @@
 @@||googletagmanager.com/gtm.js$domain=20min.ch
 @@||googletagmanager.com/gtm.js$domain=accupass.com
 @@||googletagmanager.com/gtm.js$domain=accupass.com
-@@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|atptour.com|bsa-whitelabel.com|ccleaner.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|flytap.com|fortune.com|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|oakandfort.com|petsathome.com|pioneer.eu|primeoak.co.uk|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz|uniqlo.com
+@@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|atptour.com|bsa-whitelabel.com|ccleaner.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|flytap.com|fortune.com|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|oakandfort.com|petsathome.com|pioneer.eu|primeoak.co.uk|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz|uniqlo.com|uqr.to
 @@||googletagmanager.com/gtm.js$domain=ads.allegro.pl
 @@||googletagmanager.com/gtm.js$domain=ads.allegro.pl
 @@||googletagmanager.com/gtm.js$domain=aena.es
@@ -47289,6 +47301,8 @@
 @@||latitu.ru^*/advert_$xmlhttprequest
 @@||latornamesa.blogspot.com^$generichide
 @@||latribunadeautomocion.es^$generichide
+@@||launcher.spot.im/spot/$script,domain=jac.yahoosandbox.com
+@@||launcher.spot.im/spot/$script,domain=jac.yahoosandbox.com
 @@||launcher.spot.im/spot/sp_$script,domain=bizpacreview.com
 @@||lauramarano.com.br^$generichide
 @@||lavocedimanduria.it/TemplateLive/app/assets/js/prebid-ads.js
@@ -49952,6 +49966,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=gsmturkey.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hackedfreegames.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hackedonlinegames.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hacksnation.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hacoos.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=haddoz.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=happyfor.win
@@ -51042,8 +51057,11 @@
 @@||polfan.pl/app/vendor/fingerprint2.min.js
 @@||polfan.pl/app/vendor/fingerprint2.min.js
 @@||policelifes.de/js/ads.js
+@@||policy.app.cookieinformation.com/*/jysk.nl/nl.js$domain=jysk.nl
+@@||policy.app.cookieinformation.com/cookiesharingiframe.html$domain=jysk.nl
 @@||policy.app.cookieinformation.com^$domain=skousen.dk|skousen.no|whiteaway.com|whiteaway.no|whiteaway.se
 @@||policy.app.cookieinformation.com^$script,domain=altibox.no
+@@||policy.cookieinformation.com/uc.js$domain=jysk.nl
 @@||polim-tv.blogspot.com^$generichide
 @@||politainment.no/wp-content/plugins/complianz-gdpr/assets/*/cookieconsent.min.
 @@||politicalite.com/wp-content/plugins/simple-adblock-notice^
@@ -52152,6 +52170,7 @@
 @@||saarbruecker-zeitung.de/image/
 @@||sabishiidesu.com^$generichide
 @@||sacheats.com^$generichide
+@@||sadeczanin.info^$generichide
 @@||sadeemapk.com^$generichide
 @@||sadeempc.com^$generichide
 @@||safeframe.googlesyndication.com/safeframe/*/html/container.html$domain=castlesiege.io
@@ -55489,6 +55508,7 @@
 @@||uruploads.com^$generichide
 @@||urzadzamy.pl^$generichide
 @@||usaa.com^$document
+@@||usanewstoday.club/safe*.php?link=$stealth
 @@||usapoliticstoday.com^$generichide
 @@||usbank.com^*/adrum.js?$script
 @@||usdentaldepot.com/ads-
@@ -57142,5 +57162,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-04-08 09:05:38
-! Total count: 57140
+! Version: 2022-04-09 09:05:18
+! Total count: 57160

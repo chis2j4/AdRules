@@ -31960,7 +31960,7 @@
 @@/piwik-$domain=github.com
 @@/piwik-$domain=github.com
 @@/pl*.js$domain=polnometrazhnoe-porno.video|porn-1080.com|porno-kino.online|porno-kino.site
-@@/player/player_ads.html?advertising_id=$domain=bessporno.me|privat-zapisi.video|pornobomba.org|24tube.tv|720video.me|720video.tv|bessporno.tv|ebalovo.*|lenkino.*|m.720video.porn|m.porno-tour.lol|my.porno-tour.sex|porno-tour.*|pornomoll.*|ru-xvideos.info|ru-xvideos.me|rusex-club.me|tolkorus.info|ebalovsk.com
+@@/player/player_ads.html?advertising_id=$domain=camsclips.biz|bessporno.me|privat-zapisi.video|pornobomba.org|24tube.tv|720video.me|720video.tv|bessporno.tv|ebalovo.*|lenkino.*|m.720video.porn|m.porno-tour.lol|my.porno-tour.sex|porno-tour.*|pornomoll.*|ru-xvideos.info|ru-xvideos.me|rusex-club.me|tolkorus.info|ebalovsk.com
 @@/player_ads.html$domain=watchmdh.to|ebalovo.porn|ebalovo.adult|camwhores.*|camlovers.tv|pornsexer.porn|tubsexer.info|camhub.tv|pornissimo.org|porntn.com|pornobit.me|femdomtb.com|pornoham.me|tubsexer.com|homegrownfreaks.net|pornfd.com|bobs-tube.com|pornsexer.com|sexcams-24.com
 @@/pop.js|$domain=fistfast.net
 @@/pop.js|$domain=pornve.com
@@ -37736,7 +37736,7 @@
 @@||api.ipify.org^$script,domain=right-on.co.jp
 @@||api.ipify.org^$xmlhttprequest,domain=247sports.com|account.pennytel.com.au|equinoxplus.com|speedcheck.ky
 @@||api.ipinfodb.com^$xmlhttprequest,domain=management30.com
-@@||api.ipstack.com/check$domain=blockfi.com|withpersona.com
+@@||api.ipstack.com/check$domain=blockfi.com|get-in.com|withpersona.com
 @@||api.its-mo.com^$stealth
 @@||api.joara.com/v1/banner/main_popup.joa$app=com.joara.mobile
 @@||api.jtbc.joins.com/ad/vmap/*$xmlhttprequest,domain=tv.jtbc.joins.com
@@ -53290,6 +53290,8 @@
 @@||snssdk.com/video/drm/v*/play_licenses
 @@||snva.jp/javascripts/reco/$script,domain=store.charle.co.jp
 @@||so-magazyn.pl^$generichide
+@@||so-net.ne.jp/access/hikari/minico/ad/images/$~third-party
+@@||so-net.ne.jp/access/hikari/minico/ad/images/$~third-party
 @@||sobootlogo.blogspot.com^$generichide
 @@||sobremascotas.info^$generichide
 @@||socauth.privatbank.ua/cp/banner.php
@@ -57162,5 +57164,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-04-09 09:05:18
-! Total count: 57160
+! Version: 2022-04-10 09:10:13
+! Total count: 57162

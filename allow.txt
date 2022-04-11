@@ -1,5 +1,5 @@
 ! Title: Allowlist
-! Version: 2022-04-11 00:10:23（北京时间） 
+! Version: 2022-04-11 08:38:27（北京时间） 
 ! Total count: 4972
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
@@ -7217,6 +7217,7 @@
 @@||planetazdorovo.ru/pics/transparent_pixel.png$image,~third-party
 @@||plantyn.com/optiext/optiextension.dll$~third-party
 @@||platform-modules.sgweb.softgames.de/ads/p2-ads-client.js$domain=games.softgames.com
+@@||plausible.io/js/plausible.js$script,domain=sammobile.com
 @@||play.google.com/log?$domain=meet.google.com
 @@||play.google.com/log?format=json$domain=news.google.com
 @@||playcanvas.com.*/keen.min.js
@@ -7472,7 +7473,6 @@
 @@||sahibinden.com/assets/analytics*.js$script
 @@||sail-horizon.com/spm/spm.v1.min.js$script,domain=voguegirl.jp
 @@||salfordonline.com/wp-content/plugins/wp_pro_ad_system/$script
-@@||sammobile.com/wp-content/themes/sammobile-6/assets/js/newrelic.js$~third-party
 @@||samplefan.com/img/ad/$image
 @@||sankei.co.jp/js/analytics/skd.Analysis.js$script
 @@||sanspo.com/parts/chartbeat/$xmlhttprequest

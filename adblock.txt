@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-04-13 00:09:25（北京时间） 
-! Total count: 14368
+! Version: 2022-04-13 08:39:14（北京时间） 
+! Total count: 14372
 -960x*0.gif
 -250.js*
 
@@ -845,7 +845,7 @@ $removeparam=cndid,domain=newyorker.com
 $removeparam=cnxclid
 $removeparam=coagent
 $removeparam=code,domain=arms-retcode.aliyuncs.com
-$removeparam=coid
+$removeparam=coid,domain=~radioreference.com
 $removeparam=coliid
 $removeparam=collection,domain=everlane.com
 $removeparam=collection-tab-name,domain=flipkart.com
@@ -1223,6 +1223,7 @@ $removeparam=link_id,domain=norml.org
 $removeparam=litb_from
 $removeparam=loc,domain=bestbuy.com
 $removeparam=loc,domain=~geizhals.*|~ebay.*|~myanimelist.net
+$removeparam=locale,domain=udemy.com
 $removeparam=log,domain=billiger.de
 $removeparam=logTag
 $removeparam=loid,domain=reddit.app.link
@@ -1527,6 +1528,7 @@ $removeparam=removedParams
 $removeparam=rep,domain=shein.com
 $removeparam=report_recomm_player
 $removeparam=req_id,domain=nytimes.com|nytimes3xbfgragh.onion
+$removeparam=response_type,domain=udemy.com
 $removeparam=ret,domain=shein.com
 $removeparam=retailAttributionToken
 $removeparam=returnFromLogin,domain=amazon.com
@@ -1581,6 +1583,7 @@ $removeparam=scrolla
 $removeparam=sd,domain=vitamix.com
 $removeparam=searchClick,domain=shopbop.com
 $removeparam=searchResultClicked,domain=shopbop.com
+$removeparam=searchResultPosition,domain=nytimes.com
 $removeparam=section,domain=nytimes.com|nytimes3xbfgragh.onion
 $removeparam=sei,domain=google.*
 $removeparam=seid,domain=bilibili.com
@@ -1739,6 +1742,7 @@ $removeparam=targetid
 $removeparam=tbas
 $removeparam=tblci
 $removeparam=tcid,domain=~rug.nl
+$removeparam=tck,domain=mongodb.com
 $removeparam=tctx
 $removeparam=tctx,domain=netflix.com
 $removeparam=td,domain=theregister.com

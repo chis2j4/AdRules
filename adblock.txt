@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-04-14 00:11:26（北京时间） 
-! Total count: 14372
+! Version: 2022-04-14 08:44:01（北京时间） 
+! Total count: 14373
 -960x*0.gif
 -250.js*
 
@@ -13952,6 +13952,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||znlgplt.com^
 ||znsv.baidu.com/
 ||znxblom.cn^
+||zoho.com^$removeparam=zsrc
 ||zone.guiderank-app.com/guiderank-web/app/ad^
 ||zone.guiderank-app.com/guiderank-web/app/common/addBehaviorRecord.do^
 ||zone.guiderank-app.com/guiderank-web/app/popUpAdCollection^

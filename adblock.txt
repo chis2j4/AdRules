@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-04-14 16:11:55（北京时间） 
-! Total count: 14374
+! Version: 2022-04-15 00:10:50（北京时间） 
+! Total count: 14379
 -960x*0.gif
 -250.js*
 
@@ -9948,6 +9948,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||i36mf.cn^
 ||i3z.cn^
 ||i69txt.com/JSRmb/$script
+||i7pnx0t.cn^
 ||ia.51.la^
 ||iadmat.nosdn.127.net^
 ||iadmatvideo.nosdn.127.net^$domain=music.163.com
@@ -11037,6 +11038,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mc.xheqbc.cn^
 ||mc.yandex.ru^
 ||mc.yqgzaewe.cn^
+||mc.zygscl.cn^
 ||mcafee.com^$removeparam=ccstype
 ||mcafee.com^$removeparam=cctype
 ||mcafee.com^$removeparam=csrcl2
@@ -11073,6 +11075,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||metvb.com/js/z.js
 ||mf01.zybang.com^
 ||mfe.paqpq.com^
+||mg.42yenxh.cn^
 ||mg.excsyrv.cn^
 ||mg.hxhhb120.cn^
 ||mg.jomwihn.cn^
@@ -13488,6 +13491,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xc.nimaxrv.cn^
 ||xc.nuheoub.cn^
 ||xc.ognujxj.cn^
+||xc.skxuueby.cn^
 ||xc.wagzqhq.cn^
 ||xc.yynncbn.cn^
 ||xcdf.cn^
@@ -13506,6 +13510,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xflsj.com^
 ||xfvcd.com/js/dd/$script
 ||xfyjz.cn^$third-party
+||xg.1w73a5d.cn^
 ||xg.adbeuch.cn^
 ||xg.binkens.cn^
 ||xg.eqlidke.cn^

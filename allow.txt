@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-04-16 16:10:26（北京时间） 
-! Total count: 4989
+! Version: 2022-04-17 00:10:27（北京时间） 
+! Total count: 4990
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3913,6 +3913,7 @@
 @@||adblockanalytics.com/ads.js|
 @@||adblockanalytics.com/wp-banners.js|
 @@||adblockplus.org^$generichide
+@@||adcdn.holmesmind.com/adserver/Preset.js?z=6472$domain=bingfeng.tw
 @@||adcdn.pingan.com^
 @@||adclear.teufel.de^*/acv?*&ms=http$image,domain=gewinnspiele.freenet.de
 @@||adconsole.ch/api/ws-businessclick/*/data.json$domain=finanzen.ch

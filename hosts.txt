@@ -2,8 +2,8 @@
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 12 Hours
-# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2022-04-16 08:10:27
-# Total count: 51725
+# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2022-04-16 16:10:28
+# Total count: 51718
 0.0.0.0 00-gov.cn
 0.0.0.0 0001.best
 0.0.0.0 000123456789.online
@@ -4872,7 +4872,6 @@
 0.0.0.0 ailiopunsus.xyz
 0.0.0.0 ailioz.com
 0.0.0.0 ailiyou1999.com
-0.0.0.0 ailoganalyticsportal-eus.cloudapp.net
 0.0.0.0 ailpielei.com
 0.0.0.0 ailrouno.net
 0.0.0.0 ailtumty.net
@@ -8784,7 +8783,6 @@
 0.0.0.0 bhyblanket.cn
 0.0.0.0 bhyddc.com
 0.0.0.0 bhzejltg.info
-0.0.0.0 bi-analytics.cloudapp.net
 0.0.0.0 bi-pipeline-collector.stylight.net
 0.0.0.0 bi.manhuaren.com
 0.0.0.0 bi.medscape.com
@@ -10187,7 +10185,6 @@
 0.0.0.0 c1.adform.net
 0.0.0.0 c1.chajiaotong.com
 0.0.0.0 c1.china.cn
-0.0.0.0 c1.microsoft.com
 0.0.0.0 c1.politexpert.ru
 0.0.0.0 c1.popads.net
 0.0.0.0 c1.wfinterface.com
@@ -32486,7 +32483,6 @@
 0.0.0.0 opt8.co
 0.0.0.0 optad360.io
 0.0.0.0 optaim.com
-0.0.0.0 optanon.blob.core.windows.net
 0.0.0.0 optchk.ayads.co
 0.0.0.0 opteama.com
 0.0.0.0 opten.hu
@@ -45394,8 +45390,6 @@
 0.0.0.0 trk.i0.cz
 0.0.0.0 trk.in25app.com
 0.0.0.0 trk.kissmetrics.com
-0.0.0.0 trk.klclick2.com
-0.0.0.0 trk.klclick3.com
 0.0.0.0 trk.nfl-online-streams.live
 0.0.0.0 trk.olnl.net
 0.0.0.0 trk.pinterest.com
@@ -46477,7 +46471,6 @@
 0.0.0.0 us-1.gladly.com
 0.0.0.0 us-central.load.exelator.com
 0.0.0.0 us-central1-adaptive-growth.cloudfunctions.net
-0.0.0.0 us-central1-production-242307.cloudfunctions.net
 0.0.0.0 us-east-1.event.prod.bidr.io
 0.0.0.0 us-east-1.prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.stinger-ad.bidr.io

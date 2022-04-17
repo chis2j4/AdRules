@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-04-17 16:10:24（北京时间） 
-! Total count: 14385
+! Version: 2022-04-18 00:10:09（北京时间） 
+! Total count: 14404
 -960x*0.gif
 -250.js*
 
@@ -250,7 +250,7 @@ $$div[id="Couple"]
 $$ins[class="adsbygoogle"]
 $$p[class="ReadAd"]
 $$span[class="dmcenterb"]
-$document,removeparam=source,denyallow=googlevideo.com,domain=1sol.io|ashford.com|asos.com|att.com|awd-it.*|bankofamerica.com|barenecessities.com|bedbathandbeyond.com|betterprogramming.pub|blavity.com|boscovs.com|boxboat.com|brownells.*|burkesoutlet.com|bybit.com|choicehotels.com|chollometro.com|coinpanel.com|contabo.com|cyberghostvpn.com|despegar.*|directv.com|discord.*|docs.google.com|docsend.com|drinkhint.com|edx.org|educba.com|eonline.com|eventbrite.*|fiverr.com|fool.com|forms.gle|gethotspotshield.com|gleam.io|goodcrypto.app|googleusercontent.com|greenhouse.io|greenvoice.fr|hammacher.com|hanes.com|hobbyhall.fi|hotspotshield.com|hottopic.com|housing.com|hp.com|instagram.com|itnext.io|jacquielawson.com|just-eat.co.uk|kasta.io|medium.com|nautica.com|onehanesplace.com|outnorth.fi|petsupplies.com|phonesoap.com|riteaid.com|runnode.com|search.brave.com|sonos.com|spiceworks.com|squarespace.com|subscribe.gq.com|t.me|thedailybeast.com|tiktok.com|tokopedia.com|tommybahama.com|torrid.com|tous.com|tradingview.com|twitter.com|user.qzone.qq.com|vimeo.com|webhint.io|wilsonsleather.com|wired.com|ylighting.com|youtube.com|yubo.live|britishcornershop.co.uk|microsoftedgewelcome.microsoft.com
+$document,removeparam=source,denyallow=googlevideo.com,domain=1sol.io|ashford.com|asos.com|att.com|awd-it.*|bankofamerica.com|barenecessities.com|bedbathandbeyond.com|betterprogramming.pub|blavity.com|boscovs.com|boxboat.com|brownells.*|britishcornershop.co.uk|burkesoutlet.com|bybit.com|choicehotels.com|chollometro.com|coinpanel.com|contabo.com|cyberghostvpn.com|despegar.*|directv.com|discord.*|docs.google.com|docsend.com|drinkhint.com|edx.org|educba.com|eonline.com|eventbrite.*|fiverr.com|fool.com|forms.gle|gethotspotshield.com|gleam.io|goodcrypto.app|googleusercontent.com|greenhouse.io|greenvoice.fr|hammacher.com|hanes.com|hobbyhall.fi|hotspotshield.com|hottopic.com|housing.com|hp.com|instagram.com|itnext.io|jacquielawson.com|just-eat.co.uk|kasta.io|medium.com|microsoftedgewelcome.microsoft.com|nautica.com|nortonsafe.search.ask.com|onehanesplace.com|outnorth.fi|petsupplies.com|phonesoap.com|riteaid.com|runnode.com|search.brave.com|sonos.com|spiceworks.com|squarespace.com|subscribe.gq.com|t.me|thedailybeast.com|tiktok.com|tokopedia.com|tommybahama.com|torrid.com|tous.com|tradingview.com|twitter.com|user.qzone.qq.com|vimeo.com|webhint.io|wilsonsleather.com|wired.com|ylighting.com|youtube.com|yubo.live
 $image,third-party,domain=avtb6677.com|lady1.top
 $popup,third-party,domain=downdv.com|rmdown.com|soyunpan.com|youtubeto.com
 $removeparam=%243p,domain=reddit.com
@@ -7396,6 +7396,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||a.yiyuancq.com^$domain=m.shuquge.com
 ||a01.abovede6.com^
 ||a08.jisz9e.cn^
+||a0b22.com^
 ||a0c00.com^
 ||a0c11.com^
 ||a0c99.com^
@@ -10768,6 +10769,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||longhoo.net/images/mynews/2010float
 ||longtenghuaxia*/js/html*.js
 ||longyu.cc/bucket/$object,image
+||lookmovie211.xyz^$removeparam=mid
+||lookmovie211.xyz^$removeparam=sec
+||lookmovie211.xyz^$removeparam=sid
+||lookmovie211.xyz^$removeparam=t
 ||lopostone.com^
 ||loupan99.com^
 ||lpjxzs.com^
@@ -11408,6 +11413,20 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||norma-external-collect.meizu.com^
 ||norma-external-collect.meizu.com^$app=com.xunlei.downloadprovider
 ||norton.com^$removeparam=ssdcat
+||nortonsafe.search.ask.com^$removeparam=chn
+||nortonsafe.search.ask.com^$removeparam=cmpgn
+||nortonsafe.search.ask.com^$removeparam=doi
+||nortonsafe.search.ask.com^$removeparam=installsource
+||nortonsafe.search.ask.com^$removeparam=o
+||nortonsafe.search.ask.com^$removeparam=olpchannel
+||nortonsafe.search.ask.com^$removeparam=os
+||nortonsafe.search.ask.com^$removeparam=p2
+||nortonsafe.search.ask.com^$removeparam=qo
+||nortonsafe.search.ask.com^$removeparam=qsrc
+||nortonsafe.search.ask.com^$removeparam=ssdcat
+||nortonsafe.search.ask.com^$removeparam=templatecat
+||nortonsafe.search.ask.com^$removeparam=tpr
+||nortonsafe.search.ask.com^$removeparam=vendorsrc
 ||notice.game.xiaomi.com^
 ||notice.iqiyi.com^
 ||novel.pangolin-sdk-toutiao.com^

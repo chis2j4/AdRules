@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-04-18 08:43:37（北京时间） 
-! Total count: 14404
+! Version: 2022-04-19 00:11:32（北京时间） 
+! Total count: 14410
 -960x*0.gif
 -250.js*
 
@@ -9466,6 +9466,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||flyigouwu.com^
 ||flzyw.com/js/foot.js
 ||fmh.guangzhengtwentynine.top^
+||fmk.dsqzk.cn^
 ||fms.ipinyou.com^$app=com.baidu.yuedu
 ||fnac.$removeparam=Origin
 ||fo.tiqu.io^
@@ -10243,6 +10244,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jheva.com^
 ||jhqku.cn^
 ||jhwap.cn^
+||jiaju.ssjy.shop^
 ||jialiren.net^
 ||jializyw.com^
 ||jianpian.vip^
@@ -10544,6 +10546,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kouclo.com^
 ||kowqd7.top^
 ||kowqd9.top^
+||kp.rongedui.com^
 ||kr.sdykcloud.cn^
 ||krpano.org
 ||krt.zhengxiaoliu.top^
@@ -11107,6 +11110,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mgo.jwl.hk.cn^
 ||mgogo.com^
 ||mgzgmyzz.com^
+||mh1.qiaolianshu.com^
 ||mhtrt.com^
 ||mhy.wdpkx.cn^
 ||mi.tvzhe.com^
@@ -11820,6 +11824,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||px.eiasia.ltd^
 ||px.loverzhou.club^
 ||px.nmgxhcf.xyz^
+||px.rhinogo.cn^
 ||pxblmj.com^
 ||pxene.com^
 ||pxl2015x1.com^
@@ -13994,6 +13999,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zs.dingyar.top^
 ||zs.zyzlpt.com^
 ||zsh-work.com^
+||zt.hylmfeifei.com^
 ||ztdsp.com$third-party
 ||ztgame.com^
 ||zuanke123.com^

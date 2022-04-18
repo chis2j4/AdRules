@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-04-18 00:10:18（北京时间） 
-! Total count: 4994
+! Version: 2022-04-18 08:43:44（北京时间） 
+! Total count: 4995
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4379,7 +4379,7 @@
 @@||baidu.com/cse/search?$domain=16xx8.com
 @@||baidu.com/customer_search/api/
 @@||baidu.com/h.js$domain=19lou.com|baomihua.com|ihome99.com
-@@||baidu.com/hm.js$domain=cainiao.com|dwz.cn|ramboplay.com
+@@||baidu.com/hm.js$domain=cainiao.com|dwz.cn|ramboplay.com|seo.chinaz.com
 @@||baidu.com/location/ip?$domain=dominos.com.cn|saicmg.com|tanmizhi.com|tianqi.qq.com
 @@||baidu.com/location/ip?$domain=dominos.com.cn|tanmizhi.com
 @@||baidu.com/share/count?
@@ -7622,6 +7622,7 @@
 @@||sfdict.com/app/*/click_tracking.js$domain=thesaurus.com
 @@||share.baidu.com^$script,stylesheet,domain=k73.com
 @@||share1223.com^$generichide
+@@||shijue.me/advertise/getList?
 @@||shine.cn/showadcode2.asp?posid=68&
 @@||shoonya.finvasia.com/fingerprint2.min.js$script,~third-party
 @@||shop.bmw.com.au/assets/analytics-setup.js$~third-party

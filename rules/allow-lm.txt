@@ -8113,6 +8113,7 @@
 @@||dentalbuzz.com^
 @@||dentrix.com^
 @@||denverpost.com^
+@@||deovr.com^
 @@||dependonpremier.com^
 @@||deploydepot.ca^
 @@||depot-debian.univ-reunion.fr^
@@ -33261,6 +33262,7 @@
 @@|dl.humble.com^$important
 @@|dl.opensubtitles.org^$important
 @@|dl.teamviewer.com^$important
+@@|dl3.cdn.filezilla-project.org^$important
 @@|dlassets-ssl.xboxlive.com^$important
 @@|dlwnextsetting.cloudapp.net^$important
 @@|dmca.twitch.tv^$important
@@ -33521,6 +33523,7 @@
 @@|files.surfright.nl^$important
 @@|fileshare1240.depositfiles.com^$important
 @@|filestore.community.support.microsoft.com^$important
+@@|filezilla-project.org^$important
 @@|filterlists.com^$important
 @@|filters.adtidy.org^$important
 @@|filtersadguard.b-cdn.net^$important
@@ -34831,6 +34834,7 @@
 @@|shavar.prod.mozaws.net^$important
 @@|shavar.services.mozilla.com^$important
 @@|shell.cdn.office.net^$important
+@@|shell.windows.com^$important
 @@|shield.sitelock.com^$important
 @@|shields.io^$important
 @@|shop.aldi.com.au^$important
@@ -35708,6 +35712,7 @@
 @@|www.youtube.com^$important
 @@|www2.bing.com^$important
 @@|www4-static.gog-statics.com^$important
+@@|www4.bing.com^$important
 @@|www6.mediafire.com^$important
 @@|www91.intel.com.au^$important
 @@|wwz-prod-*.wwzapi.com^$important
@@ -37622,7 +37627,7 @@
 @@||anoboy.stream^$generichide
 @@||anoboy.video^$generichide
 @@||anomize.xyz^$generichide
-@@||anonigviewer.com/assets/js/advertisements.js
+@@||anonigviewer.com/assets/js/*.js
 @@||anonymous-links.com^$generichide
 @@||anonymousceviri.com^$generichide
 @@||anonymousemail.me/*.js$~third-party
@@ -49292,6 +49297,7 @@
 @@||nsimg.net/biopic^
 @@||nstarikov.ru^$generichide
 @@||nstnews.net^$generichide
+@@||ntcdntempv*.com/data/images/$stealth,domain=nettruyenmoi.com
 @@||nthu.edu.tw^*ad
 @@||ntou.edu.tw/bin/showads.
 @@||ntp.msn.com/edge/$stealth
@@ -49974,13 +49980,14 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dausel.co
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=davidbaptistechirot.blogspot.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=daz3d.ru
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dbsysupgrade.com|asyadizileri.net|techhelpbd.com|therootdroid.com|sevenjournals.com|7apple.net|jorgemoncada.com|hollywoodsmagazine.com|anicosplay.net|ewybory.eu|nanoroms.com|egymanga.net|flipreview.com|hiphopa.net|pngtosvg.com|compartilhandobr.com|loksado.com|ecoursefree.com|daemon-hentai.com|yigeplus.xyz|cgchotbox.com|launcherfull.com|cheatbyte.com|techycoder.com|arasindakifark.net|kitguru.net|gsmxt.com|mangaxp.com|technicalatg.com|technicalatg.xyz|freetutorialsdownload.online|tutsgalaxys.com|toolss.net|vipmods.net|freetutorialsudemy.com|adonisfansub.com|getfreecourses.org|themovieslab.in|bitcoinegypt.news|talkjarvis.com|satcesc.com|dongknows.com|getfreecourses.net|citychilli.com|livenewsof.com|pinayvids.com|hardcoregames.ca|pasend.cam|unityassetcollection.com|crypto-fun-faucet.de|fileoops.com|samuraiscan.com|3dmodelshare.org|cgtips.org|dailyvideoreports.net|codesnail.com|ma-x.org|sitarchive.com|onlyfanesse.com|codingshiksha.com|graphicux.com|w3layouts.com|musike.net|windowsmatters.com|sonixgvn.net|avoiderrors.com|gatcha.org|sayrodigital.com|justandroid.net|4horlover.com|topnewsshow.com|3dzip.org|ovagames.com|lewdsenpai.com|mitsmits.com|openculture.com|udemycoursesfree.me|yuinime.net|asyadrama.com|apfelpatient.de|agorablog.it|r3ndy.com|mylivewallpapers.com|e-sanatatea.ro|ourcoindigibyte.xyz|ourcoindash.xyz|ourcoineth.xyz|ourcoinfaucet.xyz|ourcoin.xyz|latestjav.com|sakpot.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dbsysupgrade.com|asyadizileri.net|techhelpbd.com|therootdroid.com|sevenjournals.com|7apple.net|jorgemoncada.com|hollywoodsmagazine.com|anicosplay.net|ewybory.eu|nanoroms.com|egymanga.net|flipreview.com|hiphopa.net|pngtosvg.com|compartilhandobr.com|loksado.com|ecoursefree.com|daemon-hentai.com|yigeplus.xyz|cgchotbox.com|launcherfull.com|cheatbyte.com|techycoder.com|arasindakifark.net|kitguru.net|gsmxt.com|mangaxp.com|technicalatg.com|technicalatg.xyz|freetutorialsdownload.online|tutsgalaxys.com|toolss.net|vipmods.net|freetutorialsudemy.com|adonisfansub.com|getfreecourses.org|themovieslab.in|bitcoinegypt.news|talkjarvis.com|satcesc.com|dongknows.com|getfreecourses.net|citychilli.com|livenewsof.com|pinayvids.com|hardcoregames.ca|pasend.cam|unityassetcollection.com|crypto-fun-faucet.de|fileoops.com|samuraiscan.com|3dmodelshare.org|cgtips.org|dailyvideoreports.net|codesnail.com|ma-x.org|sitarchive.com|onlyfanesse.com|codingshiksha.com|graphicux.com|w3layouts.com|musike.net|windowsmatters.com|sonixgvn.net|avoiderrors.com|gatcha.org|sayrodigital.com|justandroid.net|4horlover.com|topnewsshow.com|3dzip.org|ovagames.com|lewdsenpai.com|mitsmits.com|openculture.com|udemycoursesfree.me|yuinime.net|asyadrama.com|apfelpatient.de|agorablog.it|r3ndy.com|mylivewallpapers.com|e-sanatatea.ro|ourcoindigibyte.xyz|ourcoindash.xyz|ourcoineth.xyz|ourcoinfaucet.xyz|ourcoin.xyz|latestjav.com|sakpot.com|wallpaperwaifu.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=deezloaded.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=di.fm
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=diffnow.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=digitalfernsehen.de
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=digitalinformationworld.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=diglink.blogspot.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=discordsunucu.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=discoveryrom.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=diynetwork.com,important
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dl.ccbluex.net
@@ -50231,6 +50238,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=osmanonline.co.uk
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=oxygenu.xyz
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=paidappstore.xyz
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=pandaznetwork.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=paraphraser.io
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=password69.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=pasty.info
@@ -53449,6 +53457,7 @@
 @@||softairbay.com^$generichide
 @@||softfull.me/wp-content/plugins/wp-safelink-v*/assets/fuckadblock.js
 @@||softmaroc.org^$generichide
+@@||softpedia.com^$generichide
 @@||software-on.com/wp-content/plugins/angwp2/assets/dev/js/advertising.js
 @@||software-on.com/wp-content/plugins/better-adsmanager/js/advertising.min.js
 @@||software-on.com^$generichide
@@ -57311,5 +57320,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-04-19 08:58:28
-! Total count: 57309
+! Version: 2022-04-19 20:20:08
+! Total count: 57318

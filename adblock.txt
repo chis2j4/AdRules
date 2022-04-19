@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-04-19 08:38:46（北京时间） 
-! Total count: 14410
+! Version: 2022-04-19 16:11:21（北京时间） 
+! Total count: 14415
 -960x*0.gif
 -250.js*
 
@@ -67,6 +67,9 @@
 ##DIV[id*="BAIDU_SSP__wrapper_"]
 ##IFRAME[src*="//pos.baidu.com/"]
 ##[alt=' 腐乐漫 '],[alt=' 西瓜社 ']
+##[alt='52bl']
+##[alt='ACG里番']
+##[alt='西瓜社']
 ##[class*="isboostSideSlideShow"]
 ##[class^=c_c][style^='text-align:']
 ##[evhrumjx]
@@ -106,6 +109,7 @@
 ##[href='https://www.100cup.com/'],[href^='https://beizidalu.com']
 ##[href='https://www.ivyelite.net/school-cooperation/']
 ##[href='https://www.kissyvape.com/']
+##[href='https://www.riqingxs.com/']
 ##[href='https://xiaoya358.com']
 ##[href='javascript:GoDb58649();']
 ##[href='javascript:GoTp();']
@@ -6468,6 +6472,7 @@ yczbb.com##div#noad
 ydss.cn###jd_ad,[class="bm bml pbn"] table
 ydt.com.cn##.r_yueyue,.u_yueyue,.adsbygoogle
 yeah.net##[id$="_dvPrmot"]
+yemancomic.com##div > center > strong > button[onclick^="window.location.href"]
 yesky.com##DIV#bdadv.bd_adv,DIV.wth200 > DIV.baidu,DIV.ad190,div.tit_spb
 yeyou.com##div#ad-yeyou-nitifiction,div[class^="ad-box"]
 yeyoubbs.com##DIV.wp> TABLE[width="960"],IMG[src^="http://www.yeyoubbs.com"],div.a_pt,[width="960"][height="66"]

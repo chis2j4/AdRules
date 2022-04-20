@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-04-20 00:11:40（北京时间） 
-! Total count: 14415
+! Version: 2022-04-20 08:41:04（北京时间） 
+! Total count: 14417
 -960x*0.gif
 -250.js*
 
@@ -11481,6 +11481,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||oceancode.top^
 ||ockfjk3kjk7kjkf.xmangoculture.com^
 ||octopuspop.com^
+||oerproject.com^$removeparam=RegistrationSource
 ||oeya.com/$domain=realtw.com
 ||officemonster.co.uk^$removeparam=/^fo_/
 ||offline-adv.oray.com^
@@ -12547,6 +12548,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||superfastcdn.com^
 ||supersonicads.com^
 ||supfast.net^
+||support.github.com^$removeparm=tag
 ||surfshark.com^$removeparam=transaction_id
 ||suwoj.com^
 ||sv.baidu.com/liveserver/sys/sync

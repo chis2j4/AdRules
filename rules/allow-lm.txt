@@ -33311,6 +33311,7 @@
 @@|docs.scrapy.org^$important
 @@|docs.standardnotes.com^$important
 @@|docs.standardnotes.org^$important
+@@|docs.unrealengine.com^$important
 @@|docs.uptobox.com^$important
 @@|dotnet.microsoft.com^$important
 @@|down.easeus.com^$important
@@ -34064,6 +34065,7 @@
 @@|laptop-updates.brave.com^$important
 @@|lastpass.com^$important
 @@|launcher-public-service-prod*.ol.epicgames.com^$important
+@@|launcher.store.epicgames.com^$important
 @@|layouts.nvidiagrid.net^$important
 @@|lea.cdntrex.com^$important
 @@|leaderboards.xboxlive.com^$important
@@ -34198,6 +34200,7 @@
 @@|mariadb.org^$important
 @@|marketplace-origin.xbox.com^$important
 @@|marketplace-screenshots.githubusercontent.com^$important
+@@|marketplace-website-node-launcher-prod.ol.epicgames.com^$important
 @@|marketplace.visualstudio.com^$important
 @@|marketplace.xbox.com^$important
 @@|massive.io^$important
@@ -37314,6 +37317,7 @@
 @@||amazon-adsystem.com/aax2/amzn_ads.js^$domain=kino.de
 @@||amazon-adsystem.com/aax2/apstag.js$domain=accuweather.com|barstoolsports.com|blastingnews.com|cnn.com|exomashomepage.com|familyhandyman.com|foxbusiness.com|gamingbible.co.uk|history.com|keloland.com|radio.com|rd.com|tasteofhome.com|thehealthy.com|wboy.com|wkrn.com|wlns.com|wvnstv.com
 @@||amazon-adsystem.com/aax2/apstag.js$domain=accuweather.com|barstoolsports.com|blastingnews.com|cnn.com|exomashomepage.com|familyhandyman.com|foxbusiness.com|gamingbible.co.uk|history.com|keloland.com|radio.com|rd.com|tasteofhome.com|thehealthy.com|wboy.com|wkrn.com|wlns.com|wvnstv.com
+@@||amazon-adsystem.com/aax2/apstag.js$domain=gala.fr
 @@||amazon-adsystem.com/aax2/apstag.js$domain=gamestar.de
 @@||amazon-adsystem.com/aax2/apstag.js$domain=ladbible.com
 @@||amazon-adsystem.com/aax2/apstag.js$domain=macworld.co.uk
@@ -39274,6 +39278,7 @@
 @@||cd.connatix.com/connatix.playspace.js$domain=theverge.com
 @@||cda.pl/video/$subdocument,domain=szukajka.tv
 @@||cdiscount.com/Js/tracking/cdtmv2.js$script,~third-party
+@@||cdn*-player.com^$stealth
 @@||cdn*.downdetector.com/*/javascript*/adscript.js
 @@||cdn*.downdetector.com/*/javascript*/adscript_vars.js
 @@||cdn*.downloadapkgames.com/?session=
@@ -43770,6 +43775,8 @@
 @@||google-analytics.com/analytics.js$domain=freecoursesonline.me
 @@||google-analytics.com/analytics.js$domain=frenchfrysoftware.com
 @@||google-analytics.com/analytics.js$domain=frenchfrysoftware.com
+@@||google-analytics.com/analytics.js$domain=gala.fr
+@@||google-analytics.com/analytics.js$domain=gala.fr
 @@||google-analytics.com/analytics.js$domain=game-owl.com
 @@||google-analytics.com/analytics.js$domain=game-owl.com
 @@||google-analytics.com/analytics.js$domain=game8.jp
@@ -44652,6 +44659,7 @@
 @@||googletagmanager.com/gtm.js$domain=forum.worldoftanks.ru
 @@||googletagmanager.com/gtm.js$domain=forum.worldoftanks.ru
 @@||googletagmanager.com/gtm.js$domain=freenet-funk.de
+@@||googletagmanager.com/gtm.js$domain=gala.fr
 @@||googletagmanager.com/gtm.js$domain=game8.jp
 @@||googletagmanager.com/gtm.js$domain=game8.jp
 @@||googletagmanager.com/gtm.js$domain=gamepix.com
@@ -46974,6 +46982,7 @@
 @@||js-agent.newrelic.com^$app=com.jnj.acuvue.consumer
 @@||js-sec.indexww.com/asl/asl_*.js$domain=envedette.ca
 @@||js-sec.indexww.com/ht/htw-baltimore-sun.js$domain=baltimoresun.com
+@@||js-sec.indexww.com/ht/p/*.js$domain=gala.fr
 @@||js-sec.indexww.com/ht/p/*.js$domain=macworld.co.uk
 @@||js-sec.indexww.com/ht/p/*.js$domain=programme-tv.net
 @@||js-sec.indexww.com/htv/bell.js$domain=envedette.ca
@@ -48909,6 +48918,7 @@
 @@||mundodonghua.com/*banner.gif
 @@||mundodonghua.com/js/adsbygoogle.js
 @@||mundodonghua.com/ver/supreme-god-2/banner.gif?
+@@||mundotec.pro^$stealth
 @@||mundotecnologias.com^$generichide
 @@||murodoclassicrock4.blogspot.com^$generichide
 @@||musenboya.com^$generichide
@@ -49492,6 +49502,7 @@
 @@||ojrq.net^$popup,domain=pricehipster.com
 @@||ok-magazine.ru/sites/all/themes/*/ads.js
 @@||ok.ru/web-api/music/conf$stealth
+@@||okccdn.com/builds/desktop/js/tracking_center.$script,domain=okcupid.com
 @@||okdiario.com^$generichide
 @@||okfirenze.com/*/app/assets/js/prebid-ads.js
 @@||oklivetv.com/*&*=*&*&_=$xmlhttprequest,~third-party
@@ -49850,6 +49861,7 @@
 @@||pagead2.googlesyndication.com/favicon.ico$domain=maxedtech.com
 @@||pagead2.googlesyndication.com/getconfig/sodar$domain=extremereportbot.com
 @@||pagead2.googlesyndication.com/getconfig/sodar$domain=jaanmusic.in
+@@||pagead2.googlesyndication.com/getconfig/sodar?$domain=aternos.org
 @@||pagead2.googlesyndication.com/getconfig/sodar?$xmlhttprequest,domain=spiegel.de
 @@||pagead2.googlesyndication.com/getconfig/sodar?sv=$domain=tipsmake.com
 @@||pagead2.googlesyndication.com/page/js/adsbygoogle.js?_=$domain=thehouseofportable.com
@@ -51454,6 +51466,7 @@
 @@||princesshighway.com.au/min/?f=/skin/frontend/*/styles.css
 @@||printdirect.ru^$elemhide
 @@||prisacom.com/RealMedia/ads/*/eplayer/$domain=as.com
+@@||prismamedia-com.videoplayerhub.com/galleryplayer.js$domain=gala.fr
 @@||privacy-center.org/*/loader.js$domain=tuttosport.com
 @@||privacy-center.org/sdk.*.js$domain=tuttosport.com
 @@||privacy.tapad.com/edaa-coop^$domain=youronlinechoices.com
@@ -52655,6 +52668,7 @@
 @@||sdk.privacy-center.org^$domain=dn.se
 @@||sdk.privacy-center.org^$domain=dna.fr
 @@||sdk.privacy-center.org^$domain=dziennikzachodni.pl
+@@||sdk.privacy-center.org^$domain=europe1.fr
 @@||sdk.privacy-center.org^$domain=franceculture.fr
 @@||sdk.privacy-center.org^$domain=ideal.es|elcorreo.com
 @@||sdk.privacy-center.org^$domain=jeanmarcmorandini.com
@@ -52744,6 +52758,7 @@
 @@||securepubads.g.doubleclick.net/gampad/ads$domain=v3.co.uk
 @@||securepubads.g.doubleclick.net/gampad/ads$domain=wtf.nl
 @@||securepubads.g.doubleclick.net/gampad/ads$xmlhttprequest,domain=tetrads.io
+@@||securepubads.g.doubleclick.net/gampad/ads?$domain=aternos.org
 @@||securepubads.g.doubleclick.net/gampad/ads?$domain=league-funny.com
 @@||securepubads.g.doubleclick.net/gampad/ads?$domain=purepeople.com
 @@||securepubads.g.doubleclick.net/gampad/ads?$domain=purposegames.com
@@ -52752,7 +52767,6 @@
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_req=*gamespot%2Cgallery&$other,domain=gamespot.com
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1$domain=15min.lt
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1$domain=adda247.com
-@@||securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1$domain=aternos.org
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1$domain=bloomberg.com
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1$domain=forums.hardwarezone.com.sg
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1$domain=games.softgames.de
@@ -52945,6 +52959,7 @@
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=freemcserver.net
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=freundin.de
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=freundin.de
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=gala.fr
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=game.goo.ne.jp
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=games.gamesplaza.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=gamespot.com
@@ -53494,6 +53509,7 @@
 @@||snigel-d.openx.net/*/arj$domain=aternos.org
 @@||snigel-d.openx.net/w/1.0/arj?cc=1$domain=aternos.org
 @@||snigelweb-com.videoplayerhub.com/videoloader.js$domain=notebookcheck-hu.com|notebookcheck.com|notebookcheck.net|notebookcheck.org|notebookcheck.biz|notebookcheck.it|notebookcheck.nl|notebookcheck.info|notebookcheck-tr.com|notebookcheck.se|notebookcheck-ru.com
+@@||snigelweb.com/*/argus.js$domain=aternos.org
 @@||snigelweb.com/bp/$domain=aternos.org
 @@||snippets.studybreakmedia.com/doubleclick/ads.js
 @@||snopes.com/photos/advert*/*.asp
@@ -53815,7 +53831,6 @@
 @@||stadium-live.biz^$generichide
 @@||staff-start.com/js/track/$domain=enoteca.co.jp|store.alpen-group.jp
 @@||stagesaga.xyz^$generichide
-@@||staging-cdn.snigelweb.com/*/argus.js$domain=aternos.org
 @@||stalker-mods.clan.su^$generichide
 @@||stalker-mods.su^$generichide
 @@||standard.co.uk/js/third-party/prebid.js
@@ -55185,7 +55200,9 @@
 @@||tra.scds.pmdstatic.net/advertising-core-libs/*/prebid.js$domain=cuisineactuelle.fr
 @@||tra.scds.pmdstatic.net/advertising-core/$domain=voici.fr
 @@||tra.scds.pmdstatic.net/advertising-core/$domain=voici.fr
+@@||tra.scds.pmdstatic.net/advertising-core/*/core-ads.js$domain=gala.fr
 @@||tra.scds.pmdstatic.net/advertising-core/*/core-ads.js$domain=programme-tv.net
+@@||tra.scds.pmdstatic.net/advertising-core/*/prisma-prebid-plugin.js$domain=gala.fr
 @@||tra.scds.pmdstatic.net/advertising-core/*/prisma-prebid-plugin.js$domain=programme-tv.net
 @@||tra.scds.pmdstatic.net/sourcepoint/$domain=businessinsider.fr|voici.fr
 @@||track.adform.net/*serving/opt/iab
@@ -57394,5 +57411,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-04-22 08:54:55
-! Total count: 57392
+! Version: 2022-04-22 20:19:42
+! Total count: 57409

@@ -2,8 +2,8 @@
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 12 Hours
-# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2022-04-22 00:43:36
-# Total count: 97842
+# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2022-04-22 08:11:37
+# Total count: 97846
 0.0.0.0 0--e.info
 0.0.0.0 0-firewall.net.zooplus.de
 0.0.0.0 0-owazo4.net.zooplus.de
@@ -2833,6 +2833,7 @@
 0.0.0.0 a.beliefnet.com
 0.0.0.0 a.bestcontentitem.top
 0.0.0.0 a.bestcontenttool.top
+0.0.0.0 a.bfking.cn
 0.0.0.0 a.binpartner.com
 0.0.0.0 a.bitmango.com
 0.0.0.0 a.bitporno.com
@@ -50810,6 +50811,7 @@
 0.0.0.0 lm342.com
 0.0.0.0 lm343.com
 0.0.0.0 lm465.com
+0.0.0.0 lm553.com
 0.0.0.0 lm663.com
 0.0.0.0 lm665.com
 0.0.0.0 lm685.com
@@ -67864,6 +67866,7 @@
 0.0.0.0 qdatasales.com
 0.0.0.0 qdayipnsir.com
 0.0.0.0 qdb6gd3nth.ru
+0.0.0.0 qdbh.store
 0.0.0.0 qdchunyu.com
 0.0.0.0 qddrusjdrjuj.com
 0.0.0.0 qdff.zxwstong.com
@@ -70347,6 +70350,7 @@
 0.0.0.0 rimxqx.slickdeals.net
 0.0.0.0 rinad.jp
 0.0.0.0 rinaefoundation.org.za
+0.0.0.0 rinc.ink
 0.0.0.0 ringexpressbeach.com
 0.0.0.0 ringingmor.biz
 0.0.0.0 ringplayground.com

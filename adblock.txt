@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-04-23 16:09:54（北京时间） 
-! Total count: 14418
+! Version: 2022-04-24 00:10:55（北京时间） 
+! Total count: 14426
 -960x*0.gif
 -250.js*
 
@@ -2866,6 +2866,7 @@ amigo.cn##[class^="redpacket"]
 amu520.com##[href="http://m.yilingxs.com/"],[href^="http://www.yilingxs.com/"]
 android.265g.com##div#fmt-wrap
 anjuke.com##div.adver-content,div#xapp_down_new,.g-ifx-link
+anluyg.net/static/js/channel*.js
 anqu.com##.game-ul.mb25,.adsbygoogle,#view1_bg,.guang1000,[src^="http://img.xa9t.com/html/click/"]
 anquan.org##[class^="ad"]
 antpedia.com,chinamedevice.cn,lcxw.cn,msdn.hk,xinhuanet.com##.gg1
@@ -8251,6 +8252,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||beacon.sina.com.cn^
 ||beacon.tingyun.com^
 ||bebi.com^
+||become.songche.net^
 ||bedrapiona.com^
 ||bee.kascend.com^
 ||behe.com^
@@ -9559,6 +9561,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gaoqingyy.net/baidu.js$script
 ||gaoqingyy.net/hengfutupian/$script
 ||gaothings.com^
+||gardens.shjha.top^
 ||gayeah.cn^
 ||gb.nbgoodever.cn^
 ||gb.zhaiqichao.top^
@@ -9848,6 +9851,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hmy.rongnuo.top^
 ||hn.sportsdream.top^
 ||hncsdayu.com^
+||hnd.pfdth.cn^
 ||hng.duoqushop.cn^
 ||hng.microsser.cn^
 ||hnksln.com^
@@ -10521,6 +10525,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||km.anlgh.com^
 ||km.senxiaopang.top^
 ||kmaa45.com^
+||kme.dncvj.cn^
 ||kme.duoquwawa.cn^
 ||kmg.fshanys-vip.top^
 ||kmgfjc.cn^
@@ -11040,6 +11045,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mayi360.cn^
 ||mayiad.com^
 ||mazarine-ap.com^
+||mb.tianyuewangluo.top^
 ||mbai.cn$third-party
 ||mbai.cn^
 ||mbaobao.com^
@@ -11566,6 +11572,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||oskjfkdlsjfds.szfhl99.com^
 ||osrrltw.cn^
 ||oss.amap.com/ws/banner^
+||ot.jizy.cn^
 ||oth.eve.mdt.qq.com^
 ||oth.eve.qq.com^
 ||other.v.duowan.com^
@@ -12010,7 +12017,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||r.m.duyidu.net^
 ||r.qq-hls.xyz^
 ||r.zaitouwang.com^
-||r1.ykimg.com^
 ||r1.ykimg.com^$app=com.huawei.hwvplayer.youku
 ||ra.gtimg.com/uv/1712104/index.js
 ||rakutenmarketing.com^
@@ -13401,6 +13407,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.pksanb.com^
 ||www.ppslsa.com^
 ||www.q4ee.top^
+||www.qkixi.com^
 ||www.qq.com/?tag=getList
 ||www.qqads.com^
 ||www.qu.la/static/js/nrwzl.js
@@ -13527,6 +13534,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xc.nimaxrv.cn^
 ||xc.nuheoub.cn^
 ||xc.ognujxj.cn^
+||xc.shigl.top^
 ||xc.wagzqhq.cn^
 ||xc.yynncbn.cn^
 ||xcdf.cn^

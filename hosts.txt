@@ -2,7 +2,7 @@
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 12 Hours
-# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2022-04-23 16:11:04
+# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2022-04-24 00:38:51
 # Total count: 151920
 0.0.0.0 # DOMAIN-KEYWORD: 85
 0.0.0.0 # DOMAIN-SUFFIX: 12412
@@ -68410,6 +68410,7 @@
 0.0.0.0 info.ncoi.nl
 0.0.0.0 info.neg.co.jp
 0.0.0.0 info.neg.co.jp$badfilter
+0.0.0.0 info.neg.co.jpb.dnbbank.no
 0.0.0.0 info.neosllc.com
 0.0.0.0 info.neptune-software.com
 0.0.0.0 info.net.zooplus.it
@@ -83925,6 +83926,7 @@
 0.0.0.0 mb.marathonbet.com
 0.0.0.0 mb.moatads.com
 0.0.0.0 mb.taboola.com
+0.0.0.0 mb.tianyuewangluo.top
 0.0.0.0 mb.yidianzixun.com
 0.0.0.0 mb.zam.com
 0.0.0.0 mb01.com
@@ -106922,7 +106924,6 @@
 0.0.0.0 r1.net.zooplus.nl
 0.0.0.0 r1.news-subscribe.com
 0.0.0.0 r1.visualwebsiteoptimizer.com
-0.0.0.0 r1.ykimg.com
 0.0.0.0 r1imghtlak.mmtcdn.com
 0.0.0.0 r1ztni.oui.sncf
 0.0.0.0 r2.tschewang.com
@@ -126590,7 +126591,6 @@
 0.0.0.0 tbl.tlbdyy.net
 0.0.0.0 tbl1.cn
 0.0.0.0 tblaqgify.com
-0.0.0.0 tblog-8sodn459.kgslb.com
 0.0.0.0 tblqycca.com
 0.0.0.0 tbm.snssdk.com
 0.0.0.0 tbm09.com

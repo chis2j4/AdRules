@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-04-26 08:42:43（北京时间） 
-! Total count: 14427
+! Version: 2022-04-26 16:11:11（北京时间） 
+! Total count: 14433
 -960x*0.gif
 -250.js*
 
@@ -2920,7 +2920,6 @@ b8yy.com##.chat,[height="70"]
 babyhome.com.tw##[id^="ad"],[class^="ad"],[id^="div-gpt-ad-"],[class="mar_10"],[href^="http://front.adsnew.babyhome.com.tw/"],#ad_m_peacock
 baidu.com###J-tashuo-button-fixed
 baidu.com###feed-recommend
-baidu.com###header > div > div
 baidu.com###header > div:last-child
 baidu.com###header > div:last-child > div:nth-child(2)
 baidu.com###login-wraps > a.index-banner.square-banner-bgicon
@@ -4043,6 +4042,7 @@ ifeng.com##div[class^="bottomSlide"]
 ifeng.com##div[class^="bottom_box"]
 ifeng.com##div[class^="fixSlideBox"]
 ifeng.com##div[class^="hot_box"]
+ifeng.com##div[class^="qr_box"]
 ifeng.com##div[class^="shareFix"]
 ifeng.com##div[class^="share_box"]
 ifeng.com##div[class^="silde_box"]
@@ -4746,6 +4746,9 @@ m.tutufu.com/bd/b-c1.js
 m.tv.sohu.com##.advertise,.gg_icon
 m.tv.sohu.com##.btn-xz-app
 m.tv.sohu.com##.js-app-topbanner.actv-banner
+m.v.qq.com##.at-app-banner
+m.v.qq.com##.btn_sharpness
+m.v.qq.com##.js_open_app.btn_user_hd
 m.v.qq.com##.mod_app_banner
 m.v.qq.com##.mod_end__btn
 m.v.qq.com##.mod_game_rec.mod_box
@@ -4753,6 +4756,8 @@ m.v.qq.com##.mod_more
 m.v.qq.com##.mod_open
 m.v.qq.com##.mod_rec
 m.v.qq.com##.mod_rec__animate.mod_rec
+m.v.qq.com##.mod_source
+m.v.qq.com##.site-top__open-app
 m.v.qq.com##.swiper-container-android.swiper-container-horizontal.mod_source_box_fixed.mod_source_box
 m.weathercn.com###gg_hfaw_1
 m.weathercn.com##.red-package
@@ -5284,7 +5289,6 @@ scol.com.cn##div#head-ad,img.weixin,#afp_ad
 scw98.com##[id^="IndexAD"],#TopAD,.ArticleAD,#RightPicAD,.ArticleContentBaiduAD
 sd.xinhuanet.com##.hfgg,div[style^="height: 100px;"]
 search.smzdm.com###elevator > LI:first-child
-search.smzdm.com###elevator > LI:first-child > SPAN:first-child
 secr.baidu.com##DIV.banner
 seehd.co##.J_advert,.tac + table
 seehd.so##.tac + table
@@ -5393,7 +5397,6 @@ sm.cn##A.sc-title,A.app-wrap,DIV.app-rank app-no-trend sc-padding,DIV.sc-footer,
 smartapps.cn##.sw-22__bdad-wrap,.sw-22__ad-expose
 smartapps.cn##swan-nest-banner-ad.ad-expose
 smzdm.com###elevator > LI:first-child
-smzdm.com###elevator > LI:first-child > SPAN:first-child
 smzdm.com###footer_layer,.foot-banner
 smzdm.com###global-search > DIV.search-inner.z-clearfix > DIV.download:last-child
 smzdm.com###index-elevator > LI:nth-child(3)
@@ -5846,6 +5849,8 @@ weiphone.com##[class^="wea_d_"]
 wenda.haosou.com##div#e_idea_wenda_detail_rightBox,.mod-top-ad,div.garllery_ad,div[class="clearfix js-show-data"]
 wenda.so.com##div#tuiguang,.js-show-data,.garllery_ad
 wendu.cn###banner,#topads,div.summary,.duilian,[class^="t_2015_"],#top
+wenku.baidu.com##.bottom-theme-select-wrap
+wenku.baidu.com##.bottom-theme-wrap-mask
 wenku.baidu.com##.browser-label-guide
 wenku.baidu.com##.clearfix.sb-con > .qrHover
 wenku.baidu.com##.client-btn.middle-btn
@@ -6596,6 +6601,7 @@ zhidao.baidu.com##.daily-header-download
 zhidao.baidu.com##.doodle-container,.feed-recommend,.wgt-recommend-business,[class*="-ads"],[class*="related-yxiao-item"],[class*="icon-bdad"],[class*="-youx"]
 zhidao.baidu.com##.icon-bdad
 zhidao.baidu.com##.singin-bubble
+zhidao.baidu.com##.zhidao-app.menu-right-list-item
 zhidao.baidu.com##[id='knowledge-answer-list']
 zhidao.baidu.com##div.new-answer-entry.left-show
 zhidao.baidu.com$$div[class="doodle-container"]

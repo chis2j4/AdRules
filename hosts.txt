@@ -2,8 +2,8 @@
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 12 Hours
-# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2022-04-25 16:10:56
-# Total count: 150499
+# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2022-04-26 00:42:52
+# Total count: 150527
 0.0.0.0 # DOMAIN-KEYWORD: 85
 0.0.0.0 # DOMAIN-SUFFIX: 12412
 0.0.0.0 # DOMAIN-SUFFIX: 77959
@@ -129,6 +129,7 @@
 0.0.0.0 0371app.wang
 0.0.0.0 0377shujuhuifu.top
 0.0.0.0 039ad0897e6da.com
+0.0.0.0 03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 0.0.0.0 03e.info
 0.0.0.0 03ed9035a0801f.com
 0.0.0.0 03p.info
@@ -703,6 +704,7 @@
 0.0.0.0 123b.bet
 0.0.0.0 123b.com
 0.0.0.0 123b.org
+0.0.0.0 123b333.com
 0.0.0.0 123banners.com
 0.0.0.0 123boy.free.fr
 0.0.0.0 123branlemoi.free.fr
@@ -1011,6 +1013,7 @@
 0.0.0.0 1ctc.sfr.fr
 0.0.0.0 1d1a.com
 0.0.0.0 1d1px.net
+0.0.0.0 1d354c1645.com
 0.0.0.0 1da19a918c.com
 0.0.0.0 1dece427d89.com
 0.0.0.0 1dmp.io
@@ -1396,8 +1399,10 @@
 0.0.0.0 2346ytrew3.from-mn.com
 0.0.0.0 234y.com
 0.0.0.0 235123.net
+0.0.0.0 23532451.com
 0.0.0.0 2359.api.swrve.com
 0.0.0.0 2359.content.swrve.com
+0.0.0.0 23617710.com
 0.0.0.0 23a6b8b0afb.com
 0.0.0.0 23dsf.top
 0.0.0.0 23kmm.com
@@ -1573,6 +1578,7 @@
 0.0.0.0 2969firefighterstore.com
 0.0.0.0 297772.com
 0.0.0.0 2999.store
+0.0.0.0 299f70c6b2.com
 0.0.0.0 29ae58661b9c7178.com
 0.0.0.0 29d16ed498.com
 0.0.0.0 29d65cebb82ef9f.com
@@ -1831,6 +1837,7 @@
 0.0.0.0 30736.api.swrve.com
 0.0.0.0 30736.content.swrve.com
 0.0.0.0 307badb998ed.com
+0.0.0.0 3081862fe1.com
 0.0.0.0 30819.api.swrve.com
 0.0.0.0 30819.content.swrve.com
 0.0.0.0 30ads.com
@@ -1880,6 +1887,7 @@
 0.0.0.0 324.com
 0.0.0.0 32414.com
 0.0.0.0 3243857.fls.doubleclick.net
+0.0.0.0 325d3d949f.com
 0.0.0.0 3285.api.swrve.com
 0.0.0.0 3285.content.swrve.com
 0.0.0.0 329329.com
@@ -3601,6 +3609,7 @@
 0.0.0.0 789.fun
 0.0.0.0 789.moi
 0.0.0.0 78901-8cf0d.api.pushwoosh.com
+0.0.0.0 7897890.vip
 0.0.0.0 789a.club
 0.0.0.0 789club.biz
 0.0.0.0 789club.com
@@ -3864,6 +3873,7 @@
 0.0.0.0 860010.com
 0.0.0.0 8603887.com
 0.0.0.0 8604.engine.mobileapptracking.com
+0.0.0.0 860d713f6e.com
 0.0.0.0 861ht.com
 0.0.0.0 863c4c0c521.se
 0.0.0.0 863iw40s.com
@@ -4247,7 +4257,6 @@
 0.0.0.0 988878.com
 0.0.0.0 9898c.com
 0.0.0.0 98bf9h8jbg.com
-0.0.0.0 98e22a373e.com
 0.0.0.0 98hx.cn
 0.0.0.0 98trft.xyz
 0.0.0.0 99-reasons-for-seo.com
@@ -4770,7 +4779,6 @@
 0.0.0.0 a.travel-assets.com
 0.0.0.0 a.trend-online.it
 0.0.0.0 a.tribalfusion.com
-0.0.0.0 a.trk-imps.com
 0.0.0.0 a.tuizhuti.com
 0.0.0.0 a.tuuituii2999.com
 0.0.0.0 a.tvpage.com
@@ -8215,6 +8223,7 @@
 0.0.0.0 adcache.nymag.com
 0.0.0.0 adcade.com
 0.0.0.0 adcaffe.com
+0.0.0.0 adcains.com
 0.0.0.0 adcalm.com
 0.0.0.0 adcamel.pw
 0.0.0.0 adcamp.ru
@@ -17585,7 +17594,6 @@
 0.0.0.0 api.exchange2csr1staff.market.login.net.zooplus.de
 0.0.0.0 api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 0.0.0.0 api.file.disabledops.net.zooplus.de
-0.0.0.0 api.flat-ads.com
 0.0.0.0 api.flocktory.com
 0.0.0.0 api.fusepowered.com
 0.0.0.0 api.fw.tv
@@ -20272,6 +20280,7 @@
 0.0.0.0 audit.webinform.hu
 0.0.0.0 audit8.com
 0.0.0.0 auditioneasterhelm.com
+0.0.0.0 auditioningouncesufficiently.com
 0.0.0.0 auditude.com
 0.0.0.0 audreycsr41.net.zooplus.de
 0.0.0.0 audreying.net.zooplus.de
@@ -27978,6 +27987,7 @@
 0.0.0.0 c7e4d34b2afc3.com
 0.0.0.0 c7e935.netlify.com
 0.0.0.0 c8.net.ua
+0.0.0.0 c8141c728b.com
 0.0.0.0 c82d5.cn
 0.0.0.0 c88bet4.com
 0.0.0.0 c8f502ed61.com
@@ -28104,7 +28114,6 @@
 0.0.0.0 cadsabz.com
 0.0.0.0 cadsans.com
 0.0.0.0 cadsanz.com
-0.0.0.0 cadsats.com
 0.0.0.0 cadsatz.com
 0.0.0.0 cadsecs.com
 0.0.0.0 cadsecz.com
@@ -31504,6 +31513,7 @@
 0.0.0.0 circusonline777.com
 0.0.0.0 ciridola.com
 0.0.0.0 cirochimi.com
+0.0.0.0 cirsepuh.net
 0.0.0.0 ciruplasticrd.com
 0.0.0.0 cisaqroup.net
 0.0.0.0 cisco-eagle.actonservice.com
@@ -32510,6 +32520,7 @@
 0.0.0.0 clinique-sainte-marie.top
 0.0.0.0 cliniquepourenfants.com
 0.0.0.0 clinkadtracking.com
+0.0.0.0 clinkumebulus.com
 0.0.0.0 cliop.com
 0.0.0.0 clipbongda.info
 0.0.0.0 clipcentric.com
@@ -32592,7 +32603,6 @@
 0.0.0.0 cln.willyporn.com
 0.0.0.0 clnbze.dzienniklodzki.pl
 0.0.0.0 clnbze.dziennikzachodni.pl
-0.0.0.0 clnbze.express3mmagyarorszag.hu
 0.0.0.0 clnbze.expressilustrowany.pl
 0.0.0.0 clnbze.gazetakrakowska.pl
 0.0.0.0 clnbze.gazetawroclawska.pl
@@ -37550,6 +37560,7 @@
 0.0.0.0 cyruqdmagde.xyz
 0.0.0.0 cysd.7kww.net
 0.0.0.0 cyssfnqt.com
+0.0.0.0 cystspalt.com
 0.0.0.0 cytcm.com
 0.0.0.0 cyteed.com
 0.0.0.0 cythusheju.com
@@ -39546,6 +39557,7 @@
 0.0.0.0 dcmhpbpdcsy.com
 0.0.0.0 dcmn.com
 0.0.0.0 dcmn.io
+0.0.0.0 dcmosques.com
 0.0.0.0 dcms.1688.com
 0.0.0.0 dcneohtx.com
 0.0.0.0 dcnqcql.cn
@@ -40021,7 +40033,6 @@
 0.0.0.0 delivery.first-impression.com
 0.0.0.0 delivery.gettopple.com
 0.0.0.0 delivery.hunterycity.com
-0.0.0.0 delivery.lavamedia.vn
 0.0.0.0 delivery.lavanetwork.net
 0.0.0.0 delivery.locari.jp
 0.0.0.0 delivery.loopingclick.com
@@ -43756,6 +43767,7 @@
 0.0.0.0 dulillipupan.com
 0.0.0.0 dull.bankofamerica.com
 0.0.0.0 dulombwwfm.com
+0.0.0.0 dulosislimmata.com
 0.0.0.0 dulpsxaznlwr.com
 0.0.0.0 dulrlifipkbac.com
 0.0.0.0 duluoweiyu.com
@@ -44589,6 +44601,7 @@
 0.0.0.0 e.zvfuka.cn
 0.0.0.0 e09f3e4ceda.com
 0.0.0.0 e0a42e1a21669b.com
+0.0.0.0 e0d4e3650c.com
 0.0.0.0 e0hkzk2.cn
 0.0.0.0 e0n.cn
 0.0.0.0 e0yp21.cn
@@ -45825,6 +45838,7 @@
 0.0.0.0 eggytiptops.com
 0.0.0.0 eghuntsrizvbt.com
 0.0.0.0 egine.zhengongfupills.com
+0.0.0.0 egistonemes.com
 0.0.0.0 egitimcisitesi.com
 0.0.0.0 egjq.com.cn
 0.0.0.0 egjyqfidcsfw.com
@@ -46979,7 +46993,6 @@
 0.0.0.0 engage.ca.victorinsurance.com
 0.0.0.0 engage.cigniti.com
 0.0.0.0 engage.commander1.com
-0.0.0.0 engage.copc.com
 0.0.0.0 engage.dnsfilter.com
 0.0.0.0 engage.dovetailinsurance.com
 0.0.0.0 engage.dow.com
@@ -52649,6 +52662,7 @@
 0.0.0.0 fqwdqw4d4.com
 0.0.0.0 fqwgi.com
 0.0.0.0 fqwrluzjti.com
+0.0.0.0 fqxkj.cn
 0.0.0.0 fqzds.com
 0.0.0.0 fr-ameli-moncompte.com
 0.0.0.0 fr-espaceclients-orange.com
@@ -54262,7 +54276,6 @@
 0.0.0.0 g.uusee.com
 0.0.0.0 g.vev.io
 0.0.0.0 g.w5b454.com
-0.0.0.0 g.wait.re
 0.0.0.0 g.wq96f9.com
 0.0.0.0 g.x.evolife.cn
 0.0.0.0 g.yccdn.com
@@ -65355,6 +65368,7 @@
 0.0.0.0 ibuprofendosage.net
 0.0.0.0 ibxfhtklswtbd.com
 0.0.0.0 ibycicwahzg.com
+0.0.0.0 ibzgcrusher.com
 0.0.0.0 ic-ftree34.xyz
 0.0.0.0 ic-live.com
 0.0.0.0 ic.channel4.com
@@ -69520,6 +69534,7 @@
 0.0.0.0 islandofadvert.com
 0.0.0.0 islandofhacks.com
 0.0.0.0 islationa.com
+0.0.0.0 islecolloquial.com
 0.0.0.0 islerofitness.com
 0.0.0.0 isles.cn
 0.0.0.0 isletachoisya.cam
@@ -77579,6 +77594,7 @@
 0.0.0.0 lists.ewb.ca
 0.0.0.0 listtop.ru
 0.0.0.0 lita-lighting.com
+0.0.0.0 lite-1x6603199.top
 0.0.0.0 liteapp.mobi
 0.0.0.0 liteautogreatest.cn
 0.0.0.0 liteautotop.cn
@@ -89779,6 +89795,7 @@
 0.0.0.0 nabeghlavi.com.cn
 0.0.0.0 nablabee.com
 0.0.0.0 nabmonline.com
+0.0.0.0 nabobketupa.com
 0.0.0.0 nabucuo.com
 0.0.0.0 nabvalidation.com
 0.0.0.0 nacfuns.com
@@ -96211,6 +96228,7 @@
 0.0.0.0 overseas.jccjd.com
 0.0.0.0 oversightbullet.com
 0.0.0.0 oversizecontemporaryart.com
+0.0.0.0 oversowcholam.com
 0.0.0.0 overstat.com
 0.0.0.0 overtalk.net
 0.0.0.0 overthehacks.com
@@ -101067,6 +101085,7 @@
 0.0.0.0 popunder.bid
 0.0.0.0 popunder.com
 0.0.0.0 popunder.net
+0.0.0.0 popunder.online
 0.0.0.0 popunder.popcde.com
 0.0.0.0 popunder.ru
 0.0.0.0 popunderjs.club
@@ -109353,7 +109372,6 @@
 0.0.0.0 rsequitytips.com
 0.0.0.0 rseyebrown.fun
 0.0.0.0 rsftjj.cn
-0.0.0.0 rsfudjsnroc.com
 0.0.0.0 rsgarmentsinc.com
 0.0.0.0 rsgazdyuycbm.com
 0.0.0.0 rsguboxyb.com
@@ -112127,6 +112145,7 @@
 0.0.0.0 sdk-monitoring.ogury.co
 0.0.0.0 sdk-orion.appboy.com
 0.0.0.0 sdk-services.appsflyer.com
+0.0.0.0 sdk.51.la
 0.0.0.0 sdk.accountkit.com
 0.0.0.0 sdk.adbuddiz.com
 0.0.0.0 sdk.adincube.com
@@ -114053,6 +114072,7 @@
 0.0.0.0 sgikjkjftfg.webstarterz.com
 0.0.0.0 sgiueejx.com
 0.0.0.0 sglsccpjqnummmg.top
+0.0.0.0 sglyd.cn
 0.0.0.0 sgmneqaebkzjug.com
 0.0.0.0 sgmnt.ticketswap.com
 0.0.0.0 sgmoneycollections.com
@@ -118184,6 +118204,7 @@
 0.0.0.0 sobin.wang
 0.0.0.0 sobolev.net.ru
 0.0.0.0 soboro.uk.com
+0.0.0.0 sobowapso.com
 0.0.0.0 soburge.com
 0.0.0.0 socadvnet.com
 0.0.0.0 soccerinsider.net
@@ -119184,6 +119205,7 @@
 0.0.0.0 speedshiftmedia.com
 0.0.0.0 speedsmoosruse.com
 0.0.0.0 speedsuccess.net
+0.0.0.0 speedsupermarketdonut.com
 0.0.0.0 speedtest.com
 0.0.0.0 speedtestbeta.com
 0.0.0.0 speedtracker.de
@@ -123071,6 +123093,7 @@
 0.0.0.0 sun.win
 0.0.0.0 sun0062.com
 0.0.0.0 sun1rise.moonfruit.com
+0.0.0.0 sun66387567606.online
 0.0.0.0 sunaffiliation.com
 0.0.0.0 sunang37.cn
 0.0.0.0 sunburgh.com
@@ -124650,6 +124673,7 @@
 0.0.0.0 t.ucirvinesports.com
 0.0.0.0 t.uhcougars.com
 0.0.0.0 t.umterps.com
+0.0.0.0 t.unbounce.com
 0.0.0.0 t.und.com
 0.0.0.0 t.update.fbsbx.com
 0.0.0.0 t.usctrojans.com
@@ -127979,6 +128003,7 @@
 0.0.0.0 toads.osdn.com
 0.0.0.0 toagluji.com
 0.0.0.0 toalhjpw.com
+0.0.0.0 toaprefool.com
 0.0.0.0 toapsira.net
 0.0.0.0 toarqsglo.com
 0.0.0.0 toastinis.com
@@ -136206,6 +136231,7 @@
 0.0.0.0 vhhywf.hill8.ru
 0.0.0.0 vhiaxerjzbqi.com
 0.0.0.0 vhiuhrwapdirpu.com
+0.0.0.0 vhjuoaoetdbxt.com
 0.0.0.0 vhktunniggbd.com
 0.0.0.0 vhlduhrldc.com
 0.0.0.0 vhldwuv6om.com
@@ -136899,7 +136925,6 @@
 0.0.0.0 visitbox.de
 0.0.0.0 visitdetails.com
 0.0.0.0 visite.scambi.org
-0.0.0.0 visite.scambi.orgsg
 0.0.0.0 visitimportantly.com
 0.0.0.0 visitingtoelargely.com
 0.0.0.0 visitlog.net
@@ -140277,6 +140302,7 @@
 0.0.0.0 widvffyokrmlkk.com
 0.0.0.0 wie9eig.top
 0.0.0.0 wiedemann.com
+0.0.0.0 wielderchiefly.com
 0.0.0.0 wielkanagroda.com
 0.0.0.0 wieornymphonline.com
 0.0.0.0 wieryywerwer.com
@@ -141099,6 +141125,7 @@
 0.0.0.0 workoperation.com
 0.0.0.0 workplacehorse.com
 0.0.0.0 workplacelimetree.com
+0.0.0.0 workroomsplittingtrashy.com
 0.0.0.0 workshirty.club
 0.0.0.0 workshopj.com
 0.0.0.0 worksrc.cool
@@ -150364,6 +150391,7 @@
 0.0.0.0 zyf03k.xyz
 0.0.0.0 zyfuywrjbxyf.com
 0.0.0.0 zygrlkimddjzd.com
+0.0.0.0 zygrophochi.com
 0.0.0.0 zygscl.cn
 0.0.0.0 zyhifata.pro
 0.0.0.0 zyhx.ltd

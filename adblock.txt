@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-04-26 16:11:11（北京时间） 
-! Total count: 14433
+! Version: 2022-04-27 00:11:14（北京时间） 
+! Total count: 14451
 -960x*0.gif
 -250.js*
 
@@ -38,6 +38,7 @@
 ###title_content_meiyuan
 ###title_content_meiyuan1
 ###topNavad
+###whYuTlxF
 ##.C1U,.C1M,.C2L,.C2R
 ##.__isboostOverContent
 ##.ad-banner-wrapper
@@ -436,6 +437,7 @@ $removeparam=/^wickedsource=/i
 $removeparam=/^wt_?z?mc=/
 $removeparam=/^wtm_/
 $removeparam=/^zero_/,domain=facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|messenger.com
+$removeparam=/affcid/i
 $removeparam=/traffic_source=Connatix/i
 $removeparam=2p_affiliate_id
 $removeparam=2p_click_token
@@ -487,7 +489,7 @@ $removeparam=MID,domain=realtor.com
 $removeparam=MT_ID,domain=ebay.*
 $removeparam=Medium,domain=facebook.com|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|messenger.com
 $removeparam=Osocial
-$removeparam=PID,domain=1800getlens.com|ae.com|allmodern.com|applevacations.com|ashford.com|autoanything.com|autodesk.com|bedbathandbeyond.com|booksamillion.com|boscovs.com|buschgardens.com|cheapcaribbean.com|chicos.com|choicehotels.com|ecampus.com|expedia.com|express.com|factoryoutletstore.com|farmandfleet.com|hammacher.com|intuit.com|jockey.com|kennethcole.com|landsend.com|lenovo.com|lens.com|mcafee.com|monoprice.com|overstock.com|perfumania.com|samsung.com|sears.com|sierra.com|soma.com|staples.com|teleflora.com|ulta.com|verizon.com|virginatlantic.com|vistaprint.com|walgreens.com|wayfair.com|whitehouseblackmarket.com|wwe.com|yahoo.com|zchocolat.com|hawaiianairlines.com|dermstore.com
+$removeparam=PID,domain=1800getlens.com|ae.com|allmodern.com|applevacations.com|ashford.com|autoanything.com|autodesk.com|bedbathandbeyond.com|booksamillion.com|boscovs.com|buschgardens.com|cheapcaribbean.com|chicos.com|choicehotels.com|ecampus.com|expedia.com|express.com|factoryoutletstore.com|farmandfleet.com|hammacher.com|intuit.com|jockey.com|kennethcole.com|landsend.com|lenovo.com|lens.com|mcafee.com|overstock.com|perfumania.com|samsung.com|sears.com|sierra.com|soma.com|staples.com|teleflora.com|ulta.com|verizon.com|virginatlantic.com|vistaprint.com|walgreens.com|wayfair.com|whitehouseblackmarket.com|wwe.com|yahoo.com|zchocolat.com|hawaiianairlines.com|dermstore.com
 $removeparam=PostType,domain=gamespot.com
 $removeparam=PostType,domain=gamespot.com|cnet.*
 $removeparam=PublisherSID,domain=gucci.com
@@ -667,7 +669,6 @@ $removeparam=aff_platform
 $removeparam=aff_request_id,domain=aliexpress.*
 $removeparam=aff_trace_key
 $removeparam=affc
-$removeparam=affcid
 $removeparam=affcode
 $removeparam=affi_id
 $removeparam=affil
@@ -1164,6 +1165,7 @@ $removeparam=intcmp
 $removeparam=internal,domain=teletrader.com
 $removeparam=internalSource,domain=allrecipes.com
 $removeparam=intl,domain=bestbuy.com
+$removeparam=intlid,domain=hotels.com
 $removeparam=ir_cid
 $removeparam=iradid
 $removeparam=iradtype
@@ -1212,6 +1214,7 @@ $removeparam=keyword,domain=reddit.app.link
 $removeparam=keywords,domain=amazon.*
 $removeparam=ko_click_id
 $removeparam=kpartnerid
+$removeparam=kw,domain=hotels.com
 $removeparam=kw,domain=youtube.com
 $removeparam=l,domain=change.org
 $removeparam=lId,domain=apple.com|youtube.com
@@ -1542,6 +1545,7 @@ $removeparam=ret,domain=shein.com
 $removeparam=retailAttributionToken
 $removeparam=returnFromLogin,domain=amazon.com
 $removeparam=rffrid
+$removeparam=rfrr,domain=ebookers.*
 $removeparam=rfsn
 $removeparam=rid,domain=giphy.com
 $removeparam=riftinfo,domain=redfin.com
@@ -1721,7 +1725,10 @@ $removeparam=sub2,domain=~go.dgdp.net
 $removeparam=sub3
 $removeparam=sub4
 $removeparam=sub5
+$removeparam=sub_ad,domain=hotels.com
 $removeparam=sub_aff_id
+$removeparam=sub_publisher,domain=hotels.com
+$removeparam=sub_site,domain=hotels.com
 $removeparam=subacctid
 $removeparam=subacctname
 $removeparam=subid,domain=webmasterplan.com|admitad.com|mintmobile.com|secretlab.*
@@ -1875,6 +1882,7 @@ $removeparam=vss,domain=hh.ru
 $removeparam=w,domain=files.wordpress.com|store.playstation.com|s-microsoft.com|store-images.microsoft.com
 $removeparam=waad
 $removeparam=waad,domain=nikkei.com
+$removeparam=wapa6,domain=hotels.com
 $removeparam=wbdcd,domain=tchibo.de
 $removeparam=wbraid
 $removeparam=wdorigin
@@ -7699,6 +7707,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||aishang.bid
 ||aisouk.cn^
 ||aiyouji.xyz
+||aj.drebz4f.shop^
 ||ajhdf.com^
 ||aksdkfj.biexsite.net^
 ||aksjkdfjk.shqdwh.com^
@@ -8035,6 +8044,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||asiafriendfinder.comp
 ||asimgs.cp61.ott.cibntv.net/imgs/materials/
 ||asimgs.pplive.cn/imgs/materials/
+||askdfjk.qiangquanvip.com^
 ||askdfjkls.moxiaoqihuoguo.com^
 ||askdjfsl.alictibet.com^
 ||aslkdjfkdls.lzljhs.com^
@@ -9803,6 +9813,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hf.hflwgg.xyz^
 ||hf.hushenqiquan.com^
 ||hf.itxinrou.com^
+||hf.shenfagg.com^
 ||hfawdgz.cn^
 ||hfhfkc.xyz^
 ||hfrxs.com/js/hf$script
@@ -10720,6 +10731,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ljrtb.cn^
 ||lke.liuchengming.com^
 ||lkjk8jdk2.jnwpzq.com^
+||lkkskdkfjdk.qiangquanvip.com^
 ||lkm.bangyuandianzi.top^
 ||lkr.autotrading.com.cn^
 ||ll.hudong.com^
@@ -11060,7 +11072,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mbdp02.bdstatic.com/static/landing-share/js^
 ||mbx.tt3edd.com^
 ||mc.a48505.cn^
+||mc.aefmbeq.cn^
 ||mc.kmhmyaj.cn^
+||mc.lingcde.cn^
 ||mc.maljxp.cn^
 ||mc.meaqcj.cn^
 ||mc.mmkkhhnn.cn^
@@ -11068,6 +11082,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mc.mssdhde.cn^
 ||mc.muhtbnd.cn^
 ||mc.nithisp.cn^
+||mc.ohchehw.cn^
 ||mc.tohpeu.cn^
 ||mc.wbesryx.cn^
 ||mc.xheqbc.cn^
@@ -11121,6 +11136,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mg.rywnvzd.cn^
 ||mg.shengminsy.com^
 ||mg.tumeite.cn^
+||mg.yhp4an7.cn^
 ||mg.yunchong6.cn^
 ||mg.zgcqxjzny.cn^
 ||mg.zpwansf.cn^
@@ -11750,6 +11766,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||plugrush.com^
 ||plwan.com^
 ||pm.birjkhm.cn^
+||pm.i7pnx0t.cn^
 ||pm.mdkjefq.cn^
 ||pm.pexnjio.cn^
 ||pmp.365dmp.com^$app=com.huawei.hwvplayer.youku
@@ -13426,6 +13443,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.renrenhaigou.com^
 ||www.repyua.com^
 ||www.s184.com^
+||www.seainan333.com^
 ||www.sioccu.com^
 ||www.soviewo.com^
 ||www.statics88.vip^

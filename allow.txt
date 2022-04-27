@@ -1,5 +1,5 @@
 ! Title: Allowlist
-! Version: 2022-04-27 00:11:23（北京时间） 
+! Version: 2022-04-27 08:47:50（北京时间） 
 ! Total count: 5018
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
@@ -3989,6 +3989,7 @@
 @@||ads.askgamblers.com^$popup
 @@||ads.cdn.tvb.com^*.key
 @@||ads.com^$popup
+@@||ads.cs.washington.edu^$popup
 @@||ads.dollartree.com/SneakPeek/$~third-party
 @@||ads.dygdigital.com/services/pauseroll?site=$domain=startv.com.tr|ntv.com.tr|puhutv.com|tlctv.com.tr|discoverychannel.com.tr|dmax.com.tr
 @@||ads.emarketer.com/redirect.spark?$popup,domain=emarketer.com
@@ -5132,7 +5133,7 @@
 @@||docs.google.com/*/viewdata$~third-party
 @@||docs.woopt.com/wgact/$image,~third-party,xmlhttprequest
 @@||dominos.com^*/assets/build/js/modules/dpz.tealium.js$script
-@@||doodcdn.co^$domain=dood.la|dood.so|dood.to|dood.watch|dood.ws
+@@||doodcdn.co^$domain=dood.la|dood.pm|dood.so|dood.to|dood.watch|dood.ws
 @@||doortodoor.co.kr/jsp/cmn/Tracking.jsp^
 @@||douban.com/popup/login?
 @@||doubibackup.com^$generichide
@@ -6960,7 +6961,6 @@
 @@||nbcume.sc.omtrdc.net/id?d_visid_ver=$domain=nbcdfw.com,important
 @@||nbe.com.eg/NBEeChannelManager/CallMW.aspx$~third-party
 @@||nc-myus.com/images/pub/www/uploads/merchant-logos/$image,~third-party
-@@||nc0.co^$script,domain=abc.com
 @@||ncbi.nlm.nih.gov/stat?
 @@||nceea.cn/Content/images/ad/
 @@||ndr.de/common/resources/lib/atinternet/smarttag.js

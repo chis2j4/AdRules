@@ -5873,6 +5873,7 @@
 @@||chirovoice.org^
 @@||chiroweb.com^
 @@||chittagongit.com^
+@@||chkv.trendmicro.com^
 @@||chministries.org^
 @@||chng.it^
 @@||chocolatey.org^
@@ -22964,6 +22965,7 @@
 @@||registrationcenter.intel.com^
 @@||registry.api.cnn.io^
 @@||regmedia.co.uk^
+@@||regv.trendmicro.com^
 @@||rehold.com^
 @@||rei.com^
 @@||reisijuht.delfi.ee^
@@ -28332,6 +28334,7 @@
 @@||trekwarrior.com^
 @@||trendingpolitics.com^
 @@||trendings.net^
+@@||trendmicro.co.jp^
 @@||trendmicro.com^
 @@||trendo.bg^
 @@||trends.google.com^
@@ -32342,6 +32345,7 @@
 @@|*.update.microsoft.com^$important
 @@|*.userstorage.mega.co.nz^$important
 @@|*.vo.msecnd.net^$important
+@@|*.vscode-webview.net^$important
 @@|*.whiskergalaxy.com^$important
 @@|*.windowsupdate.com^$important
 @@|*.wns.windows.com^$important
@@ -33195,6 +33199,7 @@
 @@|cs.wikipedia.com^$important
 @@|cs9.wac.phicdn.net^$important
 @@|csd-apt-sea-d-1.southeastasia.cloudapp.azure.com^$important
+@@|csd-apt-sea-d-2.southeastasia.cloudapp.azure.com^$important
 @@|csd-apt-sea-d-3.southeastasia.cloudapp.azure.com^$important
 @@|ctldl.windowsupdate.com^$important
 @@|curben.gitlab.io^$important
@@ -33252,6 +33257,7 @@
 @@|decentraleyes.org^$important
 @@|deepin.org^$important
 @@|def-vef.xboxlive.com^$important
+@@|default.exp-tas.com^$important
 @@|definitionsbd.adaware.com^$important
 @@|definitionupdates.microsoft.com^$important
 @@|defkey.com^$important
@@ -33757,9 +33763,11 @@
 @@|github.blog^$important
 @@|github.com^$important
 @@|github.community^$important
+@@|github.dev^$important
 @@|github.developerdan.com^$important
 @@|github.githubassets.com^$important
 @@|github.io^$important
+@@|github.vscode-unpkg.net^$important
 @@|githubstatus.com^$important
 @@|gitlab.archlinux.org^$important
 @@|gitlab.com^$important
@@ -34222,6 +34230,7 @@
 @@|mail.tutanota.com^$important
 @@|mail.vimeo.com^$important
 @@|mail.xda-developers.com^$important
+@@|main.vscode-cdn.net^$important
 @@|majorgeeks.com^$important
 @@|man.archlinux.org^$important
 @@|manage.devcenter.microsoft.com^$important
@@ -34338,6 +34347,7 @@
 @@|mpc-hc.org^$important
 @@|mpv.io^$important
 @@|mpv.srsfckn.biz^$important
+@@|ms-vscode.vscode-unpkg.net^$important
 @@|msdn.microsoft.com^$important
 @@|msedge.api.cdp.microsoft.com^$important
 @@|msedgewelcome.azureedge.net^$important
@@ -34567,6 +34577,7 @@
 @@|paypalobjects.com^$important
 @@|pc-assets.ea.com^$important
 @@|pc.ea.com^$important
+@@|pcdn.brave.com^$important
 @@|pcgw-static.nyc3.digitaloceanspaces.com^$important
 @@|pdst.fm^$important
 @@|people-pa.clients*.google.com^$important
@@ -35146,6 +35157,7 @@
 @@|store-site-backend-static.ak.epicgames.com^$important
 @@|store.acer.com^$important
 @@|store.akamai.steamstatic.com^$important
+@@|store.aldi.com.au^$important
 @@|store.apple.com^$important
 @@|store.bethesda.net^$important
 @@|store.cloudflare.steamstatic.com^$important
@@ -36339,7 +36351,6 @@
 @@||ad-cdn.bilgin.pro/app/ad-*.min.js$domain=medyafaresi.com
 @@||ad-contents.jp^$generichide
 @@||ad-core.ru/js/advertise.js
-@@||ad-dev.globalnoticias.pt/revive/www/delivery/asyncjs.php$domain=freemcserver.net
 @@||ad-doge.com^$generichide
 @@||ad-emea.doubleclick.net/ad/*$domain=channel4.com
 @@||ad-emea.doubleclick.net/clk
@@ -36798,6 +36809,7 @@
 @@||ads.com^$popup
 @@||ads.creative-serving.com/yoc^$domain=youronlinechoices.com
 @@||ads.cricbuzz.com/adserver/units/mobile/set_ads_values.php
+@@||ads.cs.washington.edu^$popup
 @@||ads.cutlinks.pro/cloud_theme/build/css/styles.min.css$domain=ads.cutlinks.pro
 @@||ads.cutlinks.pro/cloud_theme/build/js/script.min.js$domain=ads.cutlinks.pro
 @@||ads.cutlinks.pro/links/go$domain=ads.cutlinks.pro
@@ -38016,7 +38028,7 @@
 @@||app.sebitti.fi/maestrojukebox2/lib/Controllers/AdController.js$domain=app.sebitti.fi
 @@||app.sendgrid.com$document
 @@||app.sendgrid.com^$elemhide,jsinject
-@@||app.trangchu.news/peel.js
+@@||app.trangchu.news/*.js
 @@||app.typetopia.com/media/ad/*.mp3|
 @@||app.usercentrics.eu/*/main.js$domain=liebherr.com
 @@||app.usercentrics.eu/browser-sdk/*/cross-domain-bridge.html$domain=sixx.de|prosiebenmaxx.de|sat1.de|prosieben.de|kabeleins.de|sixx.de|sat1gold.de|ran.de|joyn.de|sat1.at
@@ -39604,12 +39616,12 @@
 @@||cdn.hanime.tv/exoclick.ads*.js
 @@||cdn.honor.ru/pms/pages/adsImages/$domain=honor.ru
 @@||cdn.howtofixwindows.com/wp-content/*/better-adsmanager/js/advertising.min-*.js
+@@||cdn.hsmedia.ru/dist/marieclaire/$stealth,domain=marieclaire.ru
 @@||cdn.hsmedia.ru/dist/maxim/$stealth
 @@||cdn.http.anno.channel4.com^$domain=channel4.com
 @@||cdn.inside-handy.de/ih/top/
 @@||cdn.inside-handy.de/ih/top/
 @@||cdn.inskinmedia.com/isfe/*/swfs/core.swf$domain=rfi.fr
-@@||cdn.insurads.com/bootstrap/*.js$domain=freemcserver.net
 @@||cdn.interactivemedia.net/live/Med1.de/live/globalAdTag.min.js$domain=med1.de
 @@||cdn.interactivemedia.net/live/t-o-*/live/globalAdTag.min.js
 @@||cdn.interactivemedia.net/live/t-o-auto/live/globalAdTag.min.js$domain=tanken.t-online.de
@@ -39691,7 +39703,6 @@
 @@||cdn.mangaeden.com/js/ad/advertisement.js
 @@||cdn.maskinbladet.dk/*assets/templates/*/img/adblocker/ads.png
 @@||cdn.miped.ru/templates/miped/js/advertisement.js
-@@||cdn.mookie1.com/containr.js$domain=freemcserver.net
 @@||cdn.movie-pass.live/scripts/nwm-fcn.min.js$domain=opensubtitles.org
 @@||cdn.mp4upload.com/pl/plyr*.js
 @@||cdn.muratordom.smcloud.net/t/advert.js
@@ -40184,6 +40195,7 @@
 @@||cdntvn.pl/adscript.js?_=$domain=tvnturbo.pl
 @@||cdntvnet.com/*.php$stealth,domain=hochu.tv
 @@||cdnvideo.ru^$stealth
+@@||cdnyauction.buyee.jp^$stealth
 @@||cdp.cloud.unity3d.com^$app=com.rovio.baba
 @@||cdpn.io/*/v*/store?token=$stealth,domain=codepen.io
 @@||cdpn.io/freeCodeCamp/$extension
@@ -40934,8 +40946,6 @@
 @@||coub.com$content,jsinject
 @@||coubsecureassets-a.akamaihd.net/assets/
 @@||count-server.sharethis.com/*/get_counts$domain=haberkibris.com
-@@||count.ly^$~third-party
-@@||count.ly^$~third-party
 @@||count.rtl.de/crossdomain.xml$domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||count.rtl.de/crossdomain.xml$domain=n-tvnow.de|rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
 @@||count.taobao.com/counter$script
@@ -41667,7 +41677,7 @@
 @@||dood.so^$generichide
 @@||dood.watch/pass_md5/
 @@||dood.watch^$subdocument
-@@||doodcdn.co^$domain=dood.la|dood.so|dood.to|dood.watch|dood.ws
+@@||doodcdn.co^$domain=dood.la|dood.pm|dood.so|dood.to|dood.watch|dood.ws
 @@||doodcdn.com/ads/ad.js
 @@||doodcdn.com/ads/pop.js
 @@||doodhwali.com^$generichide
@@ -47255,6 +47265,7 @@
 @@||kiks.yandex.ru^$domain=market.yandex.by|market.yandex.com|market.yandex.kz|market.yandex.ru|market.yandex.ua
 @@||kiktu.com^$generichide
 @@||kikupload.xyz^$generichide
+@@||killcovid2021.com/*/*.mp4
 @@||kimcartoon.co/js/ads.js
 @@||kimcartoon.io/js/ads.js
 @@||kimcartoon.me/Scripts/$~third-party
@@ -49164,7 +49175,6 @@
 @@||nbe.com.eg/NBEeChannelManager/CallMW.aspx$~third-party
 @@||nbyts.online^$generichide
 @@||nc-myus.com/images/pub/www/uploads/merchant-logos/$image,~third-party
-@@||nc0.co^$script,domain=abc.com
 @@||ncaa.com^$generichide
 @@||ncbi.nlm.nih.gov/stat?
 @@||ncbi.nlm.nih.gov/stat?
@@ -52505,6 +52515,7 @@
 @@||sapixcraft.com/css/exitPopup.css
 @@||sapixcraft.com/js/exitPopup.js
 @@||sapixcraft.com^$generichide
+@@||sapo-ams.gscontxt.net/main/channels-json.cgi?url=$xmlhttprequest,domain=freemcserver.net
 @@||sapsibubapa.org^$generichide
 @@||sarapbabe.com^$generichide
 @@||sarapbeh.com^$generichide
@@ -54541,6 +54552,7 @@
 @@||t-online.de^*/xtcore.jstpl
 @@||t-online.de^*/xtcore.jstpl
 @@||t-rocforum.de/js/*/adleft.js
+@@||t.adcell.com/click.php?$popup,domain=comicschau.de
 @@||t.appsflyer.com^$app=com.badoo.mobile|com.badoo.mobile.premium|com.bumble.app
 @@||t.nordbayern.de/image/
 @@||t.propbn.com/redirect/?spot_id=$domain=proporn.com
@@ -57479,5 +57491,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-04-26 20:20:57
-! Total count: 57477
+! Version: 2022-04-27 08:59:54
+! Total count: 57489

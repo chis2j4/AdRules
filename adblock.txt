@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-04-28 16:11:14（北京时间） 
+! Version: 2022-04-29 00:12:03（北京时间） 
 ! Total count: 14451
 -960x*0.gif
 -250.js*
@@ -885,8 +885,8 @@ $removeparam=crlp,domain=ebay.*
 $removeparam=cshid
 $removeparam=csrc,domain=mcafee.com|vitacost.com
 $removeparam=cstrackid
+$removeparam=ct,domain=apple.com|bumble.com|newsroom.co.nz
 $removeparam=ct,domain=arms-retcode.aliyuncs.com
-$removeparam=ct,domain=bumble.com
 $removeparam=ctc,domain=avantlink.com
 $removeparam=cuid
 $removeparam=cuid,domain=disq.us
@@ -1019,6 +1019,7 @@ $removeparam=fb_comment_id
 $removeparam=fb_ref
 $removeparam=fb_source
 $removeparam=fbclid
+$removeparam=fbid,domain=festo-didactic.com
 $removeparam=fcref
 $removeparam=feat,domain=hobbyhall.fi
 $removeparam=feature,domain=reddit.app.link|youtube.com
@@ -1917,8 +1918,8 @@ $removeparam=wx_statusbar_hidden
 $removeparam=x,domain=newsletter.lidl.*
 $removeparam=x_tr_pto
 $removeparam=xcust,domain=go.skimresources.com|go.skimlinks.com|go.redirectingat.com
+$removeparam=xid,domain=fortune.com|tcgplayer.com
 $removeparam=xid,domain=prvnizpravy.cz
-$removeparam=xid,domain=tcgplayer.com
 $removeparam=xs,domain=go.skimresources.com|go.skimlinks.com|go.redirectingat.com
 $removeparam=xt_at,domain=diepresse.com
 $removeparam=xtor
@@ -7990,7 +7991,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||appget.cn^
 ||appjiagu.
 ||apple.com^$removeparam=/^ign-/
-||apple.com^$removeparam=ct
 ||apple.com^$removeparam=ctx_brand
 ||apple.com^$removeparam=fnode
 ||apple.com^$removeparam=mttn3pid

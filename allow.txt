@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-04-30 00:11:31（北京时间） 
-! Total count: 5029
+! Version: 2022-04-30 08:44:39（北京时间） 
+! Total count: 5031
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4922,6 +4922,7 @@
 @@||collusion.com/static/analytics.js$script,~third-party
 @@||collusion.com/static/newrelic.js$script,~third-party
 @@||comcastresidentialservices.tt.omtrdc.net/m2/comcastresidentialservices^$domain=xfinity.com
+@@||comic-boost.com/gentosha/advertisement_view$subdocument,~third-party
 @@||commons.wikimedia.org/w/api.php?$~third-party,xmlhttprequest
 @@||community.brave.com/t/$xmlhttprequest
 @@||communityenergysolutions.com/ui/assets/gtm/gtm.js$script,~third-party
@@ -6673,6 +6674,7 @@
 @@||line-scdn.net/*/torimochi.js$domain=web-tw-pay.line.me
 @@||line-scdn.net/*/torimochi.js/$script,domain=demae-can.com
 @@||line-scdn.net^*/torimochi.js$script,domain=demae-can.com
+@@||line-scdn.net^*/torimochi.js$script,domain=web-tw-pay.line.me
 @@||linetv.tw/public/scripts/ads.js
 @@||linetv.tw^*/scripts/ads.js
 @@||link.theplatform.com/*/tracker.log?

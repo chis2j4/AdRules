@@ -23656,6 +23656,8 @@
 @@||s2.symcb.com^
 @@||s2.wp.com^
 @@||s2.youtube.com^
+@@||s2133745391.t.eloqua.com^
+@@||s2133745391.t.en25.com^
 @@||s22-av-i-a7.alawar.com^
 @@||s22301.pcdn.co^
 @@||s22307.pcdn.co^
@@ -40747,6 +40749,7 @@
 @@||comcastresidentialservices.tt.omtrdc.net/m2/comcastresidentialservices^$domain=xfinity.com
 @@||comcastresidentialservices.tt.omtrdc.net/m2/comcastresidentialservices^$domain=xfinity.com
 @@||comic-boost.com/gentosha/advertisement_view$subdocument,~third-party
+@@||comic-boost.com/gentosha/advertisement_view$subdocument,~third-party
 @@||comicincorrect.wpengine.netdna-cdn.com/wp-content/uploads/$image,domain=comicallyincorrect.com
 @@||comicsonline.to/hls$xmlhttprequest,domain=cartoonwire.to
 @@||comicw.co.kr/files/cache/thumbnails/*/300x250.
@@ -44576,6 +44579,8 @@
 @@||googletagmanager.com/gtag/js$domain=nbc.com
 @@||googletagmanager.com/gtag/js$domain=nibelungen-kurier.de
 @@||googletagmanager.com/gtag/js$domain=nibelungen-kurier.de
+@@||googletagmanager.com/gtag/js$domain=photopea.com
+@@||googletagmanager.com/gtag/js$domain=photopea.com
 @@||googletagmanager.com/gtag/js$domain=playphrase.me
 @@||googletagmanager.com/gtag/js$domain=playphrase.me
 @@||googletagmanager.com/gtag/js$domain=plugincrack.com
@@ -47741,6 +47746,7 @@
 @@||line-scdn.net/*/torimochi.js/$script,domain=demae-can.com
 @@||line-scdn.net/*/torimochi.js/$script,domain=demae-can.com
 @@||line-scdn.net^*/torimochi.js$script,domain=demae-can.com
+@@||line-scdn.net^*/torimochi.js$script,domain=web-tw-pay.line.me
 @@||linehaber.com.tr/wp-content/plugins/better-adsmanager/js/advertising.min.js
 @@||linemarlin.com^$generichide
 @@||linetv.tw/profile$stealth
@@ -52476,6 +52482,7 @@
 @@||s.nitropay.com/1.gif?*&adslot=$domain=tiermaker.com
 @@||s.nitropay.com/ads-*.js$xmlhttprequest,domain=top.gg
 @@||s.ntv.io/serve/load.js$domain=bloomberg.com
+@@||s.stormedia.info/*.mp4$stealth
 @@||s.tez-tour.com/advertisment/
 @@||s.tgfcer.com^$generichide
 @@||s.thebrighttag.com/tag?site=$domain=sephora.com
@@ -57571,5 +57578,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-04-29 20:13:44
-! Total count: 57569
+! Version: 2022-04-30 08:41:59
+! Total count: 57576

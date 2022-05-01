@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-05-01 00:10:22（北京时间） 
+! Version: 2022-05-01 08:51:01（北京时间） 
 ! Total count: 14451
 -960x*0.gif
 -250.js*
@@ -876,7 +876,6 @@ $removeparam=cp_ksver
 $removeparam=cpa-perf
 $removeparam=cpp,domain=taobao.com
 $removeparam=cpp,domain=tmall.com
-$removeparam=creative
 $removeparam=creative,domain=amazon.*
 $removeparam=creativeASIN
 $removeparam=creativeASIN,domain=amazon.*
@@ -7768,6 +7767,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||amazon.$removeparam=asc_contenttype
 ||amazon.$removeparam=asc_item
 ||amazon.$removeparam=ascsubtag
+||amazon.$removeparam=creative
 ||amazon.$removeparam=crid
 ||amazon.$removeparam=field-lbr_brands_browse-bin
 ||amazon.$removeparam=hydadcr

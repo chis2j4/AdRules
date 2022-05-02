@@ -18351,6 +18351,7 @@
 @@||metabomb.net^
 @@||metacafe.com^
 @@||metacritic.com^
+@@||metadata-static.plex.tv^
 @@||metadata.templates.cdn.office.net^
 @@||metadata2go.com^
 @@||metafilter.com^
@@ -18386,6 +18387,7 @@
 @@||mfiles.alphacoders.com^
 @@||mfstatic.cz^
 @@||mg.familydoctor.com.cn^
+@@||mgbsdk.matrix.netease.com^
 @@||mge.com^
 @@||mgewholesale.com^
 @@||mgmswitchview.com^
@@ -21701,6 +21703,7 @@
 @@||play.galaxite.net^
 @@||play.google.com^
 @@||play.googleapis.com^
+@@||play.hbomax.com^
 @@||play.history.com^
 @@||play.hulu.com.akadns.net^
 @@||play.hulu.com^
@@ -30014,6 +30017,7 @@
 @@||wac.edgecastcdn.net^
 @@||wacom.com^
 @@||waesthetics.com^
+@@||wafflegame.net^
 @@||wagbrag.com^
 @@||waimai-guide.ele.me^
 @@||walgreens.com^
@@ -30103,6 +30107,7 @@
 @@||watch.graph.api.espn.com^
 @@||watch.ihssn.com^
 @@||watch.mediacomtoday.com^
+@@||watch.plex.tv^
 @@||watch.primevideo.com^
 @@||watch.product.api.espn.com^
 @@||watch.revry.tv^
@@ -30205,6 +30210,7 @@
 @@||weau.com^
 @@||weaveroptics.com^
 @@||web-803853519.us-east-1.elb.amazonaws.com^
+@@||web-api-us.crackle.com^
 @@||web-assets-production.autolist.com^
 @@||web-cdn.pandora.com^
 @@||web-cdnend-occ-stoacc-stihldev-r.azureedge.net^
@@ -30762,6 +30768,7 @@
 @@||woosmap.com^
 @@||woot.com^
 @@||word-edit.officeapps.live.com^
+@@||word.tips^
 @@||wordbrain.club^
 @@||wordcamp.org^
 @@||wordgenius.com^
@@ -37947,7 +37954,7 @@
 @@||api.cxense.com/public/widget/data?$domain=mainichi.jp
 @@||api.cxense.com/public/widget/data?$domain=mainichi.jp
 @@||api.cxense.com/public/widget/data?$script,domain=handelsblatt.com
-@@||api.cxense.com/public/widget/data?$script,domain=wpb.shueisha.co.jp
+@@||api.cxense.com/public/widget/data?$script,domain=mainichi.jp|wpb.shueisha.co.jp
 @@||api.cxense.com/public/widget/data?$xmlhttprequest,domain=cyclestyle.net
 @@||api.cxense.com/public/widget/data?json$domain=bangkokpost.com
 @@||api.cxense.com/public/widget/data?json$domain=bangkokpost.com
@@ -52746,10 +52753,10 @@
 @@||scatfap.com/scat-porn/modules/vids/misc_static/adverts.js
 @@||scdn.cxense.com/cx.cce.js$domain=mainichi.jp
 @@||scdn.cxense.com/cx.cce.js$domain=mainichi.jp
+@@||scdn.cxense.com/cx.cce.js$domain=mainichi.jp|wpb.shueisha.co.jp
 @@||scdn.cxense.com/cx.cce.js$domain=pcgames.de
 @@||scdn.cxense.com/cx.cce.js$domain=pcgames.de
 @@||scdn.cxense.com/cx.cce.js$domain=tn.com.ar
-@@||scdn.cxense.com/cx.cce.js$domain=wpb.shueisha.co.jp
 @@||scdn.cxense.com/cx.cce.js$domain=wsj.com
 @@||scdn.cxense.com/cx.cce.js$domain=wsj.com
 @@||scdn.cxense.com/cx.cce.js$script,domain=handelsblatt.com
@@ -52777,7 +52784,7 @@
 @@||scdn.cxense.com/cx.js$domain=sbs.com.au
 @@||scdn.cxense.com/cx.js$domain=wsj.com
 @@||scdn.cxense.com/cx.js$domain=wsj.com
-@@||scdn.cxense.com/cx.js$script,domain=cyclestyle.net
+@@||scdn.cxense.com/cx.js$script,domain=cyclestyle.net|mainichi.jp
 @@||scdn.cxense.com/cx.js$script,domain=ksml.fi|savonsanomat.fi
 @@||schemeflood.com^$generichide
 @@||schemeflood.com^$generichide
@@ -57643,5 +57650,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-05-02 08:40:06
-! Total count: 57641
+! Version: 2022-05-02 14:10:31
+! Total count: 57648

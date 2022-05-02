@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-05-02 16:11:47（北京时间） 
-! Total count: 14484
+! Version: 2022-05-03 00:12:30（北京时间） 
+! Total count: 14498
 -960x*0.gif
 -250.js*
 
@@ -110,6 +110,7 @@
 ##[href='https://leyu001.ee/']
 ##[href='https://segucrwj.taobao.com'][rel='nofollow']
 ##[href='https://www.100cup.com/'],[href^='https://beizidalu.com']
+##[href='https://www.aiwajbh.com/mh.php']
 ##[href='https://www.ivyelite.net/school-cooperation/']
 ##[href='https://www.kissyvape.com/']
 ##[href='https://www.riqingxs.com/']
@@ -128,6 +129,7 @@
 ##[href^='http://pai.597606.com:']
 ##[href^='http://web-bookstore.cread.com/haizhuishushare']
 ##[href^='http://www.blmh77.com/']
+##[href^='http://www.hyd59.com/']
 ##[href^='https://0414483.com/']
 ##[href^='https://1815844.com/'],.playtop.col-pd
 ##[href^='https://2022025.com/']
@@ -173,6 +175,7 @@
 ##[id^="active_overlay"]
 ##[id^="wrapper_left_bg"][href="javascript:void(0);"],[id^="wrapper_right_bg"][href="javascript:void(0);"]
 ##[kidjhy=""]
+##[onclick*='https://i.opiwb.com:']
 ##[onclick="window.location.href='https://www.biquge.app'"]
 ##[onclick="window.open('/kapi/tj.php')"]
 ##[onclick="window.open('/statics/js/hth1111.html')"]
@@ -207,6 +210,7 @@
 ##[src^='https://img.hylmxing.com:']
 ##[src^='https://mydisplay.ctfile.com/popview.php']
 ##[src^='https://p.jngdg.top/'][alt]
+##[src^='https://play.cdn6.buzz/js/']
 ##[src^='https://qing.hellocdn.top/Cartoon/sss']
 ##[src^='https://www.zxucii.com:']
 ##[src^='https://yngdms.com:']
@@ -1238,7 +1242,7 @@ $removeparam=link_id,domain=gog.com
 $removeparam=link_id,domain=norml.org
 $removeparam=litb_from
 $removeparam=loc,domain=bestbuy.com
-$removeparam=loc,domain=~geizhals.*|~ebay.*|~myanimelist.net
+$removeparam=loc,domain=~geizhals.*|~ebay.*|~myanimelist.net|~microsoft.com
 $removeparam=locale,domain=udemy.com
 $removeparam=log,domain=billiger.de
 $removeparam=logTag
@@ -7448,6 +7452,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ab11s.com^
 ||ab44.pw
 ||abb.lxiaoxin.com^
+||abb.ycdywl.com^
 ||abc.kfyg.xyz^
 ||abc.zdfjas.top^
 ||abige.luciochen.cn^
@@ -8041,6 +8046,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||as2.wenku.baidu.com/$subdocument
 ||asahi.com^$removeparam=iref
 ||asdfjkls.jianyihang.com^
+||asdfkl.vhulan.com^
 ||asdfkskf.cloudasbook.com^
 ||asdkfjskl.guiliangtechnology.com^
 ||asdklfjal.shanxicloud.net^
@@ -10838,6 +10844,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lrswl.com^
 ||lsad.net^
 ||lsdkfjks.fvsymbol.net^
+||lsdkfjsld.aynanjianyy.com^
 ||lsdkjfkdlsf.ydtykj.net^
 ||lsdkjfslkdf.jiumai88.com^
 ||lsebay.com^
@@ -11278,6 +11285,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mopub.com^
 ||moquanad.com^
 ||mosa86.com^
+||mosangkeji.com^
 ||mosflower.cn^
 ||moshouba.top^
 ||mozilla.org^$removeparam=redirect_source
@@ -11801,6 +11809,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pn.birjkhm.cn^
 ||pn.mdkjefq.cn^
 ||pn.qijpaih.cn^
+||pn.zxsnllo.cn^
 ||po18.in^
 ||poasotha.com^
 ||pok.hnyrd.com.cn^
@@ -13435,8 +13444,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.javdove5.xyz/static/resources/images^
 ||www.jghklz.xyz^
 ||www.jianpian.vip^
+||www.jipinyouwu.com^
 ||www.jmine.cn^
 ||www.jqaaa.com/jq1/api.php?url=http:^$domain=jqaaa.com
+||www.jsifaja.com^
 ||www.kan98.com/statics/js/k2017/98soc.js
 ||www.kan98.com/statics/js/k2017/total.js
 ||www.kanglingjiu.com^
@@ -13585,6 +13596,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xbiquge.net/3744tj
 ||xbiquwx.la/0DayigNJ^
 ||xbox.com^$removeparam=xr
+||xc.afablca.cn^
 ||xc.ejboayh.cn^
 ||xc.hubeijieshikj.cn^
 ||xc.muhnbc.cn^
@@ -13622,6 +13634,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xg.lgygy.cn^
 ||xg.monsteredward.com^
 ||xg.mvlkvth.cn^
+||xg.s4zqj3m.cn^
 ||xg.svvbrkk.cn^
 ||xg.t415n.cn^
 ||xg.wdswgjn.cn^
@@ -14074,6 +14087,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zs.zyzlpt.com^
 ||zsh-work.com^
 ||zt.hylmfeifei.com^
+||zt.imgwdyey.com^
 ||ztdsp.com$third-party
 ||ztgame.com^
 ||zuanke123.com^

@@ -32141,7 +32141,7 @@
 @@/jannah/*js/advertisement.js|$~third-party
 @@/jquery/*$domain=dm530.net|sobooks.cc
 @@/jquery2.js$domain=flashx.tv,third-party
-@@/js/*/*.js?_v=$~third-party,domain=todopolicia.com|turkishaudiocenter.com|gamingfactor.xyz|tamilbrahmins.com|onlytech.com|kodscript.com|hostingunlock.com|crackturkey.com|opelim.net|arabincest.com|milanworld.net|ootech.vn|devotag.com|isgfrm.com|spleaks.org|grandoldteam.com|bmw-scooters.com|cgarmy.com|ctx700-forum.com|demonscripts.com|eurocccam.net|forum.shoppingtelly.com|iptvsat-forum.com|largescaleforums.com|leaked.im|longpoint.on.ca|scriptsfire.com|udevstudio.com
+@@/js/*/*.js?_v=$~third-party,domain=forum.miuiturkiye.net|todopolicia.com|turkishaudiocenter.com|gamingfactor.xyz|tamilbrahmins.com|onlytech.com|kodscript.com|hostingunlock.com|crackturkey.com|opelim.net|arabincest.com|milanworld.net|ootech.vn|devotag.com|isgfrm.com|spleaks.org|grandoldteam.com|bmw-scooters.com|cgarmy.com|ctx700-forum.com|demonscripts.com|eurocccam.net|forum.shoppingtelly.com|iptvsat-forum.com|largescaleforums.com|leaked.im|longpoint.on.ca|scriptsfire.com|udevstudio.com
 @@/js/adblockDetectorWithGA.js$domain=fox.com.tr
 @@/js/ads.$script,domain=verifyemailaddress.io
 @@/js/ads.js$domain=nutraceuticalsworld.com
@@ -37916,6 +37916,7 @@
 @@||api.adverigo.com/*.json
 @@||api.adverigo.com/banner.gif
 @@||api.adverigo.com/captcha.png
+@@||api.anivideo.fun/file/$stealth
 @@||api.apple-mapkit.com^$stealth
 @@||api.athom.com^$domain=my.homey.app,stealth
 @@||api.babbel.io/gamma/v1/$ping,domain=my.babbel.com
@@ -39380,6 +39381,8 @@
 @@||card*.svea.com/*/branding/
 @@||care2.com/assets/scripts/cookies/care2/NitroCookies.js
 @@||care2.com/assets/scripts/cookies/care2/NitroCookies.js
+@@||careermap.co.uk/careers/js/google-analytics.js
+@@||careermap.co.uk/careers/js/google-analytics.js
 @@||carexpert.com.tw/wp-content/plugins/like-box-pro/includes/javascript/front_end_js.js
 @@||cargocollective.com/designs/$document
 @@||cariskuy.com^$generichide
@@ -41088,6 +41091,7 @@
 @@||cq.qq.com/js/cody/*scroll_ad.js
 @@||cqcounter.com^$domain=cqcounter.com
 @@||cqcounter.com^$domain=cqcounter.com
+@@||cqvboeirsvugo.biz/*.php?id=$stealth
 @@||cr.acecounter.com/Web/AceCounter_AW.js$domain=berryjam.co.kr
 @@||cr.acecounter.com/Web/AceCounter_AW.js$domain=berryjam.co.kr
 @@||crabcut.net^$generichide
@@ -42970,6 +42974,7 @@
 @@||forum.miuiturkiye.net/js/s7pqm/*.js
 @@||forum.miuiturkiye.net/konu/reklam.$~third-party,xmlhttprequest
 @@||forum.miuiturkiye.net/konu/reklam.$~third-party,xmlhttprequest
+@@||forum.miuiturkiye.net^$generichide
 @@||forum.notebookreview.com/threads^
 @@||forum.notebookreview.com^|
 @@||forum.notebookreview.com^|
@@ -43287,6 +43292,7 @@
 @@||gadzetomania.pl^$generichide
 @@||gaesae.com^$generichide
 @@||gagaltotal666.my.id^$generichide
+@@||gaget.hatenablog.com^$generichide
 @@||gagetmatome.com^$generichide
 @@||gahu.hit.gemius.pl/gplayer.js$domain=mafab.hu
 @@||gahu.hit.gemius.pl/gplayer.js$domain=mafab.hu
@@ -46639,6 +46645,7 @@
 @@||img*.kangaroobro.com/images/$image,domain=leyuman.com
 @@||img*.kangaroobro.com/images/$image,domain=leyuman.com
 @@||img*.kangaroobro.com/images/$stealth,image,domain=leyuman.com
+@@||img*.kangaroobro.com^$stealth,domain=bnman.net
 @@||img*.motorradonline.de/media/
 @@||img*.nga$removeparam=cmpid
 @@||img-baila.hpplus.jp/common/large/image/ad/$image,~third-party
@@ -46649,6 +46656,7 @@
 @@||img-trendyol.mncdn.com/assets/banner/slidertransparent.gif
 @@||img-trendyol.mncdn.com/assets/banner/slidertransparent.gif
 @@||img.*.impact-ad.jp^$domain=tjapan.jp
+@@||img.*.net^$stealth,domain=bnman.net
 @@||img.1fichier.com/css/
 @@||img.adnz.co^$image,domain=finanzen.ch
 @@||img.ads.tvb.com/news/min.js$domain=news.tvb.com
@@ -46931,6 +46939,7 @@
 @@||iopen.alipay.com/gateway.do$domain=aliexpress.com
 @@||ioscreator.com^$generichide
 @@||ip-*.net/*.mp4$stealth,domain=animeonline.site
+@@||ip-*.net/*.mp4$stealth,domain=meusanimes.net
 @@||ip.nuggad.net^$image,script,third-party,domain=lustich.de
 @@||ip2location.com^
 @@||ipapi.co/json/$xmlhttprequest,domain=168.dailymaverick.co.za|audius.co
@@ -47778,7 +47787,7 @@
 @@||libremercado.com/*_.ad.json
 @@||libros4.com^$generichide
 @@||librospdfgratis.net^$generichide
-@@||libs.baidu.com^$domain=0794.org|0biquge.com|12zw.la|138txt.net|18xs.org|1biqu.com|1kanshu.org|230book.net|23hh.com|23sk.com|23wxx.com|258zw.com|27xsw.com|30sy.cc|33yq.org|3yt.com|477zw.co|52biquge.com|5ccc.tw|63xs.org|73zw.cc|777zw.net|80xs.la|81book.com|81zw.me|877zw.com|99mk.com|aidusk.com|aixswx.com|aoyuge.com|baoshuu.com|biduoxs.com|bifeige.com|bimixsw.com|biqiugege8.com|biquav.com|biqudu.tv|biquge775.com|biquge98.net|biqugecd.com|biqugee.com|biqugesc.com|biquka.com|biqulu.net|biqusan.com|biquwx.la|biquym.com|bixia.org|bodekang.net|boluoxs.com|bqkan8.com|bshuku.com|bswtan.com|bxwx.org|bxwx.tw|bxwx8.la|bxwxorg.com|cits0871.com|damengzhu1.com|datangjianshen.com|day66.com|ddxsku.com|dushuge.org|gdbzkz.com|guaili.org|guanshu.cc|hatxt.com|hbfie.org|heikexs.com|heiyanwang.com|hongyeshuzhai.com|hongyeshuzhal.com|huixsw.com|hybquge.com|ibiquta.com|ibotaodz.com|imiaobige.com|ishisetianxia.com|ishubao.org|ixs.la|jianlaixiaoshuo.com|jx.la|kankezw.com|kkbiqu2.com|liewen.la|lindiankanshu.cc|liuxs.la|loubiqu.com|lwsktxt.com|lwtxt.net|mhtwx.la|mubige.com|paoshu8.com|paoshuzw.com|piaotianxs.com|pksge.com|qbiqu.com|qbxs8.net|qianqianxsw.net|qianrenge.cc|qiuyewx.com|qr1234.com|quge6.com|quledu.net|qushuba.com|rmxsba.com|shenshuxs.la|shu008.com|shuhaiwu.com|shumil.co|shuquge.com|silukew.com|siluwx.org|sizhicn.com|sobiquge.com|soxscc.org|tangsanshu.com|ttzw.tv|tutengzw.com|txshuku.la|txtshuku.org|tycqge.com|u33.me|vipsk.org|wbxsw.com|wenxuem.com|wurexs.com|x23us.me|x81zw.co|xbiquge.la|xbiqugecc.com|xbiquke.com|xbqge.net|xdingdiann.com|xiaoshuwu5.com|xiaxs.la|xieyixs.com|xinshuhaige.net|xinxs.la|xs5200.com|xs98.com|xsbiqugew.com|xsqishu.com|xszww.com|xuanshu.com|xuehongxs.org|xyusk.com|yanqing888.org|yikanxiaoshuo.net|yruan.com|yssm.info|yunxs.com|zaodk.com|zbzw.la|zhnxcw.com|zhuaji.org|zmccx.com|zzs5.com
+@@||libs.baidu.com^$domain=0794.org|0biquge.com|12zw.la|138txt.net|18xs.org|1biqu.com|1kanshu.org|230book.net|23hh.com|23sk.com|23wxx.com|258zw.com|27xsw.com|30sy.cc|33yq.org|3yt.com|477zw.co|52biquge.com|5ccc.tw|63xs.org|73zw.cc|777zw.net|80xs.la|81book.com|81zw.me|877zw.com|99mk.com|aidusk.com|aixswx.com|aoyuge.com|baoshuu.com|biduoxs.com|bifeige.com|bimixsw.com|biqiugege8.com|biquav.com|biqudu.tv|biquge775.com|biquge98.net|biqugecd.com|biqugee.com|biqugesc.com|biquka.com|biqulu.net|biqusan.com|biquwx.la|biquym.com|bixia.org|bodekang.net|boluoxs.com|bqkan8.com|bshuku.com|bswtan.com|bxwx.org|bxwx.tw|bxwx8.la|bxwxorg.com|cits0871.com|damengzhu1.com|datangjianshen.com|day66.com|ddxsku.com|dushuge.org|gdbzkz.com|guaili.org|guanshu.cc|hatxt.com|hbfie.org|heikexs.com|heiyanwang.com|hongyeshuzhai.com|hongyeshuzhal.com|huixsw.com|hybquge.com|ibiquta.com|ibotaodz.com|imiaobige.com|ishisetianxia.com|ishubao.org|ixs.la|jianlaixiaoshuo.com|jx.la|kankezw.com|kkbiqu2.com|liewen.la|lindiankanshu.cc|liuxs.la|loubiqu.com|lwsktxt.com|lwtxt.net|mhtxs.la|mubige.com|paoshu8.com|paoshuzw.com|piaotianxs.com|pksge.com|qbiqu.com|qbxs8.net|qianqianxsw.net|qianrenge.cc|qiuyewx.com|qr1234.com|quge6.com|quledu.net|qushuba.com|rmxsba.com|shenshuxs.la|shu008.com|shuhaiwu.com|shumil.co|shuquge.com|silukew.com|siluwx.org|sizhicn.com|sobiquge.com|soxscc.org|tangsanshu.com|ttzw.tv|tutengzw.com|txshuku.la|txtshuku.org|tycqge.com|u33.me|vipsk.org|wbxsw.com|wenxuem.com|wurexs.com|x23us.me|x81zw.co|xbiquge.la|xbiqugecc.com|xbiquke.com|xbqge.net|xdingdiann.com|xiaoshuwu5.com|xiaxs.la|xieyixs.com|xinshuhaige.net|xinxs.la|xs5200.com|xs98.com|xsbiqugew.com|xsqishu.com|xszww.com|xuanshu.com|xuehongxs.org|xyusk.com|yanqing888.org|yikanxiaoshuo.net|yruan.com|yssm.info|yunxs.com|zaodk.com|zbzw.la|zhnxcw.com|zhuaji.org|zmccx.com|zzs5.com
 @@||libs.baidu.com^$domain=m.supfree.net
 @@||license.ivi.ru$document
 @@||liens-telechargement.com^$generichide
@@ -49109,6 +49118,7 @@
 @@||mui.com^$generichide
 @@||mui.com^$generichide
 @@||multi.idocdn.com^$domain=hydrax.net,stealth
+@@||multicanais.org/get/auth$stealth
 @@||multicoinads.com^$generichide
 @@||multics.eu/comunidad/js/*.js
 @@||multifaucet.org^$generichide
@@ -50662,6 +50672,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=vladan.fr
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=vorsprung-online.de
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=voyageforum.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=vrcmods.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=vtppi.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=warui.intaa.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=web2.0calc.com|ebookdz.com
@@ -52018,6 +52029,7 @@
 @@||r1x.pw^$generichide
 @@||r2-item.ru^$generichide
 @@||r34anim.com^$generichide
+@@||r3owners.net^$generichide
 @@||r3sub.com^$generichide
 @@||racedepartment.com^$generichide
 @@||racegameiogames.libertygamesinteractive.com/Scripts/ads.js
@@ -52610,6 +52622,7 @@
 @@||saabcentral.com^$generichide
 @@||saarbruecker-zeitung.de/image/
 @@||sabishiidesu.com^$generichide
+@@||saborcaseiro.org/*.php?contentId=$stealth
 @@||sacheats.com^$generichide
 @@||sadeczanin.info^$generichide
 @@||sadeemapk.com^$generichide
@@ -53266,6 +53279,7 @@
 @@||seireshd.com^$generichide
 @@||seirsanduk.com/ad-server.js
 @@||seirsanduk.online^$generichide
+@@||sejasaudavel.net^$stealth
 @@||sektedoujin.club^$generichide
 @@||select.by/templates/branding/
 @@||selfimg.com.cn/??
@@ -55263,6 +55277,9 @@
 @@||tlx.3lift.com/header/auction$domain=aternos.org
 @@||tm.jsuol.com.br/uoltm.js$domain=batepapo.uol.com.br|noticias.uol.com.br|economia.uol.com.br
 @@||tm.jsuol.com.br/uoltm.js$domain=batepapo.uol.com.br|noticias.uol.com.br|economia.uol.com.br
+@@||tm.jsuol.com.br/uoltm.js$domain=batepapo.uol.com.br|noticias.uol.com.br|economia.uol.com.br|hugogloss.uol.com.br
+@@||tm.jsuol.com.br/uoltm.js$domain=hugogloss.uol.com.br
+@@||tm.jsuol.com.br/uoltm.js$domain=hugogloss.uol.com.br
 @@||tm.jsuol.com.br/uoltm.js$domain=oantagonista.uol.com.br
 @@||tm.jsuol.com.br/uoltm.js$domain=oantagonista.uol.com.br
 @@||tm.jsuol.com.br/uoltm.js$script,domain=uol.com.br
@@ -56211,6 +56228,7 @@
 @@||vg247.com^$generichide
 @@||vi-serve.com/vis-media/*$domain=9gag.com
 @@||vi.freewheel.tv/static/creatives/fw-ad-300x250.jpg$domain=peacocktv.com
+@@||viajarhoje.com^$stealth
 @@||viajarsinmotivo.site^$generichide
 @@||viamichelin.*/jQuery/ntpagetag.js
 @@||viamichelin.*/jQuery/ntpagetag.js
@@ -57650,5 +57668,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-05-02 14:10:31
-! Total count: 57648
+! Version: 2022-05-02 20:14:14
+! Total count: 57666

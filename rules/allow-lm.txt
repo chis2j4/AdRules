@@ -1786,6 +1786,7 @@
 @@||api.foxnews.com^
 @@||api.foxweather.com^
 @@||api.full30.com^
+@@||api.g.micloud.xiaomi.net^
 @@||api.gazeta.pl^
 @@||api.geetest.com^
 @@||api.geniuskitchen.com^
@@ -23134,6 +23135,7 @@
 @@||rescue-essentials.com^
 @@||rescuebank.org^
 @@||rescuedisk.kaspersky-labs.com^
+@@||rescueme.org^
 @@||research.net^
 @@||research.wsu.edu^
 @@||researchgate.net^
@@ -37942,6 +37944,8 @@
 @@||api.cxense.com/public/widget/data$domain=obozrevatel.com
 @@||api.cxense.com/public/widget/data$domain=obozrevatel.com
 @@||api.cxense.com/public/widget/data?$domain=bizjournals.com|marketwatch.com|wsj.com
+@@||api.cxense.com/public/widget/data?$domain=mainichi.jp
+@@||api.cxense.com/public/widget/data?$domain=mainichi.jp
 @@||api.cxense.com/public/widget/data?$script,domain=handelsblatt.com
 @@||api.cxense.com/public/widget/data?$script,domain=wpb.shueisha.co.jp
 @@||api.cxense.com/public/widget/data?$xmlhttprequest,domain=cyclestyle.net
@@ -41161,6 +41165,8 @@
 @@||csgo-ranks.com^$generichide
 @@||csid.com/wp-content/plugins/bwp-minify/min/?*/google-analyticator/$script
 @@||csid.com/wp-content/plugins/bwp-minify/min/?*/google-analyticator/$script
+@@||csm.cxpublic.com^$script,domain=mainichi.jp
+@@||csm.cxpublic.com^$script,domain=mainichi.jp
 @@||csm.cxpublic.com^$script,domain=tarzanweb.jp
 @@||csm.cxpublic.com^$script,domain=tarzanweb.jp
 @@||csoonline.com/js/demandbase.js
@@ -41215,6 +41221,8 @@
 @@||cxense.com/cx.cce.js$domain=tarzanweb.jp
 @@||cxense.com/cx.cce.js$domain=tn.com.ar
 @@||cxense.com/cx.cce.js$domain=tn.com.ar
+@@||cxense.com/cx.js$domain=mainichi.jp
+@@||cxense.com/cx.js$domain=mainichi.jp
 @@||cxense.com/cx.js$domain=nlab.itmedia.co.jp
 @@||cxense.com/cx.js$domain=nlab.itmedia.co.jp
 @@||cxense.com/cx.js$domain=tarzanweb.jp
@@ -52736,6 +52744,8 @@
 @@||scan-trad.fr^$stealth,image,domain=scantrad.net
 @@||scantrad.net/js/prebid-ads.js
 @@||scatfap.com/scat-porn/modules/vids/misc_static/adverts.js
+@@||scdn.cxense.com/cx.cce.js$domain=mainichi.jp
+@@||scdn.cxense.com/cx.cce.js$domain=mainichi.jp
 @@||scdn.cxense.com/cx.cce.js$domain=pcgames.de
 @@||scdn.cxense.com/cx.cce.js$domain=pcgames.de
 @@||scdn.cxense.com/cx.cce.js$domain=tn.com.ar
@@ -57633,5 +57643,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-05-01 20:13:17
-! Total count: 57631
+! Version: 2022-05-02 08:40:06
+! Total count: 57641

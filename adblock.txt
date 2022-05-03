@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-05-03 16:11:34（北京时间） 
-! Total count: 14498
+! Version: 2022-05-04 00:12:50（北京时间） 
+! Total count: 14501
 -960x*0.gif
 -250.js*
 
@@ -1242,7 +1242,7 @@ $removeparam=link_id,domain=gog.com
 $removeparam=link_id,domain=norml.org
 $removeparam=litb_from
 $removeparam=loc,domain=bestbuy.com
-$removeparam=loc,domain=~geizhals.*|~ebay.*|~myanimelist.net|~microsoft.com
+$removeparam=loc,domain=~geizhals.*|~ebay.*|~myanimelist.net|~microsoft.com|~liveperson.net
 $removeparam=locale,domain=udemy.com
 $removeparam=log,domain=billiger.de
 $removeparam=logTag
@@ -2305,6 +2305,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 /js/20X4.js
 /js/ads
 /js/appfu.
+/js/chapter*.js
 /js/delay.
 /js/dubao.
 /js/fumeiti.js
@@ -2316,6 +2317,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 /js/qiguo.js
 /js/sjxf.
 /js/wap2-jm-zz.js
+/js/wap9.js
 /js/wg.js?
 /js/xc/*
 /js/xia.js
@@ -8192,9 +8194,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||baihuiad.com^
 ||baike.baidu.com/api/wikiad/
 ||baike.baidu.com/tashuo/browse/content?$removeparam=lemmaId
+||baike.baidu.com/tashuo/browse/content?$removeparam=lemmaTitle
 ||baike.baidu.com^$removeparam=fromLemmaModule
 ||baike.baidu.com^$removeparam=fromModule
-||baike.baidu.com^$removeparam=lemmaTitle
 ||baike.biz
 ||baike.sogou.com^$removeparam=ch
 ||baimuyuan.com.cn^
@@ -13495,6 +13497,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.toutiaopage.com^
 ||www.ttyyuuoo.com^
 ||www.tyzrcs.com/Tpl/default/system.js$domain=tyzrcs.com
+||www.tz659.com/js/cdn.js
 ||www.u88.cn^
 ||www.uerlqe.com^
 ||www.ufndsm.com^

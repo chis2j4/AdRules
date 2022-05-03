@@ -6583,6 +6583,7 @@
 @@||community.ebay.de^
 @@||community.edgecast.steamstatic.com^
 @@||community.elca.org^
+@@||community.element14.com^
 @@||community.facer.io^
 @@||community.fing.com^
 @@||community.fitbit.com^
@@ -43174,7 +43175,8 @@
 @@||fulltip.net^$generichide
 @@||funcinema.ga^$generichide
 @@||fundingchoicesmessages.google.com/*/*.$domain=soranews24.com
-@@||fundingchoicesmessages.google.com/f/*=/_$script,domain=soranews24.com
+@@||fundingchoicesmessages.google.com/f/*=$script,domain=soranews24.com
+@@||fundingchoicesmessages.google.com/f/*=$script,domain=soranews24.com,stealth
 @@||fundingchoicesmessages.google.com^$script,domain=youpouch.com
 @@||fundingchoicesmessages.google.com^$stealth,domain=stooq.pl|stooq.com
 @@||fundingchoicesmessages.google.com^$stealth,script,domain=player.addradio.de
@@ -57662,5 +57664,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-05-03 08:39:53
-! Total count: 57660
+! Version: 2022-05-03 14:10:26
+! Total count: 57662

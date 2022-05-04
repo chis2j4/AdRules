@@ -32142,6 +32142,7 @@
 @@/jannah/*js/advertisement.js|$~third-party
 @@/jquery/*$domain=dm530.net|sobooks.cc
 @@/jquery2.js$domain=flashx.tv,third-party
+@@/js/*/*.js?_v=$~third-party,domain=cracking.org
 @@/js/*/*.js?_v=$~third-party,domain=forum.miuiturkiye.net|todopolicia.com|turkishaudiocenter.com|gamingfactor.xyz|tamilbrahmins.com|onlytech.com|kodscript.com|hostingunlock.com|crackturkey.com|opelim.net|arabincest.com|milanworld.net|ootech.vn|devotag.com|isgfrm.com|spleaks.org|grandoldteam.com|bmw-scooters.com|cgarmy.com|ctx700-forum.com|demonscripts.com|eurocccam.net|forum.shoppingtelly.com|iptvsat-forum.com|largescaleforums.com|leaked.im|longpoint.on.ca|scriptsfire.com|udevstudio.com
 @@/js/adblockDetectorWithGA.js$domain=fox.com.tr
 @@/js/ads.$script,domain=verifyemailaddress.io
@@ -37867,6 +37868,7 @@
 @@||aone-soft.com/style/images/ad2.jpg
 @@||aone-soft.com/style/images/ad2.jpg
 @@||aosmark.com/ads.js
+@@||ap*.usercentrics.eu^$domain=einhell.de
 @@||ap-siken.com^$elemhide
 @@||apasih.pw^$generichide
 @@||apc-pli.com/api/tracking/$~third-party,xmlhttprequest
@@ -38362,7 +38364,7 @@
 @@||assiste.com/Assiste/media/images/Ad-Aware_$image
 @@||assiste.com^*_publicite_$image,~third-party
 @@||assistir-tv.online/stream/advertisement.js
-@@||assistir.one^$generichide
+@@||assistir.biz^$generichide
 @@||assistiranime.biz/css/adsplay.css
 @@||assistiranime.biz/player/jwp/*?
 @@||associateddentists.com/wp-content/themes/AD/
@@ -39577,6 +39579,7 @@
 @@||cdn.boomtrain.com/analyticstrain/snopes^$domain=snopes.com
 @@||cdn.bootcdn.net^$script,domain=biquav.com
 @@||cdn.bootcss.com/fuckadblock/$domain=1090ys2.com
+@@||cdn.bootcss.com/fuckadblock/3.2.1/fuckadblock.min.js$domain=1090ys8.com
 @@||cdn.bootcss.com/fuckadblock/3.2.1/fuckadblock.min.js$domain=share1223.com
 @@||cdn.bootcss.com^$script,domain=59xs.com|ah123z.com|biqudd.com|didaxiaoshuo.cc|gllmh8.com|luoqiuzw.com|shudai.cc|xbiqugela.com|xhtxt.cc|xiaoshuwu5.com|ysxs8.com
 @@||cdn.broadstreetads.com/init.js$domain=thebatavian.com
@@ -41105,6 +41108,7 @@
 @@||crackhex.com/*.js.pagespeed.*.js
 @@||crackhex.com/ad.js
 @@||cracking.org/js/siropu/am/ads.min.js
+@@||cracking.org^$generichide
 @@||crackle.com/vendor/AdManager.js
 @@||crackle.com/vendor/AdManager.js$script,~third-party
 @@||crackle.com/vendor/AdManager.js$script,~third-party
@@ -41669,6 +41673,8 @@
 @@||discoveryplus.in/*/ads/banner_ad.js
 @@||discoveryrom.org^$generichide
 @@||discretemath.org/ads/
+@@||discretemath.org/ads/
+@@||discretemath.org^$image,stylesheet
 @@||discretemath.org^$image,stylesheet
 @@||disneyplus.com^$generichide
 @@||disneyplus.com^$generichide
@@ -42162,6 +42168,7 @@
 @@||eden.org.tw^*/ad_banner/
 @@||edge-dl.andomedia.com^$domain=accuradio.com
 @@||edge.microsoft.com/translate/auth
+@@||edge.mycdn.live^$stealth,domain=futemax.gratis
 @@||edgecast-vod.yahoo.net
 @@||edgesuite.net/crossdomain.xml$domain=sbs.com.au
 @@||edgesuite.net/crossdomain.xml$domain=sbs.com.au
@@ -42619,6 +42626,8 @@
 @@||facebook.com/videocall/$stealth
 @@||facepunch.io^$generichide
 @@||faculty.uml.edu/klevasseur/ads/
+@@||faculty.uml.edu/klevasseur/ads/
+@@||faculty.uml.edu^$image,stylesheet
 @@||faculty.uml.edu^$image,stylesheet
 @@||fadadosexo.com/wp-content/uploads/useful_banner_manager_banners/*.jpg
 @@||fadsanz.com/*.js$domain=hydrax.net|playhydrax.com
@@ -43398,6 +43407,7 @@
 @@||gamingforecast.com^$generichide
 @@||gamingguidetips.com^$generichide
 @@||gaminplay.com^$generichide
+@@||gamivo.com/product/$stealth
 @@||gamma.cachefly.net/js/ad-exchange.js$domain=linkneverdie.net
 @@||gan.wavecdn.net/js/video_kostenlosspielen_net.js^$domain=kostenlosspielen.net
 @@||gandalf.segmentify.com/*/add/events/v1.json$domain=koctas.com.tr
@@ -44718,7 +44728,7 @@
 @@||googletagmanager.com/gtm.js$domain=20min.ch
 @@||googletagmanager.com/gtm.js$domain=accupass.com
 @@||googletagmanager.com/gtm.js$domain=accupass.com
-@@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|atptour.com|bsa-whitelabel.com|ccleaner.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|flytap.com|fortune.com|jn.pt|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pioneer.eu|primeoak.co.uk|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz|tumi.com|uniqlo.com|uqr.to
+@@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|aeromexico.com|atptour.com|bsa-whitelabel.com|ccleaner.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|flytap.com|fortune.com|jn.pt|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pioneer.eu|primeoak.co.uk|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz|tumi.com|uniqlo.com|uqr.to
 @@||googletagmanager.com/gtm.js$domain=ads.allegro.pl
 @@||googletagmanager.com/gtm.js$domain=ads.allegro.pl
 @@||googletagmanager.com/gtm.js$domain=aena.es
@@ -50074,6 +50084,8 @@
 @@||p.jwpcdn.com/player/plugins/vast/v*/vast.js$domain=player.cartoonth12.com
 @@||p.jwpcdn.com/player/plugins/vast/v/*/vast.js$domain=animefever.tv
 @@||p.jwpcdn.com/player/v/*/jw-icons.woff$domain=9anime.to
+@@||p.typekit.net/*.css$domain=burnabyvillagemuseum.ca
+@@||p.typekit.net/*.css$domain=burnabyvillagemuseum.ca
 @@||p.typekit.net/*.css$domain=cfr.org
 @@||p.typekit.net/*.css$domain=cfr.org
 @@||p.typekit.net/*.css$domain=fedandfit.com
@@ -50737,7 +50749,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=howkteam.vn
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=isi7.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=jaunpurmusic.info
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=liout.com|ygodl.com|youneed.win
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=liout.com|moneysave.info|ygodl.com|youneed.win
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=nullpress.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=nullpress.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=pigeonburger.xyz
@@ -53704,6 +53716,8 @@
 @@||smartclip.net/ads?$script,domain=spiele.rtl.de
 @@||smartclip.net/ads?type=$domain=energy.de
 @@||smartclip.net/ads?type=$domain=energy.de
+@@||smartdoing.tech^$generichide
+@@||smartdoing.tech^$stealth
 @@||smarteasystudy.com^$generichide
 @@||smarters.ro/academy$~third-party,xmlhttprequest
 @@||smarters.ro/academy$~third-party,xmlhttprequest
@@ -57675,5 +57689,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-05-04 14:11:47
-! Total count: 57673
+! Version: 2022-05-04 20:15:42
+! Total count: 57687

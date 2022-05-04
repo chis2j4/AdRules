@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-05-04 00:12:50（北京时间） 
+! Version: 2022-05-04 08:43:05（北京时间） 
 ! Total count: 14501
 -960x*0.gif
 -250.js*
@@ -980,7 +980,7 @@ $removeparam=effect_source
 $removeparam=effi_id
 $removeparam=effi_id2
 $removeparam=ei,domain=google.*
-$removeparam=eid,document,denyallow=embed.tapkal.fi,domain=~activationspot.com|~anidb.net|~howlongtobeat.com|~piwigo.org|~vmware.com|~eventbrite.*
+$removeparam=eid,document,denyallow=embed.tapkal.fi,domain=~activationspot.com|~anidb.net|~howlongtobeat.com|~piwigo.org|~vmware.com|~eventbrite.*|~egift.blackhawknetwork.com|~redeem.giftcards.com
 $removeparam=eid,domain=facebook.com
 $removeparam=elq
 $removeparam=elqCampaignId

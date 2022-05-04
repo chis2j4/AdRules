@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-05-04 08:43:05（北京时间） 
-! Total count: 14501
+! Version: 2022-05-04 16:11:20（北京时间） 
+! Total count: 14499
 -960x*0.gif
 -250.js*
 
@@ -143,10 +143,12 @@
 ##[href^='https://bvipsa.com']
 ##[href^='https://dcc.sclanlian.com/cc/']
 ##[href^='https://detail.tmall.com/item.htm'][rel='nofollow']
+##[href^='https://dt.mydrivers.com/b.ashx']
 ##[href^='https://dt.mydrivers.com/qq.ashx']
 ##[href^='https://dt.mydrivers.com/zt.ashx']
 ##[href^='https://e.akmhw.com/c.html']
 ##[href^='https://item.taobao.com/item.htm'][rel='nofollow']
+##[href^='https://jd.dangbei.com/']
 ##[href^='https://jwmic.91lu001.com']
 ##[href^='https://l.h-ero.games/']
 ##[href^='https://nf.brushshopy.com/']
@@ -265,7 +267,7 @@ $$p[class="ReadAd"]
 $$span[class="dmcenterb"]
 $document,removeparam=_clde
 $document,removeparam=_cldee
-$document,removeparam=source,denyallow=googlevideo.com,domain=1sol.io|ashford.com|asos.com|att.com|awd-it.*|bankofamerica.com|barenecessities.com|bedbathandbeyond.com|betterprogramming.pub|blavity.com|boscovs.com|boxboat.com|brownells.*|britishcornershop.co.uk|burkesoutlet.com|bybit.com|choicehotels.com|chollometro.com|coinpanel.com|contabo.com|cyberghostvpn.com|despegar.*|directv.com|discord.*|docs.google.com|docsend.com|drinkhint.com|edx.org|educba.com|eonline.com|eventbrite.*|fiverr.com|fool.com|forms.gle|gethotspotshield.com|gleam.io|goodcrypto.app|googleusercontent.com|greenhouse.io|greenvoice.fr|hammacher.com|hanes.com|hobbyhall.fi|hotspotshield.com|hottopic.com|housing.com|hp.com|instagram.com|itnext.io|jacquielawson.com|just-eat.co.uk|kasta.io|medium.com|microsoftedgewelcome.microsoft.com|nautica.com|nortonsafe.search.ask.com|onehanesplace.com|outnorth.fi|petsupplies.com|phonesoap.com|riteaid.com|runnode.com|search.brave.com|sonos.com|spiceworks.com|squarespace.com|subscribe.gq.com|t.me|thedailybeast.com|tiktok.com|tokopedia.com|tommybahama.com|torrid.com|tous.com|tradingview.com|twitter.com|user.qzone.qq.com|vimeo.com|webhint.io|wilsonsleather.com|wired.com|ylighting.com|youtube.com|yubo.live
+$document,removeparam=source,denyallow=googlevideo.com,domain=1sol.io|ashford.com|asos.com|att.com|awd-it.*|bankofamerica.com|barenecessities.com|bedbathandbeyond.com|betterprogramming.pub|blavity.com|blog.getadblock.com|boscovs.com|boxboat.com|brownells.*|britishcornershop.co.uk|burkesoutlet.com|bybit.com|choicehotels.com|chollometro.com|coinpanel.com|contabo.com|cyberghostvpn.com|despegar.*|directv.com|discord.*|docs.google.com|docsend.com|drinkhint.com|edx.org|educba.com|eonline.com|eventbrite.*|fiverr.com|fool.com|forms.gle|gethotspotshield.com|gleam.io|goodcrypto.app|googleusercontent.com|greenhouse.io|greenvoice.fr|hammacher.com|hanes.com|hobbyhall.fi|hotspotshield.com|hottopic.com|housing.com|hp.com|instagram.com|itnext.io|jacquielawson.com|just-eat.co.uk|kasta.io|medium.com|microsoftedgewelcome.microsoft.com|nautica.com|nortonsafe.search.ask.com|onehanesplace.com|outnorth.fi|petsupplies.com|phonesoap.com|riteaid.com|runnode.com|search.brave.com|sonos.com|spiceworks.com|squarespace.com|subscribe.gq.com|t.me|thedailybeast.com|tiktok.com|tokopedia.com|tommybahama.com|torrid.com|tous.com|tradingview.com|twitter.com|user.qzone.qq.com|vimeo.com|webhint.io|wilsonsleather.com|wired.com|ylighting.com|youtube.com|yubo.live
 $document,removeparam=trackID
 $document,removeparam=trackid
 $image,third-party,domain=avtb6677.com|lady1.top
@@ -793,8 +795,7 @@ $removeparam=cd,domain=google.*
 $removeparam=ceneo_spo
 $removeparam=cf_affiliate_id
 $removeparam=channable
-$removeparam=channel,domain=reddit.app.link
-$removeparam=channel,domain=rei.com|squarespace.com|privateinternetaccess.com|bybit.com|t.me|twitter.com|docs.google.com|instagram.com|forms.gle|goodcrypto.app|eventbrite.*|youtube.com|coinpanel.com|docsend.com|kasta.io|runnode.com|gleam.io|1sol.io
+$removeparam=channel,domain=rei.com|squarespace.com|privateinternetaccess.com|bybit.com|t.me|twitter.com|docs.google.com|instagram.com|forms.gle|goodcrypto.app|eventbrite.*|youtube.com|coinpanel.com|docsend.com|kasta.io|runnode.com|gleam.io|1sol.io|reddit.app.link
 $removeparam=channelref,domain=asos.com
 $removeparam=cid,domain=abcnews.go.com|adguard.com|adshares.net|ae.com|anntaylor.com|apple.com|bitdefender.*|blair.com|childrensplace.com|elmundo.es|emirates.com|factoryoutletstore.com|flipkart.com|gamestop.com|giphy.com|glasses.com|haband.com|intuit.com|jared.com|jcpenney.com|kay.com|kohls.com|lenovo.com|loft.com|marca.com|nbcnews.com|nike.com|nyandcompany.com|overstock.com|persol.com|proshop.*|radissonhotelsamericas.com|ray-ban.com|rei.com|rightmove.co.uk|samsung.com|stadium.*|staples.com|telenor.no|tokopedia.com|tommy.com|toms.com|tractorsupply.com|underarmour.com|vineyardvines.com|voxi.co.uk|wine.com|wsj.com|microsoft.com|xg4ken.com|zales.com
 $removeparam=cid,domain=lazada.com.my
@@ -1470,7 +1471,6 @@ $removeparam=qp,domain=bing.*
 $removeparam=qs,domain=bing.*
 $removeparam=qualifier,domain=amazon.*
 $removeparam=queryly,domain=fortune.com
-$removeparam=r,domain=mrgay.com
 $removeparam=ranEAID
 $removeparam=ranLinkID
 $removeparam=ranLinkTypeID
@@ -1753,7 +1753,7 @@ $removeparam=sxsrf
 $removeparam=sxsrf,domain=google.*
 $removeparam=szredirectid
 $removeparam=t,domain=hh.ru
-$removeparam=t,domain=rakuten.com|steamcdn-a.akamaihd.net|duckduckgo.com|npr.org|elprecio.es|adressa.no|tiktok.com
+$removeparam=t,domain=rakuten.com|steamcdn-a.akamaihd.net|duckduckgo.com|npr.org|elprecio.es|adressa.no|tiktok.com|lookmovie211.xyz
 $removeparam=tag,domain=amazon.*|argos.co.uk|habitat.co.uk|tv2.no
 $removeparam=tag,domain=arms-retcode.aliyuncs.com
 $removeparam=tag,domain=ceneo.pl
@@ -1948,7 +1948,7 @@ $~xmlhttprequest,removeparam=mbid
 $~xmlhttprequest,removeparam=mcid,domain=~miguvideo.*
 $~xmlhttprequest,removeparam=msid
 $~xmlhttprequest,removeparam=qid,domain=~ebay.*|~zhidao.baidu.com
-$~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com
+$~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com
 $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbop.com|awesomeopensource.com
 &ad*&puid=*&uid=*=show
 &ad=*&referer=
@@ -8420,7 +8420,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||blkxszh.com/zj/
 ||blog.csdn.net/*/phoenix/comment/list/
 ||blog.getadblock.com^$removeparam=gi
-||blog.getadblock.com^$removeparam=source
 ||blogad.com.tw$third-party
 ||bloggerads.net$third-party
 ||bloggerads.net^
@@ -9323,6 +9322,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ejieban.com^
 ||ejzr.golden1.sogou.com^
 ||ekstrabladet.dk^$removeparam=account
+||ekstrabladet.dk^$removeparam=ilc
 ||eladies.23taoke.xyz^
 ||eladies.zhmyq.cn^
 ||elsiehoney.com^
@@ -10681,7 +10681,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||leads.api.autohome.com.cn^
 ||leads.autohome.com.cn^
 ||learner.org^$removeparam=jwsource
-||ledger.$removeparam=r
 ||lee789.com^
 ||leeyuo.com^
 ||legou361.com^
@@ -10836,7 +10835,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lookmovie211.xyz^$removeparam=mid
 ||lookmovie211.xyz^$removeparam=sec
 ||lookmovie211.xyz^$removeparam=sid
-||lookmovie211.xyz^$removeparam=t
 ||lopostone.com^
 ||loupan99.com^
 ||lpjxzs.com^

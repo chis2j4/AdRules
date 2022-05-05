@@ -37971,6 +37971,8 @@
 @@||api.cxense.com/public/widget/data?json=$domain=lavoz.com.ar
 @@||api.cxense.com/public/widget/data?json=$domain=pcgames.de
 @@||api.cxense.com/public/widget/data?json=$domain=pcgames.de
+@@||api.cxense.com/public/widget/data?json=$domain=wpb.shueisha.co.jp
+@@||api.cxense.com/public/widget/data?json=$domain=wpb.shueisha.co.jp
 @@||api.cxense.com/public/widget/data?json=$domain=wsj.com
 @@||api.cxense.com/public/widget/data?json=$domain=wsj.com
 @@||api.cxense.com/public/widget/data?json=$domain=yenisafak.com
@@ -38006,6 +38008,8 @@
 @@||api.infowarsmedia.com/videojs-event-tracking/dist/videojs-event-tracking.js
 @@||api.ip.sb/geoip$domain=ip.skk.moe
 @@||api.ip.sb/geoip$domain=ip.skk.moe
+@@||api.ipify.org/?format=jsonp&callback=getIP$domain=embedflix.net
+@@||api.ipify.org/?format=jsonp&callback=getIP$domain=embedflix.net
 @@||api.ipify.org^$script,domain=right-on.co.jp
 @@||api.ipify.org^$xmlhttprequest,domain=247sports.com|account.pennytel.com.au|equinoxplus.com|speedcheck.ky
 @@||api.ipinfodb.com^$xmlhttprequest,domain=management30.com
@@ -39691,6 +39695,8 @@
 @@||cdn.cxense.com/cx.js$domain=stomp.com.sg
 @@||cdn.cxense.com/cx.js$domain=tarzanweb.jp|wpb.shueisha.co.jp
 @@||cdn.cxense.com/cx.js$domain=tn.com.ar
+@@||cdn.cxense.com/cx.js$domain=wpb.shueisha.co.jp
+@@||cdn.cxense.com/cx.js$domain=wpb.shueisha.co.jp
 @@||cdn.cxense.com/cx.js$domain=yenisafak.com
 @@||cdn.cxense.com/cx.js$domain=yenisafak.com
 @@||cdn.cxense.com/cx.js$script,domain=handelsblatt.com
@@ -41185,6 +41191,8 @@
 @@||csgo-ranks.com^$generichide
 @@||csid.com/wp-content/plugins/bwp-minify/min/?*/google-analyticator/$script
 @@||csid.com/wp-content/plugins/bwp-minify/min/?*/google-analyticator/$script
+@@||csm.cxpublic.com/Shueisha.js$domain=wpb.shueisha.co.jp
+@@||csm.cxpublic.com/Shueisha.js$domain=wpb.shueisha.co.jp
 @@||csm.cxpublic.com^$script,domain=mainichi.jp
 @@||csm.cxpublic.com^$script,domain=mainichi.jp
 @@||csm.cxpublic.com^$script,domain=tarzanweb.jp
@@ -41399,7 +41407,6 @@
 @@||dasolo.me^$generichide
 @@||data-stream.top/*/hls
 @@||data.alicloudccp.com^$stealth,domain=aliyundrive.com
-@@||data.amazon.*/api/marketplaces/*/cart/carts/retail/items$removeparam=ref
 @@||data.flurry.com^$app=ru.afisha.android
 @@||data.lidl.de^$jsinject
 @@||data.lidl.de^$jsinject
@@ -45928,7 +45935,6 @@
 @@||hoyts.com.au^$generichide
 @@||hp.com/in/*/ads/$script,stylesheet,~third-party
 @@||hp.com/in/*/ads/$script,stylesheet,~third-party
-@@||hpjav.tv^$elemhide
 @@||hpplus.jp/ogp/image/ad/$image,~third-party
 @@||hqq.to/ad/api/popunder.js$script
 @@||hqq.to/ad/api/popunder.js$script
@@ -46573,6 +46579,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=games.cdn.famobi.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=mitele.es
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=play.neos-easygames.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=radiopanamericana.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=redefine.pl|redcdn.pl|polsatnews.pl|polsatsport.pl|twojapogoda.pl|geekweek.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js^$domain=24ur.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js^$domain=blackbird.zoomin.tv
@@ -47323,7 +47330,6 @@
 @@||kaitao.cn/public/wenda/ad/css/ds-un-detail.css
 @@||kaitaro.jp/images/ad.gif
 @@||kaitaro.jp/images/ad.gif
-@@||kakaotv.daum.net/embed/player/image/ads.png
 @@||kakaotv.daum.net^$generichide
 @@||kalemsende.com/wp-content/plugins/easy-social-share-buttons3/lib/modules/social-followers-counter/assets/font/essb-socialfollowers.
 @@||kalite18.cyou^$generichide
@@ -48889,6 +48895,7 @@
 @@||mmaa99.xyz^$generichide
 @@||mmacore.tv^$generichide
 @@||mmcomputer.de^*&BannerID=$subdocument
+@@||mmcref.pl/?$removeparam=utm_medium
 @@||mmee04.com^$generichide
 @@||mmff30.com^$generichide
 @@||mmgd.xyz^$generichide
@@ -49536,7 +49543,6 @@
 @@||nonsensediamond.website^$generichide
 @@||noodid.ee/chordQuiz/$~third-party
 @@||noon.khsm.io^$generichide
-@@||noonnu.cc/js/prebid-ads.js
 @@||nooyul.co^$generichide
 @@||nordbayern.de^$generichide
 @@||nordcoast-coffee.de/js/cookieconsent.min.js
@@ -52793,6 +52799,8 @@
 @@||scdn.cxense.com/cx.cce.js$domain=pcgames.de
 @@||scdn.cxense.com/cx.cce.js$domain=pcgames.de
 @@||scdn.cxense.com/cx.cce.js$domain=tn.com.ar
+@@||scdn.cxense.com/cx.cce.js$domain=wpb.shueisha.co.jp
+@@||scdn.cxense.com/cx.cce.js$domain=wpb.shueisha.co.jp
 @@||scdn.cxense.com/cx.cce.js$domain=wsj.com
 @@||scdn.cxense.com/cx.cce.js$domain=wsj.com
 @@||scdn.cxense.com/cx.cce.js$script,domain=handelsblatt.com
@@ -53325,6 +53333,8 @@
 @@||seosprint.net/style/img/ad-
 @@||seosprint.net/style/img/adv/$domain=seosprint.net
 @@||sephora-track.inside-graph.com/gtm/$domain=sephora.com
+@@||sephora-track.inside-graph.com/gtm/$domain=sephora.com
+@@||sephora-track.inside-graph.com/ig.js$domain=sephora.com
 @@||sephora-track.inside-graph.com/ig.js$domain=sephora.com
 @@||sephora.com/js/ufe/isomorphic/thirdparty/fp.min.js$script,~third-party
 @@||sephora.fr/eStore-webMaster/js/common/acceptCookies.js
@@ -57218,6 +57228,7 @@
 @@||www.ruanyifeng.com^$csp=script-src 'self' * 'sha256-0McqMM66/wAVZmxF6zXpjNsb1UMbTl4LXBXdhqPKxws='
 @@||www.statcounter.com/images/$image,third-party
 @@||www.supertoinette.com/js/all-eb810df98a.js$script,~third-party
+@@||www.t-online.de^$generichide
 @@||www.taiwanlottery.com.tw^
 @@||www.ups.com/WebTracking/processInputRequest
 @@||www.vidsource.me/v/$subdocument,domain=vidsrc.me
@@ -57689,5 +57700,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-05-04 20:15:42
-! Total count: 57687
+! Version: 2022-05-05 08:39:27
+! Total count: 57698

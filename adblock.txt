@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-05-05 16:11:58（北京时间） 
-! Total count: 14500
+! Version: 2022-05-06 00:11:45（北京时间） 
+! Total count: 14501
 -960x*0.gif
 -250.js*
 
@@ -179,6 +179,7 @@
 ##[id^="wrapper_left_bg"][href="javascript:void(0);"],[id^="wrapper_right_bg"][href="javascript:void(0);"]
 ##[kidjhy=""]
 ##[onclick*='https://i.opiwb.com:']
+##[onclick*='www.l4lui.com'],.col-12.position-relative>b
 ##[onclick="window.location.href='https://www.biquge.app'"]
 ##[onclick="window.open('/kapi/tj.php')"]
 ##[onclick="window.open('/statics/js/hth1111.html')"]
@@ -249,7 +250,6 @@
 ##div[style^="width: 100%;"][style$="display: block;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##img#hth[onclick$="hth.html')"]
 ##oxk
-#.col-12 position-relative,[onclick*='www.l4lui.com'],.col-12.position-relative>b
 $$a[href="/js/app.htm?url="]
 $$a[href="changhong886.com"]
 $$div[class="-ad-"]
@@ -2515,7 +2515,6 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 =vip_skip_ad*
 ?*__$~xmlhttprequest,removeparam=/^__[bce-z]/,domain=facebook.com|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|messenger.com
 ?adid=
-@@$app=com.x.addon.cast
 @@$removeparam,domain=agenciatributaria.gob.es
 @@$removeparam,domain=api.bilibili.com
 @@$removeparam,domain=api.taiga.io
@@ -9119,6 +9118,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dingjianlm.com$third-party
 ||dinglixuan.cn^
 ||dingon.com.cn^
+||dingyar.top^
 ||dioimg.net/images^$domain=14.102.250.19
 ||dioimg.net/images^$domain=88files.net
 ||dioimg.net^*.gif$domain=javccc.net
@@ -12054,6 +12054,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qurl.f.360.cn^
 ||qutyan8848.com^
 ||quyaoya.com^$third-party
+||qw.dingyar.top^
 ||qw.kuanxin.top^
 ||qwant.com^$removeparam=client
 ||qwsy.com/script/TuiGuang.js

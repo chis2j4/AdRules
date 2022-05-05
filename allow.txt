@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-05-05 16:12:06（北京时间） 
-! Total count: 5057
+! Version: 2022-05-06 00:11:55（北京时间） 
+! Total count: 5059
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5256,7 +5256,6 @@
 @@||eloqua.com/visitor/v200/svrgp.aspx?$domain=itworld.com|juniper.net
 @@||eltern.de/min.php?*/clickTracking.js
 @@||em.hk/wp-content/uploads/*_300_250.
-@@||email*.123formbuilder.com^|
 @@||email.*.skyeng.ru^|
 @@||email.awscloud.com^|
 @@||email.elitedangerous.com^|
@@ -5916,6 +5915,7 @@
 @@||googletagmanager.com/gtag/js$script,domain=timparty.tim.it
 @@||googletagmanager.com/gtag/js$script,domain=xl-bygg.no
 @@||googletagmanager.com/gtag/js?id=$domain=alternative.me|justjaredjr.com|r-graph-gallery.com
+@@||googletagmanager.com/gtag/js?id=$domain=autofaucet.dutchycorp.space
 @@||googletagmanager.com/gtag/js?id=$domain=av01.tv
 @@||googletagmanager.com/gtag/js?id=$domain=canale.live
 @@||googletagmanager.com/gtag/js?id=$domain=chainreactioncycles.com
@@ -6091,6 +6091,7 @@
 @@||googletagmanager.com/gtm.js$domain=sciencesetavenir.fr
 @@||googletagmanager.com/gtm.js$domain=scotsman.com
 @@||googletagmanager.com/gtm.js$domain=seattletimes.com
+@@||googletagmanager.com/gtm.js$domain=secure.sakura.ad.jp
 @@||googletagmanager.com/gtm.js$domain=security-demo.extrahop.com
 @@||googletagmanager.com/gtm.js$domain=shieldsgazette.com
 @@||googletagmanager.com/gtm.js$domain=shockwave.com
@@ -6623,6 +6624,7 @@
 @@||kiplinger.112.2o7.net^
 @@||kissjav.com^$generichide
 @@||kk665403.pixnet.net^$generichide
+@@||klarnaservices.com/lib.js$script,domain=brooksrunning.com
 @@||klaviyo.com/ajax/subscriptions/subscribe$domain=productionmusiclive.com
 @@||klp.no/person/plugins/komponentbiblioteket/utils/tracking/Tracking.js
 @@||klpinteraktiv.klp.no^*/Tracking.js?

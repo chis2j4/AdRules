@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-05-06 00:11:45（北京时间） 
-! Total count: 14501
+! Version: 2022-05-06 08:38:44（北京时间） 
+! Total count: 14514
 -960x*0.gif
 -250.js*
 
@@ -7875,6 +7875,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ap*.pl520.com^
 ||ap.eiasia.ltd^
 ||ap.itresource.vip^
+||ap.xiaomifood.cn^
 ||apd-*.v.smtcdns.com/vhot2.qqvideo.tc.qq.com^
 ||apfobmfr.cn^
 ||api-access.pangolin-sdk-toutiao-b.com^
@@ -8622,6 +8623,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ceh.cehbh.com^
 ||cellularcountry.com^$removeparam=zenid
 ||ceruchina.com^
+||ceshi127722.obs.cn-north-4.myhuaweicloud.com^
 ||ceztv.com^
 ||cfeo.bealge.sogou.com^
 ||cfepws.com^
@@ -9379,6 +9381,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||et.dexuanyu.top^
 ||et363.com^
 ||etahub.com^
+||etdxjycpaeaawdyu.chh2.cc^
 ||ete.cn^
 ||eteun.cn^
 ||etui8.cn^
@@ -9650,6 +9653,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gif|$domain=99a25.com|xin99r3.com|xin99r4.com
 ||gif|$third-party,domain=33235.net
 ||gitee.com/joinli/Api/raw/master/banner$replace=/ad_url//
+||giva.xerhibx.cn^
 ||gj.ityangstudy.cn^
 ||gjapplog.uc.cn^
 ||gjh9v.tianshilv.cn^
@@ -10079,6 +10083,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ifixit.com^$removeparam=sponsor
 ||ifkdy.com/layer/layer.js
 ||ifun.tv/a/$xmlhttprequest
+||ig.zjkssw.com^
 ||ihero.pub
 ||ihuajian.com^
 ||ihualun.com$third-party
@@ -10504,6 +10509,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||k5ggua.xyz^
 ||k618.cn/sytab/
 ||k618.cn/zbggw/
+||k7.kazigua.top^
 ||k8jdwang.com/js/wap_max/wapneiqian.js
 ||k8jdwang.com/js/wap_max/waptop.js
 ||ka.xgzdys.com^
@@ -10563,6 +10569,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kkbiqu2.com/js/yuedu.js
 ||kkpgv2.xunlei.com^
 ||kkr.realwanghao.com^
+||kl.haohuisheng555.cn^
 ||kl.mieyisi.com^
 ||kl.yditweb.cn^
 ||kl.zmgod.com^
@@ -10612,6 +10619,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||krt.zhengxiaoliu.top^
 ||krw.yrehdfer.com^
 ||kry.jknrwe.cn^
+||ks.yhz18.com^
 ||ks66666661.com^
 ||kstj.baidu.com^
 ||ktdlsb.com^
@@ -11247,6 +11255,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mn586.com^$third-party
 ||mnr.gaojiaju.net^
 ||mnr.jajjo.cn^
+||mnrewset.hkzzacp.cn^
 ||mnwan.com^
 ||mnxhj.com^
 ||mo.sdalxz.xyz^
@@ -11900,6 +11909,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||px.loverzhou.club^
 ||px.nmgxhcf.xyz^
 ||px.rhinogo.cn^
+||px.xiaomifood.cn^
 ||pxblmj.com^
 ||pxene.com^
 ||pxl2015x1.com^
@@ -12714,6 +12724,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tcss.qq.com^
 ||tcss.qq.com^$domain=~pt80.net
 ||tctask.com^
+||tcy.knbtpty.xyz^
 ||td.haoxyx.com^
 ||td.zgxue.com^
 ||td1h.cn^
@@ -12946,6 +12957,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tydd.hunterwish.cn^
 ||tydouke.com^
 ||tykor.net^
+||tylll.igame2steam.com^
 ||tylll.zgystsd.com^
 ||tz-dsp.com^
 ||tz.yuanmengbi.com^
@@ -13316,6 +13328,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wtbtop.cn^
 ||wtradv.market.xiaomi.com^
 ||wudang05.com^
+||wuiirps.turvpij.cn^
 ||wuliao.jingyanben.com^
 ||wumii.cn^
 ||wumii.com^

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-05-07 00:11:28（北京时间） 
-! Total count: 14550
+! Version: 2022-05-07 08:39:02（北京时间） 
+! Total count: 14551
 -960x*0.gif
 -250.js*
 
@@ -594,7 +594,7 @@ $removeparam=actId,domain=cafepedagogique.net
 $removeparam=actSource
 $removeparam=actSource,domain=cafepedagogique.net
 $removeparam=act_poa
-$removeparam=action,domain=nytimes.com|nytimes3xbfgragh.onion
+$removeparam=action,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 $removeparam=action_history,domain=facebook.com
 $removeparam=action_object_map
 $removeparam=action_ref_map
@@ -718,7 +718,7 @@ $removeparam=ali_refid,domain=tmall.com
 $removeparam=ali_trackid,domain=taobao.com
 $removeparam=ali_trackid,domain=tmall.com
 $removeparam=alid,domain=indeed.com
-$removeparam=alpha,domain=nytimes.com
+$removeparam=alpha,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 $removeparam=amdata,domain=ebay.*
 $removeparam=amp_device_id
 $removeparam=amp_gsa
@@ -764,7 +764,7 @@ $removeparam=bftTag,domain=tmall.com
 $removeparam=bi,domain=vitamix.com
 $removeparam=bih
 $removeparam=biw
-$removeparam=block,domain=nytimes.com
+$removeparam=block,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 $removeparam=brand,domain=cyberghostvpn.com|privateinternetaccess.com
 $removeparam=breadcrumb,domain=shopbop.com
 $removeparam=broadcast_type,domain=live.bilibili.com
@@ -1032,7 +1032,7 @@ $removeparam=fcref
 $removeparam=feat,domain=hobbyhall.fi
 $removeparam=feature,domain=reddit.app.link|youtube.com
 $removeparam=feature,domain=youtube.com
-$removeparam=fellback,domain=nytimes.com|nytimes3xbfgragh.onion
+$removeparam=fellback,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 $removeparam=field-lbr_brands_browse-bin,domain=amazon.*
 $removeparam=fir
 $removeparam=fl,domain=backcountry.com
@@ -1159,10 +1159,10 @@ $removeparam=impid,domain=taobao.com
 $removeparam=impid,domain=tmall.com
 $removeparam=impradid
 $removeparam=impradname
-$removeparam=impression_id,domain=nytimes.com|nytimes3xbfgragh.onion
+$removeparam=impression_id,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 $removeparam=impsrc,domain=lazada.com.my
 $removeparam=in_source
-$removeparam=index,domain=nytimes.com|nytimes3xbfgragh.onion
+$removeparam=index,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 $removeparam=inst,domain=msn.com
 $removeparam=int_campaign
 $removeparam=int_cmpid
@@ -1286,7 +1286,7 @@ $removeparam=ml_subscriber
 $removeparam=ml_subscriber_hash
 $removeparam=mms_chref
 $removeparam=mod,domain=barrons.com|dowjones.com|fnlondon.com|mansionglobal.com|marketwatch.com|penews.com|wsj.com
-$removeparam=module,domain=nytimes.com|nytimes3xbfgragh.onion|scmp.com
+$removeparam=module,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion|scmp.com
 $removeparam=mots,domain=marketscreener.com
 $removeparam=mp,domain=lazada.com.my
 $removeparam=mp_id,domain=blinds.com
@@ -1331,7 +1331,7 @@ $removeparam=mytmenu,domain=taobao.com
 $removeparam=mytmenu,domain=tmall.com
 $removeparam=n_cid
 $removeparam=n_cid,domain=nikkei.com
-$removeparam=name,domain=nytimes.com|nytimes3xbfgragh.onion
+$removeparam=name,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 $removeparam=navigation_source,domain=hobbyhall.fi
 $removeparam=nb,domain=tweakers.net
 $removeparam=ncid
@@ -1406,7 +1406,7 @@ $removeparam=pcrid
 $removeparam=pdpClick
 $removeparam=pfr,domain=msn.com
 $removeparam=pgrp
-$removeparam=pgtype,domain=nytimes.com|nytimes3xbfgragh.onion|scmp.com
+$removeparam=pgtype,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion|scmp.com
 $removeparam=pid,domain=123inkjets.com|bergfreunde.*|play.google.com|samsclub.com|th.bing.com|flipkart.com|hepsiburada.com|appsflyer.com|tiktok.com|onelink.me|shopee.*|farfetch.com
 $removeparam=pid,domain=arms-retcode.aliyuncs.com
 $removeparam=pj_creativeid
@@ -1431,7 +1431,7 @@ $removeparam=plkey,domain=etsy.com
 $removeparam=pm_campaign
 $removeparam=pm_medium
 $removeparam=pm_source
-$removeparam=pool,domain=nytimes.com|nytimes3xbfgragh.onion
+$removeparam=pool,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 $removeparam=pop,domain=etsy.com
 $removeparam=porc
 $removeparam=pos,domain=lazada.com.my
@@ -1478,6 +1478,7 @@ $removeparam=ranLinkTypeID
 $removeparam=ranMID
 $removeparam=ranPublisherID
 $removeparam=ranSiteID
+$removeparam=rank,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 $removeparam=ransiteID
 $removeparam=rb_clickid
 $removeparam=rbx_campaign
@@ -1543,12 +1544,12 @@ $removeparam=referringSource
 $removeparam=reflink,domain=marketwatch.com|mansionglobal.com
 $removeparam=refresh,domain=cnn.com
 $removeparam=refsec,domain=barrons.com
-$removeparam=region,domain=nytimes.com|nytimes3xbfgragh.onion
+$removeparam=region,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 $removeparam=release,domain=arms-retcode.aliyuncs.com
 $removeparam=removedParams
 $removeparam=rep,domain=shein.com
 $removeparam=report_recomm_player
-$removeparam=req_id,domain=nytimes.com|nytimes3xbfgragh.onion
+$removeparam=req_id,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 $removeparam=response_type,domain=udemy.com
 $removeparam=ret,domain=shein.com
 $removeparam=retailAttributionToken
@@ -1605,8 +1606,8 @@ $removeparam=scrolla
 $removeparam=sd,domain=vitamix.com
 $removeparam=searchClick,domain=shopbop.com
 $removeparam=searchResultClicked,domain=shopbop.com
-$removeparam=searchResultPosition,domain=nytimes.com
-$removeparam=section,domain=nytimes.com|nytimes3xbfgragh.onion
+$removeparam=searchResultPosition,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
+$removeparam=section,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 $removeparam=sei,domain=google.*
 $removeparam=seid,domain=bilibili.com
 $removeparam=sender_device
@@ -1618,6 +1619,7 @@ $removeparam=session_id,domain=live.bilibili.com
 $removeparam=session_id,domain=reddit.app.link
 $removeparam=settings_tracking
 $removeparam=sfnsn
+$removeparam=shadow_vec_sim,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 $removeparam=share,domain=hs.fi
 $removeparam=share,domain=hs.fi|oerproject.com|quora.com
 $removeparam=share_ab_group
@@ -1746,7 +1748,7 @@ $removeparam=success,domain=arms-retcode.aliyuncs.com
 $removeparam=sudaref
 $removeparam=suid,domain=taobao.com
 $removeparam=suid,domain=tmall.com
-$removeparam=surface,domain=nytimes.com|nytimes3xbfgragh.onion
+$removeparam=surface,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 $removeparam=sv_affiliate_id
 $removeparam=sv_campaign_id
 $removeparam=swnt,domain=hh.ru
@@ -1871,7 +1873,7 @@ $removeparam=utm_v,domain=onet.pl
 $removeparam=utmid
 $removeparam=utparam,domain=taobao.com
 $removeparam=utparam,domain=tmall.com
-$removeparam=variant,domain=nytimes.com|nytimes3xbfgragh.onion
+$removeparam=variant,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 $removeparam=vc_lpp
 $removeparam=vero_conv
 $removeparam=vero_id
@@ -11549,7 +11551,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nyahentai.com/cat/l_1.gif
 ||nyaso.net/static/js/nya.js
 ||nyhpyq.com^$third-party
-||nytimes.com^$removeparam=rank
 ||nyzda.top^
 ||nz04com.com^
 ||nzqf.b2xy4m.xyz^

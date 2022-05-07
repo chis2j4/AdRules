@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-05-07 16:10:58（北京时间） 
-! Total count: 14551
+! Version: 2022-05-08 00:10:34（北京时间） 
+! Total count: 14557
 -960x*0.gif
 -250.js*
 
@@ -172,6 +172,7 @@
 ##[href^='https://www.xxmh'][href*='.htm']
 ##[href^='https://www.xxmh608.com/u.htm']
 ##[href^='https://www.xxmh639.com/']
+##[href^='https://xcc.nbfieef.cn/cc/']
 ##[href^='https://xt.nktxv.com'],[href^='https://xe.vldbd.com']
 ##[href^='https://yh.133svip.com/']
 ##[id^="_vdo_ads_player"]
@@ -7912,6 +7913,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||api.ktplay.com^
 ||api.kwaizt.com^
 ||api.league.kaomeile.net:9002/api/v1/league/ad^
+||api.lewen123.net/new/app.js
 ||api.lwxs99.com^
 ||api.meijuniao.net^$replace=/adUrl//
 ||api.meijuniao.net^$replace=/fullScreen//
@@ -9617,6 +9619,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gaothings.com^
 ||gardens.shjha.top^
 ||gayeah.cn^
+||gayide.com^
 ||gb.nbgoodever.cn^
 ||gb.zhaiqichao.top^
 ||gbd.guanmeixiangsu.com^
@@ -9774,6 +9777,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||h.bbbazlp.cn^
 ||h.cx0001.cn^
 ||h2sry.site^
+||h45pmx1.cn^
 ||h5.m.youku.com/act/armorVideogj.html?_wvUseWKWebView=YES&from=bofangye_gj&poplayer_mtid=400$app=com.youku.phone
 ||h5.miyushu.com^
 ||h51.com^
@@ -10902,6 +10906,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lwhsdfc.cn^
 ||lwmbc.cn^
 ||lwtxt.net/gaogao/
+||lwxs99.cc^
 ||lwz.ffhre.com^
 ||lx167.com/
 ||lyra.iscrv.com^
@@ -14131,6 +14136,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zone.guiderank-app.com/guiderank-web/app/ad^
 ||zone.guiderank-app.com/guiderank-web/app/common/addBehaviorRecord.do^
 ||zone.guiderank-app.com/guiderank-web/app/popUpAdCollection^
+||zongzuhulian.com^
 ||zonst.com^
 ||zp0573.cn^
 ||zpxw.vip^

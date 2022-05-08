@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-05-08 00:10:42（北京时间） 
-! Total count: 5062
+! Version: 2022-05-08 08:40:09（北京时间） 
+! Total count: 5064
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5463,6 +5463,7 @@
 @@||gaus.ee^$generichide
 @@||gaybeeg.info^$generichide
 @@||gaynetwork.co.uk/Images/ads/bg/$image,~third-party
+@@||gbf.wiki/images/$image,~third-party
 @@||gdpr-tcfv2.sp-prod.net^$script,domain=voici.fr
 @@||geekbang.org/resource/image/ad/14/addb521e20de1a302206f4286eac3914.png
 @@||geekzone.co.nz^$generichide
@@ -7587,6 +7588,7 @@
 @@||scdn.cxense.com/cx.js$script,domain=cyclestyle.net|mainichi.jp
 @@||scdn.cxense.com/cx.js$script,domain=ksml.fi|savonsanomat.fi
 @@||schemeflood.com^$generichide
+@@||schlr.cnki.net/detailstatic/js/tracker.js$script,~third-party
 @@||schwab.com/scripts/appdynamic/adrum-ext.$script,~third-party
 @@||sciencechannel.com^$generichide
 @@||scorecardresearch.com$domain=bt.com

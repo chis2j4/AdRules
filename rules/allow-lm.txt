@@ -41283,6 +41283,7 @@
 @@||cryptslice.com^$generichide
 @@||crystalmark.info/wp-content/uploads/*-300x250.$image,~third-party
 @@||crystalmark.info/wp-content/uploads/*_300x250.
+@@||crystalmark.info/wp-content/uploads/sites/$image,~third-party
 @@||cs.silverpop.com^|
 @@||cs.silverpop.com^|
 @@||csbew.com/FrameWork/AFP/
@@ -55493,6 +55494,7 @@
 @@||tools.halpas.com^$generichide
 @@||tools.pdf24.org/*/cookie-banner-iframe
 @@||tools.services.tvn.pl/_ads/advert.js
+@@||tools.services.tvn.pl/maertsg.js$domain=tvn24.pl
 @@||tools.usps.com/go/TrackConfirmAction
 @@||tools.usps.com/go/scripts/tracking.js
 @@||tools.vpscash.nl/datingv3/docs/plug_and_play/$subdocument,domain=flirtmee.nl
@@ -57827,5 +57829,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-05-09 08:38:53
-! Total count: 57825
+! Version: 2022-05-09 14:10:52
+! Total count: 57827

@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-05-09 00:10:39（北京时间） 
-! Total count: 5064
+! Version: 2022-05-09 08:43:52（北京时间） 
+! Total count: 5066
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4685,6 +4685,7 @@
 @@||cdn.petametrics.com^$domain=techgenix.com
 @@||cdn.petametrics.com^$domain=telegraph.co.uk
 @@||cdn.petametrics.com^$script,domain=comics.mecha.cc
+@@||cdn.plyvdo.live/scripts/$script
 @@||cdn.popt.in/pixel.js$domain=userstyles.org
 @@||cdn.qgraph.io/dist/aiqua-wp.js$domain=cw.com.tw
 @@||cdn.questionpro.com/stylesheets/$domain=surveyanalytics.com
@@ -4942,6 +4943,7 @@
 @@||connatix.com/min/connatix.renderer.infeed.min.js$domain=accuweather.com|collider.com|gamepress.gg|salon.com
 @@||connect.facebook.net^$script,domain=up-4ever.com|up-4ever.org
 @@||connect.facebook.net^*/fbevents.js$domain=elinoi.com
+@@||console.statsig.com/_next/static/chunks/pages/$script,~third-party
 @@||constantcontact.com/js/WebTracking/
 @@||contacts.google.com^$generichide
 @@||content.adunity.com/aulib.js$script,domain=b1tv.ro

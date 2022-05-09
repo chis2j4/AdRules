@@ -40013,6 +40013,7 @@
 @@||cdn.plyr.io/*/plyr.svg$domain=zippyshare.com
 @@||cdn.plytv.me/scripts/embed.min.js
 @@||cdn.plytv.me/scripts/jquery.js
+@@||cdn.plyvdo.live/scripts/$script
 @@||cdn.pogo.com/*/exhibit/imasdk/ads.js
 @@||cdn.pogo.com/*/exhibit/imasdk/application.js
 @@||cdn.pogo.com/*/exhibit/imasdk/imasdk-pogo-1.0.js
@@ -41050,6 +41051,7 @@
 @@||consentmanager.mgr.consensu.org^$domain=wempe.com
 @@||consents.usercentrics.eu/consent*?controllerId=$domain=sixx.de|prosiebenmaxx.de|sat1.de|prosieben.de|kabeleins.de|sixx.de|sat1gold.de|ran.de|joyn.de|sat1.at
 @@||consistent.stream^$subdocument,stealth,domain=gostream.site
+@@||console.statsig.com/_next/static/chunks/pages/$script,~third-party
 @@||conspatriot.com^$generichide
 @@||constantcontact.com/js/WebTracking/
 @@||constantcontact.com/js/WebTracking/
@@ -57825,5 +57827,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-05-08 20:12:55
-! Total count: 57823
+! Version: 2022-05-09 08:38:53
+! Total count: 57825

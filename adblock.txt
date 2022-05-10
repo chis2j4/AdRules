@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-05-10 08:41:45（北京时间） 
-! Total count: 14554
+! Version: 2022-05-10 16:11:52（北京时间） 
+! Total count: 14558
 -960x*0.gif
 -250.js*
 
@@ -282,7 +282,7 @@ $removeparam=/[$]ja/,domain=argos.co.uk
 $removeparam=/^(ref_?)?src=/,domain=twitter.com
 $removeparam=/^CJEVENT=/i
 $removeparam=/^ICID=/i,domain=~api.mapbox.com|~microsoft.com
-$removeparam=/^OCID=/i,domain=~youtube.com
+$removeparam=/^OCID=/i,domain=~youtube.com,app=~Microsoft.Msn.News.exe
 $removeparam=/^Offers\.com/
 $removeparam=/^WT\./i
 $removeparam=/^WT_/i
@@ -2072,6 +2072,8 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 .com/ads.
 .com/adv1/?q=
 .com/gg.js
+.top/*/*-*-*-*.*?_=*
+.top/Report/*-*-*-*-*
 .userapi.com/impg^$removeparam=proxy
 .userapi.com/impg^$removeparam=type
 /(?::\/\/i1\.hoopchina\.com\.cn\/blogfile\/.+_\d{3}x\d{4})/
@@ -8054,6 +8056,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||arpg2.com^
 ||arpun.com/arpun/$script
 ||artstation.com^$removeparam=/^[0-9]/
+||as.afenx.top^
 ||as.com^$removeparam=id_externo_noti
 ||as.com^$removeparam=m1
 ||as.com^$removeparam=m2
@@ -13993,6 +13996,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ytxj.mercury.sogou.com^
 ||ytybl.com^
 ||yu.axcdt.cn^
+||yu.dlxxjsh.top^
 ||yu0123456.com^
 ||yuehesh.com^
 ||yuetutu.com/mbook_js/common.js

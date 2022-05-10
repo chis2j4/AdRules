@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-05-10 16:12:01（北京时间） 
-! Total count: 5069
+! Version: 2022-05-11 00:12:47（北京时间） 
+! Total count: 5067
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3894,7 +3894,6 @@
 @@||ad.kazakinfo.com^
 @@||ad.linksynergy.com^$image,domain=extrarebates.com
 @@||ad.ourgame.com^
-@@||ad.pr.ameba.jp/tpc/list/$xmlhttprequest
 @@||ad.smartmediarep.com/NetInsight/$domain=programs.sbs.co.kr
 @@||ad.thsi.cn/siteHome/
 @@||ad.unimhk.com/show.php?$domain=mnighthk.net
@@ -3942,7 +3941,7 @@
 @@||adnz.co/dmp/publisher.js$domain=finanzen.ch
 @@||adnz.co/header.js?adTagId=$domain=finanzen.ch
 @@||adobedtm.com/*-source.min.js$script,domain=aarp.org|atresplayer.com|backcountry.com|bt.com|cadenaser.com|churchofjesuschrist.org|dollargeneral.com|kroger.com|personal.natwest.com|telus.com|verizon.com
-@@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|kroger.com|telus.com
+@@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|hl.co.uk|kroger.com|telus.com
 @@||adobedtm.com/extensions/$script,domain=antena3.com|atresmedia.com|atresplayer.com|lasexta.com
 @@||adobedtm.com/extensions/$script,domain=apple.com|bravotv.com|cadenaser.com|foodnetwork.com|telus.com|verizon.com
 @@||adobedtm.com/launch-$script,xmlhttprequest
@@ -5547,7 +5546,6 @@
 @@||goodinfo.tw/StockInfo/image/*.png
 @@||google-analytics.com$domain=bt.com
 @@||google-analytics.com/analytics.js$domain=0mniscient.github.io
-@@||google-analytics.com/analytics.js$domain=1000.menu
 @@||google-analytics.com/analytics.js$domain=1ahaber.com
 @@||google-analytics.com/analytics.js$domain=24timezones.com
 @@||google-analytics.com/analytics.js$domain=4kdownload.com

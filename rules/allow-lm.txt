@@ -32731,6 +32731,7 @@
 @@|android.clients.google.com^$important
 @@|answers.ea.com^$important
 @@|answers.microsoft.com^$important
+@@|answers.unrealengine.com^$important
 @@|answersstaticfilecdnv2.azureedge.net^$important
 @@|anydesk.com^$important
 @@|aoe-api.reliclink.com^$important
@@ -32846,6 +32847,7 @@
 @@|appldnld.apple.com^$important
 @@|appleid.apple.com^$important
 @@|apply.service.nsw.gov.au^$important
+@@|apps.microsoft.com^$important
 @@|appsbackup-pa.clients6.google.com^$important
 @@|appsbackup-pa.googleapis.com^$important
 @@|appsforoffice.microsoft.com^$important
@@ -33556,6 +33558,7 @@
 @@|doc.opensuse.org^$important
 @@|doclone.nongnu.org^$important
 @@|docs.chocolatey.org^$important
+@@|docs.dbhub.io^$important
 @@|docs.freebsd.org^$important
 @@|docs.github.com^$important
 @@|docs.google.com^$important
@@ -33853,6 +33856,7 @@
 @@|forums.roku.com^$important
 @@|forums.sabnzbd.org^$important
 @@|forums.tripwireinteractive.com^$important
+@@|forums.unrealengine.com^$important
 @@|forums.ventoy.net^$important
 @@|forums.virtualbox.org^$important
 @@|forums.whirlpool.net.au^$important
@@ -35724,6 +35728,7 @@
 @@|watchdog.gallerycdn.vsassets.io^$important
 @@|wave.sndcdn.com^$important
 @@|wcpstatic.microsoft.com^$important
+@@|wcsprdstg.cmltd.net.au^$important
 @@|wdcp.microsoft.com^$important
 @@|wdcpalt.microsoft.com^$important
 @@|web.vortex.data.microsoft.com^$important
@@ -35749,6 +35754,8 @@
 @@|wildcard.fedoraproject.org^$important
 @@|win10.ipv6.microsoft.com^$important
 @@|winaero.com^$important
+@@|windows.com^$important
+@@|windows.microsoft.com^$important
 @@|windows.php.net^$important
 @@|windows.policies.live.net^$important
 @@|windowsterminalthemes.dev^$important
@@ -36249,6 +36256,7 @@
 @@||3dmark.com/proxycon/js/jquery.cookiesdirective.js$domain=3dmark.com
 @@||3dmodelshare.org^$generichide
 @@||3dpchip.com^$generichide
+@@||3dscias.blogspot.com^$generichide
 @@||3dsounada1.blogspot.com^$generichide
 @@||3dzip.org^$generichide
 @@||3g-aerial.biz/modules/mod_jpayday/js/advertisement.js
@@ -36481,6 +36489,7 @@
 @@||aachener-zeitung.de/*/imags
 @@||aachener-zeitung.de^$generichide
 @@||aamulehti.fi^$generichide
+@@||aaovivo.pro/index.php?u=*/playlist.m3u8$stealth
 @@||aatfal.com^$generichide
 @@||aax-eu.amazon-adsystem.com/s/yoc^$domain=youronlinechoices.com
 @@||aax-us-east.amazon-adsystem.com/x/getad?src=$domain=pipeflare.io
@@ -37916,6 +37925,7 @@
 @@||anitasrecipes.com/Content/Images/Recipes/$image,~third-party
 @@||anitoonstv.com^$generichide
 @@||anitube.*/*advert*.js
+@@||anitube.*^$generichide
 @@||anitube.cz/*advert*.js
 @@||anitube.cz^$generichide
 @@||anitube.info^$generichide
@@ -40250,6 +40260,7 @@
 @@||cdn.tagcommander.com/cmp-api/cmp.js$domain=tf1.fr
 @@||cdn.tagcommander.com/cmp-api/cmp.js$domain=tf1.fr
 @@||cdn.tagcommander.com/privacy^$domain=tf1.fr
+@@||cdn.tapioni.com/asg_embed.js$domain=lover9.net
 @@||cdn.tech426.com/prebid/*/prebid.js$domain=aternos.org
 @@||cdn.tech426.com/pub/aternos.org/*/snhb-aternos.org.min.js$domain=aternos.org
 @@||cdn.theatlantic.com/assets/static/*/js/advertisement.2.js
@@ -43840,6 +43851,7 @@
 @@||gittigidiyor.net/reklam/$image
 @@||gittigidiyor.net/reklam/$image
 @@||giveaway-club.com/includes/js/ads.js
+@@||givee.club/adsense.js$domain=givee.club
 @@||givekey.ru^$generichide
 @@||givingassistant.org/Advertisers/$~third-party
 @@||givingassistant.org/Advertisers/$~third-party
@@ -45569,6 +45581,7 @@
 @@||grfeed.com^$generichide
 @@||grimhackers.me/js/siropu/am/ads.min.js
 @@||grimoireoss-pa.clients6.google.com^$domain=source.chromium.org,stealth
+@@||grimoireoss-pa.clients6.google.com^$stealth,domain=cs.opensource.google
 @@||grinx.designboom.com/www/delivery/ajs.php?zoneid=$script
 @@||grp07.ias.rakuten.co.jp^|
 @@||grp07.ias.rakuten.co.jp^|
@@ -47393,6 +47406,8 @@
 @@||js.monitor.azure.com/scripts/$script,domain=microsoft.com
 @@||js.monitor.azure.com/scripts/*/ms.analytics-web-*.min.js$domain=mediastream.microsoft.com
 @@||js.monitor.azure.com/scripts/*/ms.analytics-web-*.min.js$domain=mediastream.microsoft.com
+@@||js.monitor.azure.com/scripts/*/ms.analytics-web-*.min.js$domain=skype.com
+@@||js.monitor.azure.com/scripts/*/ms.analytics-web-*.min.js$domain=skype.com
 @@||js.revsci.net/gateway/gw.js$domain=boston.com|calgaryherald.com|calgarysun.com|celebuzz.com|infinitiev.com|montrealgazette.com|saveur.com
 @@||js.revsci.net/gateway/gw.js?$domain=t-online.de
 @@||js.revsci.net/gateway/gw.js?$domain=t-online.de
@@ -49741,7 +49756,7 @@
 @@||nsimg.net/biopic^
 @@||nstarikov.ru^$generichide
 @@||nstnews.net^$generichide
-@@||ntcdntempv*.com/data/images/$stealth,domain=nettruyenmoi.com
+@@||ntcdntempv*.com/data/images/$stealth
 @@||nthu.edu.tw^*ad
 @@||ntou.edu.tw/bin/showads.
 @@||ntp.msn.com/edge/$stealth
@@ -54553,6 +54568,7 @@
 @@||static.surfe.pro/js/net.js$domain=btcbunch.com
 @@||static.surfe.pro/js/net.js$domain=faucetcrypto.net
 @@||static.surfe.pro/js/net.js$domain=freebitcoin.top
+@@||static.surfe.pro/js/net.js$domain=median.uno
 @@||static.teemo.gg/*/models/adsense/*.wasm
 @@||static.telegraph.co.uk/*/ads.js
 @@||static.telegraph.co.uk/telegraph-advertising/tmg-gpt.min.js$domain=telegraph.co.uk
@@ -57878,5 +57894,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-05-11 14:12:16
-! Total count: 57876
+! Version: 2022-05-11 20:15:29
+! Total count: 57892

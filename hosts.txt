@@ -2,8 +2,8 @@
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 12 Hours
-# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2022-05-11 08:12:43
-# Total count: 97706
+# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2022-05-11 16:12:24
+# Total count: 97711
 0.0.0.0 00-gov.cn
 0.0.0.0 0001.best
 0.0.0.0 000123456789.online
@@ -22548,6 +22548,7 @@
 0.0.0.0 collect.tealiumiq.com
 0.0.0.0 collect.tianya.cn
 0.0.0.0 collect.usefathom.com
+0.0.0.0 collect.ws.126.net
 0.0.0.0 collect.yinyuetai.com
 0.0.0.0 collect10791rllrc.deltadna.net
 0.0.0.0 collect10854wrdcr.deltadna.net
@@ -22596,6 +22597,7 @@
 0.0.0.0 collector.cdp.cnn.com
 0.0.0.0 collector.cint.com
 0.0.0.0 collector.clareity.net
+0.0.0.0 collector.dcdn.baidu.com
 0.0.0.0 collector.doordash.com
 0.0.0.0 collector.effectivemeasure.net
 0.0.0.0 collector.getyourguide.com
@@ -28347,6 +28349,8 @@
 0.0.0.0 dnpz123.com
 0.0.0.0 dns-clientinfo.cbsivideo.com
 0.0.0.0 dns-upload.com
+0.0.0.0 dns.jd.com
+0.0.0.0 dns.jd.com.gslb.qianxun.com
 0.0.0.0 dns.m.sm.cn
 0.0.0.0 dns.weibo.cn
 0.0.0.0 dns.ximalaya.com
@@ -59487,6 +59491,7 @@
 0.0.0.0 norentisol.com
 0.0.0.0 noretia.com
 0.0.0.0 norm0care.com
+0.0.0.0 norma-external-collect.meizu.com
 0.0.0.0 normal-strength.com
 0.0.0.0 normalseason.com
 0.0.0.0 normandydeclare.com

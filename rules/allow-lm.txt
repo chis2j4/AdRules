@@ -773,6 +773,7 @@
 @@||accounts.spiceworks.com^
 @@||accounts.spotify.com^
 @@||accounts.starbreeze.com^
+@@||accounts.thingiverse.com^
 @@||accounts.tinyprints.com^
 @@||accounts.us1.gigya.com^
 @@||accounts.wsj.com^
@@ -1164,6 +1165,7 @@
 @@||akimage.vinsolutions.com^
 @@||akismet.com^
 @@||akket.com^
+@@||akkushop.de^
 @@||akns-images.eonline.com^
 @@||ako1.us.army.mil^
 @@||ako2.us.army.mil^
@@ -3828,6 +3830,7 @@
 @@||blueair.com.cdn.cloudflare.net^
 @@||blueair.com^
 @@||bluebuffalo.com^
+@@||bluecare.express^
 @@||bluedogink.com^
 @@||bluefishtv.com^
 @@||blueforcegear.com^
@@ -4551,6 +4554,7 @@
 @@||can-am.brp.com^
 @@||can.cbs.com^
 @@||canada.ca^
+@@||canada.newark.com^
 @@||canadianlisted.com^
 @@||canadianpreparedness.com^
 @@||canadiantire.ca^
@@ -4603,6 +4607,7 @@
 @@||capterra.com^
 @@||captive.apple.com^
 @@||captive.roku.com^
+@@||captureclient.sonicwall.com^
 @@||caputomarkets.com^
 @@||capworld.com^
 @@||car-from-uk.com^
@@ -10161,6 +10166,7 @@
 @@||ewebdevelopment.com^
 @@||ewepullet.com^
 @@||ewscripps.brightspotcdn.com^
+@@||ewsoftware.blob.core.windows.net^
 @@||example.com^
 @@||example.org^
 @@||examples1.spanishdict.com^
@@ -20271,6 +20277,7 @@
 @@||ntp.barracudacentral.com^
 @@||ntp.ruckuswireless.com^
 @@||ntp.ubuntu.com^
+@@||ntp1.belbone.be^
 @@||ntp1.dlink.com^
 @@||ntppool.org^
 @@||ntv-cdn-assets.imgix.net^
@@ -25335,6 +25342,8 @@
 @@||sonicretro.org^
 @@||sonicthehedgehog.com^
 @@||sonicwall.com^
+@@||sonicwall.rightanswers.com^
+@@||sonicwall.sentinelone.net^
 @@||sonimtech.com^
 @@||sonos.com^
 @@||sonsoflibertymedia.com^
@@ -28493,6 +28502,7 @@
 @@||transparencyreport.google.com^
 @@||transwhiz.com^
 @@||trap.skype.com^
+@@||trappingtoday.com^
 @@||trapshooters.com^
 @@||traum-deutung.de^
 @@||traumaclasses.com^
@@ -30022,6 +30032,7 @@
 @@||voe.sx^
 @@||vogons.org^
 @@||vogue.com^
+@@||voicemailtranscription-pa.googleapis.com^
 @@||voices.com^
 @@||voicesonic.com^
 @@||void.gr^
@@ -39875,8 +39886,7 @@
 @@||cdn.hanime.tv/exoclick.ads*.js
 @@||cdn.honor.ru/pms/pages/adsImages/$domain=honor.ru
 @@||cdn.howtofixwindows.com/wp-content/*/better-adsmanager/js/advertising.min-*.js
-@@||cdn.hsmedia.ru/dist/marieclaire/$stealth,domain=marieclaire.ru
-@@||cdn.hsmedia.ru/dist/maxim/$stealth
+@@||cdn.hsmedia.ru/dist/$stealth,domain=maximonline.ru|woman.ru|parents.ru|vokrugsveta.ru|psychologies.ru|ellegirl.ru|wday.ru|elle.ru|marieclaire.ru
 @@||cdn.http.anno.channel4.com^$domain=channel4.com
 @@||cdn.inside-handy.de/ih/top/
 @@||cdn.inside-handy.de/ih/top/
@@ -43341,6 +43351,7 @@
 @@||fundingchoicesmessages.google.com/*/*.$domain=soranews24.com
 @@||fundingchoicesmessages.google.com/f/*=$script,domain=soranews24.com
 @@||fundingchoicesmessages.google.com/f/*=$script,domain=soranews24.com,stealth
+@@||fundingchoicesmessages.google.com/f/*=$script,domain=youpouch.com,stealth
 @@||fundingchoicesmessages.google.com^$script,domain=youpouch.com
 @@||fundingchoicesmessages.google.com^$stealth,domain=stooq.pl|stooq.com
 @@||fundingchoicesmessages.google.com^$stealth,script,domain=player.addradio.de
@@ -44756,6 +44767,8 @@
 @@||googledrivelinks.com^$generichide
 @@||googleoptimize.com/optimize.js$domain=leukerecepten.nl
 @@||googleoptimize.com/optimize.js$domain=leukerecepten.nl
+@@||googleoptimize.com/optimize.js$domain=tehnomanija.rs
+@@||googleoptimize.com/optimize.js$domain=tehnomanija.rs
 @@||googleoptimize.com/optimize.js$script,domain=inquirer.com|tentree.ca
 @@||googleoptimize.com/optimize.js$script,domain=wallapop.com
 @@||googleoptimize.com/optimize.js$script,domain=wallapop.com
@@ -54757,6 +54770,7 @@
 @@||streamsb.net/pop.js
 @@||streamtape.*/ad.js
 @@||streamtape.*^$domain=voiranime.com
+@@||streamtape.com^$subdocument
 @@||streamz.bz^$generichide
 @@||streanplay.cc^$stealth
 @@||streetviewbg.com/ads.js
@@ -57894,5 +57908,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-05-11 20:15:29
-! Total count: 57892
+! Version: 2022-05-12 08:39:56
+! Total count: 57906

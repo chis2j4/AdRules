@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-05-13 08:50:36（北京时间） 
-! Total count: 14559
+! Version: 2022-05-13 16:10:01（北京时间） 
+! Total count: 14562
 -960x*0.gif
 -250.js*
 
@@ -7942,6 +7942,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||api.poll.aiseet.atianqi.com^
 ||api.qvpublish.com^
 ||api.scelsbql.cn^
+||api.scwsf.com^
 ||api.simpleruning.cn/api/adserving^
 ||api.ttydgg.com/v1/developer/appPlanPrefetch?user_id=*&app_id=*&device_id=*&platform=*&unistr=*_model=*=Android_*&token=*&timestamp=*$app=com.biquge.ebook.app
 ||api.ttydgg.com/v1/developer^$app=com.biquge.ebook.app
@@ -12998,6 +12999,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tydouke.com^
 ||tykor.net^
 ||tylll.igame2steam.com^
+||tylll.paohao.com^
 ||tylll.zgystsd.com^
 ||tz-dsp.com^
 ||tz.yuanmengbi.com^
@@ -13302,6 +13304,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wfhxssg.com^
 ||wghjq.cn^
 ||wgnpq.com^
+||what.uebabuf.cn^
 ||whcrdz.com^
 ||whdafei.com^
 ||where.ud783c02.com^

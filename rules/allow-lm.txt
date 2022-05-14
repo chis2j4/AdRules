@@ -36739,6 +36739,7 @@
 @@||a.bf-ad.net/adengine/fff/adengine.js$domain=fitforfun.de
 @@||a.bf-ad.net/makabo/ads_fol_init.js$domain=chip.de
 @@||a.exdynsrv.com/ads.js$domain=loveheaven.net
+@@||a.exoclick.com/ad_track.js$domain=anydebrid.com,important
 @@||a.exoclick.com/ads.js$domain=anydebrid.com
 @@||a.exosrv.com/ads.js$domain=javtiful.com
 @@||a.exosrv.com/video-slider.js$domain=xfreehd.com
@@ -37908,6 +37909,7 @@
 @@||amazon-adsystem.com/aax2/apstag.js$domain=macworld.co.uk
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=abola.pt|gamestar.de|los40.com
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=abola.pt|gamestar.de|los40.com
+@@||amazon-adsystem.com/aax2/apstag.js$script,domain=maxisciences.com|gentside.*|ohmymag.*
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=programme-tv.net
 @@||amazon-adsystem.com/e/cm?$document,subdocument,domain=affiliate-program.amazon.co.uk|affiliate-program.amazon.com|affiliate-program.amazon.in|affiliate.amazon.co.jp|afiliados.amazon.es|associados.amazon.com.br|associates.amazon.ca|associates.amazon.cn|partenaires.amazon.fr|partnernet.amazon.de|programma-affiliazione.amazon.it
 @@||amazon-adsystem.com/e/cm?$document,subdocument,domain=affiliate-program.amazon.co.uk|affiliate-program.amazon.com|affiliate-program.amazon.in|affiliate.amazon.co.jp|afiliados.amazon.es|associados.amazon.com.br|associates.amazon.ca|associates.amazon.cn|partenaires.amazon.fr|partnernet.amazon.de|programma-affiliazione.amazon.it
@@ -39590,6 +39592,8 @@
 @@||btgigs.info/index.php$generichide
 @@||btloader.com/tag?$domain=programme-tv.net
 @@||btloader.com/tag?$domain=programme-tv.net
+@@||btloader.com/tag?h=prismamedia-com&upapi=true$script,domain=maxisciences.com|gentside.*|ohmymag.*
+@@||btloader.com/tag?h=prismamedia-com&upapi=true$script,domain=maxisciences.com|gentside.*|ohmymag.*
 @@||btsax.info^$generichide
 @@||btstatic.com/tag.js$domain=oralb.de
 @@||btstatic.com/tag.js$domain=oralb.de
@@ -41127,6 +41131,7 @@
 @@||cmp.optad360.io/items/*.min.js$domain=linksht.com
 @@||cmp.optad360.io/items/*.min.js?_=$domain=linkneverdie.net
 @@||cmp.tech426.com/latest/sncmp.min.js$domain=aternos.org
+@@||cmpv2.berliner-zeitung.de/mms/
 @@||cms.gentwo.com/pulses/$~third-party,xmlhttprequest
 @@||cmt.dcnewsj.joins.com//web//reply.css$domain=dcnewsj.joins.com
 @@||cmzap.ru/netcat_files/*/300x250/$image
@@ -45430,6 +45435,8 @@
 @@||googletagmanager.com/gtm.js$domain=mangaseek.net
 @@||googletagmanager.com/gtm.js$domain=matsukiyo.co.jp
 @@||googletagmanager.com/gtm.js$domain=matsukiyo.co.jp
+@@||googletagmanager.com/gtm.js$domain=maxisciences.com|gentside.*|ohmymag.*
+@@||googletagmanager.com/gtm.js$domain=maxisciences.com|gentside.*|ohmymag.*
 @@||googletagmanager.com/gtm.js$domain=mediamarkt.be|mediamarkt.ch
 @@||googletagmanager.com/gtm.js$domain=mediamarkt.be|mediamarkt.ch
 @@||googletagmanager.com/gtm.js$domain=mediamarkt.com.tr
@@ -47693,6 +47700,8 @@
 @@||js-sec.indexww.com/ht/p/*.js$domain=macworld.co.uk
 @@||js-sec.indexww.com/ht/p/*.js$domain=programme-tv.net
 @@||js-sec.indexww.com/htv/bell.js$domain=envedette.ca
+@@||js-sec.indexww.com^$script,domain=maxisciences.com|gentside.*|ohmymag.*
+@@||js-sec.indexww.com^$script,domain=maxisciences.com|gentside.*|ohmymag.*
 @@||js.ad-stir.com/js/adstir.js$domain=h-ken.net
 @@||js.ad-stir.com/js/adstir_magnify.js$domain=h-ken.net
 @@||js.adscale.de/getads.js:adscale_slot_id/$domain=dasolo.org
@@ -52890,6 +52899,7 @@
 @@||rojadirecta.me^$generichide
 @@||roland-gazeta.pl^$generichide
 @@||roleplayer.me/adframe_
+@@||rollbar.com^*/rollbar.min.js$domain=rollingstone.com|variety.com|wwd.com
 @@||rollingstone.de/resources/js/webtrekk.js
 @@||rollingstone.de/resources/js/webtrekk.js
 @@||rollingstone.de^$generichide
@@ -54065,6 +54075,7 @@
 @@||signalshares.com/webtrends.min.js$script,~third-party
 @@||signalstart.com/assets/global/plugins/cookieconsent/cookieconsent.min.js
 @@||significatocanzoni.it^$generichide
+@@||signin.aws.amazon.com/signin^$stealth
 @@||signin.verizon.com^*/affiliate/$subdocument,xmlhttprequest
 @@||signin.verizon.com^*/affiliate/$subdocument,xmlhttprequest
 @@||signs.pl/_css/adserver.css
@@ -56007,6 +56018,7 @@
 @@||tra.scds.pmdstatic.net/advertising-core-libs/*/prebid.js$domain=cuisineactuelle.fr
 @@||tra.scds.pmdstatic.net/advertising-core/$domain=voici.fr
 @@||tra.scds.pmdstatic.net/advertising-core/$domain=voici.fr
+@@||tra.scds.pmdstatic.net/advertising-core/$script,domain=maxisciences.com|gentside.*|ohmymag.*
 @@||tra.scds.pmdstatic.net/advertising-core/*/core-ads.js$domain=gala.fr
 @@||tra.scds.pmdstatic.net/advertising-core/*/core-ads.js$domain=programme-tv.net
 @@||tra.scds.pmdstatic.net/advertising-core/*/prisma-prebid-plugin.js$domain=gala.fr
@@ -58231,5 +58243,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-05-14 14:28:35
-! Total count: 58229
+! Version: 2022-05-14 20:15:02
+! Total count: 58241

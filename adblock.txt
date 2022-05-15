@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-05-15 08:53:48（北京时间） 
-! Total count: 14568
+! Version: 2022-05-15 16:10:56（北京时间） 
+! Total count: 14594
 -960x*0.gif
 -250.js*
 
@@ -8972,6 +8972,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||csg99.com/17mb/script/vcnhitro.js
 ||cshlgg.com^
 ||csi.gstatic.com^
+||cslpf.cn^
 ||cstm.baidu.com^
 ||ctfile.com/mydisplay.php?
 ||ctivity.tuigorilla.com^
@@ -9252,11 +9253,13 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dsp-x.jd.com^
 ||dsp.brand.sogo.com^
 ||dsp.com^
+||dsqzk.cn^
 ||dstckjk.kinleung.cn^
 ||dsxdn.com^
 ||dsxgg.com^
 ||dtrcw.cc^
 ||dtscout.com^
+||dtsxn.cn^
 ||duapp.com^$domain=sexcar.cn
 ||dulewang.com^
 ||duoduo.net^
@@ -9284,6 +9287,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dxwpedu.me^
 ||dy2018.com/e/public/ViewClick/?classid=
 ||dybz*/js/html*.js
+||dycwt.cn^
 ||dyhs52.com^$third-party
 ||dykeep.com^
 ||dyncdn.me/static/20/js/expla
@@ -9341,7 +9345,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||edu-yuedu.bdimg.com/v1/aiting^$app=com.baidu.yuedu
 ||edu.51cto.com/js/edu-ad.js
 ||eduancm.com^
-||ee.$third-party
 ||ee035.cn^
 ||eeeqi.cn^
 ||eew2ss.kbneks00.online^
@@ -9504,6 +9507,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fg.yilianqing.com^
 ||fg.zgnajue.com^
 ||fgi90.com^
+||fgn.nphqw.cn^
 ||fhoa365.com^
 ||fhsmtrnsfnt.com^
 ||fi.bjxgw.top^
@@ -9696,6 +9700,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gma1.com^
 ||gmbuluo.com/js/
 ||gnmbd.top^
+||gnqxd.cn^
 ||go.skimresources.com^$removeparam=xcreo
 ||go.skimresources.com^$removeparam=xed
 ||go.sohu.com^
@@ -9750,6 +9755,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||growthpic.weishi.qq.com^
 ||gs307.com^
 ||gsjlfs.com^
+||gsnlc.cn^
 ||gt1n.com^
 ||gtags.net^
 ||gtimg.cn/*_ad^
@@ -9769,6 +9775,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gushifanyi.com^$third-party
 ||gw.d.ywopt.com^
 ||gw.m.163.com/nc-main/api/v1/hqc/no-repeat-hot-list
+||gxbnp.cn^
 ||gxdmxx.com^
 ||gxe.husky.sogou.com^
 ||gxfc.bfacai.top^
@@ -9782,6 +9789,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gzili.com^
 ||gzmzts.com^$third-party
 ||gzpinda.com^
+||gzqvd.cn^
 ||gzsanxiaomingshi.cn^
 ||gzzbb.net^
 ||gzzuwo.com^
@@ -9845,6 +9853,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hdbaichuan.cn^
 ||hdpbr.yahekby.cn^
 ||hdslb.com/*-tracker.js
+||hdvkl.cn^
 ||hdzb6.cc^
 ||hechaocheng.cn^
 ||hefan365.com^
@@ -9873,6 +9882,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hf.itxinrou.com^
 ||hf.shenfagg.com^
 ||hfawdgz.cn^
+||hfctx.cn^
 ||hfhfkc.xyz^
 ||hfrxs.com/js/hf$script
 ||hg5858.net^
@@ -10021,6 +10031,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hyperpromote.com^
 ||hypertrackeraff.com^$third-party
 ||hysdknb.com^
+||hytzp.cn^
 ||hyzb87.cc^
 ||hz.hzhongjianfund.com^
 ||hzbrcajp.cn^
@@ -10287,6 +10298,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||j.mmtu.top^
 ||j.sdqoi2d.com^
 ||j.sun66387567606.online^
+||j.sun66387567606.site^
 ||j.uu-xs.net^
 ||j.wesat.cn^
 ||j.wit.qq.com^
@@ -10659,6 +10671,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||krt.zhengxiaoliu.top^
 ||krw.yrehdfer.com^
 ||kry.jknrwe.cn^
+||kry.ztshg.cn^
 ||ks.yhz18.com^
 ||ks66666661.com^
 ||kstj.baidu.com^
@@ -10887,6 +10900,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lopostone.com^
 ||loupan99.com^
 ||lpjxzs.com^
+||lpmzt.cn^
 ||lpqhkj.cn^
 ||lpsxssm.com^
 ||lrevfhmp.cn^
@@ -11498,6 +11512,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nex.163.com/q?
 ||nex.163.com^
 ||nexage.com^
+||nflks.cn^
 ||nfmovies.com/pic/tu/a191124001.$rewrite=abp-resource:1x1-transparent-gif,~third-party
 ||nfmovies.com/pic/tu^
 ||nfmovies.com/playg$empty
@@ -11506,7 +11521,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nga.cn/common_res/js_dscommon.js^
 ||ngacn.cc/common_res/js_dscommon.js^
 ||ngacn.cc/proxy/cache_attach/ds_list.js
+||nghdp.cn^
 ||nhentai.com/images/offers/ga/desktop/
+||nhjsw.cn^
+||nhscv.cn^
 ||niaideren.icu^
 ||nicearticle.cc^
 ||nihaovcd.com/js/neirong
@@ -11782,6 +11800,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pee.cn^
 ||pepsico.com.cn^
 ||percent.pfiparts.com^
+||pflrv.cn^
 ||pg-ad-b1.ws.126.net^
 ||pgdt.gtimg.cn^
 ||pghwwjd.com^
@@ -11921,6 +11940,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pt6v.cn^
 ||ptauxofi.net^
 ||ptfish.com/08html/ggf/cptdgg.html$document
+||ptgdb.cn^
 ||pthejzb.com^
 ||pub.mop.com/show_script.jsp
 ||pubfuture.com^$third-party
@@ -12882,11 +12902,13 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tkmdng.cn^
 ||tkqlhce.com^$removeparam=sdate
 ||tlcs666.com^
+||tlsgq.cn^
 ||tlvmedia.com^
 ||tmdn2015x9.com^
 ||tmead.y.qq.com^
 ||tmuseum.com.cn^
 ||tnarzc.com^
+||tnjvz.cn^
 ||to.redircdn.com/web/post.js
 ||tobapplog.ctobsnssdk.com^
 ||toblog.ctobsnssdk.com^
@@ -12919,6 +12941,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||toutiao.xn--fiqs8s^
 ||touxiang.la/js/book.js
 ||tp.nty.tv189.com//bmsimg/*.jpg$domain=h5.nty.tv189.com,app=com.telecom.video
+||tqmcj.cn^
 ||tr.jianshu.com^
 ||tr.thallus.net^
 ||tr.xiaosunxin.cn^
@@ -12949,6 +12972,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||trendyol.com^$removeparam=/^tyutm_/
 ||tribalfusion.com^
 ||trk-cdpetl.emdlz.com.cn^
+||trslw.cn^
 ||trustutn.org^
 ||ts.market.mi-img.com/thumbnail/gif/*/MusicServer^
 ||ts6.net^
@@ -12998,6 +13022,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||twjxmd.com^
 ||twrank.com^
 ||tx.sunriseoutdoor.cn^
+||txscn.cn^
 ||txshuku.com/js/
 ||ty.lizehuandian.top^
 ||ty.szhszxfw.cn^
@@ -13456,6 +13481,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.bturl.biz/static/js/sads.js
 ||www.bumimi.com/member/index/mini/
 ||www.chudaili.com/201324.png$image
+||www.chunaisese12.com^
 ||www.ckplayer.tv/ccdao.js
 ||www.claiks.com^
 ||www.coolapk.com/feed/$removeparam=shareUid|shareFrom

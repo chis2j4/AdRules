@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-05-15 00:10:35（北京时间） 
-! Total count: 14562
+! Version: 2022-05-15 08:53:48（北京时间） 
+! Total count: 14568
 -960x*0.gif
 -250.js*
 
@@ -532,6 +532,7 @@ $removeparam=__source,domain=cnbc.com
 $removeparam=__tn__,domain=facebook.com
 $removeparam=__twitter_impression
 $removeparam=__twitter_impression,domain=nypost.com
+$removeparam=__vfz,domain=venturebeat.com
 $removeparam=_amp,domain=latimes.com
 $removeparam=_blrs
 $removeparam=_branch_match_id
@@ -2768,6 +2769,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 @@||sohu.com/cityjson$domain=114shouji.com|51credit.com|dilidili.one|jdboshi.com|jialingmm.net|lcm88.com|mop.com|shouji.com.cn|skk.moe|yxdm.tv
 @@||speedtest.net^
 @@||sso.serverplan.com/manage2fa/check?ref=$removeparam
+@@||startpage.com/suggestions$removeparam=segment
 @@||stat.pc.music.qq.com/fcgi-bin/player_
 @@||stat.v-56.com/player
 @@||stripe.com/*?*referrer=$removeparam
@@ -7851,7 +7853,11 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||amazon.*/s?$removeparam=spIA
 ||amazon.*/s?$removeparam=sprefix
 ||amazon.*/s?$removeparam=th
+||amazon.*^$removeparam=channel
+||amazon.*^$removeparam=maas
 ||amazon.*^$removeparam=orig
+||amazon.*^$removeparam=tag
+||amazon.*^$removeparam=visitId
 ||amdc.m.taobao.com/amdc^$app=com.huawei.hwvplayer.youku
 ||amdc.m.taobao.com^
 ||amdcopen.m.taobao.com/amdc^$app=com.xunlei.downloadprovider

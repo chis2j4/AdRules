@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-05-15 00:10:45（北京时间） 
-! Total count: 5084
+! Version: 2022-05-15 08:53:55（北京时间） 
+! Total count: 5086
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -6281,6 +6281,7 @@
 @@||hanjuwang.com^$script,~third-party
 @@||hanjuwang.net^$script,~third-party
 @@||hao123img.com/resource/zt/widget/service/util/clickTrack.
+@@||haokoubei.top/jquery/jquery-1.7.2.min.js
 @@||haoweichi.com/Public/js/ads.js
 @@||harvard.edu/scripts/ga_social_tracking.js
 @@||hatenacorp.jp/_next/static/chunks/pages/ads-$script,~third-party
@@ -7390,6 +7391,7 @@
 @@||pv.sohu.com/cityjson$domain=bulletin.cebpubservice.com
 @@||pv.sohu.com/suv/
 @@||pvtag.yahoo.co.jp^$script,domain=paypayfleamarket.yahoo.co.jp
+@@||pvtag.yahoo.co.jp^$script,domain=paypaymall.yahoo.co.jp
 @@||px-cdn.net/api/v2/collector/ocaptcha$xmlhttprequest
 @@||q-examiner.online/api/Ping?
 @@||qbox.me/static/js/ads.js$domain=linux.cn

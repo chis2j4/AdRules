@@ -46059,6 +46059,7 @@
 @@||hanjuwang.com^$script,~third-party
 @@||hanjuwang.net^$script,~third-party
 @@||hao123img.com/resource/zt/widget/service/util/clickTrack.
+@@||haokoubei.top/jquery/jquery-1.7.2.min.js
 @@||haoweichi.com/Public/js/ads.js
 @@||happy-hack.ru/*.js
 @@||happy2hub.me^$generichide
@@ -52137,6 +52138,8 @@
 @@||pos.baidu.com^$script,domain=rjno1.com
 @@||post4earn.com/js/advertisement.js
 @@||postandcourier.com^$generichide
+@@||postclickmarketing.com^$domain=adtspecials.com|befinanciallyfit.com|cursodemedicina.com.br|demandmetric.com|hootsuite.com|semipresencial.com.br|systemsprotect.com
+@@||postclickmarketing.com^$domain=adtspecials.com|befinanciallyfit.com|cursodemedicina.com.br|demandmetric.com|hootsuite.com|semipresencial.com.br|systemsprotect.com
 @@||postex.com/api/ping?$~third-party
 @@||postfiles*.naver.net^$stealth
 @@||postila.ru/js/libs/blockadblock.js
@@ -52437,6 +52440,8 @@
 @@||pvpru.com$generichide
 @@||pvtag.yahoo.co.jp^$script,domain=paypayfleamarket.yahoo.co.jp
 @@||pvtag.yahoo.co.jp^$script,domain=paypayfleamarket.yahoo.co.jp
+@@||pvtag.yahoo.co.jp^$script,domain=paypaymall.yahoo.co.jp
+@@||pvtag.yahoo.co.jp^$script,domain=paypaymall.yahoo.co.jp
 @@||pwapi.washingtonpost.com/*&__amp_source_origin
 @@||pwcats.info/advert.js
 @@||px-cdn.net/api/v2/collector/ocaptcha$xmlhttprequest
@@ -58243,5 +58248,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-05-14 20:15:02
-! Total count: 58241
+! Version: 2022-05-15 08:48:35
+! Total count: 58246

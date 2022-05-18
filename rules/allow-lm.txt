@@ -37590,7 +37590,7 @@
 @@||adservice.google.com/adsid/integrator.js$domain=next-episode.net
 @@||adservice.google.com/adsid/integrator.js$domain=ondemandkorea.com
 @@||adservice.google.com/adsid/integrator.js$domain=ultimateclassicrock.com
-@@||adservice.google.com/adsid/integrator.js$domain=vuzlit.ru
+@@||adservice.google.com/adsid/integrator.js$domain=vuzlit.ru|studwood.net|bstudy.net
 @@||adservice.google.com/adsid/integrator.js$domain=wetteronline.de
 @@||adservice.google.com/adsid/integrator.js?domain=www.cbs.com$domain=cbs.com
 @@||adservice.google.com/favicon.ico$domain=bittools.net
@@ -38747,6 +38747,7 @@
 @@||armyranger.com^$generichide
 @@||arnett-frz.ml/popads.js
 @@||arnhemland-safaris.com/images/made/$image,~third-party
+@@||arnolds.com.br^$stealth
 @@||arquitecturaydiseno.es^$generichide
 @@||arrowos.net/js/blockAdBlock.js
 @@||arrowos.net^$generichide
@@ -40615,6 +40616,7 @@
 @@||cdn.stroeerdigitalgroup.de/metatag/live/bauer-tvmovie/metaTag.min.js$domain=tv14.de
 @@||cdn.stroeerdigitalgroup.de/metatag/live/bauer-tvmovie/metaTag.min.js$domain=tvmovie.de
 @@||cdn.stroeerdigitalgroup.de/metatag/live/bauer-tvmovie/metaTag.min.js$domain=tvmovie.de
+@@||cdn.stroeerdigitalgroup.de/metatag/live/mps_caravaning_relaunch/metaTag.min.js$domain=caravaning.de
 @@||cdn.stroeerdigitalgroup.de/metatag/live/mps_womenshealth/metaTag.min.js$domain=womenshealth.de
 @@||cdn.stroeerdigitalgroup.de/metatag/live/mps_womenshealth/metaTag.min.js$domain=womenshealth.de
 @@||cdn.syndication.twimg.com/tweets.json
@@ -40655,6 +40657,7 @@
 @@||cdn.tech426.com/prebid/*/prebid.js$domain=aternos.org
 @@||cdn.tech426.com/pub/aternos.org/*/snhb-aternos.org.min.js$domain=aternos.org
 @@||cdn.theatlantic.com/assets/static/*/js/advertisement.2.js
+@@||cdn.thisiswaldo.com/static/js/*.js$domain=techydino.net
 @@||cdn.threadsphere.bid/static/js/b64.js
 @@||cdn.threadsphere.bid/static/js/view102b.js
 @@||cdn.tnmedia.co/assets/fuckadblock.js$domain=123moviestube.io|gomovies.cd
@@ -51891,6 +51894,7 @@
 @@||platform-eu.cloud.coveo.com^$stealth,domain=fiskars.com
 @@||platform-modules.sgweb.softgames.de/ads/p2-ads-client.js$domain=games.softgames.com
 @@||platform-modules.sgweb.softgames.de/ads/p2-ads-client.js$domain=games.softgames.com
+@@||platform.foremedia.net/code/*/analytics$domain=techydino.net
 @@||platform.linkedin.com/in.js$domain=malaysianwireless.com
 @@||platform.linkedin.com/in.js$domain=youngliving.com
 @@||platform.twitter.com/$domain=discovery.com
@@ -51955,7 +51959,7 @@
 @@||player.9c9media.com^*/advertisement.js?$script,third-party
 @@||player.9cartoon.me/static/ads.js^
 @@||player.adcdn.tv^$stealth
-@@||player.adtcdn.com/prebidlink/*/hb_*.js$domain=vuzlit.ru
+@@||player.adtcdn.com/prebidlink/*/hb_*.js$domain=vuzlit.ru|studwood.net|bstudy.net
 @@||player.adtelligent.com/prebid/wrapper_*.js|$domain=1plus1.video
 @@||player.adtelligent.com/static/player.core.$domain=changeua.com|vringe.com
 @@||player.akubebas.com/?$stealth
@@ -53815,9 +53819,10 @@
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$script,domain=dropgalaxy.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_108.js^$domain=pocketnow.com
 @@||securepubads.g.doubleclick.net/pagead/js/rum.js$domain=math.semestr.ru
+@@||securepubads.g.doubleclick.net/pagead/js/rum.js$domain=vuzlit.ru|studwood.net|bstudy.net
 @@||securepubads.g.doubleclick.net/pagead/ppub_config$domain=downdetector.in
 @@||securepubads.g.doubleclick.net/pagead/ppub_config$domain=rbc.ru
-@@||securepubads.g.doubleclick.net/pagead/ppub_config$domain=vuzlit.ru
+@@||securepubads.g.doubleclick.net/pagead/ppub_config$domain=vuzlit.ru|studwood.net|bstudy.net
 @@||securepubads.g.doubleclick.net/pagead/ppub_config$xmlhttprequest,domain=studref.com
 @@||securepubads.g.doubleclick.net/pagead/ppub_config?$domain=bloomberg.com
 @@||securepubads.g.doubleclick.net/pagead/ppub_config?$domain=purepeople.com
@@ -55011,6 +55016,7 @@
 @@||static.surfe.pro/js/net.js$domain=freebitcoin.top
 @@||static.surfe.pro/js/net.js$domain=freesolana.top
 @@||static.surfe.pro/js/net.js$domain=median.uno
+@@||static.surfe.pro/js/net.js$domain=techydino.net
 @@||static.teemo.gg/*/models/adsense/*.wasm
 @@||static.telegraph.co.uk/*/ads.js
 @@||static.telegraph.co.uk/telegraph-advertising/tmg-gpt.min.js$domain=telegraph.co.uk
@@ -58344,5 +58350,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-05-17 20:16:09
-! Total count: 58342
+! Version: 2022-05-18 08:33:47
+! Total count: 58348

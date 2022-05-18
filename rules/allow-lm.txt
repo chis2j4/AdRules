@@ -38179,7 +38179,6 @@
 @@||android1.net/*.apk^$stealth
 @@||android4ar.com/wp-content/themes/style/assets/js/advertisement.js
 @@||androidaba.com^$generichide
-@@||androidacy.com^$generichide
 @@||androidauthority.net/wp-content/uploads/*-300x600.$image,domain=androidauthority.com
 @@||androidcentral.com/content/$domain=androidcentral.com,xmlhttprequest
 @@||androidcentral.com/sites/all/libraries/adblockdetection/adblockDetector.min.js
@@ -40333,7 +40332,7 @@
 @@||cdn.jsdelivr.net/npm/videojs-contrib-ads/dist/videojs.ads.min.js$domain=yandexcdn.com
 @@||cdn.jsdelivr.net/npm/videojs-contrib-ads@*/videojs.ads.css$domain=obozrevatel.com
 @@||cdn.jsdelivr.net/npm/videojs-contrib-ads@*/videojs.ads.min.js$domain=obozrevatel.com
-@@||cdn.jsdelivr.net^$script,domain=yemancomic.com
+@@||cdn.jsdelivr.net^$script,domain=xiaoxiangxs.com|yemancomic.com
 @@||cdn.jsdelivr.net^$script,stylesheet,domain=7-up.net|dailysport.pw|databasegdriveplayer.co|eplstream.xyz|espn-live.stream|evoload.io|extratorrent.si|hentai-paradise.fr|jetload.net|lelmanga.com|stream4free.live|streamcdn.to|streaming-french.com|telerium.digital|teleriumtv.com|theproxy.how|videobin.co|voirfilms.al|voirfilms.bz|voirfilms.live|voirseries.io|waaw.tv|waaw1.tv
 @@||cdn.jsdelivr.net^*/fp.min.js$script,domain=cuevana2.io
 @@||cdn.jwplayer.com/libraries/$script,domain=filmstreaming-vf.online|movcloud.net
@@ -46381,6 +46380,8 @@
 @@||history.com^$generichide,badfilter
 @@||hit.gemius.pl/*.js$domain=metabro.hu
 @@||hit.gemius.pl/__/redataredir?$domain=ing.pl
+@@||hit.gemius.pl/gplayer.js$domain=vod.tvp.pl
+@@||hit.gemius.pl/gstream.js$domain=vod.tvp.pl
 @@||hit.gemius.pl/xlgemius.js$script,domain=ojogo.pt
 @@||hit.gemius.pl^$app=pl.allegro
 @@||hit.interia.pl/iwa_core$script,~third-party
@@ -47120,7 +47121,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vmf.edge-apps.net|americatv.com.ar
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vod.mbcsportsplus.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vod.pl
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=voe-unblock.com|voe.bar|voe.sx
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=voe-unblock.*|voe.bar|voe.sx
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=voicetv.co.th
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=voircomplet.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vvvvid.it
@@ -49966,6 +49967,7 @@
 @@||netatmo.commander1.com^|
 @@||netavenir.com^$domain=zap-tele.com
 @@||netbk.co.jp^$jsinject
+@@||netcine.ch^$generichide
 @@||netcine.io^$generichide
 @@||netd.com/js/piwik-plugin.js
 @@||netd.com/js/piwik-plugin.js
@@ -50930,6 +50932,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=elfqrin.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=elquintobeatle.com|empregoestagios.com|satcesc.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=elsfile.org
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=embedo.co
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=emucr.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=emurom.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=epicbundle.com
@@ -54439,6 +54442,7 @@
 @@||socks24.org^$generichide
 @@||socksproxylist24.blogspot.com^$generichide
 @@||socksproxylist24.blogspot.de^$generichide
+@@||soester-anzeiger.de^$generichide
 @@||sofiotheque.info^$generichide
 @@||soft4win.com^$generichide
 @@||soft98.ir^$generichide
@@ -55120,6 +55124,7 @@
 @@||steamcn.com/source/plugin/steamcn_gift/template/images/*steam.png
 @@||steamcustomizer.com/cache/skin/ad/$image
 @@||steamid.uk^$generichide
+@@||steampiay.cc^$stealth
 @@||stefaniescott.org^$generichide
 @@||stem-cells-news.com^$generichide
 @@||stemplay.*^$stealth
@@ -58350,5 +58355,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-05-18 14:12:10
-! Total count: 58348
+! Version: 2022-05-18 20:15:34
+! Total count: 58353

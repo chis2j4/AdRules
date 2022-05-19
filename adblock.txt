@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-05-19 16:11:23（北京时间） 
+! Version: 2022-05-20 00:29:15（北京时间） 
 ! Total count: 14321
 -960x*0.gif
 -250.js*
@@ -1555,7 +1555,7 @@ $removeparam=referral_code,domain=facebook.com
 $removeparam=referral_story_type,domain=facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|messenger.com
 $removeparam=referral_story_type,domain=facebook.com
 $removeparam=referrer,domain=media-cdn.costco.ca|media-cdn.costco.com
-$removeparam=referrer,domain=~f4map.com|~deviantart.com|~github.com
+$removeparam=referrer,domain=~f4map.com|~deviantart.com|~github.com|~discover.*
 $removeparam=referrer_code,domain=hodlhodl.com
 $removeparam=referrer_domain,domain=reddit.app.link
 $removeparam=referrer_url,domain=reddit.app.link

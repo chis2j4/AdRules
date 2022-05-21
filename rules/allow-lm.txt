@@ -6016,6 +6016,7 @@
 @@||chkv.trendmicro.com^
 @@||chministries.org^
 @@||chng.it^
+@@||chobani.com^
 @@||chocolatey.org^
 @@||choiceammunition.com^
 @@||choiceclips.whatfinger.com^
@@ -6649,6 +6650,7 @@
 @@||combinedsystems.com^
 @@||combo.staticflickr.com^
 @@||combofix.org^
+@@||comedy.com^
 @@||comedycentral.com^
 @@||comenity.net^
 @@||comeuntochrist.org^
@@ -15470,6 +15472,7 @@
 @@||imgs.6sqft.com^
 @@||imgs.callofduty.com^
 @@||imgs.chip.de^
+@@||imgs.comedy.com^
 @@||imgs.fontbrain.com^
 @@||imgs.gotrip.hk^
 @@||imgs.hcaptcha.com^
@@ -18690,6 +18693,7 @@
 @@||metacafe.com^
 @@||metacritic.com^
 @@||metadata-static.plex.tv^
+@@||metadata.provider.plex.tv^
 @@||metadata.templates.cdn.office.net^
 @@||metadata2go.com^
 @@||metafilter.com^
@@ -22089,6 +22093,7 @@
 @@||play.lego.com^
 @@||play.lwcdn.com^
 @@||play.maxgo.com^
+@@||play.provider.plex.tv^
 @@||play.snake97.com^
 @@||play.spotify.com^
 @@||play.spotify.edgekey.net^
@@ -32873,7 +32878,6 @@
 @@u-ads.adap.tv*youku.$domain=youku.com
 @@weather.gov/xml/$document
 @@www.any.gs$urlblock
-@@|*-*-*-*.brokendnssec.net^$important
 @@|*-*-stor*.uploaded.net^$important
 @@|*-cdn.eporner.com^$important
 @@|*-ebgames.eb-cdn.com.au^$important
@@ -34069,6 +34073,7 @@
 @@|ebay.com.au^$important
 @@|ebgames.com.au^$important
 @@|ebill.sydneywater.com.au^$important
+@@|ecommerceintegration-public-service-ecomprod02.ol.epicgames.com^$important
 @@|economy.svc.halowaypoint.com^$important
 @@|edge.activity.windows.com ^$important
 @@|edge.activity.windows.com^$important
@@ -34271,6 +34276,7 @@
 @@|forums.plex.tv^$important
 @@|forums.roku.com^$important
 @@|forums.sabnzbd.org^$important
+@@|forums.tomsguide.com^$important
 @@|forums.tripwireinteractive.com^$important
 @@|forums.unrealengine.com^$important
 @@|forums.ventoy.net^$important
@@ -36233,6 +36239,7 @@
 @@|www.androidcentral.com^$important
 @@|www.anydesk.com^$important
 @@|www.apkmirror.com^$important
+@@|www.asus.com^$important
 @@|www.autohotkey.com^$important
 @@|www.base64decode.org^$important
 @@|www.bcuninstaller.com^$important
@@ -58428,5 +58435,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-05-21 08:37:06
-! Total count: 58426
+! Version: 2022-05-21 14:11:05
+! Total count: 58433

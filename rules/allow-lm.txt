@@ -32878,6 +32878,7 @@
 @@u-ads.adap.tv*youku.$domain=youku.com
 @@weather.gov/xml/$document
 @@www.any.gs$urlblock
+@@|*-*-*-*.brokendnssec.net^$important
 @@|*-*-stor*.uploaded.net^$important
 @@|*-cdn.eporner.com^$important
 @@|*-ebgames.eb-cdn.com.au^$important
@@ -58436,5 +58437,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-05-21 20:13:30
-! Total count: 58434
+! Version: 2022-05-22 08:39:26
+! Total count: 58435

@@ -721,6 +721,7 @@
 @@||account.redbull.com^
 @@||account.samsung.com^
 @@||account.services.gearboxsoftware.com^
+@@||account.shodan.io^
 @@||account.speedtestcustom.com^
 @@||account.thequestionsnetwork.org^
 @@||account.thetimes.co.uk^
@@ -1220,6 +1221,7 @@
 @@||alexrider.com^
 @@||alfa.com.tw^
 @@||alfintechcomputer.com^
+@@||alfred.camera^
 @@||algdefense.com^
 @@||algerie-francaise.org^
 @@||algolia.com^
@@ -4290,6 +4292,7 @@
 @@||burrisoptics.com^
 @@||bursadabugun.com^
 @@||bus.hkbu.edu.hk^
+@@||bushnell.com.cdn.cloudflare.net^
 @@||bushnell.com^
 @@||business.att.com^
 @@||business.com^
@@ -8395,6 +8398,7 @@
 @@||developer.nvidia.com^
 @@||developer.paypal.com^
 @@||developer.roku.com^
+@@||developer.shodan.io^
 @@||developer.spotify.com^
 @@||developer.thunderbird.net^
 @@||developer.twitter.com^
@@ -8889,6 +8893,7 @@
 @@||dockers.com^
 @@||docrdsfx76ssb.cloudfront.net^
 @@||docs.abuseipdb.com^
+@@||docs.alfa.com.tw^
 @@||docs.appdynamics.com^
 @@||docs.aws.amazon.com^
 @@||docs.bugsnag.com^
@@ -9965,6 +9970,7 @@
 @@||ent.qingdaonews.com^
 @@||entcolumbia.org^
 @@||enterprise.dji.com^
+@@||enterprise.shodan.io^
 @@||enterprisecarsales.com^
 @@||entertainment.howstuffworks.com^
 @@||entertainmentearth.com^
@@ -11887,6 +11893,7 @@
 @@||garysguns.com^
 @@||garysgunshop.com^
 @@||garysradios.com^
+@@||gasbuddy.com.cdn.cloudflare.net^
 @@||gasbuddy.com^
 @@||gastatic.com^
 @@||gatdaily.com^
@@ -14776,6 +14783,7 @@
 @@||images.scanalert.com^
 @@||images.scrippsnetworks.com^
 @@||images.sftcdn.net^
+@@||images.shodan.io^
 @@||images.shopko.com^
 @@||images.sidearmsports.com^
 @@||images.sk-static.com^
@@ -16836,6 +16844,7 @@
 @@||landegentsappliance.com^
 @@||landolakesinc.com^
 @@||landsend.com^
+@@||lane201.com^
 @@||lanebryant.com^
 @@||laneprecisionrifles.com^
 @@||lankks.com^
@@ -17964,6 +17973,7 @@
 @@||maps.gstatic.com^
 @@||maps.gunsamerica.com^
 @@||maps.journeynorth.org^
+@@||maps.shodan.io^
 @@||maps.velocityweather.com^
 @@||maps.wikimedia.org^
 @@||maps.windows.com^
@@ -19230,6 +19240,7 @@
 @@||monimoto.com^
 @@||monitis.com^
 @@||monitor.firefox.com^
+@@||monitor.shodan.io^
 @@||monitoring.googleapis.com^
 @@||monkeyedge.com^
 @@||monogram.com^
@@ -25566,6 +25577,7 @@
 @@||snipershide.com^
 @@||snipersparadise.com^
 @@||snippets.cdn.mozilla.net^
+@@||snippets.shodan.io^
 @@||snmc.io^
 @@||snopes.com^
 @@||snowexproducts.com^
@@ -31174,11 +31186,13 @@
 @@||wipfandstock.com^
 @@||wips.plug.it^
 @@||wire.com^
+@@||wire.shodan.io^
 @@||wired.co.uk^
 @@||wired.com^
 @@||wiredzone.com^
 @@||wireguard.com^
 @@||wirelesshack.org^
+@@||wirelesstrophycam.com^
 @@||wireshark.org^
 @@||wireworldaudio.com^
 @@||wireworldcable.com^
@@ -37604,9 +37618,9 @@
 @@||ads2.contentabc.com/ads?spot_id=$domain=8muses.com,xmlhttprequest
 @@||ads2.opensubtitles.org/*www/delivery/afr.php?
 @@||adsabs.harvard.edu/ads_abstracts.html^$domain=adsabs.harvard.edu
+@@||adsafeprotected.com/iasPET.$script,domain=bloomberg.com|reuters.com
+@@||adsafeprotected.com/iasPET.$script,domain=bloomberg.com|reuters.com
 @@||adsafeprotected.com/iasPET.$script,domain=gentside.de|ohmymag.de
-@@||adsafeprotected.com/iasPET.$script,domain=reuters.com
-@@||adsafeprotected.com/iasPET.$script,domain=reuters.com
 @@||adsafeprotected.com/services/$domain=reuters.com
 @@||adsafeprotected.com/services/$domain=reuters.com
 @@||adsafeprotected.com/services/pub?anId=$xmlhttprequest,domain=gentside.de|ohmymag.de
@@ -58437,5 +58451,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-05-22 08:39:26
-! Total count: 58435
+! Version: 2022-05-22 14:10:01
+! Total count: 58449

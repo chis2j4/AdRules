@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-05-22 08:42:25（北京时间） 
-! Total count: 14324
+! Version: 2022-05-22 16:10:19（北京时间） 
+! Total count: 14326
 -960x*0.gif
 -250.js*
 
@@ -81,9 +81,11 @@
 ##[href="http://dx106.live"]
 ##[href="javascript:GoDb();"]
 ##[href='#'][onclick='openurl(); return false'][target='_blank']
+##[href='/ad.html']
 ##[href='/cwm2.html'][rel='nofollow']
 ##[href='/gg1.html'][rel='nofollow']
 ##[href='/hy-66-90.php']
+##[href='/jump.html']
 ##[href='/qp-3.html']
 ##[href='/sswj.html'][target='_self'][rel='nofolllow']
 ##[href='/tiao/'][target='_blank']

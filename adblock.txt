@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-05-22 16:10:19（北京时间） 
-! Total count: 14326
+! Version: 2022-05-23 00:10:50（北京时间） 
+! Total count: 14337
 -960x*0.gif
 -250.js*
 
@@ -797,7 +797,7 @@ $removeparam=cad,domain=google.*
 $removeparam=callback,domain=bilibili.com
 $removeparam=camp,domain=amazon.*
 $removeparam=camp,domain=calvinklein.*|dickssportinggoods.com|dockers.com|dressbarn.com|lanebryant.com|levi.com|maurices.com|worldmarket.com|xg4ken.com|amazon.*
-$removeparam=campaign,domain=blue-tomato.com|sitepoint.com|sportler.com|peterhahn.*|outnorth.fi|shopee.*|bybit.com|t.me|twitter.com|docs.google.com|instagram.com|forms.gle|goodcrypto.app|discord.*|eventbrite.*|youtube.com|coinpanel.com|docsend.com|kasta.io|runnode.com|gleam.io|1sol.io|scmp.com
+$removeparam=campaign,domain=blue-tomato.com|sitepoint.com|sportler.com|peterhahn.*|outnorth.fi|shopee.*|bybit.com|t.me|twitter.com|docs.google.com|instagram.com|forms.gle|goodcrypto.app|discord.*|eventbrite.*|youtube.com|coinpanel.com|docsend.com|kasta.io|runnode.com|gleam.io|1sol.io|scmp.com|bdsmx.tube
 $removeparam=campaign,domain=reddit.app.link
 $removeparam=campaign_id,domain=~kochava.com|~unisportstore.*
 $removeparam=campaignid
@@ -2666,6 +2666,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 @@||dash.cloudflare.com^$domain=dash.cloudflare.com,important
 @@||dlkoo.com/down/Copydown1
 @@||download.jumpw.com^
+@@||duckduckgo.com/tty^$removeparam=t
 @@||dwstatic.com/b=amkit
 @@||e.crashlytics.com/spi/v2/events$app=com.gedoor.monkeybook
 @@||ecitic.com^
@@ -9277,6 +9278,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||easytomessage.com^
 ||ebay.$removeparam=abcId
 ||ebay.$removeparam=campid
+||ebay.$removeparam=ch
 ||ebay.$removeparam=chn
 ||ebay.$removeparam=customid
 ||ebay.$removeparam=mkcid
@@ -9284,8 +9286,11 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ebay.$removeparam=mkgroupid
 ||ebay.$removeparam=mkrid
 ||ebay.$removeparam=mktype
+||ebay.$removeparam=osub
 ||ebay.$removeparam=poi
+||ebay.$removeparam=segname
 ||ebay.$removeparam=toolid
+||ebay.$removeparam=ut
 ||ebay.*$removeparam=bu
 ||ebay.*$removeparam=crd
 ||ebay.*$removeparam=emsid
@@ -11430,6 +11435,12 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nyahentai.com/cat/l_1.gif
 ||nyaso.net/static/js/nya.js
 ||nyhpyq.com^$third-party
+||nytimes.com^$removeparam=instance_id
+||nytimes.com^$removeparam=nl
+||nytimes.com^$removeparam=regi_id
+||nytimes.com^$removeparam=segment_id
+||nytimes.com^$removeparam=te
+||nytimes.com^$removeparam=user_id
 ||nyzda.top^
 ||nz04com.com^
 ||nzqf.b2xy4m.xyz^

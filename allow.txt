@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-05-23 08:42:30（北京时间） 
-! Total count: 5096
+! Version: 2022-05-23 16:12:13（北京时间） 
+! Total count: 5097
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3941,11 +3941,11 @@
 @@||adnxs.com/ast/static/$domain=outlook.live.com
 @@||adnz.co/dmp/publisher.js$domain=finanzen.ch
 @@||adnz.co/header.js?adTagId=$domain=finanzen.ch
-@@||adobedtm.com/*-libraryCode_source.min.js$script,domain=ally.com
-@@||adobedtm.com/*-source.min.js$script,domain=aarp.org|ally.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|dollargeneral.com|kroger.com|personal.natwest.com|ssrn.com|telus.com|verizon.com
+@@||adobedtm.com/*-libraryCode_source.min.js$script,domain=ally.com|crave.ca
+@@||adobedtm.com/*-source.min.js$script,domain=aarp.org|ally.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|crave.ca|currys.co.uk|dollargeneral.com|kroger.com|personal.natwest.com|ssrn.com|telus.com|verizon.com
 @@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|hl.co.uk|kroger.com|telus.com
 @@||adobedtm.com/extensions/$script,domain=antena3.com|atresmedia.com|atresplayer.com|lasexta.com
-@@||adobedtm.com/extensions/$script,domain=apple.com|bravotv.com|cadenaser.com|foodnetwork.com|telus.com|verizon.com
+@@||adobedtm.com/extensions/$script,domain=apple.com|bravotv.com|cadenaser.com|crave.ca|foodnetwork.com|telus.com|verizon.com
 @@||adobedtm.com/launch-$script,xmlhttprequest
 @@||adobedtm.com^$script,domain=sonystyle.com.cn
 @@||adobedtm.com^*-libraryCode_source.min.js$script,domain=disneyplus.disney.co.jp
@@ -3960,7 +3960,7 @@
 @@||adobedtm.com^*/mbox-contents-$script,domain=fcbarcelona.jp|sony.jp
 @@||adobedtm.com^*/s-code-$script
 @@||adobedtm.com^*/satellite-$script
-@@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|ally.com|americanexpress.com|argos.co.uk|auspost.com.au|backcountry.com|bmw.com.au|collegeboard.org|costco.com|crackle.com|crimewatchdaily.com|directline.com|eonline.com|fcbarcelona.com|firststatesuper.com.au|godigit.com|hgtv.com|jeep.com|laredoute.co.uk|laredoute.com|lenovo.com|lowes.com|malaysiaairlines.com|mastercard.us|mathworks.com|monoprice.com|nbcnews.com|nfl.com|nflgamepass.com|nofrills.ca|oprah.com|oracle.com|pnc.com|realtor.com|redbull.tv|repco.co.nz|searspartsdirect.com|shoppersdrugmart.ca|smooth.com.au|stuff.co.nz|subaru.com|telegraph.co.uk|timewarnercable.com|usanetwork.com|vanityfair.com|wired.com|wowway.net
+@@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|ally.com|americanexpress.com|argos.co.uk|auspost.com.au|backcountry.com|bmw.com.au|collegeboard.org|costco.com|crackle.com|crave.ca|crimewatchdaily.com|directline.com|eonline.com|fcbarcelona.com|firststatesuper.com.au|godigit.com|hgtv.com|jeep.com|laredoute.co.uk|laredoute.com|lenovo.com|lowes.com|malaysiaairlines.com|mastercard.us|mathworks.com|monoprice.com|nbcnews.com|nfl.com|nflgamepass.com|nofrills.ca|oprah.com|oracle.com|pnc.com|realtor.com|redbull.tv|repco.co.nz|searspartsdirect.com|shoppersdrugmart.ca|smooth.com.au|stuff.co.nz|subaru.com|telegraph.co.uk|timewarnercable.com|usanetwork.com|vanityfair.com|wired.com|wowway.net
 @@||adobedtm.com^*/satelliteLib-$script,domain=ceair.com|fcbarcelona.cn
 @@||adobedtm.com^*/satelliteLib-$script,domain=conad.it|ilsole24ore.com|laredoute.it
 @@||adobedtm.com^*/satelliteLib-$script,domain=crackle.com.ar|crackle.com.ec|crackle.com.mx|crackle.com.pe|crackle.com.py|fcbarcelona.cat|fcbarcelona.es|laredoute.es|vtr.com
@@ -5012,6 +5012,7 @@
 @@||ctrip.com/Customer-Market-Proxy/AdCallProxyV2.$~third-party
 @@||ctv.ca/players/mediaplayer/*/comscorebeacon.js
 @@||curiositystream.com^$generichide
+@@||currys.co.uk/on/*/js/tracking.js$script,~third-party
 @@||custojusto.pt/smarttag.js
 @@||custojusto.pt/user/myads/$~third-party
 @@||cutcaptcha.com^|

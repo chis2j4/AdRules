@@ -32971,6 +32971,7 @@
 @@|*.smartscreen-prod.microsoft.com^$important
 @@|*.smartscreen.microsoft.com^$important
 @@|*.sonicbit.net^$important
+@@|*.speedtest.pathofexile.com^$important
 @@|*.storage.live.com^$important
 @@|*.storage.msn.com^$important
 @@|*.tapecontent.net^$important
@@ -33087,6 +33088,7 @@
 @@|acctcdnvzeuno.azureedge.net^$important
 @@|acdn.adaware.com^$important
 @@|acer.com^$important
+@@|achievements.gameservices.ea.com^$important
 @@|achievements.xboxlive.com^$important
 @@|activity.windows.com^$important
 @@|adawareupdateservice.lavasoft.com^$important
@@ -33199,6 +33201,7 @@
 @@|api.eset.com^$important
 @@|api.evernote.com^$important
 @@|api.feedburner.com^$important
+@@|api.fosshub.com^$important
 @@|api.g.service.nsw.gov.au^$important
 @@|api.giphy.com^$important
 @@|api.github.com^$important
@@ -33242,6 +33245,7 @@
 @@|api.twitch.tv^$important
 @@|api.typeform.com^$important
 @@|api.vimeo.com^$important
+@@|api.warframe.com^$important
 @@|api.weather.com^$important
 @@|api.windscribe.com^$important
 @@|api.winstall.app^$important
@@ -33282,6 +33286,7 @@
 @@|apresolve.spotify.com^$important
 @@|apt.pop-os.org^$important
 @@|aptoide.com^$important
+@@|arbiter.warframe.com^$important
 @@|arc.msn.com*^$important
 @@|archive.canonical.com^$important
 @@|archive.org^$important
@@ -33437,6 +33442,7 @@
 @@|bing.se^$important
 @@|bingedu.azureedge.net^$important
 @@|binglee.com.au^$important
+@@|biostore.bioware.com^$important
 @@|bit.ly^$important
 @@|bitdefender.net^$important
 @@|bitsum.com^$important
@@ -33619,6 +33625,7 @@
 @@|cdn.rawgit.com^$important
 @@|cdn.registry.fedoraproject.org^$important
 @@|cdn.search.brave.com^$important
+@@|cdn.services.gearboxsoftware.com^$important
 @@|cdn.shopify.com^$important
 @@|cdn.skypack.dev^$important
 @@|cdn.sonicbit.net^$important
@@ -33634,9 +33641,11 @@
 @@|cdn0.woolworths.media^$important
 @@|cdn01.bethesda.net^$important
 @@|cdn1-ht-thumbnails.pornerbros.com^$important
+@@|cdn1.downdetector.com^$important
 @@|cdn1.esetstatic.com^$important
 @@|cdn1.unrealengine.com^$important
 @@|cdn1.xda-developers.com^$important
+@@|cdn2.downdetector.com^$important
 @@|cdn2.hubspot.net^$important
 @@|cdn2.unrealengine.com^$important
 @@|cdn4.appwork.org^$important
@@ -33666,6 +33675,7 @@
 @@|change.org^$important
 @@|changelog.m7g.twitch.tv^$important
 @@|changelogs.ubuntu.com^$important
+@@|channel-service.upc.ubi.com^$important
 @@|chaotic.pl4ygr0und.de^$important
 @@|chart.googleapis.com^$important
 @@|chat-dl.google.com^$important
@@ -33780,6 +33790,7 @@
 @@|connect.epicgames.dev^$important
 @@|connect.ol.epicgames.com^$important
 @@|connect.soundcloud.com^$important
+@@|connect.ubisoft.com^$important
 @@|connected.sonymusic.com^$important
 @@|connection.support.playstation.com^$important
 @@|connectivity-check.ubuntu.com^$important
@@ -33802,6 +33813,7 @@
 @@|content.invisioncic.com^$important
 @@|content.lifecycle.office.net^$important
 @@|content.product.lastpass.com^$important
+@@|content.warframe.com^$important
 @@|contentful-proxy.juno.ea.com^$important
 @@|contile.services.mozilla.com^$important
 @@|continuum.dds.microsoft.com^$important
@@ -33919,6 +33931,7 @@
 @@|desktop-config.juno.ea.com^$important
 @@|desktop.github.com^$important
 @@|desktop.githubusercontent.com^$important
+@@|dev.java^$important
 @@|dev.mysql.com^$important
 @@|dev.soundcloud.com^$important
 @@|dev.twitch.tv^$important
@@ -33951,6 +33964,7 @@
 @@|directline.botframework.com^$important
 @@|directory.soundcloud.com^$important
 @@|directory.vimeo.com^$important
+@@|dirtybits.api.origin.com^$important
 @@|discord.com^$important
 @@|discord.gg^$important
 @@|discordapp.com^$important
@@ -33984,6 +33998,7 @@
 @@|dlwnextsetting.cloudapp.net^$important
 @@|dmca.twitch.tv^$important
 @@|dmd.metaservices.microsoft.com^$important
+@@|dmx.upc.ubisoft.com^$important
 @@|dns*.quad9.net^$important
 @@|dns-family.adguard.com^$important
 @@|dns.cloudflare.com^$important
@@ -34003,6 +34018,7 @@
 @@|docs.ipfs.io^$important
 @@|docs.live.net^$important
 @@|docs.microsoft.com^$important
+@@|docs.oracle.com^$important
 @@|docs.picotorrent.org^$important
 @@|docs.playstation.com^$important
 @@|docs.python.org^$important
@@ -34014,6 +34030,8 @@
 @@|docs.uptobox.com^$important
 @@|dotnet.microsoft.com^$important
 @@|down.easeus.com^$important
+@@|downdetector.com.au^$important
+@@|downdetector.com^$important
 @@|download*.easeus.com^$important
 @@|download*.epicgames.com^$important
 @@|download*.mediafire.com^$important
@@ -34026,11 +34044,13 @@
 @@|download.adguard.com^$important
 @@|download.anydesk.com^$important
 @@|download.db-ip.com^$important
+@@|download.dm.origin.com^$important
 @@|download.documentfoundation.org^$important
 @@|download.eac-cdn.com^$important
 @@|download.epicgames.com^$important
 @@|download.eset.com^$important
 @@|download.fedoraproject.org^$important
+@@|download.fosshub.com^$important
 @@|download.freebsd.org^$important
 @@|download.kde.org^$important
 @@|download.macrium.com^$important
@@ -34218,6 +34238,7 @@
 @@|fdroid.tetaneutral.net^$important
 @@|fe2cr.update.microsoft.com^$important
 @@|fe3cr.delivery.mp.microsoft.com^$important
+@@|fedora.cu.be^$important
 @@|fedora.ip-connect.info^$important
 @@|fedora.mirror.constant.com^$important
 @@|fedora.mirror.digitalpacific.com.au^$important
@@ -34242,6 +34263,7 @@
 @@|file-metadata.nexusmods.com^$important
 @@|filejoker.net^$important
 @@|files*.majorgeeks.com^$important
+@@|files.cdn.ubisoft.com^$important
 @@|files.community^$important
 @@|files.pythonhosted.org^$important
 @@|files.surfright.nl^$important
@@ -34490,6 +34512,7 @@
 @@|halostats.svc.halowaypoint.com^$important
 @@|handbrake.fr^$important
 @@|hardware.support.eu.playstation.com^$important
+@@|harveynorman.com.au^$important
 @@|hash.github.com^$important
 @@|hash.hitmanpro.com^$important
 @@|hbenl.gallery.vsassets.io^$important
@@ -34956,6 +34979,7 @@
 @@|mega.co.nz^$important
 @@|mega.io^$important
 @@|mega.nz^$important
+@@|mel01.login.pathofexile.com^$important
 @@|mel1.speedtest.telstra.net^$important
 @@|mem.gfx.ms^$important
 @@|member.hitnews.com^$important
@@ -34984,6 +35008,7 @@
 @@|mirror.linux-ia64.org^$important
 @@|mirror.luzea.de^$important
 @@|mirror.netspace.net.au^$important
+@@|mirror.nl.leaseweb.net^$important
 @@|mirror.overthewire.com.au^$important
 @@|mirror.pseudoform.org^$important
 @@|mirror.telepoint.bg^$important
@@ -35045,6 +35070,7 @@
 @@|myaccount.google.com^$important
 @@|myer.com.au^$important
 @@|mysql.com^$important
+@@|n9e5v4d8.ssl.hwcdn.net^$important
 @@|nairobi.cdntrex.com^$important
 @@|naomy.cdntrex.com^$important
 @@|nav.smartscreen.microsoft.com^$important
@@ -35055,6 +35081,7 @@
 @@|netflix.com^$important
 @@|newassets.hcaptcha.com^$important
 @@|newegg.com^$important
+@@|news-page-themes-api.a.upc.ubisoft.com^$important
 @@|news.itsfoss.com^$important
 @@|news.opensuse.org^$important
 @@|news.usenet.farm^$important
@@ -35182,6 +35209,8 @@
 @@|oridefinitiveprod.rtep.msgamestudios.com^$important
 @@|origin-a.akamaihd.net^$important
 @@|origin-api-forums.nvidia.com^$important
+@@|origin.warframe.com^$important
+@@|originassets.akamaized.net^$important
 @@|orsp-c1-ane1.aws.orsp.f-secure.com^$important
 @@|orsp.f-secure.com^$important
 @@|osdn.net^$important
@@ -35193,6 +35222,7 @@
 @@|outlook.office.com^$important
 @@|outlook.office365.com^$important
 @@|outlookmobile-office365-tas.msedge.net^$important
+@@|overlay.ubisoft.com^$important
 @@|ow1.res.office365.com^$important
 @@|ow2.res.office365.com^$important
 @@|p.ebaystatic.com^$important
@@ -35201,6 +35231,7 @@
 @@|p.typekit.net^$important
 @@|p15.zdassets.com^$important
 @@|p20.zdassets.com^$important
+@@|p3a-json.brave.com^$important
 @@|p3a.brave.com^$important
 @@|p4p.arenabg.com^$important
 @@|packages.chocolatey.org^$important
@@ -35295,6 +35326,7 @@
 @@|pl.ea.com^$important
 @@|pl.playstation.com^$important
 @@|pl.wikipedia.com^$important
+@@|plab.site^$important
 @@|play-lh.googleusercontent.com^$important
 @@|play.google.com^$important
 @@|play.googleapis.com^$important
@@ -35337,6 +35369,7 @@
 @@|powershell-release-redirect.azurewebsites.net^$important
 @@|powershellgallery.com^$important
 @@|ppa.launchpad.net^$important
+@@|pr-*.data.ea.com^$important
 @@|premium-*.nexus-cdn.com^$important
 @@|premium.soundcloud.com^$important
 @@|presence-heartbeat.xboxlive.com^$important
@@ -35390,6 +35423,8 @@
 @@|pshelpprod.blob.core.windows.net^$important
 @@|pt.potwm.com^$important
 @@|pti.store.microsoft.com^$important
+@@|public-ubiservices.ubi.com^$important
+@@|public-ws-ubiservices.ubi.com^$important
 @@|publishers.adsterra.com^|
 @@|publishers.adsterra.com^|
 @@|pubsub-edge.twitch.tv^$important
@@ -35414,6 +35449,8 @@
 @@|r4---sn-npoe7n7y.googlevideo.com^$important
 @@|r4.res.office365.com^$important
 @@|r5---sn-ntqe6nes.c.2mdn.net^$important
+@@|r5-crossplay.r5prod.stryder.respawn.com^$important
+@@|r5-pc.s3.amazonaws.com^$important
 @@|raindrop.io^$important
 @@|raindrop.onfastspring.com^$important
 @@|rapidgator.net^$important
@@ -35474,6 +35511,7 @@
 @@|rewards.xbox.com^$important
 @@|rg3.github.io^$important
 @@|ris.api.iris.microsoft.com^$important
+@@|river.data.ea.com^$important
 @@|rl0aoelivemk2blob.blob.core.windows.net^$important
 @@|rm-eu.palemoon.org^$important
 @@|rockylinux.org^$important
@@ -35611,6 +35649,7 @@
 @@|smartscreen-prod.microsoft.com^$important
 @@|smartscreen.microsoft.com^$important
 @@|snahp.it^$important
+@@|snapcraft.io^$important
 @@|snapi.live.net^$important
 @@|snexpansion.unknownworlds.com^$important
 @@|social-overlay-launchdarkly-api-prod.ol.epicgames.com^$important
@@ -35710,10 +35749,12 @@
 @@|stackauth.com^$important
 @@|stackexchange.com^$important
 @@|stackoverflow.com^$important
+@@|stage.secure.download.dm.origin.com^$important
 @@|staging.plex.tv^$important
 @@|standard-notes.s3.amazonaws.com^$important
 @@|standardnotes.com^$important
 @@|standardnotes.org^$important
+@@|starcraft2.com^$important
 @@|start.ubuntu.com^$important
 @@|static*.behindthevoiceactors.com^$important
 @@|static*.brave.com^$important
@@ -35753,6 +35794,7 @@
 @@|static.kogan.com^$important
 @@|static.mediafire.com^$important
 @@|static.moddb.com^$important
+@@|static.ocecdn.oraclecloud.com^$important
 @@|static.opensuse.org^$important
 @@|static.oracle.com^$important
 @@|static.osdn.net^$important
@@ -35845,6 +35887,7 @@
 @@|store.playstation.com^$important
 @@|store.sony.com^$important
 @@|store.steampowered.com^$important
+@@|store.ubi.com^$important
 @@|store.xbox.com^$important
 @@|storecatalogrevocation.storequality.microsoft.com^$important
 @@|storeedgefd.dsx.mp.microsoft.com^$important
@@ -36032,7 +36075,12 @@
 @@|twitch.map.fastly.net^$important
 @@|twitch.tv^$important
 @@|u6571834.ct.sendgrid.net^$important
+@@|uat-ubiservices.cdn.ubi.com^$important
+@@|ubi.li^$important
+@@|ubiservices.cdn.ubi.com^$important
+@@|ubisoft-avatars.akamaized.net^$important
 @@|ubisoft-orbit-savegames.s3.amazonaws.com^$important
+@@|ubisoftconnect.com^$important
 @@|ubistatic*-a.akamaihd.net^$important
 @@|ublockorigin.pages.dev^$important
 @@|ubuntu.com^$important
@@ -36094,7 +36142,9 @@
 @@|uptostream.com^$important
 @@|upx.sourceforge.net^$important
 @@|us-img.freeones.com^$important
+@@|us-s2-depot.classic.blizzard.com^$important
 @@|us-ut-mirror.chaotic.cx^$important
+@@|us.api.blizzard.com^$important
 @@|us.archive.ubuntu.com^$important
 @@|us.cdn.blizzard.com^$important
 @@|us.playstation.com^$important
@@ -36192,6 +36242,7 @@
 @@|wcsprdstg.cmltd.net.au^$important
 @@|wdcp.microsoft.com^$important
 @@|wdcpalt.microsoft.com^$important
+@@|web.poecdn.com^$important
 @@|web.vortex.data.microsoft.com^$important
 @@|web.vortex.data.trafficmanager.net^$important
 @@|webchat.kde.org^$important
@@ -36291,6 +36342,7 @@
 @@|www.devuan.org^$important
 @@|www.dictionary.com^$important
 @@|www.digitaltrends.com^$important
+@@|www.dm.origin.com^$important
 @@|www.dotnetperls.com^$important
 @@|www.dotpdn.com^$important
 @@|www.dropbox.com^$important
@@ -36353,6 +36405,7 @@
 @@|www.iperiusbackup.com^$important
 @@|www.iperiusbackup.net^$important
 @@|www.izarc.org^$important
+@@|www.java.com^$important
 @@|www.jbhifi.com.au^$important
 @@|www.kde.org^$important
 @@|www.killingfloor2.com^$important
@@ -36422,6 +36475,7 @@
 @@|www.proxyscan.io^$important
 @@|www.python.org^$important
 @@|www.pythonanywhere.com^$important
+@@|www.qbittorrent.org^$important
 @@|www.qemu.org^$important
 @@|www.quad9.net^$important
 @@|www.qwant.com^$important
@@ -36440,6 +36494,7 @@
 @@|www.snappy-driver-installer.org^$important
 @@|www.sourceforge.net^$important
 @@|www.speedtest.net^$important
+@@|www.spintel.net.au^$important
 @@|www.spotify.com^$important
 @@|www.sqlite.org^$important
 @@|www.steampowered.com^$important
@@ -36470,6 +36525,7 @@
 @@|www.voidtools.com^$important
 @@|www.wagnardsoft.com^$important
 @@|www.wallpaperengine.io^$important
+@@|www.warframe.com^$important
 @@|www.wheniscriticalrole.com^$important
 @@|www.wikihow.com^$important
 @@|www.wilderssecurity.com^$important
@@ -56419,6 +56475,7 @@
 @@||trygistify.com^$generichide
 @@||tryit.w3schools.com^$document
 @@||tsa-algerie.com^$generichide
+@@||tsd.mdn.world^$generichide
 @@||tsf.pt^$generichide
 @@||tsgtv.net^$generichide
 @@||tsn.ua/static/pubads.ad^
@@ -58484,5 +58541,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-05-25 08:42:42
-! Total count: 58482
+! Version: 2022-05-25 14:11:06
+! Total count: 58539

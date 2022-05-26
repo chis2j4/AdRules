@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-05-26 16:12:31（北京时间） 
-! Total count: 5106
+! Version: 2022-05-27 00:13:12（北京时间） 
+! Total count: 5108
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3700,9 +3700,11 @@
 @@|ads.adsterra.com^|
 @@|adsterra.com^|
 @@|affiliates.adsterra.com^|
+@@|app.crazyegg.com^|
 @@|beta.affiliates.adsterra.com^|
 @@|beta.partners.adsterra.com^|
 @@|beta.publishers.adsterra.com^|
+@@|core.crazyegg.com^|
 @@|ftp.bmp.ovh^|
 @@|help-advertisers.adsterra.com^|
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
@@ -8432,7 +8434,7 @@
 @@||wholehk.com^$generichide
 @@||whoson.com/include.js$domain=oneplus.net|hotelchocolat.com
 @@||widget.myrentacar.me^$script,subdocument
-@@||widget.trustpilot.com/bootstrap/$script,domain=exodus.co.uk|imyfone.com
+@@||widget.trustpilot.com/bootstrap/$script,domain=amartfurniture.com.au|exodus.co.uk|imyfone.com
 @@||widgets.outbrain.com^*/comScore/comScore.htm
 @@||widgets.spklw.com/v1/$xmlhttprequest,domain=como.fi|episodi.fi|fum.fi|inferno.fi|kaaoszine.fi|rumba.fi|soundi.fi|tilt.fi
 @@||widgets.sprinklecontent.com/v2/$script,xmlhttprequest,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi

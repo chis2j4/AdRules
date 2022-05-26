@@ -33261,6 +33261,8 @@
 @@|apis.live.net^$important
 @@|apollo.dl.playstation.net^$important
 @@|app.alipay.com^$important
+@@|app.crazyegg.com^|
+@@|app.crazyegg.com^|
 @@|app.degoo.com^$important
 @@|app.hulu.com^$important
 @@|app.mediafire.com^$important
@@ -33827,6 +33829,8 @@
 @@|copyright.soundcloud.com^$important
 @@|copyrights.help.soundcloud.com^$important
 @@|cora.porntrex.com^$important
+@@|core.crazyegg.com^|
+@@|core.crazyegg.com^|
 @@|costream.twitch.tv^$important
 @@|coturn.hw-usw-prod.halowaypoint.com^$important
 @@|coturn.hw-usw01-prod.halowaypoint.com^$important
@@ -36819,7 +36823,6 @@
 @@||4klinks.site^$generichide
 @@||4kya.com/?url=$stealth,domain=netflix.mom
 @@||4p.de/*adtag.check.js
-@@||4pda.to^$extension
 @@||4players.de/seremshots
 @@||4players.de^$generichide
 @@||4shared.com/ads.html^$document
@@ -40880,6 +40883,7 @@
 @@||cdn61.zvooq.com/track/stream^$stealth
 @@||cdnapponline.com/*/iframe$elemhide
 @@||cdnapponline.com/*/iframe?$stealth
+@@||cdnb.4strokemedia.com^$domain=video.corriere.it
 @@||cdnb.4strokemedia.com^$domain=video.gazzetta.it
 @@||cdnbigdata.azureedge.net/scripts/fingerprint2.min.js$domain=news.abs-cbn.com
 @@||cdnbigdata.azureedge.net/scripts/fingerprint2.min.js$domain=news.abs-cbn.com
@@ -41514,6 +41518,7 @@
 @@||comic-boost.com/gentosha/advertisement_view$subdocument,~third-party
 @@||comic-boost.com/gentosha/advertisement_view$subdocument,~third-party
 @@||comicincorrect.wpengine.netdna-cdn.com/wp-content/uploads/$image,domain=comicallyincorrect.com
+@@||comick.top/cdn-cgi/zaraz/s.js
 @@||comicsonline.to/hls$xmlhttprequest,domain=cartoonwire.to
 @@||comicw.co.kr/files/cache/thumbnails/*/300x250.
 @@||comingsoon.it^$generichide
@@ -41881,7 +41886,6 @@
 @@||cs.silverpop.com^|
 @@||cs.silverpop.com^|
 @@||csbew.com/FrameWork/AFP/
-@@||cscscholarships.net/wp-content/plugins/better-adsmanager/includes/libs/better-framework/assets/fonts/fontawesome-webfont.$font
 @@||csdata1.com/data/js/$domain=acehardware.com
 @@||csdata1.com/data/js/$domain=acehardware.com
 @@||csdn.net/static/static/js/apps/popShow.js
@@ -43441,6 +43445,7 @@
 @@||fedex.com/apps/fedextrack$generichide
 @@||fedex.com/apps/fedextrack/
 @@||fedex.com/apps/myprofile/$generichide
+@@||feed.4strokemedia.com^$domain=video.corriere.it
 @@||feed.4strokemedia.com^$domain=video.gazzetta.it
 @@||feed.adrelayer.com^|
 @@||feed.adrelayer.com^|
@@ -47266,6 +47271,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=unian.ua
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=uptostream.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.capital.it
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.corriere.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.deejay.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.foxnews.com|video.foxbusiness.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.gazzetta.it
@@ -47290,7 +47296,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vmf.edge-apps.net|americatv.com.ar
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vod.mbcsportsplus.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vod.pl
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=voeunblock.com|voe-unblock.*|voe.bar|voe.sx
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=voeunblock1.com|voeunblock.com|voe-unblock.*|voe.bar|voe.sx
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=voicetv.co.th
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=voircomplet.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vvvvid.it
@@ -54249,6 +54255,7 @@
 @@||sfl.ink^$generichide
 @@||sg-siken.com^$elemhide
 @@||sgcpanel.com^$document
+@@||sgpics.net^$generichide
 @@||sgqcvfjvr.onet.pl^
 @@||sgxnifty.org/wp-content/themes/default/js/adblocker.js
 @@||sgxnifty.org^$generichide
@@ -55551,7 +55558,7 @@
 @@||synlab.it^*/angular-google-analytics.js
 @@||synology-forum.de^$generichide
 @@||synonymbog.com^$generichide
-@@||syosetu.top/cdn-cgi/zaraz/$script,~third-party
+@@||syosetu.top/cdn-cgi/zaraz/s.js
 @@||syri.net/uploads/syri.net/images/*/300x150_*.jpg
 @@||syriancivilwarmap.com^$generichide
 @@||sys.4chan.org/*/post$xmlhttprequest,domain=4chan.org
@@ -57774,7 +57781,7 @@
 @@||widget.pico.tools/widget_frame.html$domain=escapistmagazine.com
 @@||widget.spoods.io/loader.js$domain=winfuture.de
 @@||widget.svk-native.ru^$domain=znak.com
-@@||widget.trustpilot.com/bootstrap/$script,domain=exodus.co.uk|imyfone.com
+@@||widget.trustpilot.com/bootstrap/$script,domain=amartfurniture.com.au|exodus.co.uk|imyfone.com
 @@||widget.trustpilot.com/bootstrap/*/tp.widget.bootstrap.min.js$domain=mathem.se
 @@||widget.vergleich.org/comparison^$domain=computerbild.de
 @@||widget.vergleich.org/items^$domain=computerbild.de
@@ -57971,6 +57978,8 @@
 @@||wuolah.com^$generichide
 @@||wup-7b4df495.santander.cl^|
 @@||wup-7b4df495.santander.cl^|
+@@||wurfl.io/wurfl.js$domain=athabascau.ca
+@@||wurfl.io/wurfl.js$domain=athabascau.ca
 @@||wuxiaworld.com/images/pw/pw_header
 @@||wuxiaworld.com^$csp=script-src 'self' * 'unsafe-inline'
 @@||wuyong.fun^$generichide
@@ -58551,5 +58560,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-05-26 14:10:36
-! Total count: 58549
+! Version: 2022-05-26 20:14:10
+! Total count: 58558

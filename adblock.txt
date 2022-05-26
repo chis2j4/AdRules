@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-05-26 16:12:20（北京时间） 
-! Total count: 14346
+! Version: 2022-05-27 00:13:02（北京时间） 
+! Total count: 14356
 -960x*0.gif
 -250.js*
 
@@ -4405,6 +4405,7 @@ jumpcn.cc,omanhua.com##[class="w980 uzmh-1"]
 junqing123.com##DIV.axing_add_ad,DIV.ad_960_85.mtop10,DIV.axing_ad_300_120
 juqingw.com##.AD728,.AD250,.PAD_950_90,.textTop_ad
 jvhao.com##div[id^="sAD"]
+jx.xbiqu5.com/12345678.js
 jx.xinhuanet.com##.glgg,[height="86"],.flash,.flash2
 jxedt.com##[id^="final_wangmengad_"]
 jz5u.com###yingsu2288
@@ -6889,6 +6890,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||123lm.com^$third-party
 ||123ppk.com^
 ||1244.chushoushijian.cn^
+||12551-1311572332.cos.ap-shanghai.myqcloud.com^
 ||126.net/caipiao/js2/popularize/hello.js^
 ||126.net/silver/
 ||126.net^*analysis
@@ -9316,6 +9318,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ed.gumoda.top^
 ||edayday.com/img/ad
 ||eddjf.com^
+||edssnet.changchunets.com^
 ||edu-yuedu.bdimg.com/v1/aiting^$app=com.baidu.yuedu
 ||edu.51cto.com/js/edu-ad.js
 ||eduancm.com^
@@ -11041,6 +11044,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mbdp02.bdstatic.com/static/landing-share/js^
 ||mc.a48505.cn^
 ||mc.aefmbeq.cn^
+||mc.eedudwr.cn^
 ||mc.kmhmyaj.cn^
 ||mc.lingcde.cn^
 ||mc.maljxp.cn^
@@ -11102,6 +11106,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mg.tumeite.cn^
 ||mg.yhp4an7.cn^
 ||mg.yunchong6.cn^
+||mg.yznwyng.cn^
 ||mg.zgcqxjzny.cn^
 ||mgc-games.com^
 ||mgid.com^
@@ -11159,6 +11164,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mk.zlnmzc.top^
 ||mkadsearch.lizhifm.com^
 ||mkn.hlzyb.cn^
+||mkt.zihuiguochao.top^
 ||mlog.aipai.com^
 ||mm.365dmp.com^
 ||mm.ficea.cn^
@@ -11726,6 +11732,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pm.i7pnx0t.cn^
 ||pm.mdkjefq.cn^
 ||pm.pexnjio.cn^
+||pm.sbdebcz.cn^
 ||pmp.365dmp.com^$app=com.huawei.hwvplayer.youku
 ||pmptrack-youku.gentags.net/youku^$app=com.huawei.hwvplayer.youku
 ||pn.birjkhm.cn^
@@ -11976,6 +11983,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qw.dingyar.top^
 ||qw.kuanxin.top^
 ||qwant.com^$removeparam=client
+||qwe0231141.bj.bcebos.com^
 ||qwsy.com/script/TuiGuang.js
 ||qwsy.com/script/jquery.lazyload.js
 ||qwvv.com^
@@ -12403,6 +12411,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ssjy.shop^
 ||ssl.ailehui9149.com^
 ||ssl.bbbr8.com^
+||ssl.caopanshou.top^
 ||ssl.linyiccic.com^
 ||ssl.yiniyiwo.org^
 ||ssp.lionmobo.com^
@@ -13660,6 +13669,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ycmedia.cn^$third-party
 ||yd.game4343.com^
 ||yd.gxdianhua.com^
+||yd.linjuyihao.com^
 ||yd.yuanqitu.com^
 ||ydbbs.us/js/
 ||ydcpc.com^$third-party

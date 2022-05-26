@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-05-26 00:12:15（北京时间） 
-! Total count: 5104
+! Version: 2022-05-26 08:44:29（北京时间） 
+! Total count: 5105
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -7933,6 +7933,7 @@
 @@||stats.statbroadcast.com/interface/webservice/event/$~third-party
 @@||staty.portalradiowy.pl/wstats/$script,third-party
 @@||steamcn.com/source/plugin/steamcn_gift/template/images/*steam.png
+@@||stellen.donaukurier.de/Scripts/ApiTracking.js?$script,~third-party
 @@||stippleit.com/stipple.js$domain=photos.toofab.com
 @@||stives.co.uk/cms/advert_search_thumb.php$image,domain=chycor.co.uk
 @@||stjscn.s-msn.com/portal/hp/2011/udctrack.

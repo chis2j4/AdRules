@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-05-27 00:13:02（北京时间） 
-! Total count: 14356
+! Version: 2022-05-27 08:43:22（北京时间） 
+! Total count: 14357
 -960x*0.gif
 -250.js*
 
@@ -564,7 +564,6 @@ $removeparam=_hsmi
 $removeparam=_hsmi,domain=deeplearning.ai
 $removeparam=_kx
 $removeparam=_nc_cat
-$removeparam=_nc_sid
 $removeparam=_nc_vts_prog
 $removeparam=_openstat
 $removeparam=_rdr
@@ -1612,6 +1611,7 @@ $removeparam=s_kwcid
 $removeparam=sacat
 $removeparam=sample,domain=arms-retcode.aliyuncs.com
 $removeparam=sampling,domain=arms-retcode.aliyuncs.com
+$removeparam=sap-outbound-id
 $removeparam=sb_referer_host
 $removeparam=sc,domain=bing.*
 $removeparam=sc,domain=bing.com|qvc.com|startpage.com
@@ -9416,6 +9416,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||f4db.kanwby.com^
 ||f8272.com^
 ||f99.gdsoq.com^
+||facebook.*^$document,removeparam=hoisted_section_header_type
 ||facebook.com/adnw_sync
 ||facebook.com/ads^$removeparam=session_id
 ||faiusr.com/2/ABUIABACGAAg_dCW0gUo7NqNJjDgATh3.jpg

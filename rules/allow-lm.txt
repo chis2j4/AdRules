@@ -32675,7 +32675,7 @@
 @@/jquery/*$domain=dm530.net|sobooks.cc
 @@/jquery2.js$domain=flashx.tv,third-party
 @@/js/*/*.js?_v=$~third-party,domain=cracking.org
-@@/js/*/*.js?_v=$~third-party,domain=forum.miuiturkiye.net|todopolicia.com|turkishaudiocenter.com|gamingfactor.xyz|tamilbrahmins.com|onlytech.com|kodscript.com|hostingunlock.com|crackturkey.com|opelim.net|arabincest.com|milanworld.net|ootech.vn|devotag.com|isgfrm.com|spleaks.org|grandoldteam.com|bmw-scooters.com|cgarmy.com|ctx700-forum.com|demonscripts.com|eurocccam.net|forum.shoppingtelly.com|iptvsat-forum.com|largescaleforums.com|leaked.im|longpoint.on.ca|scriptsfire.com|udevstudio.com|dpkghub.com|playstationhaber.com
+@@/js/*/*.js?_v=$~third-party,domain=forum.miuiturkiye.net|todopolicia.com|turkishaudiocenter.com|gamingfactor.xyz|tamilbrahmins.com|onlytech.com|kodscript.com|hostingunlock.com|crackturkey.com|opelim.net|arabincest.com|milanworld.net|ootech.vn|devotag.com|isgfrm.com|spleaks.org|grandoldteam.com|bmw-scooters.com|cgarmy.com|ctx700-forum.com|demonscripts.com|eurocccam.net|forum.shoppingtelly.com|iptvsat-forum.com|largescaleforums.com|leaked.im|longpoint.on.ca|scriptsfire.com|udevstudio.com|dpkghub.com|playstationhaber.com|tattle.life
 @@/js/adblockDetectorWithGA.js$domain=fox.com.tr
 @@/js/ads.$script,domain=verifyemailaddress.io
 @@/js/ads.js$domain=nutraceuticalsworld.com
@@ -38286,6 +38286,7 @@
 @@||analytics.amplitude.com^$~third-party
 @@||analytics.amplitude.com^|
 @@||analytics.amplitude.com^|
+@@||analytics.analytics-egain.com/onetag/$script,domain=boohoo.com
 @@||analytics.analytics-egain.com/onetag/$script,domain=boohoo.com
 @@||analytics.atomiconline.com/services/jquery.js
 @@||analytics.atomiconline.com/services/jquery.js
@@ -45510,6 +45511,8 @@
 @@||googletagmanager.com/gtm.js$domain=auone.jp
 @@||googletagmanager.com/gtm.js$domain=avast.com
 @@||googletagmanager.com/gtm.js$domain=avast.com
+@@||googletagmanager.com/gtm.js$domain=beleuchtung.de
+@@||googletagmanager.com/gtm.js$domain=beleuchtung.de
 @@||googletagmanager.com/gtm.js$domain=benesse-style-care.co.jp
 @@||googletagmanager.com/gtm.js$domain=benesse-style-care.co.jp
 @@||googletagmanager.com/gtm.js$domain=besplatka.ua
@@ -51329,7 +51332,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mshares.co
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mufasi.ga
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=muzolandia.pl
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mycinema.pro|edtechnology.co.uk|facciabuco.com|mifirm.net|derechadiario.com.ar|comnuan.com|zeelandnet.nl|abcya.com|vectorizer.io|alpinforum.com|infopedia.su|studopedia.net|studopedia.su|studopedia.org|studopedia.ru|studopedia.com.ua|lektsii.org|mydocx.ru|vimm.net|erfahrungen.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mycinema.pro|edtechnology.co.uk|facciabuco.com|mifirm.net|derechadiario.com.ar|comnuan.com|zeelandnet.nl|abcya.com|vectorizer.io|alpinforum.com|infopedia.su|studopedia.net|studopedia.su|studopedia.org|studopedia.ru|studopedia.com.ua|lektsii.org|mydocx.ru|vimm.net|erfahrungen.com|zertalious.xyz
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=myjest.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mypractically.xyz
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=myuploadedpremium.de
@@ -55754,6 +55757,7 @@
 @@||tas-ix.net/Pop-under.js
 @@||tatort.tube/ads-*x*.js
 @@||tatsumaki.cf/$script,domain=animeshouse.net|feralhosting.com
+@@||tattle.life^$generichide
 @@||tattoonsk.ru/assets/cache_image/
 @@||tatuajestatu.com^$generichide
 @@||tawk.to^$stealth
@@ -58583,5 +58587,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-05-27 14:11:20
-! Total count: 58581
+! Version: 2022-05-27 20:16:07
+! Total count: 58585

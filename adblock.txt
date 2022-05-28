@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-05-28 16:12:02（北京时间） 
-! Total count: 14357
+! Version: 2022-05-29 00:12:46（北京时间） 
+! Total count: 14359
 -960x*0.gif
 -250.js*
 
@@ -468,6 +468,7 @@ $removeparam=AID,domain=~docs.google.*
 $removeparam=ASID
 $removeparam=ASUBID
 $removeparam=Adposition
+$removeparam=Affiliate_id
 $removeparam=AgencyNbr
 $removeparam=AgentCode
 $removeparam=Bibblio_source,domain=macrumors.com
@@ -489,6 +490,7 @@ $removeparam=CP,domain=nike.com
 $removeparam=CSID
 $removeparam=ClickThruCustomerNumber
 $removeparam=ClickThruEmail
+$removeparam=Cvosrc
 $removeparam=DZID,domain=autoanything.com
 $removeparam=Echobox
 $removeparam=FMID

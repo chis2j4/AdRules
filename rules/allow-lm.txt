@@ -36747,6 +36747,7 @@
 @@||1trackapp.com//static/tracking/$script,domain=1track.ru
 @@||1trackapp.com/static/tracking/$domain=1track.ru
 @@||1trackapp.com/static/tracking/$script,stylesheet,~third-party
+@@||1trackapp.com^$stealth,xmlhttprequest,domain=1track.ru
 @@||1ttv.net/iframe.php$stealth
 @@||2018x.bid/adview.js
 @@||20min.ch^$generichide
@@ -43707,6 +43708,8 @@
 @@||forex-trnd.com^$generichide
 @@||forexprostools.com/?columns=$domain=investmentwatchblog.com
 @@||forexprostools.com^$domain=shougedui.com
+@@||forexprostools.com^$subdocument,domain=fx-rashinban.com
+@@||forexprostools.com^$subdocument,domain=fx-rashinban.com
 @@||forgeofempires.com/game/json
 @@||formatatmak.com^$generichide
 @@||formel1.de^$generichide
@@ -45306,7 +45309,6 @@
 @@||googleads.g.doubleclick.net/pcs/click$domain=eda.ua
 @@||googleads.g.doubleclick.net^$app=com.google.android.apps.cultural
 @@||googleads.g.doubleclick.net^$app=com.thoptv.livetvstream
-@@||googleads.g.doubleclick.net^$xmlhttprequest,domain=tamrieltradecentre.com
 @@||googleads.g.doubleclick.net^$xmlhttprequest,other,domain=channels247.net|iptv.team
 @@||googleads.g.doubleclick.net^|$app=com.ftt.boxingstar.gl.aos
 @@||googleads.github.io/videojs-ima/dist/videojs.ima.css$domain=vinteratv.com
@@ -45447,7 +45449,7 @@
 @@||googletagmanager.com/gtag/js$domain=xl-bygg.no
 @@||googletagmanager.com/gtag/js$domain=xl-bygg.no
 @@||googletagmanager.com/gtag/js$script,domain=dholic.co.jp
-@@||googletagmanager.com/gtag/js$script,domain=honeystinger.com|kawasaki.com|m.putlocker.how|mediaite.com|schwab.com
+@@||googletagmanager.com/gtag/js$script,domain=honeystinger.com|kawasaki.com|m.putlocker.how|mediaite.com|schwab.com|toptal.com
 @@||googletagmanager.com/gtag/js$script,domain=radiosarajevo.ba
 @@||googletagmanager.com/gtag/js$script,domain=rjno1.com
 @@||googletagmanager.com/gtag/js$script,domain=timparty.tim.it
@@ -58587,5 +58589,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-05-28 20:13:01
-! Total count: 58585
+! Version: 2022-05-29 08:40:29
+! Total count: 58587

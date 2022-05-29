@@ -36647,6 +36647,8 @@
 @@||1-ps.googleusercontent.com/hk/$domain=5.ua
 @@||10-download.com^$generichide
 @@||1000bit.it^$generichide
+@@||1000site.ir/asset/images/images/adpage/$image,~third-party
+@@||1000site.ir/home/ads/asset/favicon.ico
 @@||10010.cn^*/ad
 @@||10010.com/mall/common/js/fa.js?referer=
 @@||10010.com^$generichide
@@ -37583,6 +37585,7 @@
 @@||ads.askgamblers.com^$popup
 @@||ads.ayads.co/ajs.php?zid=$domain=411mania.com
 @@||ads.bdcraft.net/js/interstitial.js$domain=ads.bdcraft.net
+@@||ads.beytoote.com/live_chat
 @@||ads.businessmixer.net^$domain=ads.businessmixer.net
 @@||ads.cdn.tvb.com^*.key
 @@||ads.clubedohardware.com.br/
@@ -38970,6 +38973,7 @@
 @@||asahicom.jp/ad/js/video/ytpfp.js$domain=asahi.com
 @@||asahicom.jp/ads/$image,script,stylesheet,domain=asahi.com
 @@||asahicom.jp/ads/$image,script,stylesheet,domain=asahi.com
+@@||asandl.com/ads/img/$image,~third-party
 @@||ascii.jp/img/ad/radeon/logo.png
 @@||ascii.jp/img/ad/yayoi/rank_$image,~third-party
 @@||ascii.jp/img/ad/yayoi/rank_$image,~third-party
@@ -39516,6 +39520,8 @@
 @@||beureum.com^$generichide
 @@||beursig.com^$generichide
 @@||beyondsoft.com/dataservice/img/ad_
+@@||beytoote.com/ads/images_$image,~third-party
+@@||beytoote.com/ads/js/$script,~third-party
 @@||bfas237blog.info^$generichide
 @@||bfm-ak.cds*.yospace.com/crossdomain.xml$domain=bfmtv.com
 @@||bfm-ak.cds*.yospace.com/u/file~video_$domain=bfmtv.com
@@ -39679,6 +39685,7 @@
 @@||blog.ztjal.info^$generichide
 @@||blogdatecnologia.net^$generichide
 @@||blogdoiphone.com/20
+@@||blogfa.com/static/ads/
 @@||blogford.site^$generichide
 @@||bloggingdekh.xyz^$generichide
 @@||bloggingden.com^$generichide
@@ -46996,6 +47003,7 @@
 @@||images.gmanetwork.com/res/dist/js/adsTracking.gz.js
 @@||images.intellicast.com/App_Scripts/ad.min.js
 @@||images.intellicast.com/Scripts/ad-v3.js
+@@||images.kojaro.com/assets/ad/advertise-$image,~third-party
 @@||images.mein-mmo.de/magazin^$image,domain=mein-mmo.de
 @@||images.meteoconsult.fr/images/meteoconsult2014/autopromo/paves/saisonnier/PRINTEMPS_$image
 @@||images.newmedia.lu^*/adtech_video/
@@ -50290,6 +50298,7 @@
 @@||nike.com/checkout/analytics/js/analyticFunctions.js$domain=nike.com
 @@||nike.com^*/optimizely.browser.umd.min.js$~third-party
 @@||nikken.ru/images/banners/
+@@||niksalehi.com/wp-content/uploads/*/adv
 @@||nineto5mac-d.openx.net^|
 @@||nineto5mac-d.openx.net^|
 @@||ninja.io/js/dist/ads.js
@@ -51781,6 +51790,7 @@
 @@||parlons-basket.com/wp-content/*/js/prebid-ads.js
 @@||parma.am/js/counter.js
 @@||parma.am/js/counter.js
+@@||parsiblog.com/Adv/imgs/
 @@||partner.anleger-fernsehen.de/podcast^
 @@||partner.ebay.com^$elemhide,jsinject,extension
 @@||partner.googleadservices.com/gampad/$domain=androidacy.com
@@ -51933,6 +51943,7 @@
 @@||pepperjamnetwork.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||perfectgirls.net^$generichide
 @@||persianhive.com/wp-content/plugins/wp-adblock-dedect/js/dedect.js
+@@||persianv.com/wp-content/uploads/*/adv-$image,~third-party
 @@||personaclick.com^$domain=skechers.com.tr
 @@||personaclick.com^$domain=skechers.com.tr
 @@||peruanazotv.com^$generichide
@@ -55745,6 +55756,7 @@
 @@||tamilyogi.eu^$generichide
 @@||tamilyogi.nu^$generichide
 @@||tamilyogi.vip^$generichide
+@@||tamin.ir/content/ads/
 @@||tampabay.com/resources/scripts/dfp/adbridg.js
 @@||tangdou.com/sample/share/advert?$domain=tangdoucdn.com
 @@||tansuo.cntv.cn^*/tansuo_Advertise.js
@@ -57703,6 +57715,7 @@
 @@||webgate.tn^$generichide
 @@||webhook.frontapp.com/forms/$stealth
 @@||webhostingpost.com^$generichide
+@@||webii.ir/upload/ads/$image,~third-party
 @@||webkul.com/joomaddon//plugins/system/adblockerdetect^
 @@||weblet.square-enix.com/banner.php^
 @@||webmail.smartlinkcorp.com/dotrans_20160909.php
@@ -58555,7 +58568,9 @@
 @@||zone-telechargement2.net^$generichide
 @@||zone.msn.com/js/gameplayer/admanager.js$domain=zone.msn.com
 @@||zonebourse.com/js/googleads.js
+@@||zoomg.ir/banners/demo/advertise-zoomg.jpg
 @@||zoominfo.com/c/amplitude-js$script,~third-party
+@@||zoomit.ir/assets/img/advertise-$image,~third-party
 @@||zoover.adclixx.net/shared/bannerpages/darttagsbanner.aspx
 @@||zoover.adnetasia.com/shared/bannerpages/darttagsbanner.aspx
 @@||zoover.adtrackers.net/shared/bannerpages/darttagsbanner.aspx
@@ -58590,5 +58605,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-05-29 14:10:51
-! Total count: 58588
+! Version: 2022-05-29 20:13:17
+! Total count: 58603

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-05-31 16:13:58（北京时间） 
-! Total count: 14361
+! Version: 2022-06-01 00:13:34（北京时间） 
+! Total count: 14368
 -960x*0.gif
 -250.js*
 
@@ -188,6 +188,7 @@
 ##[onclick="window.open('/statics/js/hth112.html')"]
 ##[onclick="window.open('/statics/js/hth906.html')"]
 ##[onclick="window.open('https://docs.qq.com/doc/DZEpZc2pOaFdXa0tD');"]
+##[onclick="window.open('https://docs.qq.com/doc/DZGtmWUxpamJGTnNY');"]
 ##[onclick='gourl()'][src^='/images/bfq/']
 ##[onclick='window.open(this.url)']
 ##[onclick^="window.location.href = 'http://wd.haoyundm.com"]
@@ -8915,6 +8916,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cpoml.iask.sina.com.cn^$empty
 ||cpro.
 ||cpro.baidustatic.com^
+||cpro.zol.com.cn^
 ||cpt.9136.com^
 ||cpucdn.baidu.com^
 ||cpull.360.cn/is_need_ad
@@ -11654,6 +11656,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pcvideoyd.titan.mgtv.com/pb^
 ||pcxzo.pluto.sogou.com^
 ||pdjyzx.com^
+||pdrtcgfx.cn^
 ||pds-midea.com^
 ||pee.cn^
 ||pepsico.com.cn^
@@ -11868,6 +11871,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qdp.qidian.com^
 ||qdt.lxksalary.com^
 ||qdt.zjzh2019.com^
+||qfnoyix.cn^
 ||qfy.innotechx.com^
 ||qg1v.adroition.net^
 ||qh.la/post.php
@@ -12313,6 +12317,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sitetag.us^
 ||sixiuwl.cn^
 ||sjh.baidu.com^
+||sjoy7rq.cn^
 ||skxuueby.cn^
 ||sky.tongjiai.com^
 ||skyjh.cn^
@@ -13592,6 +13597,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xmbhj.com^
 ||xmfish.com/shw/$script
 ||xmgysweb.com^
+||xmkbrfyu.cn^
 ||xmltym2.cn^
 ||xmshqh.com^
 ||xmsqz.com^
@@ -13659,6 +13665,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||yahugg.com^
 ||yan07.xyz^
 ||yandex.$removeparam=clid
+||yangjie.asia^
 ||yangniupiju.com^
 ||yangzxsh.top^
 ||yanpoly.com^

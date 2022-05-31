@@ -38781,7 +38781,6 @@
 @@||apiavsee.com/player.php$stealth
 @@||apibay.org^$script,xmlhttprequest,domain=thepiratebay.org
 @@||apiblogger.xyz/blogger/video-play.mp4$stealth
-@@||apikey.wrld3d.com/generate_204/$xmlhttprequest,domain=maps.wrld3d.com
 @@||apis.google.com/js/plusone.js$domain=pornhub.com
 @@||apis.kostprice.com/fapi/$script,domain=gadgets.ndtv.com
 @@||apis.kostprice.com/fapi/$script,domain=gadgets.ndtv.com
@@ -51272,6 +51271,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=it-actual.ru
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=itscybertech.com|premiumebooks.*
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=jaanmusic.in
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=jaatmods.gamepure.in
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=jarochos.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=jazzradio.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=jefawk.com
@@ -55262,6 +55262,7 @@
 @@||static.surfe.pro/js/net.js$domain=btcbunch.com
 @@||static.surfe.pro/js/net.js$domain=faucetclub.net
 @@||static.surfe.pro/js/net.js$domain=faucetcrypto.net
+@@||static.surfe.pro/js/net.js$domain=freebitcoin.link
 @@||static.surfe.pro/js/net.js$domain=freebitcoin.top
 @@||static.surfe.pro/js/net.js$domain=freesolana.top
 @@||static.surfe.pro/js/net.js$domain=median.uno
@@ -58151,6 +58152,7 @@
 @@||www3.doubleclick.net/|$xmlhttprequest,domain=shaalaa.com
 @@||www3.doubleclick.net/|$xmlhttprequest,domain=tivify.tv
 @@||www3.doubleclick.net/|$xmlhttprequest,domain=vn.trueid.net
+@@||www3.doubleclick.net^$xmlhttprequest,domain=lineups.fun
 @@||www3.doubleclick.net^|$domain=mac2sell.net
 @@||www3.doubleclick.net^|$domain=mmastreams-100.tv|mlbstreams100.com|boxingstreams100.com|nbastreams-100.tv
 @@||www3.doubleclick.net^|$domain=soccerstreams-100.tv
@@ -58267,6 +58269,7 @@
 @@||yadayadayada.nl/banner/banner.php$image,domain=murf.nl|workhardclimbharder.nl
 @@||yads.c.yimg.jp/js/yads-async.js$domain=kobe-np.co.jp|yahoo.co.jp
 @@||yads.c.yimg.jp/js/yads-async.js$domain=kobe-np.co.jp|yahoo.co.jp
+@@||yads.c.yimg.jp/js/yads.js$domain=news.biglobe.ne.jp
 @@||yagiay.com//ad_data/*.js$domain=pcwelt.de
 @@||yagiay.com/ad_data/*.js$domain=pcwelt.de
 @@||yagiay.com^
@@ -58614,5 +58617,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-05-30 20:14:37
-! Total count: 58612
+! Version: 2022-05-31 08:39:53
+! Total count: 58615

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-06-01 08:50:34（北京时间） 
-! Total count: 14368
+! Version: 2022-06-01 16:14:48（北京时间） 
+! Total count: 14371
 -960x*0.gif
 -250.js*
 
@@ -11702,6 +11702,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pingtcss.qq.com^
 ||pinlue.com/style/js/common.js
 ||pinpinnet.net^
+||pinterest.*/?mt=login^$removeparam=mt
 ||pinterest.*mt=signup$removeparam=d
 ||pinterest.*mt=signup$removeparam=mt
 ||pipipan.com##A[class='btn btn-yellow btn-block']
@@ -12051,6 +12052,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||res.wx.qq.com/mmbizwap/zh_CN/htmledition/style/page/page_mp_vote_new
 ||resolver.msg.xiaomi.net^
 ||resource.tompda.com/static/img/$object
+||restorationbowelsunflower.com^
 ||reuters.com^$removeparam=edition-redirect
 ||revdepo.com^
 ||revive.outin.cn^
@@ -13325,6 +13327,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.hhlian.com^
 ||www.hiweha.com^
 ||www.hlgglm.com^
+||www.huizai.top^
 ||www.ilaohuyou.xyz^
 ||www.iqiyi.com/player/cupid/common/icon_exclusive.swf
 ||www.jacklm1.com^

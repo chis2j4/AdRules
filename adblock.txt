@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-06-01 16:14:48（北京时间） 
-! Total count: 14371
+! Version: 2022-06-02 08:50:43（北京时间） 
+! Total count: 14380
 -960x*0.gif
 -250.js*
 
@@ -7538,6 +7538,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||adashxgc.ut.taobao.com/rest^$app=com.huawei.hwvplayer.youku
 ||adashxgc.ut.taobao.com/rest^$app=com.hupu.games
 ||adashxgc.ut.taobao.com^
+||adayvquq.cn^
 ||adbana.com^
 ||adbrite.com^
 ||adcash.com^
@@ -9735,6 +9736,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gyyx.cn/$third-party
 ||gz-data.com^
 ||gzads.com^
+||gzasiatech.net^
 ||gzcl999.cn^
 ||gzcl999.com^
 ||gzili.com^
@@ -11854,6 +11856,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qapm.baidu.com^
 ||qappcenterv6.3g.qq.com^
 ||qaq.lm665.com^
+||qaxkwxpf.cn^
 ||qb5200.tw/js/book.js
 ||qbdgame.com^
 ||qbreport.html5.qq.com^
@@ -12536,6 +12539,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||switchadhub.com^
 ||swwwxww.oss-cn-hangzhou.aliyuncs.com^
 ||sxjkc.cn^
+||sxk9m8x.cn^
 ||sxxjdz.com^
 ||sybhpi.cn^
 ||syblyj.com^
@@ -13190,6 +13194,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wpcnzz.com^
 ||wps.cn/api/pre_download?dist=
 ||wps.cn/wpsv6internet/infos.ads?
+||wpwpquse.cn^
 ||wqxp.online/qx6/php/qqcheck.php
 ||wqzyt.net^
 ||wrating.com^$third-party,domain=~tudou.com|~v.ifeng.com
@@ -13370,6 +13375,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.qkixi.com^
 ||www.qq.com/?tag=getList
 ||www.qqads.com^
+||www.qsixi.com^
 ||www.qu.la/static/js/nrwzl.js
 ||www.qwupoq.com^
 ||www.qysfa.com^
@@ -13502,6 +13508,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xc.shigl.top^
 ||xc.wagzqhq.cn^
 ||xc.yynncbn.cn^
+||xcc.nbfieef.cn^
 ||xcdf.cn^
 ||xcggpt.com^
 ||xchina.co/upload/ad^
@@ -13747,6 +13754,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ykad-data.youku.com^
 ||ykad-gateway.youku.com^
 ||ykbei.com^
+||ykcjxvg.cn^
 ||ykimg.alicdn.com/product/image/2018-07-05/9aa3f25db2af72927302bd46ac9c7ff9.gif$app=com.huawei.hwvplayer.youku
 ||ykimg.alicdn.com/product^$third-party
 ||ykl.qnipkk.xyz^
@@ -13820,6 +13828,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||yunshipei.com^
 ||yunzhanghe.cn^
 ||yupan.cc/asd/731.gif$image
+||yusnw.cc^
 ||yuu360.com^$third-party
 ||yuunion.com^
 ||yuxyz.com^

@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-06-06 08:48:54（北京时间） 
-! Total count: 5105
+! Version: 2022-06-06 16:10:43（北京时间） 
+! Total count: 5107
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4687,7 +4687,6 @@
 @@||cdn.optimizely.com/js/*.js$domain=kktv.me
 @@||cdn.optimizely.com/js/*.js$domain=ns.nl|compassion.com|creditsesame.com|forbes.com|freeshipping.com|heroku.com|hotukdeals.com|imageshack.com|lifelock.com|malwarebytes.org|policymic.com|ricardo.ch|spotify.com|techrepublic.com|zdnet.com|olx.ua|casper.com|dubizzle.com|pullandbear.com
 @@||cdn.optimizely.com/js/*.js$domain=ruggable.com
-@@||cdn.optimizely.com/js/*.js$domain=yemeksepeti.com
 @@||cdn.optimizely.com/js/3148790251.js$domain=shopsmarter.com
 @@||cdn.optimizely.com/js/8143030612.js$domain=bestbuy.com
 @@||cdn.optimizely.com/public/$script,domain=nytimes.com
@@ -6390,6 +6389,7 @@
 @@||i3.sinaimg.cn/video/deco/2013/0325/js/
 @@||ia.hit.interia.pl/*/date?$domain=interia.pl
 @@||ia.hit.interia.pl^|
+@@||ias.global.rakuten.com/adv/$script,domain=rakuten.co.jp
 @@||iatv.tmgrup.com.tr/*/advmanager.js$domain=atv.com.tr
 @@||ib.adnxs.com/ptv$domain=tele5.de
 @@||ibf.tw/user/plugins/webtech-topbar/fuckadblock.js
@@ -6586,6 +6586,7 @@
 @@||js.dogannet.tv/q/s/player/html5^
 @@||js.monitor.azure.com/scripts/$script,domain=microsoft.com
 @@||js.monitor.azure.com/scripts/*/ms.analytics-web-*.min.js$domain=mediastream.microsoft.com
+@@||js.monitor.azure.com/scripts/*/ms.analytics-web-*.min.js$domain=remoteassistance.support.services.microsoft.com
 @@||js.monitor.azure.com/scripts/*/ms.analytics-web-*.min.js$domain=skype.com
 @@||js.revsci.net/gateway/gw.js?$domain=t-online.de
 @@||js.sentry-cdn.com^$script,domain=book.dmm.com|interacty.me|jobs.ch|pizzahut.com.au
@@ -7640,6 +7641,7 @@
 @@||scorecardresearch.com^*/streamingtag_plugin_jwplayer.js
 @@||screen9.com/players/*/amber-google-analytics.esm.js$script,domain=api.screen9.com
 @@||scrippsdigital.com/cms/videojs/$stylesheet,domain=scrippsdigital.com
+@@||script.nettix.fi/auto/extra/template/nettiauto_analytics.js$domain=nettiauto.com
 @@||script.ownpage.fr/v1/ownpage.js?$script,domain=lci.fr
 @@||scripts.demandmedia.com/wm.js$domain=ehow.com
 @@||scv.band.us/jackpotlog/*/logs$domain=m.cafe.naver.com

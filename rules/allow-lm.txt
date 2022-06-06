@@ -38940,6 +38940,7 @@
 @@||api.paymentwall.com^$domain=adguard.com
 @@||api.peer5.com/peer5.$domain=realtimetv.me
 @@||api.peer5.com^$script,domain=kora-online.tv
+@@||api.penpencil.xyz^$stealth,domain=physicswallah.live|pw.live
 @@||api.perfops.net^$script,xmlhttprequest,domain=cdnperf.com|dnsperf.com
 @@||api.pinger.com$stealth
 @@||api.pnd.gs/v*/sources/$domain=thenews.im
@@ -40791,8 +40792,6 @@
 @@||cdn.optimizely.com/js/*.js$domain=ns.nl|compassion.com|creditsesame.com|forbes.com|freeshipping.com|heroku.com|hotukdeals.com|imageshack.com|lifelock.com|malwarebytes.org|policymic.com|ricardo.ch|spotify.com|techrepublic.com|zdnet.com|olx.ua|casper.com|dubizzle.com|pullandbear.com
 @@||cdn.optimizely.com/js/*.js$domain=ruggable.com
 @@||cdn.optimizely.com/js/*.js$domain=ruggable.com
-@@||cdn.optimizely.com/js/*.js$domain=yemeksepeti.com
-@@||cdn.optimizely.com/js/*.js$domain=yemeksepeti.com
 @@||cdn.optimizely.com/js/3148790251.js$domain=shopsmarter.com
 @@||cdn.optimizely.com/js/3148790251.js$domain=shopsmarter.com
 @@||cdn.optimizely.com/js/8143030612.js$domain=bestbuy.com
@@ -42693,6 +42692,7 @@
 @@||dloady.com^$generichide
 @@||dmcdn.net^$app=com.dailymotion.dailymotion
 @@||dmcdn.net^$domain=anyanime.com
+@@||dmealkit.docomo.ne.jp/*_html.htm$jsinject,elemhide,extension
 @@||dmhy.b168.net^$generichide
 @@||dmm.com/p/general/$image,~third-party
 @@||dmm.com/p/general/$image,~third-party
@@ -43305,7 +43305,6 @@
 @@||engine2.admelon.ru/c?pid=$domain=argumenti.ru
 @@||england101.com/assets/js/prebid-add.js
 @@||english-polyglot.com/ads.js
-@@||englishcentral.com^$stealth
 @@||ens.nzz.ch^$~third-party
 @@||ensage-forum.ru/*adv*.js
 @@||ensighten.com^*/Bootstrap.js$domain=americanexpress.com|britishairways.com|capitalone.com|caranddriver.com|cart.autodesk.com|citi.com|citigold.com.sg|citizensbank.com|dell.com|fidelity.com|france24.com|homedepot.com|hp.com|norton.com|rfi.fr|sbs.com.au|sfgate.com|staples.com|t-mobile.com|target.com|verizonwireless.com|williamhill.com|womenshealthmag.com|zales.com
@@ -43621,6 +43620,7 @@
 @@||fastcoin.ga^$generichide
 @@||fastcontentdelivery.com/i/$image,domain=flashx.cc|flashx.net
 @@||fastcontentdelivery.com^$image,domain=flashx.net|flashx.pw|flashx.tv
+@@||fastcontentdelivery.com^$script,domain=flashx.*
 @@||fastcontentdelivery.com^$script,domain=flashx.to|flashx.tv
 @@||fastdrama.me/scripts/fuckadblock.js
 @@||fastdrama.me^$generichide
@@ -44194,7 +44194,6 @@
 @@||fwmrm.net^*/AdManager.js$script
 @@||fwmrm.net^*/LinkTag2.js$domain=viafree.se
 @@||fwmrm.net^*/LinkTag2.js$domain=viafree.se
-@@||fx.fastcontentdelivery.com/i/*.jpg$image,domain=flashx.cc|flashsx.tv|flashx.me|flashx.tv
 @@||fxnews2016.info/embed/$generichide
 @@||fxporn69.com^$generichide
 @@||fzmovies.*^$generichide
@@ -45452,6 +45451,7 @@
 @@||google.com/recaptcha/api.js
 @@||google.com/recaptcha/api.js
 @@||google.com/recaptcha/api2/$document
+@@||google.com/recaptcha/api2/$subdocument
 @@||google.com/recaptcha/enterprise.js
 @@||google.com/recaptcha/enterprise.js
 @@||google.com/recaptcha/enterprise/
@@ -46388,6 +46388,7 @@
 @@||graphiq-stories.graphiq.com/ad?_=$~third-party
 @@||graphql.usercentrics.eu/graphql$domain=kabeleinsdoku.de|kabeleinsdoku.at
 @@||graphql.usercentrics.eu/graphql$domain=sixx.de|prosiebenmaxx.de|sat1.de|prosieben.de|kabeleins.de|sixx.de|sat1gold.de|ran.de|joyn.de|sat1.at
+@@||graphql.usercentrics.eu/graphql$xmlhttprequest,domain=wetter.com
 @@||graphracer.com/js/libs/heatmap.js
 @@||graphracer.com/js/libs/heatmap.js
 @@||gratis.com/Banners/
@@ -47028,7 +47029,6 @@
 @@||iamcdn.net/players/*ads*.js$domain=hydrax.net|playhydrax.com
 @@||iamcdn.net/players/ads.js$script,domain=watchcartoonsonline.biz
 @@||iamcdn.net/players/ads.watch.js$domain=animeheaven.ru|disneyplayvn.net
-@@||ias.global.rakuten.com/adv/$script,domain=24.rakuten.co.jp
 @@||ias.global.rakuten.com/adv/$script,domain=rakuten.co.jp
 @@||ias.global.rakuten.com/adv/$script,domain=rakuten.co.jp
 @@||iatv.tmgrup.com.tr/*/advmanager.js$domain=atv.com.tr
@@ -47531,7 +47531,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vmf.edge-apps.net|americatv.com.ar
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vod.mbcsportsplus.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vod.pl
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=voeunblock3.com|voeunblock2.com|voeunblock1.com|voeunblock.com|voe-unblock.*|voe.bar|voe.sx
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=voeunbl0ck.com|voeunblock3.com|voeunblock2.com|voeunblock1.com|voeunblock.com|voe-unblock.*|voe.bar|voe.sx
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=voicetv.co.th
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=voircomplet.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vvvvid.it
@@ -47860,6 +47860,8 @@
 @@||infowarsmedia.com/videojs-event-tracking/dist/videojs-event-tracking.js$script,~third-party
 @@||infoworld.com/www/js/ads/gpt_includes.js$~third-party
 @@||infoworld.com/www/js/ads/gpt_includes.js$~third-party
+@@||infusionsoft.app/aff.html$subdocument,domain=pages.infusionsoft.net|reginadancecity.ca
+@@||infusionsoft.com/aff.html$subdocument,domain=pages.infusionsoft.net|reginadancecity.ca
 @@||ing-diba.de^*/sitestat.js
 @@||ing-diba.de^*/sitestat.js
 @@||ing.blueconic.net^$domain=ing.jobs
@@ -48245,6 +48247,8 @@
 @@||js.monitor.azure.com/scripts/$script,domain=microsoft.com
 @@||js.monitor.azure.com/scripts/*/ms.analytics-web-*.min.js$domain=mediastream.microsoft.com
 @@||js.monitor.azure.com/scripts/*/ms.analytics-web-*.min.js$domain=mediastream.microsoft.com
+@@||js.monitor.azure.com/scripts/*/ms.analytics-web-*.min.js$domain=remoteassistance.support.services.microsoft.com
+@@||js.monitor.azure.com/scripts/*/ms.analytics-web-*.min.js$domain=remoteassistance.support.services.microsoft.com
 @@||js.monitor.azure.com/scripts/*/ms.analytics-web-*.min.js$domain=skype.com
 @@||js.monitor.azure.com/scripts/*/ms.analytics-web-*.min.js$domain=skype.com
 @@||js.revsci.net/gateway/gw.js$domain=boston.com|calgaryherald.com|calgarysun.com|celebuzz.com|infinitiev.com|montrealgazette.com|saveur.com
@@ -49770,6 +49774,7 @@
 @@||miaozhen.com^*/m.suning.
 @@||miauscan.com^$generichide
 @@||micano4u.org^$generichide
+@@||michezoafrika.com^$generichide
 @@||micinehd.com^$generichide
 @@||micloudfiles.com^$generichide
 @@||micro.rubiconproject.com/prebid/dynamic/*.js$domain=gamingbible.co.uk
@@ -51410,6 +51415,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=g1novelas.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=gadgetdamage.blog.fc2.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=game3rb.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=gameplay.icu
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=games.wkb.jp
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=games.wkb.jp
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=gametop.com
@@ -51878,6 +51884,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/rum.js$domain=soranews24.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/*/show_ads_impl_$script,domain=games.wkb.jp
 @@||pagead2.googlesyndication.com/pagead/managed/js/*/show_ads_impl_$script,domain=games.wkb.jp
+@@||pagead2.googlesyndication.com/pagead/managed/js/*/show_ads_impl_*.js$domain=al.ly
 @@||pagead2.googlesyndication.com/pagead/managed/js/*/show_ads_impl_fy*.js$domain=techyneed.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=ff14angler.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl*.js$domain=exey.io
@@ -53928,6 +53935,8 @@
 @@||script.auction.co.kr/Ad/DACommon.js
 @@||script.ioam.de^$image,script,third-party,domain=lustich.de
 @@||script.ioam.de^$script,third-party,domain=gamona.de
+@@||script.nettix.fi/auto/extra/template/nettiauto_analytics.js$domain=nettiauto.com
+@@||script.nettix.fi/auto/extra/template/nettiauto_analytics.js$domain=nettiauto.com
 @@||script.ownpage.fr/v1/ownpage.js?$script,domain=lci.fr
 @@||scriptciyiz.org^$generichide
 @@||scripts.demandmedia.com/wm.js$domain=ehow.com
@@ -58812,5 +58821,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-06-06 14:10:28
-! Total count: 58810
+! Version: 2022-06-06 20:14:47
+! Total count: 58819

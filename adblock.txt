@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-06-06 16:10:33（北京时间） 
-! Total count: 14403
+! Version: 2022-06-07 00:10:27（北京时间） 
+! Total count: 14406
 -960x*0.gif
 -250.js*
 
@@ -82,6 +82,7 @@
 ##[href="javascript:GoDb();"]
 ##[href='#'][onclick='openurl(); return false'][target='_blank']
 ##[href='/ad.html']
+##[href='/ad/bfy.html']
 ##[href='/cwm2.html'][rel='nofollow']
 ##[href='/gg1.html'][rel='nofollow']
 ##[href='/hy-66-90.php']
@@ -9045,6 +9046,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dat8.cc^
 ||data.bilibili.com^
 ||data.game.xiaomi.com/1px.gif
+||data.gzuzfa.cn^
 ||data.hicloud.com:8089^$app=com.huawei.hwvplayer.youku
 ||data.lichenqx.com^
 ||data.mistat.xiaomi.com^
@@ -12982,6 +12984,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||v.greenere.cn^
 ||v.irs01.com/hvt-cfg^$app=com.huawei.hwvplayer.youku
 ||v.irs01.com/hvt-cfg^$app=com.qiyi.video
+||v.jsczde.cn^
 ||v.miguvideo.com^
 ||v.njcengpianwang.cn^
 ||v.weixiaov.club/qx6/php/check.php

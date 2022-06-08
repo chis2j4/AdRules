@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-06-08 08:41:58（北京时间） 
-! Total count: 5105
+! Version: 2022-06-08 16:12:38（北京时间） 
+! Total count: 5097
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4154,6 +4154,7 @@
 @@||amc-widgets.crowdtwist.com/widgets/t/account-
 @@||amebame.com/pub/ads/$image,domain=abema.tv|ameba.jp|ameblo.jp
 @@||amplitude.com/libs/$script,domain=elconfidencial.com
+@@||amplitude.com/libs/amplitude-4.5.2-min.gz.js$script,domain=pdfexpert.com
 @@||ampproject.org/v0/amp-analytics-$script,domain=cnnespanol.cnn.com
 @@||ams.amazon.co.jp^$domain=ams.amazon.co.jp
 @@||ams.amazon.co.uk^$domain=ams.amazon.co.uk
@@ -4246,7 +4247,6 @@
 @@||api.cxense.com/public/widget/data?json=$domain=pcgames.de
 @@||api.cxense.com/public/widget/data?json=$domain=wpb.shueisha.co.jp
 @@||api.cxense.com/public/widget/data?json=$domain=wsj.com
-@@||api.cxense.com/public/widget/data?json=$domain=yenisafak.com
 @@||api.cxense.com/public/widget/data?json=$script,domain=ksml.fi|savonsanomat.fi
 @@||api.cxense.com/public/widget/data|$xmlhttprequest,domain=friday.kodansha.co.jp
 @@||api.dmcdn.net/pxl/advertisers/$domain=dailymotion.com
@@ -4654,7 +4654,6 @@
 @@||cdn.cxense.com/cx.js$domain=tn.com.ar
 @@||cdn.cxense.com/cx.js$domain=wpb.shueisha.co.jp
 @@||cdn.cxense.com/cx.js$domain=wsj.com
-@@||cdn.cxense.com/cx.js$domain=yenisafak.com
 @@||cdn.cxense.com/cx.js$script,domain=handelsblatt.com
 @@||cdn.cxense.com^$script,domain=bizjournals.com|bloombergquint.com|marketwatch.com
 @@||cdn.dimml.io/dimml.js$domain=consumentenbond.nl
@@ -5573,7 +5572,6 @@
 @@||google-analytics.com/analytics.js$domain=4kdownload.com
 @@||google-analytics.com/analytics.js$domain=afternic.com|clipitto.com|deviantart.com
 @@||google-analytics.com/analytics.js$domain=amd.com
-@@||google-analytics.com/analytics.js$domain=anadolu.edu.tr
 @@||google-analytics.com/analytics.js$domain=androidpit.com|androidpit.com.br|androidpit.de|androidpit.es|androidpit.fr|androidpit.it
 @@||google-analytics.com/analytics.js$domain=antenaplay.ro
 @@||google-analytics.com/analytics.js$domain=apkmaza.net
@@ -5616,7 +5614,6 @@
 @@||google-analytics.com/analytics.js$domain=dirkzwager.nl
 @@||google-analytics.com/analytics.js$domain=displate.com
 @@||google-analytics.com/analytics.js$domain=dmax.com.tr
-@@||google-analytics.com/analytics.js$domain=doviz.com
 @@||google-analytics.com/analytics.js$domain=dramahd.me
 @@||google-analytics.com/analytics.js$domain=dtf.ru
 @@||google-analytics.com/analytics.js$domain=earthclassmail.com
@@ -5931,7 +5928,6 @@
 @@||googletagmanager.com/gtag/js$domain=riamo.ru
 @@||googletagmanager.com/gtag/js$domain=roman.com.tr
 @@||googletagmanager.com/gtag/js$domain=ryanair.com
-@@||googletagmanager.com/gtag/js$domain=shiftdelete.net
 @@||googletagmanager.com/gtag/js$domain=snake.io
 @@||googletagmanager.com/gtag/js$domain=srek.net
 @@||googletagmanager.com/gtag/js$domain=xl-bygg.no
@@ -6110,6 +6106,7 @@
 @@||googletagmanager.com/gtm.js$domain=realestate.co.nz
 @@||googletagmanager.com/gtm.js$domain=redbull.com
 @@||googletagmanager.com/gtm.js$domain=renault.ru
+@@||googletagmanager.com/gtm.js$domain=repubblica.it
 @@||googletagmanager.com/gtm.js$domain=rewards.msi.com
 @@||googletagmanager.com/gtm.js$domain=rollingstone.com
 @@||googletagmanager.com/gtm.js$domain=rottentomatoes.com
@@ -6502,7 +6499,6 @@
 @@||ingest.sentry.io/api/$xmlhttprequest,domain=orionprotocol.io|tesco.com
 @@||ingest.sentry.io/api/$xmlhttprequest,domain=tesco.hu
 @@||ingrossoprofumitester.it/img/ad-profumeria-$image,~third-party
-@@||ingturkey.tt.omtrdc.net/m2/ingturkey^$domain=ingbank.com.tr
 @@||innovelsolutions.com^*/tracking/$~third-party
 @@||inoreader.com^$genericblock,generichide
 @@||inpad.com.tw/data/adv/
@@ -6748,7 +6744,6 @@
 @@||live.house.gov/js/analytics.$script,~third-party
 @@||live.indiatimes.com/trackjs.cms
 @@||live.lequipe.fr/thirdparty/prebid.js$~third-party
-@@||live.sekindo.com^$domain=appleinsider.com
 @@||liveinternet.ru/code$generichide,genericblock,domain=liveinternet.ru
 @@||livenation.122.2o7.net/b/ss/$domain=oss.ticketmaster.com
 @@||livew.l.qq.com/crossdomain.xml
@@ -7564,7 +7559,6 @@
 @@||s.tgfcer.com^$generichide
 @@||s.thebrighttag.com/tag?site=$domain=sephora.com
 @@||s.visilabs.net/Target.js^$domain=boyner.com.tr
-@@||s.visilabs.net/Target.js^$domain=evidea.com
 @@||s.w.org/wp-content/$stylesheet,domain=wordpress.org
 @@||s.yimg.com/ja/ap/*/jquery.$domain=hk.news.yahoo.com|hk.yahoo.com|tw.news.yahoo.com|tw.stock.yahoo.com|tw.yahoo.com
 @@||s.yimg.com/ss/rapid-*.js$domain=engadget.com
@@ -7587,7 +7581,6 @@
 @@||savjee.be/uploads/2020-10-27-effect-adblockers-on-google-analytics-vs-plausible/$~third-party
 @@||sax.sina.com.cn/video/newimpress?
 @@||sb.scorecardresearch.com/beacon.js$domain=animalplanet.com
-@@||sb.scorecardresearch.com/beacon.js$domain=cnnturk.com
 @@||sb.scorecardresearch.com/beacon.js$domain=discovery.com
 @@||sb.scorecardresearch.com/beacon.js$domain=hurriyet.com.tr
 @@||sb.scorecardresearch.com/beacon.js$domain=investigationdiscovery.com
@@ -8365,7 +8358,6 @@
 @@||vpro.nl^*/vpro-analytics/Analytics.js$xmlhttprequest
 @@||vsh.visilabs.net/Visilabs.js^$domain=boyner.com.tr
 @@||vsh.visilabs.net/Visilabs.js^$domain=cinemaximum.com.tr
-@@||vsh.visilabs.net/Visilabs.js^$domain=evidea.com
 @@||vsh.visilabs.net/Visilabs.js^$domain=kapsamaharitasi.turktelekom.com.tr
 @@||vulture.com/decor/javascript/magnify_stats.js
 @@||vuplay.co.uk/stats/adobe/*/AppMeasurement.js$script,domain=radioplus.be

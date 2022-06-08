@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-06-08 08:41:48（北京时间） 
-! Total count: 14406
+! Version: 2022-06-08 16:12:27（北京时间） 
+! Total count: 14413
 -960x*0.gif
 -250.js*
 
@@ -103,6 +103,7 @@
 ##[href='http://page.shokuhou.com/']
 ##[href='http://www.fcf0020.xyz']
 ##[href='http://yb6277.vip']
+##[href='https://91.yelang8.cc/']
 ##[href='https://app.kkj.cn/']
 ##[href='https://blfanss.com']
 ##[href='https://cai35b9.com/']
@@ -160,6 +161,7 @@
 ##[href^='https://v44868.com:']
 ##[href^='https://vip.huijujiavip.com']
 ##[href^='https://vip.infobbs.xyz/atl.php']
+##[href^='https://w5979.com:']
 ##[href^='https://www.44553606.com:']
 ##[href^='https://www.ex312.com:']
 ##[href^='https://www.ex329.com:']
@@ -174,6 +176,7 @@
 ##[href^='https://www.xxmh'][href*='.htm']
 ##[href^='https://www.xxmh608.com/u.htm']
 ##[href^='https://www.xxmh639.com/']
+##[href^='https://x7463.com:']
 ##[href^='https://xcc.nbfieef.cn/cc/']
 ##[href^='https://xcc.nvnxxrk.cn']
 ##[href^='https://xt.nktxv.com'],[href^='https://xe.vldbd.com']
@@ -7462,6 +7465,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||9xu.com^
 ||9yad.com^
 ||a-cn.duoyi.com^
+||a-d.7dh26aja.com^
 ||a-mo.net^
 ||a.ac.qq.com^
 ||a.bjhuajing.com.cn^
@@ -10578,6 +10582,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||knet.cn^
 ||knet.cn^$third-party
 ||knicks.jd.com^
+||knt.viplp.top^
 ||kntb.sglyd.cn^
 ||ko3aql2d.zczcjx.com^$script
 ||kochava.com^$removeparam=/^app_/
@@ -10840,6 +10845,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lsr62.qtd95fj.online^
 ||lstat.youku.com^
 ||ltg69t.com^
+||ltp.jiantiquan.cn^
 ||ltsdl.qq.com/$xmlhttprequest
 ||ltxs.me/js/wap.js
 ||lufulibaa.com/ad$script
@@ -13637,6 +13643,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xmltym2.cn^
 ||xmshqh.com^
 ||xmsqz.com^
+||xn--2ss830adjbqy7h.xn--fiqs8s^
 ||xn--wxtr44c.video^
 ||xn--wxtr9fwyxk9c.xn--fiqs8s^
 ||xn--wxtr9fwyxk9c.xn--io0a7i^

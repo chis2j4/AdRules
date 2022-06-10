@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-06-10 16:10:49（北京时间） 
-! Total count: 14414
+! Version: 2022-06-11 00:16:16（北京时间） 
+! Total count: 14421
 -960x*0.gif
 -250.js*
 
@@ -2232,6 +2232,8 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 /auto-append-spmid.js
 /avbebe/ad/*
 /avgle.com/avideos.
+/baidu/189/999.php
+/baidu/tg.js
 /banma.
 /bar/yfdi.js
 /bar/yfgg.js
@@ -8508,6 +8510,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bqgdd.net/js/wap.js
 ||brandadsstatic.vivo.com.cn^
 ||browserkernel.baidu.com^
+||brt.studylabs.cn^
 ||bs.baidu.com/adcoup-mat/$script
 ||bshare.cn^
 ||bsiet.husky.sogou.com^
@@ -8642,8 +8645,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cdn.pg88cdn.com^
 ||cdn.weiye.net^
 ||cdn.wuxiqiangheng.com^
+||cdn.xianchengyou.com^
 ||cdn.xianliao.me^
 ||cdn.zampdsp.com/static/scripts/
+||cdn0.sxhjty.cn^
 ||cdn0.weinin99.cn^
 ||cdn3.mancdn88.com^
 ||cdnads.com^
@@ -10398,6 +10403,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||js.bbdsdy.com^
 ||js.bluecarvin.xyz^
 ||js.brstke.top^
+||js.btgoo.cc^
 ||js.dilidd.com^
 ||js.fc090.com^
 ||js.gdyjs.com^
@@ -11076,6 +11082,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mbaobao.com^
 ||mbdlog.iqiyi.com^
 ||mbdp02.bdstatic.com/static/landing-share/js^
+||mbr.baiyishaonian.cn^
 ||mbt.tangk.top^
 ||mc.a48505.cn^
 ||mc.aefmbeq.cn^

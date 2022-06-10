@@ -32979,6 +32979,8 @@
 @@://*.xuk.ru^$stealth
 @@://*/gg/$domain=gg.go.kr
 @@://*/gg/$domain=gg.go.kr
+@@://192.168.0.1$generichide
+@@://192.168.1.1$generichide
 @@://adbar.fi^|$domain=adbar.fi
 @@://adbar.io^|$domain=adbar.io
 @@://depositfiles.com^$domain=depositfiles.com,~third-party
@@ -50012,6 +50014,7 @@
 @@||misa-anime.com^$generichide
 @@||miscellaneous-c.blogspot.com^$generichide
 @@||missoulian.com^$generichide
+@@||mistermodzzforum.space^$generichide
 @@||mistore.jp/content/dam/isetan_mitsukoshi/advertise/$~third-party
 @@||mistore.jp/content/dam/isetan_mitsukoshi/advertise/$~third-party
 @@||mitaku.net^$generichide
@@ -58964,5 +58967,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-06-10 14:09:58
-! Total count: 58962
+! Version: 2022-06-10 20:13:51
+! Total count: 58965

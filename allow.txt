@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-06-10 00:10:52（北京时间） 
-! Total count: 5102
+! Version: 2022-06-10 08:45:41（北京时间） 
+! Total count: 5103
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5159,6 +5159,7 @@
 @@||dmm.com^*/display_ad.js$~third-party
 @@||dmp.im-apps.net/pms/*/pmt.js$domain=zakzak.co.jp
 @@||dnbus.com.tw/AD/tab_route.html
+@@||dnsgom.net/public/$domain=jingwubook.com
 @@||dnsleak.privateinternetaccess.com^$xmlhttprequest,domain=dnsleak.com
 @@||dnspod.cn/static/common/js/analytics.js
 @@||doc110.com^*/ad.css?$stylesheet

@@ -839,6 +839,7 @@
 @@||activate.activation-v2.kaspersky.com^
 @@||activate.adobe.com^
 @@||activate.api.stardock.net^
+@@||activate.bitsum.com^
 @@||activate.courant.com^
 @@||activate.latimes.com^
 @@||activate.maurices.com^
@@ -1815,6 +1816,7 @@
 @@||api.digitalocean.com^
 @@||api.discogs.com^
 @@||api.discovery.com^
+@@||api.dmzj.com^
 @@||api.dropbox.com^
 @@||api.dropboxapi.com^
 @@||api.duckduckgo.com^
@@ -5066,6 +5068,7 @@
 @@||cdn.buienradar.nl^
 @@||cdn.bustle.com^
 @@||cdn.buymeacoffee.com^
+@@||cdn.bytedance.com^
 @@||cdn.bytesin.com^
 @@||cdn.cablemod.com^
 @@||cdn.cameo.com^
@@ -6035,6 +6038,7 @@
 @@||chilli.ee^
 @@||chillicothegazette.com^
 @@||china.activate.activation-v2.kaspersky.com^
+@@||chinacdnweb.qiniu.com.w.kunlunno.com^
 @@||chinatimes.com^
 @@||chinookmed.com^
 @@||chip.de^
@@ -13296,6 +13300,7 @@
 @@||help-advertisers.adsterra.com^
 @@||help-center-assets.ubnt.com^
 @@||help.adbrix.io^
+@@||help.aliyun.com^
 @@||help.animaker.com^
 @@||help.animoto.com^
 @@||help.apple.com.edgekey.net^
@@ -13465,6 +13470,7 @@
 @@||hitc.com^
 @@||hitched.co.uk^
 @@||hitfile.net^
+@@||hitokoto.cn^
 @@||hitparade.ch^
 @@||hive.ladbible.com^
 @@||hivelocity.net^
@@ -21381,6 +21387,7 @@
 @@||p-stats.com^
 @@||p.bigstockphoto.com^
 @@||p.cityspark.com^
+@@||p.data.cctv.com^
 @@||p.ebaystatic.com^
 @@||p.eertu.be^
 @@||p.hulu.com^
@@ -22144,6 +22151,7 @@
 @@||pixietrixcomix.com^
 @@||pixiv.net^
 @@||pixroute.com^
+@@||pixso.cn^
 @@||pixsy.com^
 @@||pizzahut.com^
 @@||pizzapizza.ca^
@@ -23102,6 +23110,7 @@
 @@||quarterbore.com^
 @@||queenclocks.com^
 @@||querverdiener.com^
+@@||query.aliyun.com^
 @@||query.eu1.apc.avira.com^
 @@||query.prod.cms.rt.microsoft.com^
 @@||query.yahooapis.com^
@@ -25105,6 +25114,7 @@
 @@||sheldoniowa.com^
 @@||shell.com^
 @@||shellcheck.net^
+@@||shellprod.msocdn.com^
 @@||shellvoide.com^
 @@||shelterchallenge.com^
 @@||shelterluv.com^
@@ -25524,6 +25534,7 @@
 @@||sky.com^
 @@||skyapi.live.net^
 @@||skydio.com^
+@@||skydrive.wns.windows.com^
 @@||skydrivesync.policies.live.net^
 @@||skyfire.vimeocdn.com^
 @@||skyharbor.com^
@@ -29408,6 +29419,7 @@
 @@||ufalert.ufl.edu^
 @@||ufc.com^
 @@||uffsite.net^
+@@||ufileos.com^
 @@||ufl.edu^
 @@||uga.edu^
 @@||ugent.be^
@@ -30717,7 +30729,9 @@
 @@||wannatalkaboutit.com^
 @@||wap.10010.com^
 @@||wap.sogou.com^
+@@||wapiknow.baidu.com^
 @@||wapp.chat^
+@@||wappass.baidu.com^
 @@||waqi.info^
 @@||war-cdn.prod.whalekit.live^
 @@||wareable.com^
@@ -30972,6 +30986,7 @@
 @@||webs.com^
 @@||webservice.fanart.tv^
 @@||webservices.titantvguide.titantv.com^
+@@||webshell.suite.office.com^
 @@||websimages.com^
 @@||websistent.com^
 @@||websiteforstudents.com^
@@ -43553,6 +43568,7 @@
 @@||etsy.com/your/shops/$document
 @@||eu-vast.vertamedia.com/vmap?aid=$domain=inter.ua
 @@||euconfesso.com^$generichide
+@@||eum-blue-saas.instana.io^$app=com.kaufland.Kaufland
 @@||euoptout.mookie1.com^$domain=optout.mookie1.com
 @@||euro16.live^$stealth
 @@||eurogamer.pt^$generichide
@@ -55906,6 +55922,7 @@
 @@||swa.mail.ru/cgi-bin/counters?$script
 @@||swa.mail.ru/cgi-bin/counters?$script
 @@||swapsmut.com/video/$stealth
+@@||swasc.kaufland.com^$app=com.kaufland.Kaufland
 @@||swatchseries.to/freecale.html?$popup,domain=swatchseries.to
 @@||swatchseries.to/public/js/caleEncrypted.js
 @@||swatchseries.to/templates/default/js/advertising.js
@@ -58954,5 +58971,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-06-11 08:39:58
-! Total count: 58952
+! Version: 2022-06-11 14:09:10
+! Total count: 58969

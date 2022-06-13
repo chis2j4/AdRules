@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-06-13 08:46:42（北京时间） 
-! Total count: 5106
+! Version: 2022-06-13 16:11:07（北京时间） 
+! Total count: 5108
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3892,7 +3892,7 @@
 @@||ad.crwdcntrl.net^$domain=ap.org|newsinc.com
 @@||ad.crwdcntrl.net^$script,domain=rtl.nl
 @@||ad.de.doubleclick.net/imp;$object,domain=rtl-now.rtl.de|rtl2now.rtl2.de|rtlnitronow.de|superrtlnow.de|voxnow.de
-@@||ad.doubleclick.net/ddm/$popup,domain=billiger.de|guide-epargne.be|mail.yahoo.com|nytimes.com|spaargids.be
+@@||ad.doubleclick.net/ddm/$popup,domain=billiger.de|guide-epargne.be|legacy.com|mail.yahoo.com|nytimes.com|spaargids.be
 @@||ad.doubleclick.net/ddm/clk/*http$popup
 @@||ad.doubleclick.net/ddm/pfadx^$domain=n-tv.de
 @@||ad.doubleclick.net/ddm/trackclk/*http$popup
@@ -4013,6 +4013,7 @@
 @@||ads.google.com^$popup,domain=smallbusiness.withgoogle.com
 @@||ads.instacart.com/admin/$~third-party
 @@||ads.instacart.com^$popup
+@@||ads.julephosting.de/podcasts/$domain=open.spotify.com
 @@||ads.kazakh-zerno.net^$popup
 @@||ads.kbmax.com^$domain=adspipe.com
 @@||ads.listonic.com^$popup
@@ -6443,6 +6444,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=haberglobal.com.tr
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kanald.com.tr
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=liderform.com.tr
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=mein-schoener-garten.de
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=netzwelt.de
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=news.tvb.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=oyunkuzusu.com

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-06-13 08:46:31（北京时间） 
-! Total count: 14428
+! Version: 2022-06-13 16:10:59（北京时间） 
+! Total count: 14433
 -960x*0.gif
 -250.js*
 
@@ -7760,6 +7760,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ah-qichen.com^
 ||ah2.zhangyue.com/zybk/api/pop/index?
 ||ahcyzs8888.com^
+||ahm.jiankang123.net^
 ||ahov1.top^
 ||aibici.com^
 ||aiclk.com^
@@ -10712,6 +10713,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lf-hl.snssdk.com/*/article/information/
 ||lf-hl.snssdk.com/search/suggest^
 ||lf-hl.snssdk.com/ugc/publish^
+||lf1-cdn-tos.bytegoofy.com^
 ||lftxali.fancyapi.com^
 ||lg.nvlangre.com/js/db^
 ||lgjygg.com^
@@ -10729,6 +10731,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lichaoliang.com^
 ||lidebo.com^
 ||lidl.*^$removeparam=flyx
+||lie.vgijoh.com^
 ||lieqitianxia.cn^
 ||lieying.cn^
 ||life.html5.qq.com^
@@ -12985,6 +12988,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||uqidian.com^
 ||uranus.sogou.com^
 ||uri6.com^
+||url.3400.org^
 ||usingde.com^
 ||usingde.com^$third-party
 ||usn.cc^
@@ -13753,6 +13757,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||yehuitudu.cn^
 ||yemnn.cn^
 ||yengo.com^
+||yes.thewindrun.com^
 ||yesuphost.com^
 ||yeyoubbs.com/fang/ad
 ||yezilm.com^

@@ -52854,6 +52854,7 @@
 @@||pos.baidu.com/*?psi=*adblock$domain=jkpan.cc
 @@||pos.baidu.com^$script,domain=fxpan.com|htqyy.com|jkpan.cc
 @@||pos.baidu.com^$script,domain=rjno1.com
+@@||post2go.ru/widget/tracking?$~third-party
 @@||post4earn.com/js/advertisement.js
 @@||postandcourier.com^$generichide
 @@||postclickmarketing.com^$domain=adtspecials.com|befinanciallyfit.com|cursodemedicina.com.br|demandmetric.com|hootsuite.com|semipresencial.com.br|systemsprotect.com
@@ -58990,5 +58991,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-06-12 20:11:56
-! Total count: 58988
+! Version: 2022-06-13 08:43:34
+! Total count: 58989

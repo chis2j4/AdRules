@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-06-14 00:10:24（北京时间） 
-! Total count: 5110
+! Version: 2022-06-14 08:51:55（北京时间） 
+! Total count: 5111
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5316,6 +5316,7 @@
 @@||ethn.io/*.js$domain=medicare.gov
 @@||etonline.com/modules/contrib/ctd_cvp/js/prebid-ads.js$script,~third-party
 @@||etsy.com/api/v3/ajax/bespoke/*log_performance_metrics=$~third-party
+@@||eum-blue-saas.instana.io^|
 @@||euronewsgroup.demdex.net/event?d_event=$~third-party
 @@||ev.tpocdm.com^$xmlhttprequest,domain=wowma.jp
 @@||eventim.de^*/xtcore.js

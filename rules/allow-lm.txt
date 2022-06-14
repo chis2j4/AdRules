@@ -27826,6 +27826,7 @@
 @@||tablet.ntp-fireos.com^
 @@||tabsepin.net^
 @@||tacdynamics.com^
+@@||tacojohns.com^
 @@||tacomhq.com^
 @@||tacretailer.com^
 @@||tactacam.com^
@@ -39144,6 +39145,7 @@
 @@||api.pnd.gs/v*/sources/$domain=thenews.im
 @@||api.privacy-center.org/v*/events$domain=programme-television.org
 @@||api.privatbank.ua^$document
+@@||api.prod.bunnings.com.au^$stealth
 @@||api.rhombusads.com/v*/embed/check$domain=spin.com
 @@||api.rnet.plus//Block/Data?ids=$domain=shakko.ru|mirovich.media|livejournal.com
 @@||api.rnet.plus//Scripts/api.min.js$domain=shakko.ru|mirovich.media|livejournal.com
@@ -43593,6 +43595,8 @@
 @@||eu-vast.vertamedia.com/vmap?aid=$domain=inter.ua
 @@||euconfesso.com^$generichide
 @@||eum-blue-saas.instana.io^$app=com.kaufland.Kaufland
+@@||eum-blue-saas.instana.io^|
+@@||eum-blue-saas.instana.io^|
 @@||euoptout.mookie1.com^$domain=optout.mookie1.com
 @@||euro16.live^$stealth
 @@||eurogamer.pt^$generichide
@@ -59009,5 +59013,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-06-13 20:15:30
-! Total count: 59007
+! Version: 2022-06-14 08:46:42
+! Total count: 59011

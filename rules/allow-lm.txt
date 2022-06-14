@@ -45855,7 +45855,7 @@
 @@||googletagmanager.com/gtag/js$domain=xl-bygg.no
 @@||googletagmanager.com/gtag/js$domain=xl-bygg.no
 @@||googletagmanager.com/gtag/js$script,domain=dholic.co.jp
-@@||googletagmanager.com/gtag/js$script,domain=honeystinger.com|kawasaki.com|m.putlocker.how|mediaite.com|schwab.com|toptal.com
+@@||googletagmanager.com/gtag/js$script,domain=honeystinger.com|kawasaki.com|livongo.com|m.putlocker.how|mediaite.com|schwab.com|toptal.com
 @@||googletagmanager.com/gtag/js$script,domain=radiosarajevo.ba
 @@||googletagmanager.com/gtag/js$script,domain=rjno1.com
 @@||googletagmanager.com/gtag/js$script,domain=timparty.tim.it
@@ -48848,8 +48848,8 @@
 @@||labymod.net/affiliate/$~third-party
 @@||lacajetillaroja.blogspot.com^$generichide
 @@||lacalleochotv.org^$generichide
-@@||lacoste.com/on/demandware.static/*/click-analytics.js$~third-party
 @@||lacoste.com/on/demandware.static/*/js/dist-refit/framework/components/cookie-consent.js
+@@||lacoste.com^*/click-analytics.js$~third-party
 @@||lacrossetribune.com^$generichide
 @@||lacuevadeguns.com/forum/banner.gif?|
 @@||ladige.it^$generichide
@@ -50422,6 +50422,7 @@
 @@||my-news-portal.ru^$generichide
 @@||my.asos.com/identity^$stealth
 @@||my.bmi.ir^$elemhide,jsinject
+@@||my.dxdelivery.com/js/tracking.js$script,~third-party
 @@||my.foxnews.com^$stealth
 @@||my.leadpages.net/template/$script,domain=weddingjams.com|thesaturdaypaper.com.au|careercontessa.com
 @@||my.leadpages.net^*/public/
@@ -50873,6 +50874,7 @@
 @@||nytimes.com/ads/google/adsbygoogle.js
 @@||nytimes.com/ads/parakeet.min.js
 @@||nytimes.com/ads/parakeet.min.js
+@@||nytimes.com/games-assets/*/analytics.js$~third-party
 @@||nytimes.com^*/EventTracker.js$~third-party
 @@||nytimes.com^*/adslot-$script,xmlhttprequest
 @@||nytimes.com^*/adslot-$script,xmlhttprequest
@@ -51521,8 +51523,8 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dongknows.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=door2windows.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=download.mokeedev.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=download.pixelexperience.org|knowfacts.info|real-sports.jp|slideplayer.com|smallseotools.com|soranews24.com|tampermonkey.net|teemo.gg|thefreedictionary.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=download.pixelexperience.org|knowfacts.info|real-sports.jp|slideplayer.com|smallseotools.com|soranews24.com|tampermonkey.net|teemo.gg|thefreedictionary.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=download.pixelexperience.org|knowfacts.info|lacoste.com|real-sports.jp|slideplayer.com|smallseotools.com|soranews24.com|tampermonkey.net|teemo.gg|thefreedictionary.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=download.pixelexperience.org|knowfacts.info|lacoste.com|real-sports.jp|slideplayer.com|smallseotools.com|soranews24.com|tampermonkey.net|teemo.gg|thefreedictionary.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=download.shareappscrack.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=download.web.id
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=downloadrepack.com
@@ -59013,5 +59015,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-06-14 08:46:42
-! Total count: 59011
+! Version: 2022-06-14 14:10:33
+! Total count: 59013

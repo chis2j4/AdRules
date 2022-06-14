@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-06-14 16:11:38（北京时间） 
-! Total count: 14432
+! Version: 2022-06-15 00:11:38（北京时间） 
+! Total count: 14446
 -960x*0.gif
 -250.js*
 
@@ -62,6 +62,7 @@
 ##.theme-dark>.ayx>a
 ##.width.imgs_1
 ##.zozoads
+##A[href='/hth.html']
 ##A[href='/xinghuo-20.html']
 ##DIV#ad-index.col-12.position-relative
 ##DIV.sptable_do_not_remove f_one
@@ -77,6 +78,7 @@
 ##[evhrumjx]
 ##[href*="/entry/register/?i_code="]
 ##[href*='taobao.com/'][target='_blank']
+##[href="/ad/007.html"]
 ##[href="/js/c-7-16.html"][title="2021"]
 ##[href="http://dx106.live"]
 ##[href="javascript:GoDb();"]
@@ -104,6 +106,7 @@
 ##[href='http://www.fcf0020.xyz']
 ##[href='http://yb6277.vip']
 ##[href='https://91.yelang8.cc/']
+##[href='https://ad.ysgc.xyz/zb.html']
 ##[href='https://app.kkj.cn/']
 ##[href='https://blfanss.com']
 ##[href='https://cai35b9.com/']
@@ -122,6 +125,7 @@
 ##[href='javascript:GoTp();']
 ##[href='javascript:gl0212();'][ontouchstart='this.click();']
 ##[href^="http://ldy.fanlimanhua.cn/"]
+##[href^="https://9996867.com"]
 ##[href^="https://l.tyrantdb.com/"]
 ##[href^="https://www.ex311.com:"]
 ##[href^='/client/getapp.aspx']
@@ -260,6 +264,7 @@
 ##div[id][style="width: 100%;"] > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div[style^="width: 100%;"][style$="display: block;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##img#hth[onclick$="hth.html')"]
+##img#hth[onclick^="window.open"]
 ##oxk
 $$a[href="/js/app.htm?url="]
 $$a[href="changhong886.com"]
@@ -9082,6 +9087,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dbp-resource.cdn.bcebos.com/*/banner*.jpg
 ||dbys.tv/Runtime/js/sj_$script
 ||dc.sigmob.cn^
+||dc.wtiaw.top^
 ||dc.yuntuxianzhi.com^
 ||dc.zj-yxw.com^
 ||dc1.networkbench.com^
@@ -9578,6 +9584,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fuoo1.top^
 ||fusion.qq.com^
 ||fuz.cc^$third-party
+||fv.nftjjw.com^
 ||fwsir.com/templets/img/ms.js
 ||fx110.com/Pub/Ghz/GetModel
 ||fx110.com/Scripts/1.0.0/gulpmin/Ghz/
@@ -10712,7 +10719,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lf-hl.snssdk.com/*/article/information/
 ||lf-hl.snssdk.com/search/suggest^
 ||lf-hl.snssdk.com/ugc/publish^
-||lf1-cdn-tos.bytegoofy.com^
 ||lftxali.fancyapi.com^
 ||lg.nvlangre.com/js/db^
 ||lgjygg.com^
@@ -10784,6 +10790,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lnk0.com^
 ||lnk9c.amvecurt.cn^
 ||lnk9v.amvecurt.cn^
+||lnm.guozhongwang.cn^
 ||lnymd.com^
 ||lnzangcha.com^
 ||lnzq5.com/js/
@@ -11090,6 +11097,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mbdlog.iqiyi.com^
 ||mbdp02.bdstatic.com/static/landing-share/js^
 ||mbr.baiyishaonian.cn^
+||mbt.hongmao39.top^
 ||mbt.tangk.top^
 ||mc.a48505.cn^
 ||mc.aefmbeq.cn^
@@ -11383,6 +11391,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nbk.lm336.com^
 ||nbk.lm553.com^
 ||nbojiajiao.bid^
+||nbr.yangshengzu.cn^
 ||nbrecsys.4paradigm.com^
 ||nbsdk-baichuan.alicdn.com^
 ||nchap.com^
@@ -11703,7 +11712,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pds-midea.com^
 ||pee.cn^
 ||pepsico.com.cn^
+||percent.nbgsintl.com^
 ||percent.pfiparts.com^
+||pernet.zzycj.com^
 ||pflrv.cn^
 ||pg-ad-b1.ws.126.net^
 ||pgdt.gtimg.cn^
@@ -11834,6 +11845,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||propeller-tracking.com^
 ||propellerads.com^
 ||prscripts.com/pub
+||prt.uwnvcxb.cn^
 ||prxymecb.cn^
 ||psfq.gou.sogou.com^
 ||pss.alicdn.com/iku/log^
@@ -13013,6 +13025,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||v.weixiaov.club/qx6/php/check.php
 ||v.wsnew.cn^
 ||v.zhuozhongfangshui.cn^
+||v1qs.ywsywh.cn^
 ||v2.thefatherofsalmon.com^
 ||v2.uyan.cc^
 ||v2ex.com/b/i^
@@ -13027,6 +13040,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||vamaker.com^
 ||variety.tc.qq.com^
 ||vas-hl-x.snssdk.com^
+||vb.yubingyuan.top^
 ||vchiy.com^
 ||vdj1e.skogsborg.net^
 ||velocitycdn.com^

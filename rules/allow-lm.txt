@@ -1991,6 +1991,7 @@
 @@||api.thetvdb.com^
 @@||api.thumbalizr.com^
 @@||api.tmdb.org^
+@@||api.tonit.com^
 @@||api.trakt.tv^
 @@||api.tripleseat.com^
 @@||api.ts.feedback.qy.net^
@@ -8924,6 +8925,7 @@
 @@||dmn-dallas-news-prod.cdn.arcpublishing.com^
 @@||dmn.dallasnews.com^
 @@||dmotion.hs.llnwd.net^
+@@||dmp.mgapex.com^
 @@||dmqdd6hw24ucf.cloudfront.net^
 @@||dms.ospserver.net^
 @@||dmx.upc.ubisoft.com^
@@ -10810,6 +10812,7 @@
 @@||file.kbb.com^
 @@||file.market.xiaomi.com^
 @@||file.mdtoday.co.kr^
+@@||file.mgapex.com^
 @@||file.net^
 @@||file.ultimatenightvision.com^
 @@||file.videopolis.com^
@@ -16118,6 +16121,7 @@
 @@||itl.cat^
 @@||itnews.com.au^
 @@||itninja.com^
+@@||itop.mgapex.com^
 @@||itopstimes.com^
 @@||itp.cdn.icann.org^
 @@||itpro.co.uk^
@@ -18869,6 +18873,7 @@
 @@||mfiles.alphacoders.com^
 @@||mfstatic.cz^
 @@||mg.familydoctor.com.cn^
+@@||mgapex.com^
 @@||mgbsdk.matrix.netease.com^
 @@||mge.com^
 @@||mgewholesale.com^
@@ -32734,7 +32739,7 @@
 @@/advertising.js$script,~third-party,domain=animedigitalnetwork.fr
 @@/advertising/*$domain=315.sh.cn
 @@/adverts/*$domain=onlychild.cn
-@@/adview_pic_$domain=1090ys8.com|2hanju.com|fydy8.com|laimanhua.com|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|myqqjd.com|reh.tw|silisili.in|sssam.com|xiaoz.me|ykit.cn|zgpingshu.com|zyshow.net
+@@/adview_pic_$domain=bigpixel.cn|1090ys8.com|2hanju.com|fydy8.com|laimanhua.com|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|myqqjd.com|reh.tw|silisili.in|sssam.com|xiaoz.me|ykit.cn|zgpingshu.com|zyshow.net
 @@/advs/*$domain=ciros.com.cn|gotobuy.com.tw|sj-touch.com
 @@/adx.$domain=tanx.com
 @@/analytics.php?$domain=xcar.com.cn
@@ -33079,8 +33084,8 @@
 @@_468x60_$domain=top100arena.com
 @@_ad_300.$domain=bleacherreport.com
 @@_ads_cpc_$domain=90lover.cn
-@@_adview_cpc_$domain=52xkdy.com
 @@_cpc_cpm_$domain=saraba1st.com|ygo-sem.cn|youranshare.com
+@@_pic_cpm_$domain=52xkdy.com
 @@acloud*.com^$stealth,image,domain=wfwf135.com|wfwf137.com|wfwf138.com
 @@adfox.ru/$domain=ozon.ru
 @@adm.fwmrm.net/p/aetn_live/AdManager.swf$domain=mylifetime.com|aetnd.com
@@ -42266,6 +42271,7 @@
 @@||cpro.baidu.com/cpro/ui/rt.js$domain=rjno1.com
 @@||cpro.baidustatic.com/cpro/ui/c.js$domain=htqyy.com
 @@||cpro.baidustatic.com/cpro/ui/cm.js$domain=ali213.net|tangdoucdn.com
+@@||cpro.baidustatic.com/cpro/ui/cm.js$domain=bigpixel.cn
 @@||cpro.baidustatic.com/cpro/ui/cm.js$domain=pf.bigpixel.cn
 @@||cpro.baidustatic.com/cpro/ui/cm.js$script,domain=rjno1.com
 @@||cps.jd.ru^$stealth
@@ -46796,7 +46802,7 @@
 @@||hanjuwang.net^$script,~third-party
 @@||hao123img.com/resource/zt/widget/service/util/clickTrack.
 @@||haokoubei.top/dl/rfo_v_f_pc.js
-@@||haokoubei.top/jquery/jquery-1.7.2.min.js
+@@||haokoubei.top/sz/to_v_f.js
 @@||haoweichi.com/Public/js/ads.js
 @@||happy-hack.ru/*.js
 @@||happy2hub.me^$generichide
@@ -47251,7 +47257,6 @@
 @@||i.snssdk.com/log/sentry/$domain=lv.ulikecam.com
 @@||i.snssdk.com/slardar/sdk$domain=ixigua.com
 @@||i.snssdk.com/slardar/sdk$domain=ixigua.com
-@@||i.tmgrup.com.tr/videojs/adblockDetect.js$domain=atv.com.tr
 @@||i.tmgrup.com.tr^$script,stealth
 @@||i.ua/*/ico/share/share_*_24.png$domain=passport.i.ua
 @@||i.y.qq.com/*.html?ADTAG=
@@ -50628,8 +50633,7 @@
 @@||netatmo.commander1.com^|
 @@||netavenir.com^$domain=zap-tele.com
 @@||netbk.co.jp^$jsinject
-@@||netcine.ch^$generichide
-@@||netcine.io^$generichide
+@@||netcine.*^$generichide
 @@||netd.com/js/piwik-plugin.js
 @@||netd.com/js/piwik-plugin.js
 @@||netded.com/plus/ad_js.php?aid=3|
@@ -52909,6 +52913,8 @@
 @@||pos.baidu.com/*?psi=*adblock$domain=jkpan.cc
 @@||pos.baidu.com^$script,domain=fxpan.com|htqyy.com|jkpan.cc
 @@||pos.baidu.com^$script,domain=rjno1.com
+@@||pos.baidu.com^$subdocument,domain=bigpixel.cn
+@@||pos.baidu.com^*?di=u3160754&$domain=bigpixel.cn
 @@||post2go.ru/widget/tracking?$~third-party
 @@||post4earn.com/js/advertisement.js
 @@||postandcourier.com^$generichide
@@ -53981,6 +53987,7 @@
 @@||samuraiscan.com^$generichide
 @@||sanctuary.moe/js/ads-prebid.js
 @@||sanctuary.moe/js/doubleserve.js
+@@||sandbox.cryptpad.info^$elemhide,jsinject,content,extension
 @@||sandrives.blogspot.com.au^$generichide
 @@||sandrives.blogspot.com^$generichide
 @@||sandrives.blogspot.de^$generichide
@@ -56643,7 +56650,6 @@
 @@||tmgrup.com.tr/bd/hb/prebid.js$domain=atv.com.tr
 @@||tmgrup.com.tr/bd/hb/prebid.js$domain=atv.com.tr
 @@||tmgrup.com.tr/site/$script,stylesheet,stealth
-@@||tmgrup.com.tr/videojs/adblockDetect.js$domain=atv.com.tr
 @@||tmgrup.com.tr/videojs/adblockDetect.js$xmlhttprequest
 @@||tms.delta.com/delta/dl_bastian/*.js$domain=delta.com
 @@||tms.delta.com/delta/dl_bastian/*.js$domain=delta.com
@@ -56845,6 +56851,7 @@
 @@||track.svz.de/cre-*/tracking/tracking.js
 @@||track.svz.de/cre-*/tracking/tracking.js
 @@||track.toggl.com/auth^$stealth
+@@||track.ukrposhta.ua/tracking_*.html$stealth
 @@||track2.royalmail.com^
 @@||track2.royalmail.com^
 @@||track24.ru$generichide
@@ -59055,5 +59062,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-06-15 14:09:39
-! Total count: 59053
+! Version: 2022-06-15 20:13:53
+! Total count: 59060

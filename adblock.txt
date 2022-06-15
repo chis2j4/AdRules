@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-06-15 00:11:38（北京时间） 
-! Total count: 14446
+! Version: 2022-06-15 08:47:05（北京时间） 
+! Total count: 14448
 -960x*0.gif
 -250.js*
 
@@ -1660,7 +1660,7 @@ $removeparam=settings_tracking
 $removeparam=sfnsn
 $removeparam=shadow_vec_sim,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 $removeparam=share,domain=hs.fi
-$removeparam=share,domain=hs.fi|oerproject.com|quora.com
+$removeparam=share,domain=hs.fi|oerproject.com
 $removeparam=share_ab_group
 $removeparam=share_app_id
 $removeparam=share_app_name,domain=tiktok.com
@@ -3334,6 +3334,7 @@ btzx2017.com##.ad,.header_ad_place
 bububu.live$$a[href="advslog.php"]
 bububu.live$$div[class="overdiv"]
 budejie.com###downApp,#topBanner
+buffalonews.com##+js(set, lee_trkLinkSrc, noopFunc)
 buka.cn###download_bar
 bukaivip.com###header_eat
 bukaivip.com$$script[tag-content="showAd"]
@@ -8411,6 +8412,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bilibili.com^$removeparam=tdsourcetag
 ||bilibili.com^$removeparam=timestamp
 ||bilibili.com^$removeparam=unique_k
+||bilibili.com^$removeparam=vd_source
 ||bima.weathercn.com^
 ||bindright.com^$removeparam=camp_id
 ||bing.com/fd/ls/l?IG=

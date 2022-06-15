@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-06-15 08:47:15（北京时间） 
-! Total count: 5113
+! Version: 2022-06-15 16:11:13（北京时间） 
+! Total count: 5114
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -6508,6 +6508,7 @@
 @@||ingest.sentry.io/api/$xmlhttprequest,domain=orionprotocol.io|tesco.com
 @@||ingest.sentry.io/api/$xmlhttprequest,domain=tesco.hu
 @@||ingrossoprofumitester.it/img/ad-profumeria-$image,~third-party
+@@||innervision.co.jp/var/ezwebin_site/storage/images/ad/$image,~third-party
 @@||innovelsolutions.com^*/tracking/$~third-party
 @@||inoreader.com^$genericblock,generichide
 @@||inpad.com.tw/data/adv/

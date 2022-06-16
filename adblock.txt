@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-06-16 00:10:52（北京时间） 
-! Total count: 14446
+! Version: 2022-06-16 08:44:22（北京时间） 
+! Total count: 14458
 -960x*0.gif
 -250.js*
 
@@ -2095,6 +2095,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 .com/ads.
 .com/adv1/?q=
 .com/gg.js
+.gif$domain=787ck.cc
 .openx.
 .top/*/*-*-*-*.*?_=*
 .top/Report/*-*-*-*-*
@@ -6972,7 +6973,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||18mob.com^$third-party
 ||18rm.com^
 ||1905/openad_swf_plugin.swf
+||19273817.com^
 ||194007.com/4058.gif
+||19719197.com^
 ||198game.com^
 ||1990tu.com^
 ||19iiii.info/js/$script
@@ -7333,6 +7336,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||77nnv9.xyz^
 ||77u.com^
 ||77union.cn^
+||787ck.cc/static/js/home.js
 ||788111.com^
 ||79cm.com^
 ||79mob.com^
@@ -7536,6 +7540,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||acgshenshicha.cn^
 ||acgsou.com/js/nu
 ||ackcdn.net^
+||acoossu.top^
 ||acs.m.taobao.com/gw/mtop.common.getTimestamp/*$app=com.youku.phone
 ||acs4baichuan.m.taobao.com/gw-open^$app=com.youku.phone
 ||acs86.com^
@@ -7783,6 +7788,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||aiyouji.xyz^
 ||aj.drebz4f.shop^
 ||ajhdf.com^
+||ak-d.tripcdn.com^
 ||aksdkfj.biexsite.net^
 ||aksjdfk.guohexinxiang.com^
 ||aksldkjfd.11jianzhan.com^
@@ -10652,6 +10658,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kuqi.com^
 ||kusheng.wang/img/hd.png
 ||kushou.com^
+||kveii.com^
+||kveww.com^
+||kvhrrr.top^
 ||kviso.com/js/top.js
 ||kxewpz.com^
 ||kz.zf678.com^
@@ -11226,6 +11235,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mm.365dmp.com^
 ||mm.ficea.cn^
 ||mm28j.com^
+||mm2ah.com^
 ||mm3.mylmad.com^
 ||mmkkiivv.com^
 ||mmszxc.top^
@@ -12918,6 +12928,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||u.katelin.top^
 ||u.oppomobile.com^
 ||u.txuesoft.cn^
+||u0065.com^
+||u0067.com^
 ||u1.idongde.com^
 ||u26u.com/$third-party,~font,popup
 ||u8ad.com^

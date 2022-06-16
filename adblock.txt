@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-06-16 08:44:22（北京时间） 
-! Total count: 14458
+! Version: 2022-06-16 16:12:14（北京时间） 
+! Total count: 14469
 -960x*0.gif
 -250.js*
 
@@ -13,6 +13,7 @@
 ###ad1[url][onclick='window.open(this.url)'][src^='https://bj.bcebos.com/im-cs/'][width='100%']
 ###ad_a[href^='https://www.xxmh'][target='_blank']
 ###avshow
+###bl_mobile_float[style='height: 152px;']
 ###bottomNavad
 ###coupletBox
 ###ct > div.mn:last-child > div:nth-child(4) > table
@@ -5671,18 +5672,24 @@ tieba.baidu.com###plat_recom_carousel,.head_banner{height:75px;}
 tieba.baidu.com##.banner-wrapper
 tieba.baidu.com##.bottom-guide-box
 tieba.baidu.com##.client_ghost_icon
+tieba.baidu.com##.comment-box
 tieba.baidu.com##.daoliu_sign_in_show
 tieba.baidu.com##.dia_mask
 tieba.baidu.com##.dia_wrapper
 tieba.baidu.com##.father-cut-daoliu-normal-box
 tieba.baidu.com##.father-cut-recommend-normal-box
 tieba.baidu.com##.footer
+tieba.baidu.com##.hot-recommend-title.recommend-title
 tieba.baidu.com##.img-open-app
 tieba.baidu.com##.j_click_stats, .j_click_stats+*
 tieba.baidu.com##.li.tl_shadow.tl_shadow_new
 tieba.baidu.com##.light_top_ext_area
 tieba.baidu.com##.list_item_
+tieba.baidu.com##.more-btn-desc
+tieba.baidu.com##.more-image-desc
 tieba.baidu.com##.more_btn_package
+tieba.baidu.com##.nav-bar-bottom
+tieba.baidu.com##.only-lz
 tieba.baidu.com##.open-app-guide
 tieba.baidu.com##.open-style
 tieba.baidu.com##.post-cut-guide
@@ -6334,6 +6341,7 @@ www.sz5.cn##div.comiis_ads
 www.talkforex.com##div.wp.a_h,div.bm.a_c,div.bm.bw0.cl,div[class="frame move-span cl frame-1-1"],div.a_p,div.a_pb
 www.taoguba.com##DIV.gg_head,DIV#ad_text.ad_text,DIV#ggcontArea2,DIV#ggcontArea,DIV.a1_gg.jiange2,DIV.bd_gg.jiange2,DIV.ggdistich_tit,div.fgg_head_nei,DIV#ad_thread1_0.ad_textlink1,DIV.gg_foot,.sidegg
 www.taohuazu.tw##div[align="center"],[class="r money_336"]
+www.taptap.com##.open-app-button
 www.tgbus.com##div.guanggao,div.guanggao2,div.guanggao3,div.nr2
 www.tiexue.net##DIV.s_960x157,DIV.ad.s_960x90,DIV.banner,DIV[style^="width: 120px; height: 287px;"],DIV.main > DIV:first-child,dd#AdTopBarTop,dd#AdTopBarBot,img[src*=".junph.cn/images/origin/"],DIV.main > DIV.head + SCRIPT + STYLE + DIV,A[href="http://topic.junph.com/2015nzdc/?utm_source=TXs&utm_medium=L&utm_campaign=NZHdacu3"] + DIV > SPAN:first-child,DIV.layout_3 + STYLE + DIV
 www.tingqq.com###divplayer,.huiyTj
@@ -7620,6 +7628,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||admarvel.top^
 ||admaster.com.cn^
 ||admedia.com^
+||admhbl.xyz^
 ||admin25.com^
 ||admin5.com^
 ||admin6.com^
@@ -10855,6 +10864,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lookmovie211.xyz^$removeparam=sid
 ||lopostone.com^
 ||loupan99.com^
+||lovegg.club^
 ||lpjxzs.com^
 ||lpmzt.cn^
 ||lpqhkj.cn^
@@ -12177,6 +12187,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||s.bdstatic.com/common/openjs/openBox.js^
 ||s.btime.com^
 ||s.cchvc.net^
+||s.eybstar.com^
 ||s.fengmishop.cn^
 ||s.goodkee.cn^
 ||s.h5king.com^

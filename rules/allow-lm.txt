@@ -42234,6 +42234,8 @@
 @@||convertfiles.com^$generichide
 @@||convertpad.com/ad/
 @@||cookie-bar.eu^
+@@||cookie-cdn.cookiepro.com/consent$domain=gameinformer.com
+@@||cookie-cdn.cookiepro.com/scripttemplates$domain=gameinformer.com
 @@||cookie-consent.ingatlancdn.com/icom-cookie-consent-manager-*.min.js$domain=ingatlan.com
 @@||cookiebot.com/uc.js$domain=adac-shop.de
 @@||cookiebot.com^$domain=cliente.nos.pt|login.nos.pt
@@ -45846,7 +45848,7 @@
 @@||googleoptimize.com/optimize.js$domain=leukerecepten.nl
 @@||googleoptimize.com/optimize.js$domain=tehnomanija.rs
 @@||googleoptimize.com/optimize.js$domain=tehnomanija.rs
-@@||googleoptimize.com/optimize.js$script,domain=inquirer.com|tentree.ca
+@@||googleoptimize.com/optimize.js$script,domain=inquirer.com|lodgecastiron.com|tentree.ca
 @@||googleoptimize.com/optimize.js$script,domain=wallapop.com
 @@||googleoptimize.com/optimize.js$script,domain=wallapop.com
 @@||googlesyndication.com/pagead/imgad?$image,domain=auto-motor-und-sport.de
@@ -53054,6 +53056,7 @@
 @@||privacyportal-cdn.onetrust.com/*/privacy-notices/*.json$domain=healthline.com
 @@||privacyportal-cdn.onetrust.com/privacy-notice-scripts/*$domain=healthline.com
 @@||privacyportal-cisco-cdn.onetrust.com/dsarwebform/$domain=privacyrequest.cisco.com
+@@||privacyportal.cookiepro.com/request/*/consentreceipts
 @@||privat24.privatbank.ua^
 @@||privateuploads.net/%$stealth
 @@||pro-deals.com^$generichide
@@ -53062,7 +53065,7 @@
 @@||pro.hit.gemius.pl/gplayer.js$domain=nova.cz
 @@||pro.hit.gemius.pl/gstream.js$domain=ttv.pl
 @@||pro.hit.gemius.pl/gstream.js$domain=ttv.pl
-@@||pro.ip-api.com/json$xmlhttprequest,domain=aljazeera.com|cookappsgames.com|nontongp.xyz|sheee.co.il|walla.co.il
+@@||pro.ip-api.com/json$xmlhttprequest,domain=aljazeera.com|cookappsgames.com|nontongp.xyz|sheee.co.il|walla.co.il|weatherscan.tk
 @@||pro.similarweb.com^$document
 @@||pro3xplain.com/wp-content/themes/jannah*/assets/js/advertisement.js
 @@||proapkmod.com^$generichide
@@ -57510,6 +57513,8 @@
 @@||v.fwmrm.net/ad/g/1$domain=viafree.dk|viafree.fi|viafree.no|viafree.se
 @@||v.fwmrm.net/ad/g/1$domain=viasatsport.se
 @@||v.fwmrm.net/ad/g/1$domain=viasport.no
+@@||v.fwmrm.net/ad/g/1$script,domain=vevo.com
+@@||v.fwmrm.net/ad/g/1$script,domain=vevo.com
 @@||v.fwmrm.net/ad/g/1*&csid=cr_web_homepage_backup$domain=static.crunchyroll.com
 @@||v.fwmrm.net/ad/g/1?$domain=01net.com
 @@||v.fwmrm.net/ad/g/1?$domain=abc.go.com
@@ -59097,5 +59102,5 @@
 ! Description: HOSTS Project
 ! Expires: 24 hours (update frequency)
 ! Homepage: https://trli.coding.net/public/
-! Version: 2022-06-18 20:12:59
-! Total count: 59095
+! Version: 2022-06-19 14:09:36
+! Total count: 59100

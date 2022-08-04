@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-08-04 16:13:09（北京时间） 
-! Total count: 14656
+! Version: 2022-08-05 00:13:08（北京时间） 
+! Total count: 14660
 -960x*0.gif
 -250.js*
 
@@ -8041,6 +8041,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||api-analytics.huami.com^
 ||api-u-ssl.xunlei.com^
 ||api-yuedu.iqiyi.com/book/cloudShelf/pushCloudShelf?qyidv2=1DF0BFF1D9EC8E76824990C7D7A1F38E&appVer=3.6.6&srcPlatform=10&userId=read&qiyiId=865376038025837&md5=6fcd2d8b50e3117b73c8b06c5ec8ffa2&timeStamp=1530867293768$app=com.qiyi.video
+||api.1dfsdfg.com^
 ||api.22lianmeng.com^
 ||api.7017k.com^
 ||api.afdback.ppsimg.com^
@@ -10724,8 +10725,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||km.senxiaopang.top^
 ||kmaa45.com^
 ||kmb.gaoyuhu.top^
+||kmbr.mkqdj.cn^
 ||kme.dncvj.cn^
 ||kmgfjc.cn^
+||kmp.twbymc.cn^
 ||kmpl.rnqxp.cn^
 ||kmpxq.cn^
 ||kmr.enrosr.cn^
@@ -12295,6 +12298,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||rijutv.com/statics/skin/hjtv-wap/js/plus.js?
 ||riverisland.com^$removeparam=sem
 ||rjgw.theta.sogou.com^
+||rjl.rkzby.cn^
 ||rkm.wlhcb.cn^
 ||rl.go2yd.com^
 ||rlhn.xyz^

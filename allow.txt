@@ -1,5 +1,5 @@
 ! Title: Allowlist
-! Version: 2022-08-04 00:11:41（北京时间） 
+! Version: 2022-08-04 08:52:07（北京时间） 
 ! Total count: 5134
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
@@ -7051,6 +7051,7 @@
 @@||ncbi.nlm.nih.gov/stat?
 @@||nceea.cn/Content/images/ad/
 @@||ndr.de/common/resources/lib/atinternet/smarttag.js
+@@||nelonenmedia.fi/logger/logger-ini.json$xmlhttprequest,domain=embed.sanoma-sndp.fi
 @@||nemlog-in.dk/resources/js/adrum.js$~third-party
 @@||netatmo.commander1.com^|
 @@||netd.com/js/piwik-plugin.js
@@ -7745,7 +7746,6 @@
 @@||shopify.com/*assets/pixel.gif$image,domain=metrovac.com
 @@||shopify.com/shopifycloud/boomerang/shopify-boomerang-$domain=rydewear.com
 @@||shopping.naver.net/ad/$image,script,stylesheet,domain=naver.com
-@@||shoutcast.hubu.fm/stats?sid=$script,~third-party
 @@||show.g.mediav.com/s?type=$domain=v.360kan.com
 @@||show.g.mediav.com/s?type=$script,domain=miercn.com
 @@||showcase.codethislab.com/banners/$image,~third-party

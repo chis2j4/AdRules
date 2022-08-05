@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-08-05 16:12:00（北京时间） 
-! Total count: 14685
+! Version: 2022-08-06 00:13:21（北京时间） 
+! Total count: 14688
 -960x*0.gif
 -250.js*
 
@@ -8001,6 +8001,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||amfi.gou.sogou.com^
 ||amu520.com/imgnk/02.gif
 ||amung.us^$third-party
+||amxwqv.com^
 ||an.hswfj.cn^
 ||an.yandex.ru^
 ||an5.uyueread.com^
@@ -9522,6 +9523,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||eo.tchkcc.cn^
 ||eo.xiaojifly.cn^
 ||eoy.zhisuyunonline.cn^
+||eoyqzzk.cn^
 ||epaes.com.cn^
 ||epicgames.com^$removeparam=epic_affiliate
 ||epicgames.com^$removeparam=epic_gameId
@@ -11885,6 +11887,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pcvideows.titan.mgtv.com/pb/*.mp4*
 ||pcvideoyd.titan.mgtv.com/pb^
 ||pcxzo.pluto.sogou.com^
+||pdiabbi.cn^
 ||pdjyzx.com^
 ||pdrtcgfx.cn^
 ||pds-midea.com^

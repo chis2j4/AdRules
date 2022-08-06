@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-08-06 16:10:36（北京时间） 
-! Total count: 14688
+! Version: 2022-08-07 00:10:35（北京时间） 
+! Total count: 14689
 -960x*0.gif
 -250.js*
 
@@ -242,6 +242,7 @@
 ##[src^='/static/'][onclick='openurl()'][lazyload][importance='low']
 ##[src^='https://img.hylmxing.com:']
 ##[src^='https://mydisplay.ctfile.com/popview.php']
+##[src^='https://n5893.com'],[src^='https://gezkdx7.com'],[src^='https://n8182.com']
 ##[src^='https://p.jngdg.top/'][alt]
 ##[src^='https://play.cdn6.buzz/js/']
 ##[src^='https://qing.hellocdn.top/Cartoon/sss']

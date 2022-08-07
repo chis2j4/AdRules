@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-08-07 08:51:09（北京时间） 
-! Total count: 14694
+! Version: 2022-08-07 16:10:29（北京时间） 
+! Total count: 14708
 -960x*0.gif
 -250.js*
 
@@ -166,6 +166,7 @@
 ##[href^='https://item.taobao.com/item.htm'][rel='nofollow']
 ##[href^='https://jd.dangbei.com/']
 ##[href^='https://jwmic.91lu001.com']
+##[href^='https://kcc.qrjxween.com/cc/']
 ##[href^='https://l.h-ero.games/']
 ##[href^='https://m.jgg18.org/']
 ##[href^='https://mcc.rhwg4js.cn/']
@@ -9355,6 +9356,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||domains.ch^$removeparam=REF
 ||domob.cn^
 ||domob.com.cn^
+||dong.aeimmmj.cn^
 ||dongbeisurewin.com^
 ||doowe.cn^
 ||dopa.com^
@@ -9475,6 +9477,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ecard.shenzhentong.com^
 ||eclick.baidu.com^
 ||eclkspbn.com^
+||eclmy.vip/static/js/fc.js
+||eclmy.vip/static/js/xf.js
 ||eco.taobao.com^
 ||ecomgxh.kuwo.cn^
 ||ecosia.org^$removeparam=addon
@@ -9980,6 +9984,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hby.ppedp.cn^
 ||hbzshoes.com^
 ||hcadv.video.ums.uc.cn^
+||hcbmg.cn^
+||hcbmq.cn^
 ||hccms.com.cn^
 ||hcll20.oxjaus.com^
 ||hczzw.com^
@@ -10686,6 +10692,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kankan.com/xmpad
 ||kankanwu.com/js/ios.js
 ||kanseen.com^
+||kaqweqrdf.com^
 ||kat.how/popup.js
 ||kawa11.space^
 ||kb-render.alicdn.com^
@@ -12220,6 +12227,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qqzy1.cc^
 ||qr.cp31.ott.cibntv.net^
 ||qr3dz.gzfzcj.cn^
+||qrjxween.com^
 ||qs.lagowang.com^$object-subrequest
 ||qtmojo.com^
 ||quanbailing.com^
@@ -13178,6 +13186,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||um*.com^$third-party
 ||um.afcav.com^
 ||um29.com/$third-party,~font,popup
+||um5xcgngmart.xyz^
 ||umapi.cn^
 ||umc.danuoyi.alicdn.com^
 ||umeng.com^
@@ -13185,6 +13194,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||umiwi.com^
 ||umkezbh.cn^
 ||umsns.com^
+||umyrn.xyz|
 ||un-acs.youku.com^
 ||un.xz6.com^
 ||un1.takefoto.cn^
@@ -13231,7 +13241,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||uum6.com/$third-party,~font,popup
 ||uunak.cn^
 ||uvcourse.net^
+||uxbd4id.xyz^
 ||uyan.cc/$third-party
+||uyf1u0x7.xyz^
+||uyflu0x7.xyz^
 ||uyunad.com^
 ||v-*.71edge.com/videos/other^$empty
 ||v-dd*.*edge.com/videos/other^$domain=iqiyi.com,redirect=noopmp4-1s
@@ -14075,6 +14088,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ym193.com^$script
 ||ymapp.com^
 ||ymcdn.cn^
+||ymdxl.com^
 ||ymm17.cc^
 ||ymm19.cc^
 ||yncfwy.net^

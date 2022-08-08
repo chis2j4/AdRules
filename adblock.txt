@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-08-08 16:12:51（北京时间） 
-! Total count: 14710
+! Version: 2022-08-09 00:11:38（北京时间） 
+! Total count: 14716
 -960x*0.gif
 -250.js*
 
@@ -2040,7 +2040,7 @@ $removeparam=zsource,domain=slashgear.com
 $removeparam=zx,domain=google.*
 $script,subdocument,third-party,xmlhttprequest,domain=alicili.me|alicili8.com|alicilibt.com|bittorrentsearchweb.com|btdiggba.me|btdiggba.ws|btdiggcn.xyz|btdiggs.co|btkitty.com|btkitty.pet|btkittyba.cc|btkittyba.me|btkittyba.net|btkittyba.pw|btkittyla.me|btkittyla.org|btkittyon.co|btkittyplus.cc|btlibrary.xyz|btlibrarys.cc|btlibrarys.net|btspread.cc|cilidaquan.co|cilidaquan.top|cilidaquancn.pw|cilidb.net|cilifanhao.ws|cilifanhaobt.xyz|cnbtdigg.pw|cnbtkitty.xyz|cncilidb.pw|cntorrentkitty.co|cnzhongzicili.net|diggbts.cc|diggbts.xyz|feifeibt.pw|godiggbt.org|godiggbts.cc|kikibt.me|kikibts.org|mybtlibrary.cc|nanrenbt.cc|newbtkitty.me|newbtkitty.pw|newbtspread.ws|okbtkitty.me|renrencili.pw|renrencili.xyz|savebt.pw|sousoucili.com|storebt.net|storetorrents.com|torrentkitty.app|torrentsearchweb.xyz|zhainanbt.me|zhongzicilibt.org|zhongzicilicn.com|zhongzicilicn.ws|zhongzicilicn.xyz|zhongzicilila.cc|zhongzicilila.co|zhongziciliso.net|zhongzifuli.cc|zhongzishenqi.ws
 $script,third-party,xmlhttprequest,domain=btio.pw
-$third-party,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biqu.ge|biqubao.com|biquduge.com|biqug.org|biquga.com|biquge.info|biquge.tv|biquge001.com|biquge123.com|biquge5200.cc|biqugedu.com|biqugeg.com|biquger.com|biquges.com|biqugewx.com|biqugle.com|biquku.la|biquw.com|biquwu.cc|gebiqu.com|hehuamei.com|ibqg5200.com|m.fengyunok.com|mybooks8.com|shuquge.com|snzb.org|xbiquge.la|xsbiquge.com|xshengyan.com|xswang.com|yiyi120.com|yuanzunxs.cc|zuimeng8.com|zzbiquge.com
+$third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biqu.ge|biqubao.com|biquduge.com|biqug.org|biquga.com|biquge.info|biquge.tv|biquge001.com|biquge123.com|biquge5200.cc|biqugedu.com|biqugeg.com|biquger.com|biquges.com|biqugewx.com|biqugle.com|biquku.la|biquw.com|biquwu.cc|gebiqu.com|hehuamei.com|ibqg5200.com|m.fengyunok.com|mybooks8.com|shuquge.com|snzb.org|xbiquge.la|xsbiquge.com|xshengyan.com|xswang.com|yiyi120.com|yuanzunxs.cc|zuimeng8.com|zzbiquge.com|75dr.com|bggee.com|biquge96.com|biqugeabc.com|aishu5.com|biquger.net|senwy.com|biqugeso.org|whzh-xs.com|bqg.org|mmbqg.com
 $~image,removeparam=itok
 $~subdocument,removeparam=aff
 $~xmlhttprequest,removeparam=/^refsrc=/i
@@ -8559,6 +8559,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||biquge001.com/h5/wap.js
 ||biquge66.com/bcc.php
 ||biquge66.com/js/chapter.js
+||biquger.net/donlod^
 ||biquger.net/ts^
 ||biquguan.com/guan/
 ||biquw.com/6DAz2dRZ
@@ -9531,6 +9532,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||eo.jinzpeng.cn^
 ||eo.tchkcc.cn^
 ||eo.xiaojifly.cn^
+||eofemms.cn^
 ||eoy.zhisuyunonline.cn^
 ||eoyqzzk.cn^
 ||epaes.com.cn^
@@ -9730,6 +9732,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fydyjx.com^
 ||fywuywf.cn^
 ||fzb01.qiushibaike.com^
+||fzchpos.com^
 ||fzjchj.com^
 ||fzqfoil.cn^
 ||g-ec4.images-amazon.com^$domain=www.17qingsong.com
@@ -10142,6 +10145,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||humblebundle.com^$removeparam=zmg_code
 ||huodong.m.taobao.com/act^$third-party
 ||huomob.com^
+||huoxingtan66.com^
 ||hupu-nba.com^
 ||husky.sogou.com^
 ||huzhanbin.cn^
@@ -11329,6 +11333,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mercadolibre.com.mx^$removeparam=/^reco_/
 ||mercury-sdk.snssdk.com^
 ||metauniverse88.com^
+||metheny.cn^
 ||metosk.com^
 ||metvb.com/js/z.js
 ||mf01.zybang.com^
@@ -13320,6 +13325,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||visvn.cn^
 ||visvn.com^$third-party
 ||vivovip.mmszxc.top^
+||vjksa.com^
 ||vlive.qqvideo.tc.qq.com^
 ||vm.aty.sohu.com^
 ||vm5.i7akpd1.xyz^

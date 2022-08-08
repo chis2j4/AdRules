@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-08-08 08:43:21（北京时间） 
-! Total count: 14708
+! Version: 2022-08-08 16:12:51（北京时间） 
+! Total count: 14710
 -960x*0.gif
 -250.js*
 
@@ -1760,7 +1760,6 @@ $removeparam=soc_src
 $removeparam=soc_trk
 $removeparam=source,domain=agata88.com
 $removeparam=source,domain=eonline.com
-$removeparam=source,domain=facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
 $removeparam=source,domain=fiverr.com
 $removeparam=source,domain=medium.com
 $removeparam=source,domain=newyorker.com
@@ -7171,6 +7170,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||324.com^
 ||324.com^$third-party
 ||3244.chushoushijian.cn^
+||3269x.com^
 ||329329.com^
 ||33.autohome.com.cn^$script
 ||33.pcpop.com^
@@ -11775,6 +11775,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||onlyitv.com/assets/js/onlyitv.js
 ||onlytvb.com/assets/javascripts/
 ||oomyv.com^
+||ootyx24.com^
 ||open-adx.com^
 ||open.show.qq.com/cgi-bin/qqshow_user_gdt_ad?
 ||open.spotify.com^$removeparam=%243p
@@ -12986,6 +12987,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tj-yijiajing.com^
 ||tj.21ic.com^
 ||tj.7kww.net^$third-party
+||tj.allcdn.vip^
 ||tj.banzhu111.xyz^
 ||tj.tianwenhu.com^
 ||tj.video.qq.com^

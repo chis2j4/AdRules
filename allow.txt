@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-08-10 00:11:32（北京时间） 
-! Total count: 5129
+! Version: 2022-08-10 08:50:25（北京时间） 
+! Total count: 5128
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -7389,7 +7389,6 @@
 @@||pos.baidu.com^$subdocument,domain=bigpixel.cn
 @@||pos.baidu.com^*?di=u3160754&$domain=bigpixel.cn
 @@||post2go.ru/widget/tracking?$~third-party
-@@||postclickmarketing.com^$domain=adtspecials.com|befinanciallyfit.com|cursodemedicina.com.br|demandmetric.com|hootsuite.com|semipresencial.com.br|systemsprotect.com
 @@||postex.com/api/ping?$~third-party
 @@||postnord.no/api/tracking/$~third-party
 @@||potalapalace.cn/upload/images/advertise/picture/131030000583.jpg

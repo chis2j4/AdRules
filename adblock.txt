@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-08-11 16:11:03（北京时间） 
-! Total count: 14727
+! Version: 2022-08-12 00:11:21（北京时间） 
+! Total count: 14734
 -960x*0.gif
 -250.js*
 
@@ -8600,6 +8600,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bleepingcomputer.com^$removeparam=traffic_source
 ||blkxszh.com/zj/
 ||blog.csdn.net/*/phoenix/comment/list/
+||blog.csdn.net//phoenix/web/v2/skill-tree-info?
 ||blog.getadblock.com^$removeparam=gi
 ||blogad.com.tw^$third-party
 ||bloggerads.net^
@@ -8862,6 +8863,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||chuzushijian.cn^
 ||ciimg.com^
 ||ciliba.org/Public/static/js/common-v2.js^
+||cis.sohu.com^
 ||city.baiwb.com^
 ||city.cbh365.club^
 ||city.youpukeji.cn^
@@ -9711,6 +9713,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fotao9.com^$script
 ||fourier.taobao.com^
 ||fp.tongdun.net^
+||fpb0.sohu.com^
 ||fpb1.gxfin.com^
 ||fpbbdx2.bmcx.com^
 ||fpbcode.onlinedown.net^
@@ -9907,6 +9910,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gs307.com^
 ||gsjlfs.com^
 ||gsnlc.cn^
+||gsp0.baidu.com^
 ||gsp0.kj-gov.cn^
 ||gsxbxvd.cn^
 ||gt1n.com^
@@ -12051,6 +12055,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||privateadx.com^
 ||prjslxhtx005.top^
 ||pro.cn^
+||profile.csdnimg.cn^
 ||projectpoi.com^
 ||projectwonderful.com^
 ||promofarma.com^$removeparam=etf-name
@@ -12219,6 +12224,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qndown.com^
 ||qnwxk.com^$third-party
 ||qpb.sohu.com^
+||qpb0.sohu.com^
 ||qpic.cn/mblogpic/$image,domain=www.repaik.com|www.neonan.com
 ||qq.000123456789.online^
 ||qq.com/bbs/m/p/a/bottom_banner.htm
@@ -13096,6 +13102,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ts9.cc^
 ||tsdf.ajzsa.xyz^
 ||tsdflsdk.cypcb.net^
+||tsearch.snssdk.com^
 ||tsis.jpush.cn^
 ||tslomhfys.com^
 ||tsyndicate.com^

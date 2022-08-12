@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-08-12 16:13:37（北京时间） 
-! Total count: 14734
+! Version: 2022-08-13 00:13:00（北京时间） 
+! Total count: 14738
 -960x*0.gif
 -250.js*
 
@@ -10011,6 +10011,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hd.browser.miui.com^
 ||hd126.com/js/$script
 ||hd2.3g.qq.com^
+||hd30.jiarui666.cn/api/ad^
 ||hdbaichuan.cn^
 ||hdpbr.yahekby.cn^
 ||hdslb.com/*-tracker.js
@@ -12285,6 +12286,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qzda.cc^
 ||qzonestyle.gtimg.cn/qzone/phone/n/
 ||qzonestyle.gtimg.cn/qzone/qzact^
+||qzonestyle.gtimg.cn/qzone/space_item/material/PolymorphicPraise^
 ||qzpb.qq.com^
 ||qzpmx.cn^
 ||qzqd2.com^
@@ -12914,6 +12916,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tb1.bdstatic.com/tb/cms/frs/bg/$image
 ||tb1u.com^$third-party
 ||tbm.snssdk.com^
+||tbsone.imtt.qq.com^
 ||tcbox.baidu.com^
 ||tcgplayer.com^$removeparam=productLineName
 ||tcgplayer.com^$removeparam=setName
@@ -13220,7 +13223,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||umiwi.com^
 ||umkezbh.cn^
 ||umsns.com^
-||umyrn.xyz|
+||umyrn.xyz^
 ||un-acs.youku.com^
 ||un.xz6.com^
 ||un1.takefoto.cn^
@@ -13262,6 +13265,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||usingde.com^
 ||usingde.com^$third-party
 ||usn.cc^
+||uty.micocc.com/api/ad^
 ||uucm.cn^
 ||uuff.com^
 ||uum6.com/$third-party,~font,popup

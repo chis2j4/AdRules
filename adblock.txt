@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-08-13 16:11:03（北京时间） 
-! Total count: 14738
+! Version: 2022-08-14 00:10:21（北京时间） 
+! Total count: 14734
 -960x*0.gif
 -250.js*
 
@@ -2628,19 +2628,6 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 ?*__$~xmlhttprequest,removeparam=/^__[bce-z]/,domain=facebook.com|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|messenger.com
 ?adid=
 ?local_ga_js=
-@@$removeparam,domain=agenciatributaria.gob.es
-@@$removeparam,domain=api.bilibili.com
-@@$removeparam,domain=api.taiga.io
-@@$removeparam,domain=authorization.td.com
-@@$removeparam,domain=github.com
-@@$removeparam,domain=kreditkarten-banking.lbb.de
-@@$removeparam,domain=login.ingbank.pl
-@@$removeparam,domain=login.progressive.com
-@@$removeparam,domain=myaccount.google.*
-@@$removeparam,domain=support.steampowered.com
-@@$removeparam,domain=www.contestgirl.com
-@@$removeparam,domain=www.mma.go.kr
-@@$removeparam,domain=www.tinkoff.ru
 @@$removeparam=/^OCID=/i,app=Microsoft.Msn.News.exe
 @@.png#$domain=9zvip.net|club.tgfcer.com|coolinet.com|d1-dm.com
 @@/^https?:\/\/([a-z0-9-\.])*drive\.google\.com\/videoplayback/$removeparam
@@ -2702,13 +2689,17 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 @@||ad-gone.com^
 @@||ad.azure.com^
 @@||ad.ext.azure.com^
+@@||agenciatributaria.gob.es^$removeparam
 @@||aixifan.com/static/css/advertisement_
 @@||amazon-adsystem.*/v3/oor?$removeparam
 @@||amazon.*/gp/slredirect/picassoRedirect.html^$removeparam
 @@||amazon.*/message-us?$removeparam
 @@||android.bugly.qq.com/rqd/async?aid=47fefd70-7c99-4821-b989-25e49187e5e2$app=com.bilibili.app.blue
+@@||api.bilibili.com^$removeparam
+@@||api.taiga.io^$removeparam
 @@||api.tv.sohu.com/mobile_user/device^$app=com.sohu.sohuvideo
 @@||api.yjllq.com^
+@@||authorization.td.com^$removeparam
 @@||baidu.com/customer_search/api/
 @@||baidu.com/location/ip?$domain=dominos.com.cn|tanmizhi.com
 @@||baidustatic.com^$domain=xoyo.com
@@ -2770,6 +2761,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 @@||g.tbcdn.cn^
 @@||gamediad.com:7990
 @@||gg1z.com/statics/gg/*.css|
+@@||github.com^$removeparam
 @@||gog.com/click.html$removeparam
 @@||google-analytics.com/analytics.js$domain=ebb.io|komica.org|lenovo.com.cn|linetv.tw|maminews.com.tw|support.amd.com
 @@||google.*&tbm=isch&*#imgrc=$removeparam=fir
@@ -2793,6 +2785,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 @@||invoice-ua.taobao.com/e-invoice/invoice-apply-online.html?source$stealth
 @@||jdfood.com.tw/Upload/ADImages/*Image.jpg
 @@||kaixin001.com/ad/
+@@||kreditkarten-banking.lbb.de^$removeparam
 @@||league-funny.com^$script,~third-party
 @@||lemon.baidu.com^
 @@||lichess.org/login*referrer=$removeparam
@@ -2804,7 +2797,9 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 @@||livew.l.qq.com/crossdomain.xml
 @@||loc.map.baidu.com/sdk.php$app=com.baidu.BaiduMap
 @@||local.adguard.org^$important
+@@||login.ingbank.pl^$removeparam
 @@||login.meijer.com/*?ref=$removeparam
+@@||login.progressive.com^$removeparam
 @@||ltzn.9377.com^
 @@||luoo.net/ad/
 @@||mail.google.com/mail/u/$removeparam
@@ -2821,6 +2816,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 @@||mozilla.org/api$removeparam
 @@||mp.weixin.qq.com/mp/qrcode?$removeparam=scene
 @@||msn.wrating.com^
+@@||myaccount.google.*^$removeparam
 @@||myqqjd.com^
 @@||mywot.com/user/*/confirmNewEmail$removeparam=/^utm_/i
 @@||news.google.com.*?hl=$removeparam
@@ -2873,6 +2869,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 @@||stat.v-56.com/player
 @@||stripe.com/*?*referrer=$removeparam
 @@||sug.browser.miui.com^$important
+@@||support.steampowered.com^$removeparam
 @@||swjoy.com^
 @@||tanx.com/ex?i=mm_$domain=www.hao123.com
 @@||taobao.com$image
@@ -2896,13 +2893,16 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 @@||weibo.com/adshow/
 @@||www.avtbf.com/*.css$domain=avtbf.com
 @@||www.bilibili.com/html/iframemessage.html
+@@||www.contestgirl.com^$removeparam
 @@||www.cyberport.de/adscript.php$removeparam
 @@||www.google-analytics.com^$domain=myqqjd.com
 @@||www.googletagmanager.com^$domain=myqqjd.com
 @@||www.gsxt.gov.cn^
 @@||www.lanzous.com/includes/js/jquery.js$domain=lanzous.com,important
+@@||www.mma.go.kr^$removeparam
 @@||www.msn.cn/spartan/mmx^
 @@||www.sephora.com/api/$removeparam
+@@||www.tinkoff.ru^$removeparam
 @@||wx3.sinaimg.cn/large^$app=com.xiaoyin.love
 @@||wx3.sinaimg.cn/wap720^
 @@||wxsnsdy.wxs.qq.com^
@@ -8955,7 +8955,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||coinhive.com^
 ||coinurl.com/get.php?id=
 ||coll.v00yvd.xyz^
-||collect-v6.51.la^
 ||collect.ptengine.cn^
 ||collegepre.net^
 ||com*/ps/psCreat.js
@@ -10204,7 +10203,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||i3z.cn^
 ||i69txt.com/JSRmb/$script
 ||i7pnx0t.cn^
-||ia.51.la^
 ||iadmat.nosdn.127.net^
 ||iadmatvideo.nosdn.127.net^$domain=music.163.com
 ||iadmusicmat.music.126.net^
@@ -10614,7 +10612,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||js.qygzbxpt.com^
 ||js.tongdianku.com^
 ||js.union-wifi.com/zm.js?cid=*&dmac
-||js.users.51.la^
 ||js.wangxialin.top^
 ||js.whfyhouse.com^
 ||js.xz6d.com^
@@ -12459,7 +12456,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sdd.dzsc.com^
 ||sdfp.snssdk.com^
 ||sdgreg.cn^
-||sdk.51.la^
 ||sdk.api.bjshcw.com^
 ||sdk.api.oaid.wocloud.cn^
 ||sdk.conf.igexin.com^

@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-08-13 16:11:12（北京时间） 
-! Total count: 5132
+! Version: 2022-08-14 00:10:32（北京时间） 
+! Total count: 5133
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4613,6 +4613,7 @@
 @@||ccb.com^*^ad
 @@||ccllaa.com^$generichide
 @@||ccom-cdn.com/assets/img/clear.gif?ccom_md5=$domain=credit.com
+@@||cdc.gov/jscript/metrics/adobe/launch/$script,~third-party
 @@||cdiscount.com/Js/tracking/cdtmv2.js$script,~third-party
 @@||cdn-*.convertexperiments.com/js^$domain=xda-developers.com
 @@||cdn-care.com/js/analytics/$script,domain=care.com

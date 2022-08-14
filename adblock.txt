@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-08-14 08:49:14（北京时间） 
-! Total count: 14708
+! Version: 2022-08-14 16:10:30（北京时间） 
+! Total count: 14717
 -960x*0.gif
 -250.js*
 
@@ -9617,6 +9617,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||growingio.com^
 ||growthpic.weishi.qq.com^
 ||gs307.com^
+||gscatk.cn^
 ||gsjlfs.com^
 ||gsnlc.cn^
 ||gsp0.baidu.com^
@@ -9757,6 +9758,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hfawdgz.cn^
 ||hfctx.cn^
 ||hfrxs.com/js/hf$script
+||hft.ofooe.cn^
 ||hg5858.net^
 ||hgyouxi.net/data/hgyouxiad/attach
 ||hh.ru^$removeparam=exp
@@ -9821,6 +9823,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hnpjshop.com^
 ||hnr.sbldw.cn^
 ||hnrhyy.com/vip/$script
+||holor0804.cn^
 ||holor857.cn^
 ||home.xdf.cn/lee_sq/js/
 ||homepage-gw.jd.com/npromotion^$third-party
@@ -11962,6 +11965,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qchannel04.cn^
 ||qcjslm.com^
 ||qcmlw.com/js/service.js
+||qczcxe.cn^
 ||qd.wanjuanba.com^
 ||qdcode.com^
 ||qdff.zxwstong.com^
@@ -12034,6 +12038,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qj.ituanhui.com^
 ||qj202.cc^
 ||qjhlc.com^
+||qjxys.cn^
 ||qling.com^
 ||qly7hr.sydz.tw^
 ||qm92.com^$third-party
@@ -12231,6 +12236,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||runative-syndicate.com^
 ||runtujs.com^
 ||rv.shijixinrui.cn^
+||rvbztg.cn^
 ||rwpt.top^
 ||rxdsj.com/Runtime/js/vod
 ||rxwan.com^
@@ -13673,10 +13679,12 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.nda3456.com^
 ||www.okqjdn.com^
 ||www.parisianmacao.bet/rarbt.js
+||www.pcuois.com^
 ||www.pksanb.com^
 ||www.ppslsa.com^
 ||www.q4ee.top^
 ||www.qkixi.com^
+||www.qlspx.com^
 ||www.qq.com/?tag=getList
 ||www.qqads.com^
 ||www.qsixi.com^
@@ -13838,6 +13846,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xg.eqlidke.cn^
 ||xg.hbzhenquan.cn^
 ||xg.huataisangao.cn^
+||xg.jiezoiq.cn^
 ||xg.jisukuaisong.cn^
 ||xg.kmgfjc.cn^
 ||xg.lgygy.cn^

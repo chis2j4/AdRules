@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-08-18 16:11:26（北京时间） 
-! Total count: 14730
+! Version: 2022-08-19 00:16:34（北京时间） 
+! Total count: 14743
 -960x*0.gif
 -250.js*
 
@@ -59,6 +59,7 @@
 ##.ff-ads
 ##.gr_slide_car_inner
 ##.mi_btcon.ad
+##.popup + .shortcuts-mobile-overlay
 ##.ssr1
 ##.swiper-wrapper.leo-source-cho
 ##.theme-dark>.ayx>a
@@ -71,15 +72,19 @@
 ##DIV.tpc_icon
 ##DIV[id*="BAIDU_SSP__wrapper_"]
 ##IFRAME[src*="//pos.baidu.com/"]
+##SPAN#qdSZ2
+##SPAN[style="position: fixed; bottom: 30vh; z-index: 2147483647; right: 0px; margin-right: 6vw; padding: 0px; text-decoration: none; background-color: red; width: 7vw; height: 7vw; border-radius: 7vw; font-size: 6vw; color: rgb(255, 255, 255); text-align: center; transform: rotate(-90deg);"]
 ##[alt="要恰饭的嘛"]
 ##[alt=' 腐乐漫 '],[alt=' 西瓜社 ']
 ##[alt='52bl']
 ##[alt='ACG里番']
 ##[alt='西瓜社']
 ##[class*="isboostSideSlideShow"]
+##[class^="chapter_"] > .baiduCenter
 ##[class^=c_c][style^='text-align:']
 ##[evhrumjx]
 ##[href*="/entry/register/?i_code="]
+##[href*='sohu.com/hy-op']
 ##[href*='taobao.com/'][target='_blank']
 ##[href="/ad/007.html"]
 ##[href="/js/c-7-16.html"][title="2021"]
@@ -166,6 +171,7 @@
 ##[href^='https://gougew.lanzoub.com/']
 ##[href^='https://item.taobao.com/item.htm'][rel='nofollow']
 ##[href^='https://jd.dangbei.com/']
+##[href^='https://jincai.sohu.com/']
 ##[href^='https://jwmic.91lu001.com']
 ##[href^='https://kcc.qrjxween.com/cc/']
 ##[href^='https://l.h-ero.games/']
@@ -279,6 +285,7 @@
 ##div.m_avs
 ##div.row.abs-text
 ##div>span>[href='###']
+##div[class^="is_"] > a > img[referrerpolicy="no-referrer"][src*="hdslb.com"]
 ##div[id][style="width: 100%;"] > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div[style^="width: 100%;"][style$="display: block;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##img#hth[onclick$="hth.html')"]
@@ -1527,7 +1534,7 @@ $~xmlhttprequest,removeparam=mbid
 $~xmlhttprequest,removeparam=mcid,domain=~miguvideo.*
 $~xmlhttprequest,removeparam=msid
 $~xmlhttprequest,removeparam=qid,domain=~ebay.*|~forum.cantorsys.com|~hkex.com.hk|~tastedive.com|~zhidao.baidu.com
-$~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com
+$~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odysee.com
 $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbop.com|awesomeopensource.com
 &ad*&puid=*&uid=*=show
 &ad=*&referer=
@@ -5077,8 +5084,14 @@ sogou.com##.erwm-box
 sogou.com##[href^="https://s.click.taobao.com"],[id^="AD_"]
 sogou.com##div#bdfs0.rb,div#promotion_adv_container,div.sponsored,a.js_bannerImg,div.bottombar,div.advert-pos,.s_list_ad,#browser_ad,#sogouFrag_0,#frame_ad,.section_ad,#adContent,.ad-main,#wx_m,#adId,#googleAdId,.adsbygoogle,#sogouUnionAd,#spreadAd,#div_ad,[src^="http://amfi.gou.sogou.com/wapxml?pid="],#sf_t1,.side_adv_wrap,#side-module-ad
 sohu.com##.download-app
+sohu.com##DIV#bottomBanner[data-spm='b-mb'][data-spm-stop='init']
+sohu.com##DIV#middleBanner[data-spm='a-mb'][data-spm-stop='init']
+sohu.com##DIV.middle-insert-ad
+sohu.com##DIV.top-bill-wrapper[data-spm='a-tb'][data-spm-stop='init']
+sohu.com##[data-spm^='ad-']
 sohu.com##[id^="ads_"],#miaozhenad
 sohu.com##div.adA.area,div.adB.area,div#adList.area,div.ad-listB.clear,div.ad680,div.ad300,div[id^="ad_"],SOHUADCODE,DIV#turn-ad.area,DIV.adarea.area,DIV.adtop.area,DIV[class^="ad"].area,#vcr_60_1,DIV.columnC > DIV.titleA[collection="Y"],[class^="active_highQuality"],div.ad,#referr_bd_box,.ad650,.AD-new2,iframe[src^="http://images.sohu.com/bill/"],.god_header,.godR,[data-role="god_column"],[width="400"][height="40"]
+sohu.com##div.cbd-plate-bill.common-ad
 sohu.com##div.middle-insert-ad
 soku.com##.sk-banner,.sk_banner,.sk_adsr
 solarzoom.com##[class^="adv"]

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-08-19 16:11:39（北京时间） 
-! Total count: 14747
+! Version: 2022-08-20 00:13:12（北京时间） 
+! Total count: 14754
 -960x*0.gif
 -250.js*
 
@@ -5085,9 +5085,13 @@ sogou.com##.erwm-box
 sogou.com##[href^="https://s.click.taobao.com"],[id^="AD_"]
 sogou.com##div#bdfs0.rb,div#promotion_adv_container,div.sponsored,a.js_bannerImg,div.bottombar,div.advert-pos,.s_list_ad,#browser_ad,#sogouFrag_0,#frame_ad,.section_ad,#adContent,.ad-main,#wx_m,#adId,#googleAdId,.adsbygoogle,#sogouUnionAd,#spreadAd,#div_ad,[src^="http://amfi.gou.sogou.com/wapxml?pid="],#sf_t1,.side_adv_wrap,#side-module-ad
 sohu.com##.download-app
+sohu.com##.feedback
+sohu.com##.float-discuss-container
+sohu.com##.float-discuss-up.float-discuss-enter
 sohu.com##A[href='javascript:void(0);']
 sohu.com##DIV#bottomBanner[data-spm='b-mb'][data-spm-stop='init']
 sohu.com##DIV#middleBanner[data-spm='a-mb'][data-spm-stop='init']
+sohu.com##DIV#recommendSearch
 sohu.com##DIV.middle-insert-ad
 sohu.com##DIV.nice-img-clz
 sohu.com##DIV.top-bill-wrapper[data-spm='a-tb'][data-spm-stop='init']
@@ -9000,6 +9004,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dmsz.win7sky.com^
 ||dmtrck.com^
 ||dmya.lflmdm.com^
+||dmyrza.com^
 ||dns.weibo.cn^
 ||dns.ximalaya.com^
 ||dnzrx.blsenpg.cn^
@@ -11609,6 +11614,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||okwfx.cn^
 ||olcdn.com^
 ||olcdn.com^$script
+||oldulgk.cn^
 ||ole7o.cn^
 ||olmsoneenh.info^
 ||olmvkq.cn^
@@ -14219,6 +14225,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||yyt.heshun365.cn^
 ||yytcdn.com/uploads/player_image/
 ||yytcdn.com/user/bugles/
+||yywridi.cn^
 ||yzc35326.top^
 ||yzpsb.com/1.js
 ||yzpsb.com/js/system.js

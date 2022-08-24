@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-08-24 00:11:48（北京时间） 
-! Total count: 3070
+! Version: 2022-08-24 08:51:42（北京时间） 
+! Total count: 3069
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3797,7 +3797,6 @@
 @@||abchina.com^*ad
 @@||abcnews.com/assets/js/prebid.min.js$~third-party
 @@||abcnews.com/assets/player/$script,~third-party
-@@||abril.com.br^$generichide
 @@||ac.ebis.ne.jp^|
 @@||acb.com/javascripts/jv_feeder_stats.js
 @@||accounts.google.com/adwords/$domain=accounts.google.com

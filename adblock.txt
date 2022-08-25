@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-08-25 08:57:12（北京时间） 
-! Total count: 14775
+! Version: 2022-08-25 16:13:59（北京时间） 
+! Total count: 14782
 -960x*0.gif
 -250.js*
 
@@ -5975,6 +5975,7 @@ www.wangzhuanbar.com##div#bianlangensui,div.ad,img[class^="aligncenter size-full
 www.weiqitv.com##div#middle_bill,div.comment_right,img[src^="http://img.weiqitv.com/Uploads/video_"],a[href^="http://www.yiwugou.com/?hmsr="]
 www.williamlong.info##div.divAdsense,ins.adsbygoogle
 www.wjx.top$$div[id="divAward"]
+www.wuzhuiso.com##.download-app
 www.wy96.com##img[src^="/wy96ad/"]
 www.xbiquge.com,www.xbquge.com,www.biquge.tw,biquge.com.tw##.con_ad,[width="960"][height="90"],.dahengfu,[src^="http://img.xa9t.com/html/click/"],[src^="http://img.fd7c.com/html/click/"]
 www.xhgszy.com##A[href*='www.agg668.com']
@@ -14415,9 +14416,15 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 3dpianyuan.net##div#frameWu92km,div#djscontent,div[style="float:left;margin-top:5px"]
 3g.163.com##.big_boom
 3g.163.com##.bottom.widget-slider-article.widget-slider
+3g.163.com##.comment-link > .js-open-app
 3g.163.com##.comment_bot
 3g.163.com##.hotSearch-box
 3g.163.com##.js-new-relative-doc.new_relative_doc
+3g.163.com##.js-open-app.backflow-floating
+3g.163.com##.js-open-app.main-openApp
+3g.163.com##.js-open-app.s-tip
+3g.163.com##.js-open-app.sec-more-link
+3g.163.com##.js-recommend-wrap
 3g.163.com##.js-replylink.reply_count
 3g.163.com##.js-wakeupclient.wakeup_client
 3g.163.com##.m_pbpb_img,.m_pbpb_m1,.m_pbpb_m0,[id^="yx-"],div.a_topad,.article_ad,div.bottombanner-contain,div.fuck-qq-1,.a_adtemp,.m_papa_m1,.m_papa.papa-item

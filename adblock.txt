@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-08-25 00:12:04（北京时间） 
+! Version: 2022-08-25 08:57:12（北京时间） 
 ! Total count: 14775
 -960x*0.gif
 -250.js*
@@ -464,7 +464,7 @@ $removeparam=2p_click_token
 $removeparam=ACRID
 $removeparam=AFFNAME
 $removeparam=AFID,domain=~chggtrx.com|~state.gov
-$removeparam=AID,domain=~docs.google.*
+$removeparam=AID,domain=~google.*|~disqus.*|~disquscdn.com
 $removeparam=ASID
 $removeparam=ASUBID
 $removeparam=Adposition

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-08-25 16:13:59（北京时间） 
-! Total count: 14782
+! Version: 2022-08-26 00:11:36（北京时间） 
+! Total count: 14786
 -960x*0.gif
 -250.js*
 
@@ -3890,6 +3890,7 @@ jjxw.cn##.logo_ad_r,[class$="_banner"],#ad2,.c_banner_02_ad
 jkforum.net##div.a_p,div.a_pb,div.a_mu
 jlonline.com##.ad960,.ad670,.ad1200,.ad390
 jlonline.com##.focusPic,.ad300_250,[class^="ad_"]
+jmb.izzcwww*.*
 jmbbs.com##DIV.wp.a_h,DIV.comiis_ad,DIV.a_mu,DIV.a_pt,DIV.a_p,div.a_fl.a_cb,div.a_fr.a_cb,div.a_pr,div#comiis_jmad02,img[width="980"][height="60"],[src^="http://img.jmbbs.cn/sjgg/"],[width="1100"][height="55"],.a_pb
 jobbole.com###sidebar > .widget_text:first-child
 jobbole.com##.post-adds + .textwidget
@@ -4144,6 +4145,7 @@ ltaaa.com##div.a_mu,ins.adsbygoogle,div.lAds,[src^="http://img.ltaaa.com/data/ad
 ltn.com.tw##UL,div.ad_w300,div.app,ins.adsbygoogle
 luanren.com###diy1,DIV.bm.a_c + DIV[style],#diynavtop,#diyhlx01,#diyhlx8,#diy9,div[style^="width: 1000px; height: 60px;"],[class^="luanren_dbhfad"]
 lufuli.com##ins.adsbygoogle
+luoqiuzw.com##DIV[id^="a-loading-"]
 lvseba.cn##DIV.notice,div.l-header-ad
 lwgod.com##.a_mu,.a_pt
 lwxsw.org##.cad,.ad250left,div[style*="width:630px;height:250px;"],.adsbygoogle
@@ -9269,6 +9271,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||exceptionlog.kugou.com^
 ||excsyrv.cn^
 ||exdynsrv.com^
+||exevcl.cn^
 ||exoclick.com^
 ||exosrv.com^
 ||exp.bdstatic.com/static/common-jquery^
@@ -12023,6 +12026,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qdp.qidian.com^
 ||qdt.lxksalary.com^
 ||qdt.zjzh2019.com^
+||qdvideo.xyz^
 ||qfnoyix.cn^
 ||qfy.innotechx.com^
 ||qg1v.adroition.net^

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-08-26 00:11:36（北京时间） 
-! Total count: 14786
+! Version: 2022-08-26 08:54:45（北京时间） 
+! Total count: 14787
 -960x*0.gif
 -250.js*
 
@@ -9315,6 +9315,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||faiusr.com/2/ABUIABACGAAg_dCW0gUo7NqNJjDgATh3.jpg
 ||faiusr.com/3/ABUIABADGAAgkIXb6gUo-L_AwwcwsAk4Wg.gif
 ||famorlymal.com^
+||fandom.com^$removeparam=so
 ||fangyuan365.com/js/fangyuan5.js
 ||fanyi-app.baidu.com/transapp/api/jifengad?
 ||fanyi.baidu.com/wise/afd?

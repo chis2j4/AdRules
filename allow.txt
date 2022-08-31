@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-08-31 16:11:29（北京时间） 
-! Total count: 3073
+! Version: 2022-09-01 00:12:53（北京时间） 
+! Total count: 3074
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5600,6 +5600,7 @@
 @@||ntust.edu.tw/bin/showads.
 @@||ntv.co.jp/ad-navi/$domain=search.news24.jp
 @@||ntv.io/serve/load.js$domain=mcclatchydc.com
+@@||nvidia.cn^*-300x250-
 @@||nyt.com/analytics/json-$script,domain=nytimes.com
 @@||nyt.com/bi/js/tagx/tagx.js$domain=nytimes.com
 @@||nytimes.com/games-assets/*/analytics.js$~third-party

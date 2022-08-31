@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-08-31 09:00:09（北京时间） 
-! Total count: 14708
+! Version: 2022-08-31 16:11:20（北京时间） 
+! Total count: 14715
 -960x*0.gif
 -250.js*
 
@@ -172,6 +172,7 @@
 ##[href^='https://dt.mydrivers.com/qq.ashx']
 ##[href^='https://dt.mydrivers.com/zt.ashx']
 ##[href^='https://e.akmhw.com/c.html']
+##[href^='https://fcc.hxaxfcc.cn/']
 ##[href^='https://gougew.lanzoub.com/']
 ##[href^='https://item.taobao.com/item.htm'][rel='nofollow']
 ##[href^='https://jd.dangbei.com/']
@@ -6440,6 +6441,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||0123kjz.com^
 ||019103.com^
 ||01ws5t.cn^
+||0272aa.com^
 ||028yhtz.com^
 ||033.com^
 ||036e.cn^
@@ -7858,6 +7860,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||awsfjlalsf.huiyigou111.com^
 ||ax1x.com^$domain=caibaojian.com|htcui.com|nutgeek.com
 ||ayidaye.m.zwdu.com^
+||aymtdcg.cn^
 ||az.tiandesign.top^
 ||azs.fcheng.top^
 ||azureedge.net/script/$script
@@ -9075,6 +9078,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dxs.00xvppy.cn^
 ||dxwhyp.com^
 ||dxwpedu.me^
+||dxwsty.cn^
 ||dy2018.com/e/public/ViewClick/?classid=
 ||dybz*/js/html*.js
 ||dycwt.cn^
@@ -9138,6 +9142,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||eco.taobao.com^
 ||ecomgxh.kuwo.cn^
 ||ecosia.org^$removeparam=addon
+||ecudsc.cn^
 ||ed.gumoda.top^
 ||edayday.com/img/ad
 ||eddjf.com^
@@ -9897,6 +9902,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hwmwin.com^
 ||hwx.xazbts.com^
 ||hx623.cn^
+||hxdwsfg.cn^
 ||hxlover.com^
 ||hxqu.com^
 ||hxspc.com^
@@ -11120,6 +11126,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||metvb.com/js/z.js
 ||mf01.zybang.com^
 ||mfe.paqpq.com^
+||mfxyqh.cn^
 ||mg.ledaren.cn^
 ||mg.lingqinga.cn^
 ||mg.mngjrn.cn^

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-09-02 00:11:47（北京时间） 
-! Total count: 14715
+! Version: 2022-09-02 08:52:42（北京时间） 
+! Total count: 14720
 -960x*0.gif
 -250.js*
 
@@ -9710,6 +9710,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||haoyundmtaotao.com^
 ||happy.new.year.kanwby.com^
 ||happybao.com.cn^
+||hapying.com^
 ||hasdser.com^
 ||hauchi.com.tw^
 ||haxdu.org/hi18/guding
@@ -10033,6 +10034,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ilce.alicdn.com/montage^
 ||ildhy.com^
 ||ilepai.com^
+||ilkwork.com^
 ||iloveyouxi.com^
 ||ilyf4amifh.com^
 ||image-ad.sm.cn^
@@ -10255,6 +10257,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jialiren.net^
 ||jializyw.com^
 ||jianpian.vip^
+||jianshu.com/asimov/pdd_ads^
 ||jianshu.com^$replace=/\"show_ad\":true/"show_ad":false/
 ||jianshuapi.com/v2/admin/app_logs
 ||jianshuapi.com/v3/my/misc
@@ -12342,6 +12345,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sellbuyads.cn^$third-party
 ||sense-*.tapdb.net^
 ||sensors.cloud.tencent.com^
+||sensors.ibreader.com^
 ||seordl.cn^
 ||ser.uadrc.com^
 ||server.zymkcdn.com^
@@ -13136,6 +13140,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||udemy.com^$removeparam=publisher_id
 ||udemy.com^$removeparam=website_id
 ||udiab1.jianshu.com^
+||udiab2.jianshu.com^
 ||uedas.qidian.com^
 ||ueg.cc^
 ||ufojr.golden1.sogou.com^

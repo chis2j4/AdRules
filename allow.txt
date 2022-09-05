@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-09-05 09:03:39（北京时间） 
-! Total count: 3082
+! Version: 2022-09-05 16:13:09（北京时间） 
+! Total count: 3083
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5075,6 +5075,7 @@
 @@||guim.co.uk/uploader/$image,~third-party
 @@||gumtree.co.za/my/ads.html$~third-party
 @@||gunosy.co.jp/img/ad/$image,~third-party
+@@||gymnasedeburier.ch/themes/segment/js/$~third-party
 @@||h-sdk.online-metrix.net^|
 @@||haaretz.co.il/logger/p.gif?$image,xmlhttprequest
 @@||habibs.com.br/build/assets/js/tracking.js$domain=habibs.com.br

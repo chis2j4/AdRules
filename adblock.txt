@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-09-07 00:11:51（北京时间） 
+! Version: 2022-09-07 08:57:10（北京时间） 
 ! Total count: 14739
 -960x*0.gif
 -250.js*
@@ -505,7 +505,7 @@ $removeparam=LSNPUBID
 $removeparam=LSNPUBNAME
 $removeparam=LSNSID,domain=jwanderson.com
 $removeparam=LSNSUBSITE
-$removeparam=MID,domain=~media-cdn.costco.*
+$removeparam=MID,domain=~media-cdn.costco.*|~community.arubanetworks.com
 $removeparam=MT_ID,domain=ebay.*
 $removeparam=Medium,domain=facebook.com|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|messenger.com
 $removeparam=Osocial

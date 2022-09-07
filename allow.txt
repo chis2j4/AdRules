@@ -1,5 +1,5 @@
 ! Title: Allowlist
-! Version: 2022-09-07 08:57:18（北京时间） 
+! Version: 2022-09-07 16:15:22（北京时间） 
 ! Total count: 3085
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
@@ -3937,7 +3937,7 @@
 @@||ads.nationmedia.com/webfonts/$font
 @@||ads.pinterest.com^$popup
 @@||ads.privacy.qq.com^$domain=privacy.qq.com
-@@||ads.pubmatic.com/AdServer/js/pwt/$script,domain=independent.co.uk|india.com
+@@||ads.pubmatic.com/AdServer/js/pwtSync/$subdocument,domain=independent.co.uk|ndependentespanol.com
 @@||ads.roblox.com/v1/sponsored-pages$xmlhttprequest,domain=roblox.com
 @@||ads.rubiconproject.com/prebid/$script,domain=everydayhealth.com
 @@||ads.shopee.*/$popup

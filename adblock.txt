@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-09-09 16:14:21（北京时间） 
-! Total count: 14744
+! Version: 2022-09-10 00:12:20（北京时间） 
+! Total count: 14747
 -960x*0.gif
 -250.js*
 
@@ -78,6 +78,7 @@
 ##IFRAME[src*="//pos.baidu.com/"]
 ##SPAN#qdSZ2
 ##SPAN[style="position: fixed; bottom: 30vh; z-index: 2147483647; right: 0px; margin-right: 6vw; padding: 0px; text-decoration: none; background-color: red; width: 7vw; height: 7vw; border-radius: 7vw; font-size: 6vw; color: rgb(255, 255, 255); text-align: center; transform: rotate(-90deg);"]
+##UL[style='margin: 0px; padding: 0px; font-size: 0px; display: flex;']
 ##[alt="要恰饭的嘛"]
 ##[alt=' 腐乐漫 '],[alt=' 西瓜社 ']
 ##[alt='52bl']
@@ -9959,6 +9960,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||iadsdk.apple.com^
 ||iask.qq.com^
 ||ibaiducdn.com/Public/Assets/js/hz_
+||ibozys.cn^
 ||ic.aliyune.xyz^
 ||ic.snssdk.com/*/article/information/
 ||icast.cn^
@@ -14218,6 +14220,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||z2.fakutownee.cn^
 ||z888.izhufu.net^
 ||za5.net^
+||zailet.com^
 ||zangtui.com^
 ||zanox.com.cn^
 ||zaoyx.jrchiji.cn^

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-09-10 08:55:22（北京时间） 
-! Total count: 14747
+! Version: 2022-09-10 16:12:18（北京时间） 
+! Total count: 14749
 -960x*0.gif
 -250.js*
 
@@ -76,6 +76,7 @@
 ##DIV.tpc_icon
 ##DIV[id*="BAIDU_SSP__wrapper_"]
 ##IFRAME[src*="//pos.baidu.com/"]
+##IMG[src*='/gg/'][src$='180.gif'][src*='800']
 ##SPAN#qdSZ2
 ##SPAN[style="position: fixed; bottom: 30vh; z-index: 2147483647; right: 0px; margin-right: 6vw; padding: 0px; text-decoration: none; background-color: red; width: 7vw; height: 7vw; border-radius: 7vw; font-size: 6vw; color: rgb(255, 255, 255); text-align: center; transform: rotate(-90deg);"]
 ##UL[style='margin: 0px; padding: 0px; font-size: 0px; display: flex;']
@@ -13093,6 +13094,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tuinei.com^
 ||tuite8.com^
 ||tukj.net^
+||tumblr.com^$removeparam=is_related_post
 ||tunion-api.m.taobao.com^
 ||tunka.com.cn/images/1234.gif
 ||turn.com^

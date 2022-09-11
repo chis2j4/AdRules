@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-09-11 16:11:40（北京时间） 
-! Total count: 3094
+! Version: 2022-09-12 00:11:57（北京时间） 
+! Total count: 3096
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4112,6 +4112,7 @@
 @@||api.ipify.org^$xmlhttprequest,domain=offering-flower.com
 @@||api.ipinfodb.com^$xmlhttprequest,domain=management30.com
 @@||api.ipstack.com/check$domain=blockfi.com|get-in.com|withpersona.com
+@@||api.ipstack.com^$domain=ride.guru
 @@||api.nyda.pro^$websocket
 @@||api.paymentwall.com^$domain=adguard.com
 @@||api.perfops.net^$script,xmlhttprequest,domain=cdnperf.com|dnsperf.com
@@ -5301,7 +5302,7 @@
 @@||kameleoon.eu/ip.gif$domain=welt.de
 @@||kameleoon.eu/kameleoon.js$domain=welt.de
 @@||kanalfrederikshavn.dk^*/jquery.openx.js?
-@@||kaptcha.com/collect/sdk?$domain=wyze.com
+@@||kaptcha.com/collect/sdk?$domain=palmettostatearmory.com|wyze.com
 @@||kataweb.it/wt/wt.js?http$domain=gelocal.it|video.huffingtonpost.it|video.ilsecoloxix.it|video.lastampa.it|video.repubblica.it
 @@||kawasaki.com/Scripts/Analytics/BaseAnalytics.js$script,~third-party
 @@||kaxsdc.com/collect/sdk$xmlhttprequest,domain=vanillaereward.com
@@ -5699,6 +5700,7 @@
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=nlfreevpn.com|oldapps.com
 @@||pagure.io/static/issues_stats.js$~third-party
+@@||palmettostatearmory.com/static/$script,~third-party
 @@||pandora.com/images/public/devicead/$image
 @@||pandora.com^$generichide
 @@||panjiachen.github.io^$generichide

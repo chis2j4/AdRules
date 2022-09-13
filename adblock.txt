@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-09-13 16:14:01（北京时间） 
-! Total count: 14753
+! Version: 2022-09-14 00:12:41（北京时间） 
+! Total count: 14760
 -960x*0.gif
 -250.js*
 
@@ -864,7 +864,7 @@ $removeparam=effect_medium
 $removeparam=effect_source
 $removeparam=effi_id
 $removeparam=effi_id2
-$removeparam=eid,document,denyallow=embed.tapkal.fi,domain=~activationspot.com|~anidb.net|~howlongtobeat.com|~piwigo.org|~vmware.com|~eventbrite.*|~egift.blackhawknetwork.com|~redeem.giftcards.com|~scopus.com
+$removeparam=eid,document,denyallow=embed.tapkal.fi,domain=~activationspot.com|~anidb.net|~howlongtobeat.com|~piwigo.org|~vmware.com|~eventbrite.*|~egift.blackhawknetwork.com|~redeem.giftcards.com|~scopus.com|~jugem.jp
 $removeparam=elq
 $removeparam=elqCampaignId
 $removeparam=elqTrack
@@ -3579,6 +3579,7 @@ hkpic-forum.com##.portal_block_summary,.a_pb
 hkwb.net##[class^="guanggao"]
 hljtv.com##div.listAd1
 hlyy.cc##[src^="http://s1.limeishang.com:8081"],[width="960"],.ui-sponsor,[id$="_couplet"]
+hmqg.net##DIV#bottommob.bottommob
 hn.ifeng.com##.couplet,.fixed_ad
 hnt.58jingxuan.top/115
 hnt.58jingxuan.top/dhbioperhbvoprwm
@@ -9350,6 +9351,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fg.yilianqing.com^
 ||fgi90.com^
 ||fgn.nphqw.cn^
+||fhitagd.cn^
 ||fhoa365.com^
 ||fhsmtrnsfnt.com^
 ||file-yuedu.iqiyi.com/book^$app=com.qiyi.video
@@ -9869,6 +9871,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hp.smiler-ad.com^
 ||hpd.baidu.com^
 ||hpi.de^$removeparam=tracking_id
+||hpiekt.cn^
 ||hqf.aldkfsd.cn^
 ||hqgjcm.com^
 ||hrt.yukariyakumo.cn^
@@ -10046,6 +10049,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ihualun.com^$third-party
 ||ii.joqtfa.cn^
 ||iiad.com^
+||ijgocb.cn^
 ||ijuns.com^
 ||ikea.com/*/images/products^$removeparam=f
 ||ilce.alicdn.com/montage^
@@ -10612,6 +10616,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kviso.com/js/top.js
 ||kwdgudw.cn^
 ||kxewpz.com^
+||kyxw9itc.xyz^
+||kyxw9itv.club^
 ||kz.zf678.com^
 ||kzsha.com^
 ||l.aiseet.atianqi.com/livemsg^
@@ -11784,6 +11790,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||photojobz.com^$removeparam=hop
 ||photovms.tv.sohu.com/*/*_1.jpg$app=com.sohu.sohuvideo
 ||php?*=cpv
+||phputils.wc-os.com^
 ||pianba.tv/api/new_
 ||pianku.li/ajax/matomo
 ||pianku.tv/ajax/MyJs

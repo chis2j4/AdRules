@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-09-14 16:12:35（北京时间） 
-! Total count: 14761
+! Version: 2022-09-15 00:13:05（北京时间） 
+! Total count: 14766
 -960x*0.gif
 -250.js*
 
@@ -7227,6 +7227,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||adjwl.com^
 ||adk2.co^
 ||adk2x.com^
+||adkisdh3897.xyz^
 ||adkongjian.com^
 ||adlaunch.moji.com^
 ||adlive.cn^
@@ -8107,6 +8108,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bidvertiser.com^
 ||biepa.net/mm2019/sy_
 ||biepa.net/vjs/hf.js
+||bieqpf.cn^
 ||bigcood.xyz^
 ||bigcooe.xyz^
 ||bigdata.
@@ -10260,6 +10262,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jcde.site^
 ||jcrb.com/ZYW/$subdocument
 ||jd-bbs.com/tianyi/
+||jd5c.top^
 ||jebe.renren.com^
 ||jebe.xnimg.cn^
 ||jellyfish.pandora.xiaomi.com^
@@ -13007,6 +13010,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||toblog.ctobsnssdk.com^
 ||toblog.snssdk.com^
 ||toggle.qq.com^
+||tokopedia.com^$removeparam=extParam
+||tokopedia.com^$removeparam=refined
 ||tokopedia.com^$removeparam=src
 ||tokopedia.com^$removeparam=trkid
 ||tokopedia.com^$removeparam=whid

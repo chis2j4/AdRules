@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-09-16 08:57:21（北京时间） 
-! Total count: 14767
+! Version: 2022-09-16 16:12:45（北京时间） 
+! Total count: 14768
 -960x*0.gif
 -250.js*
 
@@ -4689,6 +4689,7 @@ orsoon.com##[href^="http://dl.qpzqxz.com/download/"]
 orsoon.com##div[class^="down-sect"]
 oschina.net##[src="/banner-aliyun.jpg"]
 oschina.net##a[name="question_banner_one"],div.google_ads,img[src^="http://static.oschina.net/uploads/cooperation/question_banner"],img[src^="http://static.oschina.net/uploads/ad/"],ins.adsbygoogle,#project_ad_banner,[src^="http://static.oschina.net/uploads/cooperation/index_banner_"],[width="300"][height="250"],#blog-title-ad,[data-tracepid^="index_banner"],.news-banner,[data-traceid$="_ad"],[data-traceid^="questionbanner"],[class$="_ad"],[class$="-ad"],[data-tracepid="question_detai_above"]
+oss-cn-hangzhou.aliyuncs.com##A.hm_item[href^='https://tcs-devops.aliyuncs.com/thumbnail/']
 ourjav.com##[width="300"]
 ouyaoxiazai.com##.ad_show,.qzhengfu,[href^="http://12808.url.tudown.com/down/"]
 oyksoft.com##.h-speed,#down-one,#down-two,.h-spd

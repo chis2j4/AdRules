@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-09-16 16:12:45（北京时间） 
-! Total count: 14768
+! Version: 2022-09-17 00:12:40（北京时间） 
+! Total count: 14775
 -960x*0.gif
 -250.js*
 
@@ -6784,6 +6784,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||4name.com^$third-party
 ||4o.cc^
 ||4po6iqp9.cn^
+||4sexmail.com^
 ||4wad.com^
 ||504pk.com^
 ||50bang.org^
@@ -6838,6 +6839,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||555x.org/Public/m/script/common.js
 ||559gp.com^
 ||55xs.com/files/article/html/xa6.js
+||55zzz.cn^
 ||56.com##.xiu_mm,#appBanner
 ||56.phlckj.cn^
 ||5603.net^
@@ -7618,6 +7620,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||api-yuedu.iqiyi.com/book/cloudShelf/pushCloudShelf?qyidv2=1DF0BFF1D9EC8E76824990C7D7A1F38E&appVer=3.6.6&srcPlatform=10&userId=read&qiyiId=865376038025837&md5=6fcd2d8b50e3117b73c8b06c5ec8ffa2&timeStamp=1530867293768$app=com.qiyi.video
 ||api.06fgej.com^
 ||api.22lianmeng.com^
+||api.36dfsa.com^
 ||api.7017k.com^
 ||api.afdback.ppsimg.com^
 ||api.appodeal.com/stats
@@ -9077,6 +9080,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||duoyi.com^
 ||dup.baidustatic.com^
 ||duyixpy.top^
+||dv.amtwcvh.cn^
 ||dv.taolingjing.com^
 ||dvb.pandora.xiaomi.com^
 ||dvzk66.cn^
@@ -9303,6 +9307,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||faei.cz^$removeparam=sznclid
 ||faiusr.com/2/ABUIABACGAAg_dCW0gUo7NqNJjDgATh3.jpg
 ||faiusr.com/3/ABUIABADGAAgkIXb6gUo-L_AwwcwsAk4Wg.gif
+||fakjkwp.cn^
 ||famorlymal.com^
 ||fandom.com^$removeparam=so
 ||fangyuan365.com/js/fangyuan5.js
@@ -9860,6 +9865,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||homepage-gw.jd.com/npromotion^$third-party
 ||hongdouav8.com^$script
 ||hoopchina.com.cn/pcbbs/js/read-shihuo-photo-ad.js
+||hopefullyapricot.com^
 ||hosting24.com^
 ||hostinger.$removeparam=session
 ||hot-mob.com^
@@ -10834,6 +10840,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lopostone.com^
 ||loupan99.com^
 ||lovegg.club^
+||lpasdfgwer.com^
 ||lpjxzs.com^
 ||lpmzt.cn^
 ||lpqhkj.cn^

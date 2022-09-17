@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-09-17 16:12:03（北京时间） 
-! Total count: 14775
+! Version: 2022-09-18 00:12:37（北京时间） 
+! Total count: 14778
 -960x*0.gif
 -250.js*
 
@@ -6885,6 +6885,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||60999.cn^
 ||61165.com^
 ||612.com^$third-party
+||61hhdp.com^
 ||620uu.com/images/$image
 ||63ig.com/*nr.js
 ||63ig.com/go.js
@@ -7166,6 +7167,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||acs.m.taobao.com/gw/mtop.common.getTimestamp/*$app=com.youku.phone
 ||acs4baichuan.m.taobao.com/gw-open^$app=com.youku.phone
 ||acs86.com^
+||acscdn.com^
 ||act.vip.iqiyi.com^
 ||activity.hnhnmg.com^
 ||activity.tuigorilla.com^
@@ -7373,7 +7375,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||adyun.com^
 ||adzerk.net^
 ||ae.bdstatic.com/xz/msite/static/sdk/main.*.js
-||ae.bdstatic.com^
 ||ae4.ifeng.com^
 ||aegis.qq.com^
 ||aeventlog.beacon.qq.com^
@@ -8059,7 +8060,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bdstatic.com/tb/img/firework_
 ||bdstatic.com/tb/static-common/js/pic_share/logger.js
 ||bdstatic.com/tb/static-pb/img/voice_ad.gif
-||bdstatic.eastmoney.com^
 ||bdtv.tianlangkm.com/img^$domain=baike.com
 ||bdwmhzfl.120askimages.com^
 ||bea-s.dinghuoche.com^
@@ -8980,6 +8980,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dj09j5u.cn^
 ||djhuo.com/css/js/whosyourdaddy.js
 ||djjca.
+||djv99sxoqpv11.cloudfront.net^
 ||dk.zeronethree.xyz^
 ||dke.hgkzl.cn^
 ||dkqapp.cn^
@@ -9051,6 +9052,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dp3.qq.com^
 ||dq06u9lt5akr2.cloudfront.net^
 ||dr999.cc^
+||drbccw04ifva6.cloudfront.net^
 ||dreamine.com^$third-party
 ||dreamlikeverse.com^
 ||drrykr.com^
@@ -12005,6 +12007,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qchannel04.cn^
 ||qcjslm.com^
 ||qcmlw.com/js/service.js
+||qcmm01.com^
 ||qczcxe.cn^
 ||qd.wanjuanba.com^
 ||qdcode.com^
@@ -12301,6 +12304,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||s.qhupdate.com^
 ||s.shufapeixun.shop^
 ||s.ssl.qhres.com/ssl^$third-party
+||s.ufile.cc^
 ||s.union.360.cn^
 ||s1-a4.ifun.tv^$rewrite=abp-resource:blank-mp3,domain=ifun.tv
 ||s1.dapenti.com^
@@ -14372,7 +14376,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zykwnj.cn^
 ||zymbrlgu.cn^
 ||zz.bdstatic.com^
-||zz.bdustatic.com^
 ||zz.imiqian.com^
 ||zz2143.com/img/*.gif
 ||zzad.com^

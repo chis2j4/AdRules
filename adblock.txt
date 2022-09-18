@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-09-18 08:56:31（北京时间） 
-! Total count: 14778
+! Version: 2022-09-18 16:12:02（北京时间） 
+! Total count: 14795
 -960x*0.gif
 -250.js*
 
@@ -7206,6 +7206,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||adcome.cn^
 ||adconfer.com^
 ||addabai.com^
+||addictedwonder.com^
 ||addthis.com^
 ||addthisedge.com^
 ||adeng.hpplay.cn^
@@ -7392,6 +7393,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ahcyzs8888.com^
 ||ahm.jiankang123.net^
 ||ahov1.top^
+||ahp18.site^
 ||aibici.com^
 ||aiclk.com^
 ||aidaicn.com^
@@ -7609,6 +7611,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ap*.pl520.com^
 ||ap.sunriseoutdoor.cn^
 ||ap.xiaomifood.cn^
+||aparvibices.com^
 ||apd-*.v.smtcdns.com/vhot2.qqvideo.tc.qq.com^
 ||apfobmfr.cn^
 ||api-access.pangolin-sdk-toutiao-b.com^
@@ -7677,6 +7680,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||api.wipmania.com^
 ||api.wolong.tv/wolong/ad^
 ||api.wolong.tv/wolong/app/appConfig?
+||api.xyhx.cc^
+||api.xyhx.org^
 ||api.youtu.qq.com^
 ||api.yuanzun888.com^
 ||api.yuedu.iqiyi.com^
@@ -8418,6 +8423,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cdn.data.video.iqiyi.com/cdn/qiyiapp/20180427/203554wae1dc4b65e4a3970e374e5e747b71824/com.qiyi.plugin.wallet.apk$app=com.qiyi.video
 ||cdn.holmesmind.com^
 ||cdn.pg88cdn.com^
+||cdn.sb4you1.com^
 ||cdn.smilk.cc^
 ||cdn.vue-js.cyou^
 ||cdn.weiye.net^
@@ -8745,6 +8751,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||crashlytics.com^
 ||cre-dp.sina.cn^
 ||cre.dp.sina.cn/api/v3/get?cateid=F&cre=tianyi&mod=wmil&merge=
+||creepingbrings.com^
 ||criteo.com^
 ||criteo.net^
 ||crjshop.com^
@@ -9251,6 +9258,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||etsy.com^$removeparam=click_sum
 ||etsy.com^$removeparam=organic_search_click
 ||etui8.cn^
+||eujxqgh.cn^
 ||euronews.com^$removeparam=_ope
 ||europe1.fr^$removeparam=xtor
 ||event.csdn.net^
@@ -9369,6 +9377,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||findicons.com^
 ||findqc.com^$third-party
 ||finead.cn^
+||firearmtire.com^
 ||firefang.cn^
 ||firefox.com^$removeparam=context
 ||firefox.com^$removeparam=entrypoint
@@ -9951,6 +9960,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hzxfmc.com^$third-party
 ||i*.hdslb.com/bfs/sycp/tmaterial/*.jpg@680w_200h*.webp$app=tv.danmaku.bili
 ||i-mobile.co.jp^
+||i.6v4.work^
 ||i.6v6.work^
 ||i.cidianwang.com^
 ||i.gtimg.cn/ams-web/public/tangram-report/settings-android-qq-*-hotfix.json
@@ -10498,6 +10508,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kankan.com/xmpad
 ||kankanwu.com/js/ios.js
 ||kanseen.com^
+||kasdwergv.com^
 ||kat.how/popup.js
 ||kawa11.space^
 ||kb-render.alicdn.com^
@@ -10540,6 +10551,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||khj.dtsxn.cn^
 ||khn.txscn.cn^
 ||kingsoft-office-service.com/ad?
+||kinhincauking.website^
 ||kiwihk.net^
 ||kj733.com^
 ||kjcenter.com^$third-party
@@ -11740,6 +11752,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pan.baidu.com/api/taskscore/tasklist?
 ||pan.baidu.com/rest/2.0/xpan/smartprogram?
 ||pan66.com/popup/
+||panchaxumbilic.com^
 ||panduoduo.net/ex?i=
 ||pangolin-dsp-toutiao.com/api/common/ads^
 ||pangolin-sdk-toutiao-b.com^
@@ -11784,6 +11797,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pcvideows.titan.mgtv.com/pb/*.mp4*
 ||pcvideoyd.titan.mgtv.com/pb^
 ||pcxzo.pluto.sogou.com^
+||pdhhmf.cn^
 ||pdiabbi.cn^
 ||pdjyzx.com^
 ||pdrtcgfx.cn^
@@ -12752,6 +12766,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||syndication.exdynsrv.com^
 ||syndication.realsrv.com^
 ||syndication.twitter.com^
+||syr66.com.cn^
 ||sysad.cn^
 ||systemcity.cn/feed.php
 ||syxgsq.com.cn^
@@ -13053,6 +13068,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||toutiao.eastday.com/?qid=
 ||toutiao.xn--fiqs8s^
 ||touxiang.la/js/book.js
+||tovppl.cn^
 ||tp.nty.tv189.com//bmsimg/*.jpg$domain=h5.nty.tv189.com,app=com.telecom.video
 ||tqmcj.cn^
 ||tr.jianshu.com^
@@ -13754,6 +13770,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.sioccu.com^
 ||www.soviewo.com^
 ||www.statics88.vip^
+||www.t5wm.cc^
 ||www.tctakoh.com^
 ||www.tianjinblg.com^
 ||www.toutiaopage.com^

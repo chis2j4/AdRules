@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-09-18 16:12:02（北京时间） 
-! Total count: 14795
+! Version: 2022-09-19 00:12:09（北京时间） 
+! Total count: 14806
 -960x*0.gif
 -250.js*
 
@@ -88,6 +88,7 @@
 ##[class^=c_c][style^='text-align:']
 ##[data-url='http://xixi.stylar.hk/']
 ##[evhrumjx]
+##[href$='/ads.aspx']
 ##[href*="/entry/register/?i_code="]
 ##[href*='sohu.com/hy-op']
 ##[href*='taobao.com/'][target='_blank']
@@ -6469,6 +6470,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||0792gdst.com^
 ||0817tt.com^
 ||086186.com^
+||0918080.cmspapp83.com^
 ||0aa1.com/dian.js
 ||0aa1.com/tong.js
 ||0b6h.cn^
@@ -8367,6 +8369,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||camelee.cn^
 ||canxx.com/right.js
 ||caoliuzx.tk^
+||caomeixz7.xyz^
 ||caoys1998.xyz^
 ||capcap621.cn^
 ||car156.net^
@@ -9751,6 +9754,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||haxdu.org/hi18/guding
 ||hbalx.cn^
 ||hbandier.com^
+||hbme.arwh3scr.world^
 ||hbt.alwayzcars.com^
 ||hbt.gz-hongxin.com^
 ||hbt.haihongzg.com^
@@ -9869,6 +9873,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hnpjshop.com^
 ||hnr.sbldw.cn^
 ||hnrhyy.com/vip/$script
+||hnt.qtmdzsj.cn^
 ||hollg8023.745c.cn^
 ||holor0804.cn^
 ||holor857.cn^
@@ -10573,6 +10578,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kmb.gaoyuhu.top^
 ||kme.dncvj.cn^
 ||kmgfjc.cn^
+||kmj.jsebmcv.cn^
 ||kmpl.rnqxp.cn^
 ||kmpxq.cn^
 ||kmr.enrosr.cn^
@@ -10606,6 +10612,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kp.rongedui.com^
 ||kr.sdykcloud.cn^
 ||krpano.org^
+||krt.asycxtz.cn^
 ||krt.zhengxiaoliu.top^
 ||krw.yrehdfer.com^
 ||kry.jknrwe.cn^
@@ -10852,6 +10859,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lookmovie211.xyz^$removeparam=sid
 ||lop.lamimi.cn^
 ||lopostone.com^
+||lou.lowadec.cn^
 ||loupan99.com^
 ||lovegg.club^
 ||lpasdfgwer.com^
@@ -12479,6 +12487,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||shouji.com.cn/static/v2/images/sj_banner_
 ||shouji360.org^
 ||shouliang.52lvgucci.com^
+||shouquan.laohutao.com^
 ||shouyou.com/$third-party
 ||shouyoutan.com/Runtime/js/$script
 ||show.9zwang.com^
@@ -13177,6 +13186,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tylll.igame2steam.com^
 ||tylll.paohao.com^
 ||tylll.zgystsd.com^
+||tymh2022.xyz^
 ||tz-dsp.com^
 ||tz.yuanmengbi.com^
 ||tzbtw.com^
@@ -13275,6 +13285,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||uqidian.com^
 ||uranus.sogou.com^
 ||uri6.com^
+||urm.zwjaoni.cn^
 ||usingde.com^
 ||usn.cc^
 ||uty.micocc.com/api/ad^

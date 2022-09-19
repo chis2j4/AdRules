@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-09-19 16:17:39（北京时间） 
-! Total count: 14830
+! Version: 2022-09-20 00:13:20（北京时间） 
+! Total count: 14831
 -960x*0.gif
 -250.js*
 
@@ -352,7 +352,7 @@ $removeparam=/^aff_sub[0-9]?=/
 $removeparam=/^affid=/i,domain=~redir.tradedoubler.com|~affiliate.geekbuying.com
 $removeparam=/^affiliateID=/i
 $removeparam=/^affsrc=/i
-$removeparam=/^amp$/
+$removeparam=/^amp$/,domain=~eurasiantimes.com
 $removeparam=/^amp;utm_/
 $removeparam=/^amp=1$/
 $removeparam=/^amp=true$/
@@ -7996,6 +7996,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||baike.baidu.com/tashuo/browse/content?$removeparam=lemmaTitle
 ||baike.baidu.com^$removeparam=fromLemmaModule
 ||baike.baidu.com^$removeparam=fromModule
+||baike.baidu.com^$removeparam=lemmaFrom
 ||baike.biz^
 ||baike.sogou.com^$removeparam=ch
 ||baimuyuan.com.cn^

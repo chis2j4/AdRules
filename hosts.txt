@@ -2,8 +2,8 @@
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 12 Hours
-# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2022-09-20 00:55:31
-# Total count: 78477
+# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2022-09-20 08:14:36
+# Total count: 78506
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 0001.best
@@ -11553,6 +11553,7 @@
 0.0.0.0 au.umeng.co
 0.0.0.0 au.umeng.com
 0.0.0.0 au.w.inmobi.com
+0.0.0.0 au1.gigya.com
 0.0.0.0 au2m8.com
 0.0.0.0 au737.com
 0.0.0.0 auberginecorny.com
@@ -16458,6 +16459,7 @@
 0.0.0.0 cdn.g5e.com
 0.0.0.0 cdn.gallery
 0.0.0.0 cdn.geodns.tubemogul.com
+0.0.0.0 cdn.gigya.com
 0.0.0.0 cdn.gimbal.tech
 0.0.0.0 cdn.gladly.com
 0.0.0.0 cdn.gmossp-sp.jp
@@ -16721,9 +16723,17 @@
 0.0.0.0 cdnquality.com
 0.0.0.0 cdnreference.com
 0.0.0.0 cdnrl.com
+0.0.0.0 cdns.au1.gigya.com
+0.0.0.0 cdns.eu1.gigya.com
+0.0.0.0 cdns.eu2.gigya.com
+0.0.0.0 cdns.gigya.com
 0.0.0.0 cdns.lodeo.io
 0.0.0.0 cdns.sdkconfig.site
 0.0.0.0 cdns.turn.com
+0.0.0.0 cdns.us1.gigya.com
+0.0.0.0 cdns1.gigya.com
+0.0.0.0 cdns2.gigya.com
+0.0.0.0 cdns3.gigya.com
 0.0.0.0 cdnsonata.taptapnetworks.com
 0.0.0.0 cdnspace.io
 0.0.0.0 cdnssl.clicktale.net
@@ -26604,7 +26614,9 @@
 0.0.0.0 eu.y.atwola.com
 0.0.0.0 eu01.nr-data.net
 0.0.0.0 eu1-spiky.wzrkt.com
+0.0.0.0 eu1.gigya.com
 0.0.0.0 eu1.wzrkt.com
+0.0.0.0 eu2.gigya.com
 0.0.0.0 euadsapi.manhuaren.com
 0.0.0.0 euadw.com
 0.0.0.0 euasync01.admantx.com
@@ -27502,6 +27514,9 @@
 0.0.0.0 farehitchlower.icu
 0.0.0.0 farethief.com
 0.0.0.0 farm-cn.plista.com
+0.0.0.0 farm5.eu1.gigya.com
+0.0.0.0 farm5.gigya.com
+0.0.0.0 farm5.us1.gigya.com
 0.0.0.0 farmer-love.us
 0.0.0.0 farmer.wego.com
 0.0.0.0 farmergoldfish.com
@@ -30434,6 +30449,7 @@
 0.0.0.0 gky73.cn
 0.0.0.0 gkzba.com
 0.0.0.0 gl-cash.com
+0.0.0.0 gl1e.top
 0.0.0.0 gl5g98t0vfjb.panprices.com
 0.0.0.0 glacah.com
 0.0.0.0 gladcrumple.com
@@ -30694,6 +30710,7 @@
 0.0.0.0 gnpge.com
 0.0.0.0 gnqxd.cn
 0.0.0.0 gnrdomimplementation.com
+0.0.0.0 gnrnws.cn
 0.0.0.0 gntwnrdui.xyz
 0.0.0.0 gnyergfy.com
 0.0.0.0 go-mpulse.net
@@ -31417,7 +31434,9 @@
 0.0.0.0 gsbygc.clarks.eu
 0.0.0.0 gscatk.cn
 0.0.0.0 gscontxt.net
+0.0.0.0 gscounters.eu1.gigya.com
 0.0.0.0 gscounters.gigya.com
+0.0.0.0 gscounters.us1.gigya.com
 0.0.0.0 gsecondscreen.com
 0.0.0.0 gsecurecontent.com
 0.0.0.0 gshtrl.top
@@ -32436,6 +32455,7 @@
 0.0.0.0 hegiraquirl.com
 0.0.0.0 hegrem.com
 0.0.0.0 heguoya.work
+0.0.0.0 heha2cpoe.icu
 0.0.0.0 hehehe.buzz
 0.0.0.0 hehighursoo.com
 0.0.0.0 hehmy.cn
@@ -33726,6 +33746,7 @@
 0.0.0.0 hutawheglu.com
 0.0.0.0 huuyluwjkyd.xyz
 0.0.0.0 huyc.info
+0.0.0.0 huyccuy.cn
 0.0.0.0 huzalor.cn
 0.0.0.0 huzhanbin.cn
 0.0.0.0 hv.adingo.jp
@@ -35996,6 +36017,7 @@
 0.0.0.0 ispot.tv
 0.0.0.0 isrckajaxwu.com
 0.0.0.0 isreas.com
+0.0.0.0 isroeiq.cn
 0.0.0.0 issuecdn.baidupcs.com
 0.0.0.0 ist-track.com
 0.0.0.0 istana-impian.com
@@ -37292,7 +37314,6 @@
 0.0.0.0 js.ysfzf.cn
 0.0.0.0 js.yulzm.com
 0.0.0.0 js.zhuoyaju.com
-0.0.0.0 js.zol.com.cn
 0.0.0.0 js02.adlooxtracking.com
 0.0.0.0 js05.adlooxtracking.com
 0.0.0.0 js07.adlooxtracking.com
@@ -39336,9 +39357,12 @@
 0.0.0.0 lazyovertime.com
 0.0.0.0 lb-adsdis.mng-ads.com
 0.0.0.0 lb-adsmob.mng-ads.com
+0.0.0.0 lb-d.us1.gigya.com
 0.0.0.0 lb.aatkit.com
 0.0.0.0 lb.affilae.com
+0.0.0.0 lb.au1.gigya.com
 0.0.0.0 lb.billing01.email-allstate.com
+0.0.0.0 lb.eu1.gigya.com
 0.0.0.0 lb.gtimg.com
 0.0.0.0 lb.marketing01.email-allstate.com
 0.0.0.0 lb.quote01.email-allstate.com
@@ -47885,7 +47909,6 @@
 0.0.0.0 ognyvo.ru
 0.0.0.0 ognyvo24.ru
 0.0.0.0 ogocvet.ru
-0.0.0.0 ogogear.com
 0.0.0.0 ogqcuudzsuukds.com
 0.0.0.0 ograuwih.com
 0.0.0.0 ogrfi3uyt7.com
@@ -49025,6 +49048,7 @@
 0.0.0.0 ow.pubmatic.com
 0.0.0.0 ow.s1.shuhuangge.org
 0.0.0.0 ow.s2.shuhuangge.org
+0.0.0.0 owadakesk.cyou
 0.0.0.0 owap.su
 0.0.0.0 owb101.goo.ne.jp
 0.0.0.0 owcdcamldcu.com
@@ -49109,6 +49133,7 @@
 0.0.0.0 oygohusvggaurod.xyz
 0.0.0.0 oyi9f1kbaj.com
 0.0.0.0 oykdkjy0jj8.wshlcgj.com
+0.0.0.0 oykmil.cn
 0.0.0.0 oyknmi.cn
 0.0.0.0 oyssqe.easyvoyage.com
 0.0.0.0 oyvyxj.cn
@@ -49128,6 +49153,7 @@
 0.0.0.0 ozongees.com
 0.0.0.0 ozooltik.com
 0.0.0.0 ozowis.ledger.com
+0.0.0.0 ozqae.xyz
 0.0.0.0 oztumte.ru
 0.0.0.0 ozvlyz.justmusic.de
 0.0.0.0 ozwvd.com
@@ -68238,6 +68264,7 @@
 0.0.0.0 tracking.athlon.com
 0.0.0.0 tracking.atreemo.com
 0.0.0.0 tracking.att.com
+0.0.0.0 tracking.audio.thisisdax.com
 0.0.0.0 tracking.aupairinamerica.com
 0.0.0.0 tracking.avladies.de
 0.0.0.0 tracking.badeladies.de
@@ -70589,6 +70616,7 @@
 0.0.0.0 us04logfiles.zoom.us
 0.0.0.0 us1-sdk.bluedot.io
 0.0.0.0 us1-spiky.wzrkt.com
+0.0.0.0 us1.gigya.com
 0.0.0.0 us1.wzrkt.com
 0.0.0.0 us1tryasemi.ru
 0.0.0.0 us2ozhalin.ru
@@ -76623,6 +76651,7 @@
 0.0.0.0 yipanhaocai.com
 0.0.0.0 yiqifa.com
 0.0.0.0 yiqima.xyz
+0.0.0.0 yiqiqgmy.cn
 0.0.0.0 yiqiwin.com
 0.0.0.0 yiran686.cn
 0.0.0.0 yiranxian.cn

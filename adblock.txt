@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-09-20 16:14:23（北京时间） 
-! Total count: 14833
+! Version: 2022-09-21 00:13:32（北京时间） 
+! Total count: 14836
 -960x*0.gif
 -250.js*
 
@@ -9586,7 +9586,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||glores2.lanzoui.com^
 ||gma1.com^
 ||gmbuluo.com/js/
+||gndmnrh.cn^
 ||gnqxd.cn^
+||gnrnws.cn^
 ||go.skimresources.com^$removeparam=xcreo
 ||go.skimresources.com^$removeparam=xed
 ||go.sohu.com^
@@ -14136,6 +14138,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||yehuitudu.cn^
 ||yemnn.cn^
 ||yengo.com^
+||yenyshy.com^
 ||yes.thewindrun.com^
 ||yesuphost.com^
 ||yeyoubbs.com/fang/ad

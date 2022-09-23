@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-09-23 16:13:26（北京时间） 
-! Total count: 14842
+! Version: 2022-09-24 00:14:00（北京时间） 
+! Total count: 14845
 -960x*0.gif
 -250.js*
 
@@ -191,6 +191,7 @@
 ##[href^='https://record.brave108.com/']
 ##[href^='https://stock.weibo.cn/zh/match']
 ##[href^='https://t2406.com:']
+##[href^='https://tz.kefuyuming.vip/']
 ##[href^='https://v44868.com:']
 ##[href^='https://vip.huijujiavip.com']
 ##[href^='https://vip.infobbs.xyz/atl.php']
@@ -1025,6 +1026,7 @@ $removeparam=is_copy_url
 $removeparam=is_from_origin_btn,domain=shein.com
 $removeparam=is_from_webapp
 $removeparam=is_manual_change_site,domain=shein.com
+$removeparam=is_pocket
 $removeparam=is_retargeting
 $removeparam=istBid
 $removeparam=istCompanyId
@@ -10261,6 +10263,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||j.aishangdaike.com^
 ||j.b0rbgroup.xyz^
 ||j.dailiqing.net^
+||j.guanjiabo.net^
 ||j.guotaotaoci.net^
 ||j.gxlsjt.com^
 ||j.iklda.cn^

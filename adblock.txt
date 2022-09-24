@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-09-24 16:12:37（北京时间） 
-! Total count: 14853
+! Version: 2022-09-25 00:11:56（北京时间） 
+! Total count: 14870
 -960x*0.gif
 -250.js*
 
@@ -7100,6 +7100,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||9gag.com^$removeparam=ref
 ||9h1111.com^
 ||9ipin.cn^
+||9js6.icu^
 ||9kld.com/g
 ||9mbv.com^
 ||9tn.cc^
@@ -7406,6 +7407,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ahov1.top^
 ||ahp18.site^
 ||ahp19.site^
+||ahp24.site^
 ||aibici.com^
 ||aiclk.com^
 ||aidaicn.com^
@@ -8116,6 +8118,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bfdcdn.com^
 ||bfdtt.com^
 ||bfniq.theta.sogou.com^
+||bh0874.online^
 ||bh100.com.cn^
 ||bhlianhe.com^
 ||bhtbnb.qqqwww987.space^
@@ -8324,6 +8327,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bubulai.com/js/xv.js
 ||bubulai.com/js/zv.js
 ||bugly.qq.com^
+||bulisite.top^
 ||buschgardens.com^$removeparam=AFS
 ||butou.cn^
 ||buyihao.com^
@@ -8436,7 +8440,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cdn.bootcss.com/flv.js/1.3.3/flv.min.js
 ||cdn.bootcss.com/layer/2.1/layer.js$domain=ganbi66.com
 ||cdn.data.video.iqiyi.com/cdn/qiyiapp/20180427/203554wae1dc4b65e4a3970e374e5e747b71824/com.qiyi.plugin.wallet.apk$app=com.qiyi.video
+||cdn.hanaya-m.com^
 ||cdn.holmesmind.com^
+||cdn.jquery-cdn.cc^
 ||cdn.pg88cdn.com^
 ||cdn.sb4you1.com^
 ||cdn.smilk.cc^
@@ -8537,6 +8543,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cjroq.bealge.sogou.com^
 ||ck.tcsgcdn.top^
 ||ck1997.com/js/lunbo.js
+||ckerw.xyz^
 ||ckl.unetall.com^
 ||clarins.com.cn^
 ||click.abi.run^
@@ -9078,6 +9085,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||drbccw04ifva6.cloudfront.net^
 ||dreamine.com^$third-party
 ||dreamlikeverse.com^
+||dreemdmbabys.oss-cn-guangzhou.aliyuncs.com^
 ||drrykr.com^
 ||drupalchina.cn/sites/default/files/d
 ||ds.websitequan.com^
@@ -9605,6 +9613,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gog.com^$removeparam=pp
 ||gog.com^$removeparam=track_click
 ||golden1.sogou.com^
+||gongyong002.xyz^
 ||goods.tudou.com^
 ||google-analytics.com$third-party
 ||google-analytics.com^
@@ -9697,6 +9706,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gtimg.cn/*_ad^
 ||gtimg.cn/qzone/biz/gdt/
 ||gtimg.cn/wupload/oper_actity_cfg.actity_video_ad_cfg^
+||guanggao28.xyz^
 ||guangyaoli.
 ||gubgonx.cn^
 ||guid.tpns.tencent.com^
@@ -10200,6 +10210,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||inveno.com^
 ||ionemanhua.com/js/xvideo.js
 ||ios.xyadtlyy.com^
+||iosppk.com^
 ||ip.120ask.com^
 ||ip.ta.wangkx.xyz^
 ||ip.tianqiapi.com^
@@ -11428,6 +11439,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||music.apple.com^$removeparam=itsct
 ||music.baidu.com/data/69xiu/
 ||mutk.twjsx.cn^
+||muxing.city^
 ||muyuge.net/js/bb
 ||muzsj.com^
 ||mwzbp.iask.com.cn^
@@ -11939,6 +11951,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pn.sbdebcz.cn^
 ||pn.zxsnllo.cn^
 ||po18.in^
+||poae2klya.icu^
 ||poasotha.com^
 ||poereawer.top^
 ||pogwua.cn^
@@ -12065,6 +12078,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qcjslm.com^
 ||qcmlw.com/js/service.js
 ||qcmm01.com^
+||qcmm05.com^
 ||qczcxe.cn^
 ||qd.wanjuanba.com^
 ||qdcode.com^
@@ -14070,6 +14084,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xp3366.com^
 ||xq12.com^
 ||xqc23.jnyayk.xyz^
+||xrkadslmgg.top^
+||xrkadslmgg.xyz^
 ||xrtzf.com^
 ||xryrylt.cn^
 ||xs177.com/js/dibu.js
@@ -14356,6 +14372,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zgfshoes.com^
 ||zgzxs.weathercn.com^
 ||zhads.com^
+||zhangchi.work^
 ||zhangfeiyijuepifa.com^
 ||zhangguangzong.com^
 ||zhangxinzhixun.com^

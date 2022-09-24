@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-09-24 08:57:46（北京时间） 
-! Total count: 14845
+! Version: 2022-09-24 16:12:37（北京时间） 
+! Total count: 14853
 -960x*0.gif
 -250.js*
 
@@ -9590,6 +9590,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gjt.xuanyaosp.com^
 ||glb.clouddn.com/dianyingbar
 ||glores2.lanzoui.com^
+||glpca.com^
 ||gma1.com^
 ||gmbuluo.com/js/
 ||gndmnrh.cn^
@@ -9680,6 +9681,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gridsum.com^
 ||gridsumdissector.cn^
 ||gridsumdissector.com^
+||grjasq.com^
 ||growingio.com^
 ||growthpic.weishi.qq.com^
 ||gs307.com^
@@ -9925,6 +9927,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hssapp.shop^
 ||htai.co/tb$script
 ||htai.me/tb$script
+||htjrlm.com^
 ||html.696157.com^
 ||html.shibeiou.com^
 ||html.yanqian.org/code^
@@ -10240,6 +10243,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||iscrv.com^
 ||issuecdn.baidupcs.com^
 ||istreamsche.com^
+||iswgnn.com^
 ||it168.com/forum/201412/19/151606lvf3btnnotc62rl6.jpg
 ||it5.cc^
 ||it760.com^
@@ -10455,6 +10459,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jsm.39yst.com^
 ||jsm.godloveme.cn^
 ||jsmxkj.com^
+||jsnoownma.fun^
 ||jspassport.ssl.qhimg.com^
 ||jsqmt.qq.c
 ||jsqsuperglobalcdn.com/js/400biz.js
@@ -12231,6 +12236,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||rayfile.com/media/img/rili_
 ||rayjump.com^
 ||rbioclv.cn^
+||rc7e.top^
 ||rcpuierp.cn^
 ||rd.kuaigames.com^
 ||rdance.cn/g-
@@ -12292,6 +12298,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||reyun.com^
 ||rf.cnlongshou.com^
 ||rg.nukebomb.cn^
+||rgvqddo.com^
 ||rgyun.com^
 ||riceck.cn^
 ||rightmove.co.uk^$removeparam=csg
@@ -14335,6 +14342,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zdfans.com/wp-content/themes/D7/img/ad
 ||zdmimg.com/collect^
 ||zdpeanut.com^
+||zdznsqb.com^
 ||ze5.com^
 ||zedo.com^
 ||zedo.com^$third-party

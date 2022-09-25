@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-09-25 16:12:43（北京时间） 
-! Total count: 14870
+! Version: 2022-09-26 00:12:05（北京时间） 
+! Total count: 14874
 -960x*0.gif
 -250.js*
 
@@ -187,6 +187,7 @@
 ##[href^='https://l.h-ero.games/']
 ##[href^='https://m.jgg18.org/']
 ##[href^='https://mcc.rhwg4js.cn/']
+##[href^='https://mtyshi.com/']
 ##[href^='https://nf.brushshopy.com/']
 ##[href^='https://record.brave108.com/']
 ##[href^='https://stock.weibo.cn/zh/match']
@@ -6623,6 +6624,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||1sapp.com^
 ||1tlm.cn^
 ||1w73a5d.cn^
+||1wkg.cn^
 ||1x3x.com^
 ||1xlala.com/img/
 ||1ytao.com^
@@ -9469,6 +9471,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||free-rc.com^
 ||frodo.douban.com/api/v2/erebor/feed_ad?
 ||fsgsfaf6.com^
+||ft8e.top^
 ||fticbox.qifake.com^
 ||ftp2.verypsp.com/*.gif|$image
 ||ftp2.verypsp.com/55qp.jpg$image
@@ -14215,6 +14218,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||yiqifa.com^$third-party,domain=~www.liuzhuni.com|~meidebi.com
 ||yiqiwin.com^
 ||yiren00.com/js/$script
+||yitongwl.cn^
 ||yiwanuu.com^
 ||yiyi120.com/x^
 ||yiyilm.com^$third-party

@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-09-27 16:20:25（北京时间） 
-! Total count: 3105
+! Version: 2022-09-28 00:17:44（北京时间） 
+! Total count: 3106
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5277,6 +5277,7 @@
 @@||joyk.com^$generichide
 @@||jpush.cn^$domain=jiguang.cn
 @@||js-agent.newrelic.com/nr-spa-$script,domain=kapwing.com
+@@||js.captcha-display.com/xhr_tag.js$script,domain=auth.garena.com
 @@||js.datadome.co/tags.js$script,domain=sso.garena.com
 @@||js.monitor.azure.com/scripts/$script,domain=microsoft.com
 @@||js.sentry-cdn.com^$script,domain=book.dmm.com|interacty.me|jobs.ch|pizzahut.com.au

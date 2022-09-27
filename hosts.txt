@@ -2,8 +2,8 @@
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 12 Hours
-# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2022-09-27 00:59:33
-# Total count: 78522
+# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2022-09-27 08:20:27
+# Total count: 78517
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 0001.best
@@ -6253,6 +6253,7 @@
 0.0.0.0 ads-cloud.rovio.com
 0.0.0.0 ads-connect.com
 0.0.0.0 ads-d.viber.com
+0.0.0.0 ads-delivery.b-cdn.net
 0.0.0.0 ads-delivery.gameforge.com
 0.0.0.0 ads-dot-fbc-web-2018.uc.r.appspot.com
 0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
@@ -11555,7 +11556,6 @@
 0.0.0.0 au.umeng.co
 0.0.0.0 au.umeng.com
 0.0.0.0 au.w.inmobi.com
-0.0.0.0 au1.gigya.com
 0.0.0.0 au2m8.com
 0.0.0.0 au737.com
 0.0.0.0 auberginecorny.com
@@ -16461,7 +16461,6 @@
 0.0.0.0 cdn.g5e.com
 0.0.0.0 cdn.gallery
 0.0.0.0 cdn.geodns.tubemogul.com
-0.0.0.0 cdn.gigya.com
 0.0.0.0 cdn.gimbal.tech
 0.0.0.0 cdn.gladly.com
 0.0.0.0 cdn.gmossp-sp.jp
@@ -16561,7 +16560,6 @@
 0.0.0.0 cdn.raekdata.com
 0.0.0.0 cdn.read.html5.qq.com
 0.0.0.0 cdn.rebel.ai
-0.0.0.0 cdn.rebuyengine.com
 0.0.0.0 cdn.relaido.jp
 0.0.0.0 cdn.resonate.com
 0.0.0.0 cdn.revcontent.com
@@ -16728,9 +16726,6 @@
 0.0.0.0 cdns.lodeo.io
 0.0.0.0 cdns.sdkconfig.site
 0.0.0.0 cdns.turn.com
-0.0.0.0 cdns1.gigya.com
-0.0.0.0 cdns2.gigya.com
-0.0.0.0 cdns3.gigya.com
 0.0.0.0 cdnsonata.taptapnetworks.com
 0.0.0.0 cdnspace.io
 0.0.0.0 cdnssl.clicktale.net
@@ -21354,6 +21349,7 @@
 0.0.0.0 d72gb9oukw3j.com
 0.0.0.0 d72l4.com
 0.0.0.0 d761erxl2qywg.cloudfront.net
+0.0.0.0 d768p7cn.cn
 0.0.0.0 d7739252ca.com
 0.0.0.0 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 0.0.0.0 d7dc491d44.com
@@ -23409,7 +23405,6 @@
 0.0.0.0 dlfvgndsdfsn.com
 0.0.0.0 dlhyfl.cn
 0.0.0.0 dlhygj.com
-0.0.0.0 dlied6.qq.com
 0.0.0.0 dliketobe.co
 0.0.0.0 dlkfm8bqz0bpx.cloudfront.net
 0.0.0.0 dlkjgjmy.com
@@ -24412,6 +24407,7 @@
 0.0.0.0 dv7t7qyvgyrt5.cloudfront.net
 0.0.0.0 dvaminusodin.net
 0.0.0.0 dvanaro.ru
+0.0.0.0 dvaxyqp.cn
 0.0.0.0 dvb.pandora.xiaomi.com
 0.0.0.0 dvc8653ec6uyk.cloudfront.net
 0.0.0.0 dvdsm0rlx65fo.cloudfront.net
@@ -26418,6 +26414,7 @@
 0.0.0.0 esm1.net
 0.0.0.0 esmentbrads.com
 0.0.0.0 esmystem.com
+0.0.0.0 esnoownmw.fun
 0.0.0.0 eso999.com
 0.0.0.0 esoeoanl.com
 0.0.0.0 esomniture.com
@@ -26566,9 +26563,7 @@
 0.0.0.0 eu.y.atwola.com
 0.0.0.0 eu01.nr-data.net
 0.0.0.0 eu1-spiky.wzrkt.com
-0.0.0.0 eu1.gigya.com
 0.0.0.0 eu1.wzrkt.com
-0.0.0.0 eu2.gigya.com
 0.0.0.0 euadsapi.manhuaren.com
 0.0.0.0 euadw.com
 0.0.0.0 euasync01.admantx.com
@@ -27464,7 +27459,6 @@
 0.0.0.0 farehitchlower.icu
 0.0.0.0 farethief.com
 0.0.0.0 farm-cn.plista.com
-0.0.0.0 farm5.gigya.com
 0.0.0.0 farmer-love.us
 0.0.0.0 farmer.wego.com
 0.0.0.0 farmergoldfish.com
@@ -31952,6 +31946,7 @@
 0.0.0.0 hangfly.net
 0.0.0.0 hangoutairbags.com
 0.0.0.0 hangoverineffectivecorners.com
+0.0.0.0 hangoverrapidlygreat.com
 0.0.0.0 hanju18.net
 0.0.0.0 hanjw1988.com
 0.0.0.0 hanldsw.cn
@@ -34394,6 +34389,7 @@
 0.0.0.0 iii.6park.com
 0.0.0.0 iiiuuu.top
 0.0.0.0 iipbuas.cn
+0.0.0.0 iiroz.xyz
 0.0.0.0 iirpvchv.cn
 0.0.0.0 iiueuenutuhaf.com
 0.0.0.0 iiutq.xyz
@@ -35877,7 +35873,6 @@
 0.0.0.0 irousbisayan.com
 0.0.0.0 irpmt.mail.163.com
 0.0.0.0 irqewz.vilebrequin.com
-0.0.0.0 irqs.ioam.de
 0.0.0.0 irr.ru
 0.0.0.0 irradiatestartle.com
 0.0.0.0 irregularhumilityoptical.com
@@ -40433,7 +40428,6 @@
 0.0.0.0 lm885.com
 0.0.0.0 lm995.com
 0.0.0.0 lmaruhavf.com
-0.0.0.0 lmbsy.qq.com
 0.0.0.0 lmcraft.pw
 0.0.0.0 lmeexisten.xyz
 0.0.0.0 lmefarketi.com
@@ -45174,7 +45168,6 @@
 0.0.0.0 mqqadr.reader.qq.com
 0.0.0.0 mqqadr.showreader.qq.com
 0.0.0.0 mqqrcdxbnog.com
-0.0.0.0 mqs.ioam.de
 0.0.0.0 mqsicr.smiggle.co.uk
 0.0.0.0 mqthslhcj.com
 0.0.0.0 mqvyob.vidaxl.fi
@@ -54339,6 +54332,7 @@
 0.0.0.0 realytics.net
 0.0.0.0 realzeit.io
 0.0.0.0 reanimando.org
+0.0.0.0 reapinject.com
 0.0.0.0 rearcocoa.com
 0.0.0.0 rearedimmortal.com
 0.0.0.0 reariikosin.com
@@ -57459,6 +57453,7 @@
 0.0.0.0 sd.kk3g.net
 0.0.0.0 sd.securitasdirect.fr
 0.0.0.0 sd.sharethis.com
+0.0.0.0 sd1f.top
 0.0.0.0 sd5doozry8.com
 0.0.0.0 sd6hon.cn
 0.0.0.0 sda.seesaa.jp
@@ -58903,6 +58898,7 @@
 0.0.0.0 shopusuallyvirtue.com
 0.0.0.0 shopworld.info
 0.0.0.0 shopzyapp.com
+0.0.0.0 shorantonto.com
 0.0.0.0 shoreexi.net
 0.0.0.0 shoresmmrnews.com
 0.0.0.0 short-video.kakamobi.cn
@@ -70599,7 +70595,6 @@
 0.0.0.0 us04logfiles.zoom.us
 0.0.0.0 us1-sdk.bluedot.io
 0.0.0.0 us1-spiky.wzrkt.com
-0.0.0.0 us1.gigya.com
 0.0.0.0 us1.wzrkt.com
 0.0.0.0 us1tryasemi.ru
 0.0.0.0 us2ozhalin.ru

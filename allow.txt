@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-09-27 08:59:32（北京时间） 
-! Total count: 3104
+! Version: 2022-09-27 16:20:25（北京时间） 
+! Total count: 3105
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -6407,6 +6407,7 @@
 @@||velet.jp/images/adv/$image,~third-party
 @@||video.520cc.cc/ad.php|
 @@||video.520cc.cc^$generichide
+@@||video.qq.com^*&refer=http$script
 @@||vidible.tv/prod/$media,object,other
 @@||vidible.tv/stage/$media,object,other
 @@||vidible.tv^*/ComScore.StreamSense.js

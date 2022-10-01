@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-10-01 09:12:05（北京时间） 
-! Total count: 3105
+! Version: 2022-10-01 16:13:49（北京时间） 
+! Total count: 3106
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5375,6 +5375,7 @@
 @@||lenovo.com/fea/js/adobeAnalytics/$script,~third-party,xmlhttprequest
 @@||leroymerlin.ru/config/analytics.js$script
 @@||lesports.com/pc/??*/click_statistics/
+@@||letocard.fr/wp-content/uploads/$image,~third-party
 @@||letv.com/tuiguang/$subdocument
 @@||letvcloud.com^*&showAd=
 @@||level.travel/tracker/tracker.js$script,~third-party

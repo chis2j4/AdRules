@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-10-03 16:14:44（北京时间） 
-! Total count: 3106
+! Version: 2022-10-04 00:19:10（北京时间） 
+! Total count: 3107
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5622,6 +5622,7 @@
 @@||nostv.pt^*/angulartics-google-analytics.js?
 @@||notafree.host^$generichide
 @@||nowscore.com/script/common/adHelper.js
+@@||noxgroup.com/noxinfluencer/sensor_sdk/$script,domain=noxinfluencer.com
 @@||npr.org/sponsorship/targeting/$~third-party,xmlhttprequest
 @@||nsfw.xxx/vendor/fingerprint/fingerprint2.min.js$script,~third-party
 @@||nthu.edu.tw^*ad

@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-10-05 00:16:56（北京时间） 
+! Version: 2022-10-05 09:03:50（北京时间） 
 ! Total count: 14901
 -960x*0.gif
 -250.js*
@@ -1049,7 +1049,6 @@ $removeparam=kw,domain=hotels.com
 $removeparam=l,domain=change.org
 $removeparam=lId,domain=apple.com|youtube.com
 $removeparam=language,domain=reddit.app.link
-$removeparam=lcid,domain=~rekono.si
 $removeparam=lctid
 $removeparam=ldtag_cl
 $removeparam=lgw_code
@@ -1544,6 +1543,7 @@ $script,third-party,xmlhttprequest,domain=btio.pw
 $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biqu.ge|biqubao.com|biquduge.com|biqug.org|biquga.com|biquge.info|biquge.tv|biquge001.com|biquge123.com|biquge5200.cc|biqugedu.com|biqugeg.com|biquger.com|biquges.com|biqugewx.com|biqugle.com|biquku.la|biquw.com|biquwu.cc|gebiqu.com|hehuamei.com|ibqg5200.com|m.fengyunok.com|mybooks8.com|shuquge.com|snzb.org|xbiquge.la|xsbiquge.com|xshengyan.com|xswang.com|yiyi120.com|yuanzunxs.cc|zuimeng8.com|zzbiquge.com|75dr.com|bggee.com|biquge96.com|biqugeabc.com|aishu5.com|biquger.net|senwy.com|biqugeso.org|whzh-xs.com|bqg.org|mmbqg.com
 $~css,~script,removeparam=campaignid
 $~image,removeparam=itok
+$~ping,removeparam=lcid,domain=~rekono.si
 $~subdocument,removeparam=aff
 $~xmlhttprequest,removeparam=/^refsrc=/i
 $~xmlhttprequest,removeparam=LID

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-10-07 09:10:00（北京时间） 
-! Total count: 14916
+! Version: 2022-10-07 16:13:12（北京时间） 
+! Total count: 14919
 -960x*0.gif
 -250.js*
 
@@ -4205,6 +4205,7 @@ m.baidu.com##.ec_wise_ad
 m.baidu.com##.square-banner-bgicon.index-banner
 m.baidu.com##.suggest-hot
 m.baidu.com##.water-container.tab-news-content
+m.baidu.com##DIV#page-copyright.se-page-copyright.se-copyright-zbios[style='margin-bottom: 50px;']
 m.baidu.com##DIV#se-recommend-word-list-container.se-recommend-word-list-container
 m.baidu.com#@#div[class*="ads"]
 m.baidu.com,www.baidu.com###provider,div[class$="fixed"],SECTION#middle_banner,.ec_ad_results,.shopping-item,#bottomOperate
@@ -11889,6 +11890,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pdjyzx.com^
 ||pdrtcgfx.cn^
 ||pds-midea.com^
+||pdxubxc.cn^
 ||pee.cn^
 ||pejrq.xyz^
 ||pepsico.com.cn^
@@ -12252,6 +12254,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qw2v.taoxiehui.cn^
 ||qwant.com^$removeparam=client
 ||qwe0231141.bj.bcebos.com^
+||qwertyuadf.com^
 ||qwsy.com/script/TuiGuang.js
 ||qwsy.com/script/jquery.lazyload.js
 ||qwvv.com^

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-10-08 00:16:57（北京时间） 
-! Total count: 14919
+! Version: 2022-10-08 08:53:59（北京时间） 
+! Total count: 14932
 -960x*0.gif
 -250.js*
 
@@ -352,6 +352,7 @@ $removeparam=/^\$/,domain=boohoo.com|forever21.com
 $removeparam=/^\~/,domain=boohoo.com|forever21.com
 $removeparam=/^__xts__/
 $removeparam=/^_s=afl_impact$/
+$removeparam=/^_sgm_/i
 $removeparam=/^action_(object|type|ref)_map=/
 $removeparam=/^adgroup=/i
 $removeparam=/^adjust_/
@@ -571,6 +572,7 @@ $removeparam=_t,domain=shein.com
 $removeparam=_trkparms
 $removeparam=_trksid
 $removeparam=_vsrefdom
+$removeparam=_zucks_suid
 $removeparam=a_aid
 $removeparam=a_fid
 $removeparam=ab,domain=fanatics.com|nhl.com
@@ -601,6 +603,7 @@ $removeparam=ad_type
 $removeparam=adblock,domain=reddit.app.link
 $removeparam=adcampaigngroup
 $removeparam=adcid
+$removeparam=adfrom
 $removeparam=adg_id
 $removeparam=adgroup_id
 $removeparam=adgroupid
@@ -685,6 +688,7 @@ $removeparam=aftr
 $removeparam=aftr_source
 $removeparam=agency,domain=loistoristeilyt.fi
 $removeparam=agentcodeweblink
+$removeparam=aiad_clid
 $removeparam=aid,domain=brownells.*|viator.com|adguard.com|adguard-vpn.com|adguard-dns.com|get.protonvpn.com|get.protonmail.com|wevpn.com|cafago.com|tomtop.com
 $removeparam=akmClientCountry
 $removeparam=algo
@@ -1072,6 +1076,7 @@ $removeparam=loid_created,domain=reddit.app.link
 $removeparam=lst,domain=facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|messenger.com
 $removeparam=m_entstream_source
 $removeparam=m_sc,domain=bloomingdales.com
+$removeparam=maf
 $removeparam=maid
 $removeparam=marketing_id
 $removeparam=matches,domain=media-cdn.costco.ca|media-cdn.costco.com
@@ -1085,6 +1090,7 @@ $removeparam=mediapartner,domain=evesleep.co.uk
 $removeparam=medium,domain=deepdiscount.com|eonline.com|outnorth.fi|bybit.com|t.me|twitter.com|docs.google.com|instagram.com|forms.gle|goodcrypto.app|discord.*|eventbrite.*|youtube.com|coinpanel.com|docsend.com|kasta.io|runnode.com|gleam.io|1sol.io
 $removeparam=mid,domain=agentprovocateur.com|columbia.com|dxl.com|hanes.com|josbank.com|onehanesplace.com|saksfifthavenue.com|saksoff5th.com|sorel.com|verabradley.com|change.org|productshopper.*
 $removeparam=mindbox-click-id
+$removeparam=mindbox-message-key
 $removeparam=mkref
 $removeparam=mkt_tok
 $removeparam=mktc
@@ -1149,6 +1155,7 @@ $removeparam=ns_linkname
 $removeparam=ns_mchannel
 $removeparam=ns_source
 $removeparam=nvid,domain=nvidia.com
+$removeparam=nx_source
 $removeparam=o_lid
 $removeparam=o_sch
 $removeparam=o_xid
@@ -1169,6 +1176,7 @@ $removeparam=oly_anon_id
 $removeparam=oly_enc_id
 $removeparam=om_mmc
 $removeparam=onetime_FromEmail
+$removeparam=oprtrack
 $removeparam=oref
 $removeparam=organic_search_click
 $removeparam=orig_referrer
@@ -1546,6 +1554,7 @@ $removeparam=xs,domain=go.skimresources.com|go.skimlinks.com|go.redirectingat.co
 $removeparam=xtor
 $removeparam=yclid
 $removeparam=yptr,domain=marketwatch.com|barrons.com|investors.com
+$removeparam=ysclid
 $removeparam=zanpid
 $removeparam=zsource,domain=slashgear.com
 $script,subdocument,third-party,xmlhttprequest,domain=alicili.me|alicili8.com|alicilibt.com|bittorrentsearchweb.com|btdiggba.me|btdiggba.ws|btdiggcn.xyz|btdiggs.co|btkitty.com|btkitty.pet|btkittyba.cc|btkittyba.me|btkittyba.net|btkittyba.pw|btkittyla.me|btkittyla.org|btkittyon.co|btkittyplus.cc|btlibrary.xyz|btlibrarys.cc|btlibrarys.net|btspread.cc|cilidaquan.co|cilidaquan.top|cilidaquancn.pw|cilidb.net|cilifanhao.ws|cilifanhaobt.xyz|cnbtdigg.pw|cnbtkitty.xyz|cncilidb.pw|cntorrentkitty.co|cnzhongzicili.net|diggbts.cc|diggbts.xyz|feifeibt.pw|godiggbt.org|godiggbts.cc|kikibt.me|kikibts.org|mybtlibrary.cc|nanrenbt.cc|newbtkitty.me|newbtkitty.pw|newbtspread.ws|okbtkitty.me|renrencili.pw|renrencili.xyz|savebt.pw|sousoucili.com|storebt.net|storetorrents.com|torrentkitty.app|torrentsearchweb.xyz|zhainanbt.me|zhongzicilibt.org|zhongzicilicn.com|zhongzicilicn.ws|zhongzicilicn.xyz|zhongzicilila.cc|zhongzicilila.co|zhongziciliso.net|zhongzifuli.cc|zhongzishenqi.ws
@@ -1566,6 +1575,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 &ad*&puid=*&uid=*=show
 &ad=*&referer=
 &adid=$third-party
+&uclick=*&uclickhash=$removeparam
 *$app=com.miui.systemAdSolution
 *-stats.jpush.cn^
 *.com/css/showfloatdiv^
@@ -1693,6 +1703,9 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 /99rejs/
 /:\d{4,}\//$third-party,domain=subdh.com
 /?encrypt=$empty,app=com.tencent.mtt.intl
+/?r=dir&zoneid=$removeparam
+/?rb=*&zoneid=$removeparam
+/?uclick=*;uclickhash=$removeparam
 /AD0*
 /AdBanner
 /AdCenter^

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-10-08 16:13:22（北京时间） 
-! Total count: 14932
+! Version: 2022-10-09 00:13:05（北京时间） 
+! Total count: 14933
 -960x*0.gif
 -250.js*
 
@@ -917,7 +917,7 @@ $removeparam=fobs
 $removeparam=fr,domain=baidu.com|thegay.com
 $removeparam=fr,domain=hclips.com
 $removeparam=fref
-$removeparam=from,domain=apkpure.com|bandcamp.com|luisaviaroma.com|sogou.com
+$removeparam=from,domain=apkpure.com|bandcamp.com|luisaviaroma.com|sogou.com|zoom.*
 $removeparam=fromLoggedOutHome,domain=ocado.com
 $removeparam=fromMostRead,domain=bloomberg.com
 $removeparam=fromRankId
@@ -8296,6 +8296,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||blog.csdn.net//phoenix/web/v2/skill-tree-info?
 ||blog.getadblock.com^$removeparam=gi
 ||blogad.com.tw^$third-party
+||blogger.com^$removeparam=bpli
 ||bloggerads.net^
 ||blogs.oracle.com^$removeparam=pcode
 ||blue-tomato.com^$removeparam=/_[$]ja/

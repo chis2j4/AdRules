@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-10-08 16:13:32（北京时间） 
-! Total count: 3106
+! Version: 2022-10-09 00:13:20（北京时间） 
+! Total count: 3108
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5485,6 +5485,8 @@
 @@||mediaworld.it^*/GoogleTagManager.js?
 @@||meduza.io/static/ads/$media,~third-party
 @@||megafon.ru/static/?files=*/tealeaf.js
+@@||megaup.net/*.gif$image,~third-party
+@@||megaup.net^$generichide
 @@||meituan.net/bs/js/*/js/tracker.js
 @@||meizu.com/fileserver/ad/img/
 @@||metrics.ancestry.com/b/ss/$image

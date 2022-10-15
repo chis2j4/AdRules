@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-10-15 00:16:16（北京时间） 
-! Total count: 3116
+! Version: 2022-10-15 09:00:19（北京时间） 
+! Total count: 3117
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3931,6 +3931,7 @@
 @@||ads.kazakh-zerno.net^$popup
 @@||ads.kbmax.com^$domain=adspipe.com
 @@||ads.listonic.com^$popup
+@@||ads.lollipod.de^$popup
 @@||ads.memo2.nl/banners/$subdocument
 @@||ads.microsoft.com^$generichide
 @@||ads.microsoft.com^$popup
@@ -5784,7 +5785,7 @@
 @@||playep.pro/log_event$~third-party,xmlhttprequest
 @@||player.aniview.com/script/$script,domain=odysee.com
 @@||player.anyclip.com/anyclip-widget/lre-widget/$script,domain=video.timeout.com|video.venturebeat.com|videos.heute.at
-@@||player.avplayer.com^$script,domain=explosm.net
+@@||player.avplayer.com^$script,domain=explosm.net|justthenews.com
 @@||player.bizportal.co.il/scripts/GoogleAnalytics.js$domain=bizportal.co.il
 @@||player.fc-zenit.ru/msi/geoip?$xmlhttprequest
 @@||player.letvcdn.com*/newplayer/*.swf

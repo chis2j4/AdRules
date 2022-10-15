@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-10-15 09:00:05（北京时间） 
-! Total count: 14941
+! Version: 2022-10-15 16:14:01（北京时间） 
+! Total count: 14943
 -960x*0.gif
 -250.js*
 
@@ -1179,6 +1179,7 @@ $removeparam=ogmeas,domain=lanebryant.com
 $removeparam=oly_anon_id
 $removeparam=oly_enc_id
 $removeparam=om_mmc
+$removeparam=omnisendContactID
 $removeparam=onetime_FromEmail
 $removeparam=oprtrack
 $removeparam=oref
@@ -1233,6 +1234,7 @@ $removeparam=porc
 $removeparam=ppid
 $removeparam=ppref,domain=digidip.net
 $removeparam=pr_prod_strat
+$removeparam=pr_rec_id
 $removeparam=pr_rec_pid
 $removeparam=pr_ref_pid
 $removeparam=pr_seq

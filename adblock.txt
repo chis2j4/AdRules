@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-10-15 16:14:01（北京时间） 
-! Total count: 14943
+! Version: 2022-10-16 00:13:44（北京时间） 
+! Total count: 14944
 -960x*0.gif
 -250.js*
 
@@ -8615,7 +8615,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cloudfront.net/?cdlad=
 ||cloudfront.net/?ecjcd=
 ||cloudfront.net/results_page_generic_ad.jpg
-||cloudfront.net^
 ||cloudmade.com^
 ||cloudpush.iqiyi.com^
 ||club-img.douyucdn.cn^
@@ -13715,6 +13714,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wrating.com^$third-party,domain=~tudou.com|~v.ifeng.com
 ||wrltxt.com/hello/
 ||wsacdn1.miaopai.com/upload-pic/*.jpg|
+||wsacjdg.cn^
 ||wsds.cn^
 ||wsgwc.com^
 ||wsj.com^$removeparam=inttrackingcode
@@ -14231,6 +14231,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||yd.linjuyihao.com^
 ||yd.yuanqitu.com^
 ||ydbbs.us/js/
+||ydgsvls.cn^
 ||ydjs.zol.com.cn^
 ||yds.hivecn.net^$domain=m.51lawen.com
 ||yds.kebi1.top^

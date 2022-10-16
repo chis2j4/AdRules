@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-10-16 00:13:44（北京时间） 
-! Total count: 14944
+! Version: 2022-10-16 09:03:23（北京时间） 
+! Total count: 14936
 -960x*0.gif
 -250.js*
 
@@ -340,8 +340,8 @@ $document,removeparam=trackID
 $document,removeparam=trackid
 $image,third-party,domain=avtb6677.com|lady1.top
 $popup,third-party,domain=downdv.com|rmdown.com|soyunpan.com|youtubeto.com
-$removeparam=%2AVersion%2A,domain=amazon.com
-$removeparam=%2Aentries%2A,domain=amazon.com
+$removeparam=%2AVersion%2A,domain=amazon.*
+$removeparam=%2Aentries%2A,domain=amazon.*
 $removeparam=/[$]ja/,domain=argos.co.uk
 $removeparam=/^CJEVENT=/i
 $removeparam=/^ICID=/i,domain=~api.mapbox.com|~microsoft.com
@@ -551,7 +551,6 @@ $removeparam=__s
 $removeparam=__twitter_impression
 $removeparam=__vfz,domain=venturebeat.com
 $removeparam=_amp,domain=latimes.com
-$removeparam=_blrs
 $removeparam=_branch_match_id
 $removeparam=_branch_referrer
 $removeparam=_bta_c
@@ -1145,7 +1144,7 @@ $removeparam=name,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x
 $removeparam=navigation_source,domain=hobbyhall.fi
 $removeparam=ncid
 $removeparam=nettype
-$removeparam=newts,domain=amazon.com
+$removeparam=newts,domain=amazon.*
 $removeparam=nid,domain=columbia.com|sorel.com
 $removeparam=nosto
 $removeparam=nosto_source
@@ -1221,7 +1220,7 @@ $removeparam=pk_keyword
 $removeparam=pk_kwd
 $removeparam=pk_medium
 $removeparam=pk_source
-$removeparam=pldnSite,domain=amazon.com
+$removeparam=pldnSite,domain=amazon.*
 $removeparam=plimit,domain=privatehomeclips.com
 $removeparam=plink,domain=audible.*
 $removeparam=plkey,domain=etsy.com
@@ -1317,7 +1316,7 @@ $removeparam=req_id,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj
 $removeparam=response_type,domain=udemy.com
 $removeparam=ret,domain=shein.com
 $removeparam=retailAttributionToken
-$removeparam=returnFromLogin,domain=amazon.com
+$removeparam=returnFromLogin,domain=amazon.*
 $removeparam=rffrid
 $removeparam=rfrr,domain=ebookers.*
 $removeparam=rfsn
@@ -7522,44 +7521,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||am.cupid.iqiyi.com/am
 ||am15.net^
 ||amazon-adsystem.com^
-||amazon.$removeparam=/^__mk_*_/
-||amazon.$removeparam=/^aa_/
-||amazon.$removeparam=/^cv_ct_/
 ||amazon.$removeparam=/^pd_rd_/
-||amazon.$removeparam=/^sc_i/
 ||amazon.$removeparam=SubscriptionId
 ||amazon.$removeparam=aaxitk
-||amazon.$removeparam=ac_md
-||amazon.$removeparam=asc_contentid
-||amazon.$removeparam=asc_contenttype
-||amazon.$removeparam=asc_item
-||amazon.$removeparam=ascsubtag
-||amazon.$removeparam=creative
-||amazon.$removeparam=crid
-||amazon.$removeparam=field-lbr_brands_browse-bin
-||amazon.$removeparam=hydadcr
-||amazon.$removeparam=imprToken
 ||amazon.$removeparam=ingress
-||amazon.$removeparam=linkCode
-||amazon.$removeparam=lp_asins
-||amazon.$removeparam=lp_page_asin
-||amazon.$removeparam=lp_slot
-||amazon.$removeparam=m
-||amazon.$removeparam=maas
-||amazon.$removeparam=qsid
-||amazon.$removeparam=ref-refURL
-||amazon.$removeparam=refinements
-||amazon.$removeparam=rnid
-||amazon.$removeparam=sig
-||amazon.$removeparam=sigts
-||amazon.$removeparam=sprefix
-||amazon.$removeparam=sr
-||amazon.$removeparam=sres
-||amazon.$removeparam=srpt
-||amazon.$removeparam=store_ref
-||amazon.$removeparam=th
-||amazon.$removeparam=twitchToken
-||amazon.$removeparam=visitId
 ||amazon.*/gp/kindle/kfc/SpecialOffer/
 ||amazon.*/s?$removeparam=/^[^a-z%0-9]adId=/
 ||amazon.*/s?$removeparam=/^[a-z%0-9]*ie=/
@@ -7592,15 +7557,23 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||amazon.*/s?$removeparam=th
 ||amazon.*^$removeparam=/^[^a-z%0-9]adId=/
 ||amazon.*^$removeparam=/^[a-z%0-9]*ie=/
+||amazon.*^$removeparam=/^__mk_*_/
 ||amazon.*^$removeparam=/^__mk_[a-z]{1,3}_[a-z]{1,3}=/
+||amazon.*^$removeparam=/^aa_/
 ||amazon.*^$removeparam=/^colii?d=/
+||amazon.*^$removeparam=/^cv_ct_/
 ||amazon.*^$removeparam=/^cv_ct_[a-z]+=/
 ||amazon.*^$removeparam=/^p[fd]_rd_[a-z]*=/
 ||amazon.*^$removeparam=/^ref_?=/
 ||amazon.*^$removeparam=/^sb-ci-[a-z]+=/
+||amazon.*^$removeparam=/^sc_i/
 ||amazon.*^$removeparam=/^srs?=/
 ||amazon.*^$removeparam=_encoding
 ||amazon.*^$removeparam=aaxitk
+||amazon.*^$removeparam=ac_md
+||amazon.*^$removeparam=asc_contentid
+||amazon.*^$removeparam=asc_contenttype
+||amazon.*^$removeparam=asc_item
 ||amazon.*^$removeparam=ascsubtag
 ||amazon.*^$removeparam=camp
 ||amazon.*^$removeparam=channel
@@ -7610,19 +7583,38 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||amazon.*^$removeparam=dchild
 ||amazon.*^$removeparam=field-lbr_brands_browse-bin
 ||amazon.*^$removeparam=hsa_cr_id
+||amazon.*^$removeparam=hydadcr
+||amazon.*^$removeparam=imprToken
 ||amazon.*^$removeparam=keywords
 ||amazon.*^$removeparam=linkCode
+||amazon.*^$removeparam=lp_asins
+||amazon.*^$removeparam=lp_page_asin
+||amazon.*^$removeparam=lp_slot
+||amazon.*^$removeparam=m
+||amazon.*^$removeparam=maas
 ||amazon.*^$removeparam=ms3_c
 ||amazon.*^$removeparam=orig
+||amazon.*^$removeparam=psc
 ||amazon.*^$removeparam=qid
+||amazon.*^$removeparam=qsid
 ||amazon.*^$removeparam=qualifier
+||amazon.*^$removeparam=ref-refURL
 ||amazon.*^$removeparam=refRID
+||amazon.*^$removeparam=refinements
 ||amazon.*^$removeparam=rnid
+||amazon.*^$removeparam=sig
+||amazon.*^$removeparam=sigts
 ||amazon.*^$removeparam=smid
 ||amazon.*^$removeparam=spIA
 ||amazon.*^$removeparam=sprefix
+||amazon.*^$removeparam=sr
+||amazon.*^$removeparam=sres
+||amazon.*^$removeparam=srpt
+||amazon.*^$removeparam=store_ref
 ||amazon.*^$removeparam=tag
 ||amazon.*^$removeparam=th
+||amazon.*^$removeparam=twitchToken
+||amazon.*^$removeparam=visitId
 ||amdc.m.taobao.com/amdc^$app=com.huawei.hwvplayer.youku
 ||amdc.m.taobao.com^
 ||amdcopen.m.taobao.com/amdc^$app=com.xunlei.downloadprovider

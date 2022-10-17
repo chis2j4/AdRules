@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-10-17 16:25:11（北京时间） 
-! Total count: 3117
+! Version: 2022-10-18 00:22:17（北京时间） 
+! Total count: 3118
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5977,6 +5977,7 @@
 @@||scdn.cxense.com/cx.js$script,domain=ksml.fi|savonsanomat.fi
 @@||schemeflood.com^$generichide
 @@||schlr.cnki.net/detailstatic/js/tracker.js$script,~third-party
+@@||scholar.cnki.net/detailstatic/js/tracker.js$~third-party
 @@||schwab.com/scripts/appdynamic/adrum-ext.$script,~third-party
 @@||science-net.kahaku.go.jp/app/js/analytics.js$~third-party
 @@||sciencechannel.com^$generichide
@@ -6042,6 +6043,7 @@
 @@||showheroes.com/publishertag.js$domain=bz-berlin.de|kochbar.de|rtl.de|rtl2.de
 @@||showheroes.com/pubtag.js$domain=bz-berlin.de|kochbar.de|rtl.de|rtl2.de
 @@||showheroes.com/spot/iframe?pageurl=$script,subdocument,domain=bz-berlin.de|kochbar.de|rtl.de|rtl2.de
+@@||shreemaruticourier.com/banners/$~third-party
 @@||signalshares.com/webtrends.min.js$script,~third-party
 @@||signin.verizon.com^*/affiliate/$subdocument,xmlhttprequest
 @@||simba.taobao.com/?name=mcad$script
@@ -6222,7 +6224,6 @@
 @@||tags.tiqcdn.com/utag/*/utag.sync.js$script,domain=vmware.com
 @@||taipit-mebel.ru/upload/resize_cache/$image,~third-party
 @@||tajs.qq.com/stats?$~third-party
-@@||takeda.com.dxcloud.episerver.net^$domain=takeda.com
 @@||tangdou.com/sample/share/advert?$domain=tangdoucdn.com
 @@||tansuo.cntv.cn^*/tansuo_Advertise.js
 @@||tanx.com/ex?i=$script,domain=dlkoo.cc

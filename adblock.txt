@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-10-23 16:13:18（北京时间） 
-! Total count: 14950
+! Version: 2022-10-24 00:14:30（北京时间） 
+! Total count: 14953
 -960x*0.gif
 -250.js*
 
@@ -7474,9 +7474,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||alibaba.com^$removeparam=categoryIds
 ||alicdn.com^$domain=1024li.com|11papapa.com|1avlang.com|2334n.com|51dll.com|52kpop.com|5xx44.com|5xx77.com|63ef.com|69t41.com|7mav2.com|99a21.com|99a25.com|acglover.me|aotu101.com|camelliadali.com|ccxx99.com|haicao32.com|jb51.net|jitapu.com|junying.com|lady3.xyz|lookpian.com|ppx116.com|qqtenglong.com|qyl00.com|qyl222.com|runoob.com|sodu.cc|spqi.xyz|supfree.net|thztv.cc|thzx.cc|tv4.cc|viidii.info|wenkuxiazai.com|xin99r3.com|xin99r4.com|xingzhiyin44.com|yeyemo6.com|yuese46.com|yzz12.com|zhuankezhijia.com
 ||alidongxi.com^
-||aliexpress.$removeparam=gps-id
-||aliexpress.$removeparam=terminal_id
-||aliexpress.$removeparam=tt
 ||aliexpress.*^$removeparam=/^scm[_a-z-]*=/
 ||aliexpress.*^$removeparam=__tppBottom
 ||aliexpress.*^$removeparam=_t
@@ -7485,20 +7482,22 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||aliexpress.*^$removeparam=algo_expid
 ||aliexpress.*^$removeparam=algo_pvid
 ||aliexpress.*^$removeparam=btsid
+||aliexpress.*^$removeparam=curPageLogUid
 ||aliexpress.*^$removeparam=cv
 ||aliexpress.*^$removeparam=dp
 ||aliexpress.*^$removeparam=gatewayAdapt
 ||aliexpress.*^$removeparam=gps-id
+||aliexpress.*^$removeparam=initiative_id
 ||aliexpress.*^$removeparam=mall_affr
 ||aliexpress.*^$removeparam=pdp_ext_f
 ||aliexpress.*^$removeparam=pdp_npi
 ||aliexpress.*^$removeparam=pdp_pi
 ||aliexpress.*^$removeparam=sk
 ||aliexpress.*^$removeparam=terminal_id
+||aliexpress.*^$removeparam=tt
 ||aliexpress.*^$removeparam=utparam
 ||aliexpress.*^$removeparam=ws_ab_test
 ||aliexpress.com/item/$removeparam=pvid
-||aliexpress.com^$removeparam=initiative_id
 ||alinxc.com^
 ||aliyun.cdn.chengzilte.top^
 ||aliyuncs.com/pool/20180829220557.png
@@ -8156,8 +8155,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bfdcdn.com^
 ||bfdtt.com^
 ||bfniq.theta.sogou.com^
+||bfugui.com^
 ||bh0874.online^
 ||bh100.com.cn^
+||bhaabom.cn^
 ||bhlianhe.com^
 ||bhtbnb.qqqwww987.space^
 ||bi.ui.doulaihai.top^
@@ -9052,6 +9053,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dj09j5u.cn^
 ||djhuo.com/css/js/whosyourdaddy.js
 ||djjca.
+||djv99sxoqpv11.cloudfront.net^
 ||dk.zeronethree.xyz^
 ||dklwddl.cn^
 ||dkqapp.cn^
@@ -13949,6 +13951,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.xhgszy.com/inc^
 ||www.xianliao.me^
 ||www.xiewje.com^
+||www.xihufe.com^
 ||www.xingpingmaoyi.cn^
 ||www.xinym1.xyz^
 ||www.xjwrq.com^

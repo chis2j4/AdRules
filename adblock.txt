@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-10-24 09:11:41（北京时间） 
-! Total count: 14953
+! Version: 2022-10-24 16:23:32（北京时间） 
+! Total count: 14960
 -960x*0.gif
 -250.js*
 
@@ -1961,6 +1961,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 /js/loading.
 /js/pb.js
 /js/piao1.js
+/js/pingbi.js
 /js/qiguo.js
 /js/sjxf.
 /js/wap2-jm-zz.js
@@ -6668,6 +6669,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||20150930.cf^
 ||2019hg.vip^
 ||2020mustang.com^
+||2022facaiabc9.xyz^
 ||211.91.124.16^
 ||211.91.124.17/qpdxv/other/*/*/*/*.mp4?dis_dz=*-*_*_st=*&src=iqiyi.com&dis_dx=*&uuid=*-*-*&pv=*.*&z=*_*$domain=m.iqiyi.com
 ||211.91.124.2/qpdxv/other^$domain=m.iqiyi.com
@@ -7669,6 +7671,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||api-u-ssl.xunlei.com^
 ||api-yuedu.iqiyi.com/book/cloudShelf/pushCloudShelf?qyidv2=1DF0BFF1D9EC8E76824990C7D7A1F38E&appVer=3.6.6&srcPlatform=10&userId=read&qiyiId=865376038025837&md5=6fcd2d8b50e3117b73c8b06c5ec8ffa2&timeStamp=1530867293768$app=com.qiyi.video
 ||api.06fgej.com^
+||api.1101yh.com^
 ||api.22lianmeng.com^
 ||api.36dfsa.com^
 ||api.7017k.com^
@@ -10322,6 +10325,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||iuiweb.com^
 ||iuuff.com^
 ||iv.aliyune.xyz^
+||ivqtrjt.cn^
 ||iwan.$third-party
 ||ixelrsd.cn^
 ||ixnrmco.com^
@@ -11633,8 +11637,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nl.rcd.iqiyi.com^
 ||nl.rcd.ptqy.gitv.tv^
 ||nlmrjnew.oss-cn-shanghai.aliyuncs.com^
+||nlyuuy.cn^
 ||nmbtedu.com^
 ||nmgyllh.cn^
+||nmrdnqn.cn^
 ||nnwm.com^
 ||nochange.ggsafe.com^
 ||node.cdntxt.com^
@@ -13992,6 +13998,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wx4.sinaimg.cn/mw690^$app=com.xxx.svideo
 ||wxapp.lvyadx.cn^
 ||wxbgf.top^
+||wxdqgmr.cn^
 ||wxlagame.com^
 ||wxmp.ianyshare.xyz^
 ||wxr.kebi1.top^

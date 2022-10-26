@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-10-26 16:12:58（北京时间） 
-! Total count: 14970
+! Version: 2022-10-27 00:12:51（北京时间） 
+! Total count: 14980
 -960x*0.gif
 -250.js*
 
@@ -125,6 +125,7 @@
 ##[href='http://page.shokuhou.com/']
 ##[href='http://www.fcf0020.xyz']
 ##[href='http://yb6277.vip']
+##[href='https://8899add.com/']
 ##[href='https://91.yelang8.cc/']
 ##[href='https://ad.ysgc.xyz/zb.html']
 ##[href='https://app.kkj.cn/']
@@ -265,6 +266,7 @@
 ##[src='/js/detail_bottom.gif'][alt='detail_bottom']
 ##[src='/pic/0001.gif']
 ##[src='/pic/111.jpeg'][style='width: 100%;']
+##[src='http://m.guangzhoubingqing.com/88888.jpg']
 ##[src='https://new.163.com/xf.ts']
 ##[src='https://pnm.hpvitycz.cn/00.jpg']
 ##[src^="https://763667.com/"][src*=".gif"],[src^="https://763667.com/"][width="100%"],[onclick^="tj('menu','text'"]
@@ -1696,6 +1698,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 .xyz/*/*/12194286116933？
 .xyz/g21934*.v3h
 /(?::\/\/i1\.hoopchina\.com\.cn\/blogfile\/.+_\d{3}x\d{4})/
+/*/*.add.*.add
 /*AdapterNew.
 /17mb/script/wap.js|
 /1905/1905.
@@ -1960,6 +1963,8 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 /js/htmlk*.js
 /js/js/css.js
 /js/loading.
+/js/mts.js
+/js/mts66.js
 /js/pb.js
 /js/piao1.js
 /js/pingbi.js
@@ -6543,6 +6548,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||100rifu.com^
 ||100te.com^
 ||100tone.com^
+||1017facai8.xyz^
 ||10181819sunday.hqnpwzu.cn^
 ||10191916monday.hqnpwzu.cn^
 ||106.15.205.174/api^
@@ -6551,6 +6557,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||1074.a.dlads.cn^
 ||1074.dlads.cn^
 ||107788.com^$third-party
+||1105yh.com^
 ||1122af.com/js/$script
 ||1122dk.com/js/$scipt
 ||113.105.248.169^
@@ -7002,8 +7009,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||77kp.com/jquery/banners-
 ||77kpw.cc/pc/?wz=
 ||77nnv9.xyz^
+||77qwq.com^
 ||77u.com^
 ||77union.cn^
+||77zz7.com^
 ||787ck.cc/static/js/home.js
 ||788111.com^
 ||79cm.com^
@@ -9441,6 +9450,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ff.qichetansuo.com^
 ||ffmobi.com^
 ||ffyoo.com^
+||ffzz71.com^
 ||fg.cqbuchouhua.com^
 ||fg.daochengwowo.top^
 ||fg.geoparker.net^

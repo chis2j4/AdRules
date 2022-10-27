@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-10-27 00:12:51（北京时间） 
+! Version: 2022-10-27 08:54:08（北京时间） 
 ! Total count: 14980
 -960x*0.gif
 -250.js*
@@ -1203,7 +1203,7 @@ $removeparam=pacid
 $removeparam=paid
 $removeparam=partid,domain=bellacor.com
 $removeparam=partition_id
-$removeparam=partner,domain=humblebundle.com|fastcompany.com
+$removeparam=partner,domain=accuweather.com|fastcompany.com|humblebundle.com
 $removeparam=pb,domain=fullxh.com|hamsterix.*|megaxh.com|unlockxh4.com|xhamster.*|xhamster1.*|xhamster10.*|xhamster11.*|xhamster12.*|xhamster13.*|xhamster14.*|xhamster15.*|xhamster16.*|xhamster17.*|xhamster18.*|xhamster19.*|xhamster2.*|xhamster3.*|xhamster4.*|xhamster46.com|xhamster5.*|xhamster7.*|xhamster8.*|xhday.com|xhday1.com|xhplanet1.com|xhplanet2.com|xhtab2.com|xhwebsite.com|xhwide1.com
 $removeparam=pbref,domain=pinkbike.com
 $removeparam=pcampaignid

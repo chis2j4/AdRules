@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-10-28 08:57:24（北京时间） 
-! Total count: 14982
+! Version: 2022-10-28 16:13:42（北京时间） 
+! Total count: 14996
 -960x*0.gif
 -250.js*
 
@@ -120,6 +120,7 @@
 ##[href='http://app.tianbo17.com/']
 ##[href='http://d2.wenqiche.com/xnk.apk']
 ##[href='http://danm.xsgyfm.com:15889']
+##[href='http://ky53362.com/']
 ##[href='http://li.hmwang.cc']
 ##[href='http://link.pf.xf.udividends.in'][target='_blank'][data-type='link']
 ##[href='http://page.shokuhou.com/']
@@ -155,6 +156,7 @@
 ##[href^='http://amlyg.com:']
 ##[href^='http://cp.kankandy.xyz/']
 ##[href^='http://hbalsm.com:']
+##[href^='http://j6597v.hjlego.com']
 ##[href^='http://jg.awaliwa.com/tg']
 ##[href^='http://mh'][href*='tiklink.cc']
 ##[href^='http://mm.alameinv.com/']
@@ -188,6 +190,7 @@
 ##[href^='https://item.taobao.com/item.htm'][rel='nofollow']
 ##[href^='https://jd.dangbei.com/']
 ##[href^='https://jincai.sohu.com/']
+##[href^='https://js.xiaobaofei.com']
 ##[href^='https://jwmic.91lu001.com']
 ##[href^='https://kcc.qrjxween.com/cc/']
 ##[href^='https://l.h-ero.games/']
@@ -198,6 +201,7 @@
 ##[href^='https://record.brave108.com/']
 ##[href^='https://stock.weibo.cn/zh/match']
 ##[href^='https://t2406.com:']
+##[href^='https://tz.jingjiezhenkong.com']
 ##[href^='https://tz.kefuyuming.vip/']
 ##[href^='https://v44868.com:']
 ##[href^='https://vip.huijujiavip.com']
@@ -226,6 +230,7 @@
 ##[href^='https://xcc.rpkcqtf.cn/']
 ##[href^='https://xcc.ztdzpyf.cn/']
 ##[href^='https://xt.nktxv.com'],[href^='https://xe.vldbd.com']
+##[href^='https://xxx.nunxun.com']
 ##[href^='https://yh.133svip.com/']
 ##[id^="_vdo_ads_player"]
 ##[id^="active_overlay"]
@@ -7685,6 +7690,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||api-yuedu.iqiyi.com/book/cloudShelf/pushCloudShelf?qyidv2=1DF0BFF1D9EC8E76824990C7D7A1F38E&appVer=3.6.6&srcPlatform=10&userId=read&qiyiId=865376038025837&md5=6fcd2d8b50e3117b73c8b06c5ec8ffa2&timeStamp=1530867293768$app=com.qiyi.video
 ||api.06fgej.com^
 ||api.1101yh.com^
+||api.1106yh.com^
 ||api.22lianmeng.com^
 ||api.36dfsa.com^
 ||api.7017k.com^
@@ -7722,6 +7728,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||api.pcsysoft.com/api/app/video/ver2/sys/queryAppAddr/
 ||api.pinyin.sogou.com/v1/bubble/ad
 ||api.poll.aiseet.atianqi.com^
+||api.qcmm07.com^
 ||api.qvpublish.com^
 ||api.scwsf.com^
 ||api.simpleruning.cn/api/adserving^
@@ -10675,6 +10682,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kgsz.cn$third-party
 ||kh.whyfate.cn^
 ||khgj.cn^
+||khgjfm16.com^
 ||khj.dtsxn.cn^
 ||khn.txscn.cn^
 ||kingsoft-office-service.com/ad?
@@ -11025,6 +11033,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lwxs99.cc^
 ||lwz.ffhre.com^
 ||lx167.com^
+||lyewe.xyz^
 ||lyra.iscrv.com^
 ||lyraik.cn^
 ||lywdoo.cn^
@@ -12420,6 +12429,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||rkzby.cn^
 ||rl.go2yd.com^
 ||rlhn.xyz^
+||rljjt.cn^
 ||rlogs.youdao.com^
 ||rm.lomark.cn^
 ||rmdown.com^$replace=/var rmJson/var fuck/
@@ -12486,6 +12496,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||s3a.pstatp.com^
 ||s3b.pstatp.com/growth/video_mobile_detail/js/xigua_video_$script
 ||s3t3d2y8.afcdn.net^
+||s4te24u.com^
 ||s5.cnzz.com^
 ||s7.qhres.com/static^$domain=m.haiduomi.com,third-party
 ||s8.qhres.com/static/*.js$domain=nicotv.cc
@@ -12504,6 +12515,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||saviourketonic.com^
 ||sb4you1.com^
 ||sb6k.top^
+||sc-gov-cn.website^
 ||sc.shayugg.com/esolc.png$domain=m.biquge.com.tw
 ||sc1369.com^
 ||scannapp.xyz^
@@ -12524,6 +12536,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sdd.dzsc.com^
 ||sdfp.snssdk.com^
 ||sdgreg.cn^
+||sdhjueue.com
 ||sdk.api.bjshcw.com^
 ||sdk.api.oaid.wocloud.cn^
 ||sdk.conf.igexin.com^
@@ -13831,6 +13844,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.bturl.biz/cdn-cgi/scripts^
 ||www.bturl.biz/static/js/sads.js
 ||www.bumimi.com/member/index/mini/
+||www.ceseasons.com^
 ||www.chudaili.com/201324.png$image
 ||www.chunaisese12.com^
 ||www.ckplayer.tv/ccdao.js

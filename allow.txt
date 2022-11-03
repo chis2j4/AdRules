@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-11-03 08:53:28（北京时间） 
-! Total count: 3117
+! Version: 2022-11-03 16:13:44（北京时间） 
+! Total count: 3118
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5764,6 +5764,7 @@
 @@||photovms.tv.sohu.com/*/*_hor_small_1.jpg$app=com.sohu.sohuvideo,important
 @@||photovms.tv.sohu.com/*/-*_1.jpg$app=com.sohu.sohuvideo,important
 @@||photovms.tv.sohu.com/*/-*_hor_small_1.jpg$app=com.sohu.sohuvideo,important
+@@||php.heute.at/onion/ProjectOnion/render/common/js/tracking.js$~third-party
 @@||phs.tanx.com^
 @@||pia.jp/feature/rss/ad.xml|$~third-party,xmlhttprequest
 @@||piaotian.com/scripts/readindex/tongji.js

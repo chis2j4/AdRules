@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-11-03 16:13:34（北京时间） 
-! Total count: 15007
+! Version: 2022-11-04 00:15:45（北京时间） 
+! Total count: 15010
 -960x*0.gif
 -250.js*
 
@@ -381,8 +381,10 @@ $removeparam=/^amp;utm_/
 $removeparam=/^amp=1$/,domain=~listafriikki.com
 $removeparam=/^amp=true$/
 $removeparam=/^bsft_/
-$removeparam=/^cid=DSS-Affiliate/,domain=disneyplus.com
-$removeparam=/^cid=DTCI-Synergy/,domain=disneyplus.com
+$removeparam=/^cid=DSS-Affiliate/,domain=disneyplus.com|espn.com|hotstar.com|starplus.com
+$removeparam=/^cid=DSS-Search-/,domain=disneyplus.com|espn.com|hotstar.com|starplus.com
+$removeparam=/^cid=DTCI-Synergy/,domain=disneyplus.com|espn.com|hotstar.com|starplus.com
+$removeparam=/^cid=DTCI_STAR-Synergy/,domain=disneyplus.com|espn.com|hotstar.com|starplus.com
 $removeparam=/^cid_/
 $removeparam=/^clickid=/i
 $removeparam=/^clickref[0-9]?=/
@@ -9345,6 +9347,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||err.taobao.com^
 ||errlog.umeng.com^
 ||ert.pengwenli.top^
+||espn.com^$removeparam=ex_cid
 ||esptj.com^
 ||et.dexuanyu.top^
 ||et363.com^

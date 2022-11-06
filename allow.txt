@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-11-06 16:11:55（北京时间） 
-! Total count: 3108
+! Version: 2022-11-07 00:12:12（北京时间） 
+! Total count: 3109
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5816,6 +5816,7 @@
 @@||post2go.ru/widget/tracking?$~third-party
 @@||postex.com/api/ping?$~third-party
 @@||postnord.no/api/tracking/$~third-party
+@@||powerquality.eaton.com/include/js/elqScr.js$~third-party
 @@||pptv.com/webdelivery/webafp?cb=loadAdStatus&*sports.pp
 @@||prebid.adnxs.com^$xmlhttprequest,domain=go.cnn.com
 @@||premiumleecher.com^$generichide

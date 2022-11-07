@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-11-07 16:16:06（北京时间） 
-! Total count: 15063
+! Version: 2022-11-08 00:12:15（北京时间） 
+! Total count: 15070
 -960x*0.gif
 -250.js*
 
@@ -3241,6 +3241,8 @@ dm530.net,it168.com###adv
 dmh8.com##[style^='box-sizing: border-box; position: relative']
 dmh8.com##[style^='display: block; z-index: ']
 dmh8.com##[style^='display: flex']
+dmhy.org###pkpk
+dmhy.org##div[id*="_ad"]
 dmhy.org$$a[href="taobao.com"]
 dmhy.org$$a[href="tapdb.net"]
 dmhy.org$$div[id="_adv"]
@@ -5382,7 +5384,9 @@ tieba.baidu.com##SPAN.top_bar_content_text,DIV.appPromote_wrapper scale-1px-bott
 tieba.baidu.com##div.banner-wrapper,div.fixed-nav-bar.nav-bar-wrapper,div.recommend-list,div.nav-bar-wrapper
 tieba.baidu.com##div.daoliubar.appPromote
 tieba.baidu.com##div.father_cut_daoliu
+tieba.baidu.com##div.fengchao-banner-defensive
 tieba.baidu.com##div.footer-wrap
+tieba.baidu.com##div.nav-bar-bottom
 tieba.baidu.com##div.open-style
 tieba.baidu.com##div.panel_bottom,li.tl_shadow tl_shadow_new
 tieba.baidu.com##div.pb_cut_hot_recommend
@@ -5545,6 +5549,7 @@ verypsp.com###ggDiv2,[width="960"][height="50"]
 vfe3.com##div#swtleft
 vgugu.com##div#bn_ad,div[id^="test"],div.in_br
 vhiphop.com##.slides
+vidhub.cc##div.player-info > div.module
 vikacg.com$$a[href="asnebula.xyz"]
 vikacg.com$$a[onclick="trackOutboundLink"]
 vip-free.com###adpic
@@ -6519,6 +6524,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||01ws5t.cn^
 ||0272aa.com^
 ||028yhtz.com^
+||031dfgh.com^
 ||033.com^
 ||036e.cn^
 ||0377shujuhuifu.top^
@@ -9482,6 +9488,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ff.027pbj.net^
 ||ff.qichetansuo.com^
 ||ffmobi.com^
+||ffnvhig.cn^
 ||ffyoo.com^
 ||ffzz71.com^
 ||fg.cqbuchouhua.com^
@@ -12299,6 +12306,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qj202.cc^
 ||qjhlc.com^
 ||qjxys.cn^
+||qktmwiq.cn^
 ||qling.com^
 ||qly7hr.sydz.tw^
 ||qm92.com^$third-party
@@ -14502,7 +14510,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||yxdm.tv/js/gad.js
 ||yxdm.tv/js/tj-arc.js
 ||yxdown.com/open/down_ad_
-||yximgs.com^
 ||yxlady.com/cdd/201005/$script
 ||yxtvg.com/*/yxtvg.js|
 ||yy.com/policy/

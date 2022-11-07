@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-11-07 00:11:59（北京时间） 
-! Total count: 15056
+! Version: 2022-11-07 08:50:36（北京时间） 
+! Total count: 15063
 -960x*0.gif
 -250.js*
 
@@ -10437,6 +10437,13 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jc.lgtianma.cn/*.gif$domain=m.geosouth.net
 ||jc001.cn/footer_float_bar/
 ||jcde.site^
+||jcpenney.com$removeparam=Dr
+||jcpenney.com$removeparam=badge
+||jcpenney.com$removeparam=catId
+||jcpenney.com$removeparam=deptId
+||jcpenney.com$removeparam=productGridView
+||jcpenney.com$removeparam=selectedSKUId
+||jcpenney.com$removeparam=urlState
 ||jcrb.com/ZYW/$subdocument
 ||jd-bbs.com/tianyi/
 ||jd5c.top^

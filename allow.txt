@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-11-12 00:12:25（北京时间） 
-! Total count: 3108
+! Version: 2022-11-12 08:50:43（北京时间） 
+! Total count: 3109
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4195,6 +4195,7 @@
 @@||avgle.com/embed/$genericblock,generichide
 @@||avito.st/s/a/i/0.gif$image,domain=avito.ru
 @@||awin1.com^|
+@@||awlinks.site^$generichide
 @@||axiell.com/arena/google-analytics.js$domain=gotabiblioteken.se
 @@||az.hp.transer.com/content/dam/isetan_mitsukoshi/advertise/$~third-party
 @@||az.hpcn.transer-cn.com/content/dam/isetan_mitsukoshi/advertise/$~third-party

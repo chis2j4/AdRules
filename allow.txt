@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-11-13 16:12:00（北京时间） 
-! Total count: 3110
+! Version: 2022-11-14 00:11:31（北京时间） 
+! Total count: 3111
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5823,6 +5823,7 @@
 @@||preromanbritain.com/maxymiser/$~third-party
 @@||pro.gooooal.com/ad/ad_2.js
 @@||pro.ip-api.com/json$xmlhttprequest,domain=aljazeera.com|cookappsgames.com|nontongp.xyz|sheee.co.il|walla.co.il|weatherscan.tk
+@@||prod.office.ch.locatee.com/internal/api/analytics/v1/systempropertys$~third-party,xmlhttprequest
 @@||productioncars.com/pics/menu/$~third-party
 @@||promo.com/embed/$subdocument,third-party
 @@||promo.gramedia.com^|

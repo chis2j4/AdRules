@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-11-16 00:11:51（北京时间） 
-! Total count: 15191
+! Version: 2022-11-16 08:47:23（北京时间） 
+! Total count: 15194
 -960x*0.gif
 -250.js*
 
@@ -891,6 +891,7 @@ $removeparam=dt_platform
 $removeparam=dti
 $removeparam=dtpid
 $removeparam=e,domain=clockks.com|tellywebnews.com
+$removeparam=eav,domain=facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
 $removeparam=ebisAdID
 $removeparam=eblink
 $removeparam=ec,domain=nextdoor.com
@@ -915,6 +916,7 @@ $removeparam=elqcsid
 $removeparam=elqcst
 $removeparam=email_work_card
 $removeparam=eml,domain=endesa.com|scholastic.com
+$removeparam=entrypoint,domain=facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
 $removeparam=epi,domain=fernerjacobsen.no|webhallen.com|microsoft.com|xbox.com|adtraction.com|tradedoubler.com
 $removeparam=epi2,domain=tradedoubler.com
 $removeparam=epik
@@ -1217,6 +1219,7 @@ $removeparam=p_tok
 $removeparam=pa-partnerid
 $removeparam=pacid
 $removeparam=paid
+$removeparam=paipv,domain=facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
 $removeparam=partid,domain=bellacor.com
 $removeparam=partition_id
 $removeparam=partner,domain=accuweather.com|fastcompany.com|humblebundle.com
@@ -1297,7 +1300,7 @@ $removeparam=recurring_goal_id
 $removeparam=reddaid,domain=reddit.app.link
 $removeparam=redirect_log_mongo_id
 $removeparam=redirect_mongo_id
-$removeparam=ref,domain=abebooks.com|accounts.binance.com|adobe.com|akuankka.fi|albiononline.com|altcustoms.com|amazon.*|app.blockfi.com|arvopaperi.fi|audible.*|baidu.com|bestbuy.com|bing.com|bitlox.com|bitwarden.com|blogit.fi|bookdepository.com|brave.com|buzzfeed.com|buzzfeednews.com|bybit.com|catch.com.au|comixology.*|coop.no|deal.no|dell.com|digidip.net|domains.ch|droix.net|eset.com|etsy.com|expo.io|facebook.com|fig.io|foreca.*|geeksforgeeks.org|github.com|github.io|goodreads.com|hintaopas.fi|hintaseuranta.fi|hs.fi|idenati.com|ikea.com|iltapulu.fi|imdb.com|is.fi|jasonsavard.com|kauppalehti.fi|kesaduuni.org|kickstarter.com|ku.fi|mastermind.ac|mediuutiset.fi|megapornfreehd.com|merrell.com|mikrobitti.fi|motouutiset.fi|oikotie.fi|omataloyhtio.fi|protonvpn.com|proton.me|puutarha.net|rakentaja.fi|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion|remppatori.fi|sahkovertailu.fi|sanoma.fi|scandinavianphoto.fi|schibsted.fi|semrush.com|shein.com|shodan.io|shopping.google.*|sketch.com|spiegel.de|sportskeeda.com|storyhouseegmont.fi|suomi24.fi|talouselama.fi|target.com|tekniikkatalous.fi|telsu.fi|thedailybeast.com|tivi.fi|tokenmetrics.com|twitch.tv|udemy.com|uusisuomi.fi|vultr.com|webhallen.no|woot.com|wormhole.app|yle.fi|zappos.com
+$removeparam=ref,domain=abebooks.com|accounts.binance.com|adobe.com|akuankka.fi|albiononline.com|altcustoms.com|amazon.*|app.blockfi.com|arvopaperi.fi|audible.*|baidu.com|bestbuy.com|bing.com|bitlox.com|bitwarden.com|blogit.fi|bookdepository.com|brave.com|buzzfeed.com|buzzfeednews.com|bybit.com|catch.com.au|codehs.com|comixology.*|coop.no|deal.no|dell.com|digidip.net|domains.ch|droix.net|eset.com|etsy.com|expo.io|facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|fig.io|foreca.*|geeksforgeeks.org|github.com|github.io|goodreads.com|hintaopas.fi|hintaseuranta.fi|hs.fi|idenati.com|ikea.com|iltapulu.fi|imdb.com|is.fi|jasonsavard.com|kauppalehti.fi|kesaduuni.org|kickstarter.com|ku.fi|mastermind.ac|mediuutiset.fi|megapornfreehd.com|merrell.com|mikrobitti.fi|motouutiset.fi|oikotie.fi|omataloyhtio.fi|protonvpn.com|proton.me|puutarha.net|rakentaja.fi|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion|remppatori.fi|sahkovertailu.fi|sanoma.fi|scandinavianphoto.fi|schibsted.fi|semrush.com|shein.com|shodan.io|shopping.google.*|sketch.com|spiegel.de|sportskeeda.com|storyhouseegmont.fi|suomi24.fi|talouselama.fi|target.com|tekniikkatalous.fi|telsu.fi|thedailybeast.com|tivi.fi|tokenmetrics.com|twitch.tv|udemy.com|uusisuomi.fi|vultr.com|webhallen.no|woot.com|wormhole.app|yle.fi|zappos.com
 $removeparam=refRID
 $removeparam=ref_campaign
 $removeparam=ref_ctx_id
@@ -1597,7 +1600,7 @@ $~xmlhttprequest,removeparam=mcid,domain=~miguvideo.*
 $~xmlhttprequest,removeparam=msid
 $~xmlhttprequest,removeparam=qid,domain=~ebay.*|~forum.cantorsys.com|~hkex.com.hk|~tastedive.com|~zhidao.baidu.com|~forums.somethingawful.com
 $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odysee.com
-$~xmlhttprequest,removeparam=ref_,domain=imdb.com|primevideo.com|shopbop.com|awesomeopensource.com
+$~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|imdb.com|primevideo.com|shopbop.com|awesomeopensource.com
 &ad*&puid=*&uid=*=show
 &ad=*&referer=
 &adid=$third-party

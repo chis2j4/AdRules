@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-11-17 16:12:28（北京时间） 
-! Total count: 15196
+! Version: 2022-11-18 00:11:57（北京时间） 
+! Total count: 15199
 -960x*0.gif
 -250.js*
 
@@ -323,6 +323,7 @@
 ##div.close-player_pic[onclick="document.getElementById('player_pic').style.display='none'"]
 ##div.m_avs
 ##div.main div.content div[id].is_mb a[id] img[id]
+##div.page.player > div.main > div.content > div.module.module-player > div.module-main > div.player-box > div.player-rm.rm-list > a > img
 ##div.row.abs-text
 ##div.row.col5.clearfix:nth-of-type(2) > dl:nth-of-type(1)
 ##div>span>[href='###']
@@ -8487,6 +8488,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bx0635.com/tx/$image
 ||bxg68.com^
 ||bxmns.com^
+||bxwccii.cn^
 ||bxwx8.org/wap/qijixs/afoot.js
 ||bytecdn.cn/article/content^
 ||bzclk.baidu.com^
@@ -10812,6 +10814,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kivo.fun^
 ||kiwihk.net^
 ||kj733.com^
+||kjanfwss.xyz^
 ||kjcenter.com^$third-party
 ||kjggk1.xyz^
 ||kjltxn.com^

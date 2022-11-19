@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-11-19 16:11:10（北京时间） 
-! Total count: 15213
+! Version: 2022-11-20 00:10:33（北京时间） 
+! Total count: 15241
 -960x*0.gif
 -250.js*
 
@@ -505,7 +505,7 @@ $removeparam=2p_click_token
 $removeparam=ACRID
 $removeparam=AFFNAME
 $removeparam=AFID,domain=~chggtrx.com|~state.gov
-$removeparam=AID,domain=~google.*|~disqus.*|~disquscdn.com
+$removeparam=AID,denyallow=firestore.googleapis.com,domain=~google.*|~disqus.*|~disquscdn.com
 $removeparam=ASID
 $removeparam=ASUBID
 $removeparam=Adposition
@@ -1439,6 +1439,12 @@ $removeparam=sr_id,domain=reddit.app.link
 $removeparam=sr_name,domain=reddit.app.link
 $removeparam=sr_share
 $removeparam=src,domain=3cx.com|adafruit.com|ashford.com|bluejeans.com|bose.*|brave.com|buyzero.de|cytron.io|digikey.*|elastix.org|engadget.com|hallmark.com|hinta.fi|investors.com|kennethcole.com|kipling-usa.com|kubii.*|melopero.com|mozilla.org|msn.com|neeva.com|newbalance.com|nexo.io|officestationery.co.uk|okdo.com|raspipc.es|reichelt.*|thepihut.com|thunderbird.net|tiendatec.es|tokopedia.com|twitter.com|udemy.com|viking-direct.co.uk|webmd.com|welectron.com|wondershare.*|wuzhuiso.com|yahoo.com
+$removeparam=src_campaign,document
+$removeparam=src_content
+$removeparam=src_custom
+$removeparam=src_medium,document
+$removeparam=src_source,document
+$removeparam=src_term,document
 $removeparam=srctype,domain=shein.com
 $removeparam=sref,domain=bloomberg.com|go.skimresources.com|go.skimlinks.com|go.redirectingat.com
 $removeparam=srnd
@@ -3404,6 +3410,7 @@ fangying.tv##img[alt="Xzy"]
 fanjian.net###vad,.banner
 fantasy.tv##.play_ad,.video_ad_left,.play_ad_one
 fanyi-pro.baidu.com###coupon-ad
+fanyi.baidu.com##H1,H3,DIV.intro-nav.clearfix,DIV.intro-copyrigh,A.app-bar,DIV.intro-copyright
 fawan.com###ynetG_B1
 fbook.net##div.gg_t,div.head-d,.readads,div.tlgg
 fc2.com##div.ad_head_wide,div.side_menu_block
@@ -8189,6 +8196,17 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bbc.$removeparam=pinned_post_asset_id
 ||bbc.$removeparam=pinned_post_locator
 ||bbc.$removeparam=pinned_post_type
+||bbc.*^$removeparam=at_bbc_team
+||bbc.*^$removeparam=at_campaign
+||bbc.*^$removeparam=at_creation
+||bbc.*^$removeparam=at_format
+||bbc.*^$removeparam=at_identifier
+||bbc.*^$removeparam=at_link_id
+||bbc.*^$removeparam=at_link_origin
+||bbc.*^$removeparam=at_link_type
+||bbc.*^$removeparam=at_ptr_name
+||bbc.*^$removeparam=at_type
+||bbc.*^$removeparam=at_variant
 ||bbk5831.yncjsc.cn^
 ||bbk6133.jianchajingmk.net^
 ||bbk6375.xhzmjs.com^
@@ -8599,6 +8617,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cdn.baidu.xahycw.com^
 ||cdn.bootcss.com/flv.js/1.3.3/flv.min.js
 ||cdn.bootcss.com/layer/2.1/layer.js$domain=ganbi66.com
+||cdn.creative-bars1.com^
 ||cdn.data.video.iqiyi.com/cdn/qiyiapp/20180427/203554wae1dc4b65e4a3970e374e5e747b71824/com.qiyi.plugin.wallet.apk$app=com.qiyi.video
 ||cdn.hanaya-m.com^
 ||cdn.holmesmind.com^
@@ -8794,6 +8813,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||collect.ptengine.cn^
 ||collector.dcdn.baidu.com^
 ||collegepre.net^
+||columbiasportswear.*^$removeparam=did
+||columbiasportswear.*^$removeparam=mid
+||columbiasportswear.*^$removeparam=nid
+||columbiasportswear.*^$removeparam=oid
 ||com*/ps/psCreat.js
 ||com/11nvnv/
 ||com/?Intr=$popup,third-party
@@ -8907,7 +8930,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||coupang.com^$removeparam=wPcid
 ||coupang.com^$removeparam=wRef
 ||coupang.com^$removeparam=wTime
-||courir.com^$removeparam=/^_mak_partner_/
+||couplestupidity.com^
+||courir.*^$removeparam=/^_mak_partner_/
 ||cp.eoncreativity.com^
 ||cpc.9v.cn^
 ||cpc.cc^
@@ -9655,6 +9679,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fraudmetrix.cn^
 ||fre.everleyeve.com:23525/v^$domain=avtbf.com
 ||free-rc.com^
+||friendshipmale.com^
 ||frodo.douban.com/api/v2/erebor/feed_ad?
 ||fsgsfaf6.com^
 ||ft8e.top^
@@ -12250,6 +12275,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||privateadx.com^
 ||prjslxhtx005.top^
 ||pro.cn^
+||prodigalpromotion.com^
 ||profile.csdnimg.cn^
 ||projectpoi.com^
 ||projectwonderful.com^
@@ -12281,6 +12307,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||puhtml.com^
 ||pulseway.com^$removeparam=rfid
 ||pulsigame.com^
+||puma.com^$removeparam=amp
 ||punchbox.org^
 ||pups.bdimg.com^
 ||puqer.cn^
@@ -12863,6 +12890,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||similm.xyz^
 ||simiyue2.com^
 ||simplelogin.io^$removeparam=slref
+||simplewebanalysis.com^
 ||sina.com.cn/iframe/76/$document
 ||sina.com.cn/js/iframe/gj_content_tb.js$script
 ||sinaimg.cn/bmiddle/$image,domain=dapenti.com

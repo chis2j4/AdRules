@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-11-21 16:12:22（北京时间） 
-! Total count: 15243
+! Version: 2022-11-22 00:11:41（北京时间） 
+! Total count: 15252
 -960x*0.gif
 -250.js*
 
@@ -6557,8 +6557,11 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||0272aa.com^
 ||0272dd.com^
 ||028yhtz.com^
+||02asdf.com^
 ||031dfgh.com^
 ||033.com^
+||034dfgh.com^
+||035caop.com^
 ||036e.cn^
 ||0377shujuhuifu.top^
 ||03asdf.com^
@@ -8199,6 +8202,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bbc.$removeparam=pinned_post_type
 ||bbc.*^$removeparam=at_bbc_team
 ||bbc.*^$removeparam=at_campaign
+||bbc.*^$removeparam=at_campaign_type
 ||bbc.*^$removeparam=at_creation
 ||bbc.*^$removeparam=at_format
 ||bbc.*^$removeparam=at_identifier
@@ -11161,6 +11165,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lovegg.club^
 ||lowadec.cn^
 ||lpasdfgwer.com^
+||lpeolfa.top^
 ||lpjxzs.com^
 ||lpmzt.cn^
 ||lpqhkj.cn^
@@ -11891,6 +11896,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||novinky.cz^$removeparam=source
 ||nphoto.net/media/
 ||nq37f.cn^
+||nrjzkj.cn^
 ||ns1.chinayms.com^
 ||ns2.chinayms.com^
 ||nsclick.baidu.com^
@@ -13435,6 +13441,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||toblog.ctobsnssdk.com^
 ||toblog.snssdk.com^
 ||toggle.qq.com^
+||toijr.xyz^
 ||tokopedia.com^$removeparam=extParam
 ||tokopedia.com^$removeparam=refined
 ||tokopedia.com^$removeparam=src
@@ -13501,6 +13508,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||trendyol.com^$removeparam=/^tyutm_/
 ||tribalfusion.com^
 ||trk-cdpetl.emdlz.com.cn^
+||trqhf.xyz^
 ||trslw.cn^
 ||trustutn.org^
 ||ts.market.mi-img.com/thumbnail/gif/*/MusicServer^
@@ -13876,6 +13884,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wdad.cc^
 ||wdfhbx.zdpeanut.com^
 ||wdn.lm343.com^
+||wdzwd.xyz^
 ||weareqy.com^
 ||web-track.go2yd.com^
 ||web.kuaiwan.com^

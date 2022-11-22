@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-11-22 08:48:25（北京时间） 
-! Total count: 15252
+! Version: 2022-11-22 16:12:17（北京时间） 
+! Total count: 15255
 -960x*0.gif
 -250.js*
 
@@ -315,6 +315,7 @@
 ##div.a_fr.a_cb,div.a_fl.a_cb,div.a_cn,div.wp.a_h
 ##div.a_mu,tr.ad,div.wp.a_f,div.a_fl.a_cb,div.a_fr.a_cb
 ##div.ad-box
+##div.ad-frame-container
 ##div.ad-recommend
 ##div.ads
 ##div.ads-footer
@@ -330,6 +331,7 @@
 ##div[class^="is_"] > a > img[referrerpolicy="no-referrer"][src*="hdslb.com"]
 ##div[id][style="width: 100%;"] > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div[style^="width: 100%;"][style$="display: block;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
+##iframe.ad-frame
 ##img#hth[onclick$="hth.html')"]
 ##img#hth[onclick^="window.open"]
 ##oxk
@@ -7420,6 +7422,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||adrotator.se^
 ||ads*-normal-hl.zijieapi.com^
 ||ads-
+||ads-pixiv.net^
 ||ads.
 ||ads.exoclick.com^
 ||ads.service.kugou.com^

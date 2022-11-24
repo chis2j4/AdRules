@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-11-24 16:11:05（北京时间） 
-! Total count: 15266
+! Version: 2022-11-25 00:10:47（北京时间） 
+! Total count: 15269
 -960x*0.gif
 -250.js*
 
@@ -6639,6 +6639,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||1104piaoba2022.xyz^
 ||1105yh.com^
 ||1107piaoliang2022.xyz^
+||1113dage2022.xyz^
 ||1122af.com/js/$script
 ||1122dk.com/js/$scipt
 ||113.105.248.169^
@@ -9046,6 +9047,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||d.toutiao.com^
 ||d.ziyuanm.com^
 ||d10lumateci472.cloudfront.net^
+||d13gni3sfor862.cloudfront.net^
 ||d1ad.com^
 ||d1f05vr3sjsuy7.cloudfront.net^
 ||d1pmhihatyvp1k.cloudfront.net^
@@ -14216,6 +14218,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.statics88.vip^
 ||www.t5wm.cc^
 ||www.tctakoh.com^
+||www.tfaftemail.com^
 ||www.tianjinblg.com^
 ||www.toutiaopage.com^
 ||www.ttyyuuoo.com^

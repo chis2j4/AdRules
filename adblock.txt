@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-11-26 00:10:36（北京时间） 
-! Total count: 15273
+! Version: 2022-11-26 08:39:12（北京时间） 
+! Total count: 15276
 -960x*0.gif
 -250.js*
 
@@ -471,6 +471,7 @@ $removeparam=/^source=admitad$/
 $removeparam=/^source=awin$/i
 $removeparam=/^source=cj$/
 $removeparam=/^source=connexity$/
+$removeparam=/^source=igodigital$/
 $removeparam=/^source=partnerads$/
 $removeparam=/^source=pepperjam$/
 $removeparam=/^source=rss$/
@@ -2247,6 +2248,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 @@/fuckadblock.$domain=bde4.com|datehub.co|dilidili.one|golangnote.com|lnk2.cc|nfmovies.com|papalah.com|qqdie.com
 @@/images/ad/*$domain=9588.com|casio.com.cn|dod-tec.com|jxedt.com|ourgame.com|pro-partner.com.tw|snh48.com|tingbook.com
 @@/modules/ads/*$domain=shopee.tw
+@@/unsub/?$removeparam
 @@/vlive.qqvideo.tc.qq.com^$media,app=com.tencent.qqlivexiaomi
 @@=mm_12852562_1778064_$domain=alimarket.tmall.com|www.taobao.com|www.tmall.com
 @@=mm_12852562_1778064_$domain=taojinbi.taobao.com
@@ -7647,6 +7649,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||amazon.$removeparam=SubscriptionId
 ||amazon.$removeparam=aaxitk
 ||amazon.$removeparam=ingress
+||amazon.*/dp/$removeparam=rps,document
 ||amazon.*/gp/kindle/kfc/SpecialOffer/
 ||amazon.*/s?$removeparam=/^[^a-z%0-9]adId=/
 ||amazon.*/s?$removeparam=/^[a-z%0-9]*ie=/

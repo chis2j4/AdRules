@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-11-27 00:09:58（北京时间） 
-! Total count: 3134
+! Version: 2022-11-27 08:46:36（北京时间） 
+! Total count: 3136
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5163,6 +5163,7 @@
 @@||hotstar.com/vs/getad.php$domain=hotstar.com
 @@||hotstarext.com/web-messages/core/error/v52.json$xmlhttprequest,domain=hotstar.com
 @@||howtonote.jp/google-analytics/$image,~third-party
+@@||hoy.tv/wp-content/themes/vodi-child/videojs-event-tracking.js
 @@||hp.com/in/*/ads/$script,stylesheet,~third-party
 @@||hqq.to/ad/api/popunder.js$script
 @@||href.li^|
@@ -6091,6 +6092,7 @@
 @@||smartrevise.online/css/analytics.min.css$~third-party
 @@||smartrevise.online/js/teacher.analytics.min.js$~third-party
 @@||smotrim.ru/js/stat.js$script
+@@||smsonline.cloud^$generichide
 @@||smtcaw.com^$generichide
 @@||smushcdn.com^*/1.gif$domain=retrounlim.com
 @@||snap.licdn.com/li.lms-analytics/insight.min.js$domain=msci.com

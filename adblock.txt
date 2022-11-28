@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-11-28 16:11:30（北京时间） 
-! Total count: 15290
+! Version: 2022-11-29 00:09:38（北京时间） 
+! Total count: 15300
 -960x*0.gif
 -250.js*
 
@@ -5954,6 +5954,8 @@ www.jiaosm.net##div#weizhi-a,div.viewt_cc,div#xinxi
 www.jisilu.cn##A[href^="http://www.nffund.com/upfiles/eb/home"],A[href^="http://www.yhfund.com.cn/activezone"]
 www.jisuxia.com##div.ads960,div.ads700,div.downads,div.ads250
 www.jisuzhibo.net##div.gg_info
+www.jjtyss.com##ins[class],#div.myui-player.clearfix p,div.container p
+www.jmhongyan.com##ins[class],div.container p
 www.jokergameth.com##[width="728"][height="90"],[height="120"],img[src^="http://www.jokergameth.com/advertisement/"]
 www.jpfad.com##div#ad_text,div.ad_footerbanner,ins.adsbygoogle,div.ad_textlink1
 www.jpfans.com##img.imghover
@@ -6574,6 +6576,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||0123kjz.com^
 ||019103.com^
 ||01ws5t.cn^
+||025zxcv.com^
 ||0272aa.com^
 ||0272dd.com^
 ||028yhtz.com^
@@ -6648,6 +6651,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||1105yh.com^
 ||1107piaoliang2022.xyz^
 ||1113dage2022.xyz^
+||1116yitiao2022.xyz^
 ||1122af.com/js/$script
 ||1122dk.com/js/$scipt
 ||113.105.248.169^
@@ -7654,6 +7658,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||amazon.$removeparam=ingress
 ||amazon.$~xmlhttprequest,removeparam=qid
 ||amazon.*/dp/$removeparam=rps,document
+||amazon.*/dp/$removeparam=s,document
 ||amazon.*/gp/kindle/kfc/SpecialOffer/
 ||amazon.*/s?$removeparam=/^[^a-z%0-9]adId=/
 ||amazon.*/s?$removeparam=/^[a-z%0-9]*ie=/
@@ -7705,6 +7710,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||amazon.*^$removeparam=ascsubtag
 ||amazon.*^$removeparam=camp
 ||amazon.*^$removeparam=channel
+||amazon.*^$removeparam=colid
+||amazon.*^$removeparam=content-id
 ||amazon.*^$removeparam=creative
 ||amazon.*^$removeparam=creativeASIN
 ||amazon.*^$removeparam=crid
@@ -8248,6 +8255,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bbuni.com^
 ||bc.qunar.com^
 ||bcbo.cc^
+||bcfeat2.com^
 ||bcfeedback.taobao.com^
 ||bcglkfu.cn^
 ||bd-js.baixing.net^
@@ -10755,6 +10763,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jsqmt.qq.c
 ||jsqsuperglobalcdn.com/js/400biz.js
 ||jss.haoxyx.com^
+||jssav4hk.xyz^
 ||jssav6hk.club^
 ||jsxf.org/images/
 ||jsyunmi.com^
@@ -12064,6 +12073,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||org/topjs/
 ||orsoon.com/assets/images/*.gif
 ||orsoon.com/assets/images/tuidc.png
+||orxsq.xyz^
 ||osc.uranus.sogou.com^
 ||osdfjsk5.dikematou.com^
 ||oskdjfkdl3kl.shproud.com^

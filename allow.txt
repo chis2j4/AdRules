@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-11-30 16:11:37（北京时间） 
-! Total count: 3140
+! Version: 2022-12-01 00:11:26（北京时间） 
+! Total count: 3142
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5748,6 +5748,7 @@
 @@||paperpk.com/pk_img/$image,domain=paperpk.com
 @@||papi-service.jd.com/ads/
 @@||paramountplus.com^$generichide
+@@||parcel.app/webtrack.php?$~third-party
 @@||parsely.com/keys/$script,domain=wmmr.com|wrif.com
 @@||partner.everydays.de^|
 @@||pass.1688.com^$subdocument
@@ -6136,6 +6137,7 @@
 @@||sportsnet.ca/wp-content/plugins/bwp-minify/$domain=sportsnet.ca
 @@||sptmr.ru/sportmaster.ru/js/modules/gtm.js$script,domain=sportmaster.ru
 @@||src.fedoraproject.org/static/issues_stats.js?$~third-party
+@@||src.litix.io/shakaplayer/*/shakaplayer-mux.js
 @@||ss999.me/i.php?i=
 @@||ssl-images-amazon.com/images/$image,domain=affiliate-program.amazon.co.uk|affiliate-program.amazon.com|affiliate-program.amazon.in|affiliate.amazon.co.jp|afiliados.amazon.es|associados.amazon.com.br|associates.amazon.ca|associates.amazon.cn|partenaires.amazon.fr|partnernet.amazon.de|programma-affiliazione.amazon.it
 @@||ssl-images-amazon.com^*/satelliteLib-$script,domain=audible.com

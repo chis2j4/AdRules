@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-12-01 16:12:16（北京时间） 
-! Total count: 3143
+! Version: 2022-12-02 00:11:33（北京时间） 
+! Total count: 3145
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4861,6 +4861,7 @@
 @@||forum.notebookreview.com^|
 @@||forums.opera.com/api/topic/$~third-party,xmlhttprequest
 @@||fotor.com.cn/static/web/share/js/
+@@||foxrentacar.com/etc/designs/dotcom/clientlibs_base/$script,~third-party
 @@||fplay.online/log_event$~third-party,xmlhttprequest
 @@||franklymedia.com/*/300x150_WBNQ_TEXT.png$image,domain=wbnq.com
 @@||freedidi.com^$generichide
@@ -5235,6 +5236,7 @@
 @@||imrworldwide.com/v60.js$domain=adelaidenow.com.au|advertiser.com.au|bestrecipes.com.au|byronnews.com.au|cairnspost.com.au|coffscoastadvocate.com.au|couriermail.com.au|dailyexaminer.com.au|frasercoastchronicle.com.au|gattonstar.com.au|geelongadvertiser.com.au|gladstoneobserver.com.au|goldcoastbulletin.com.au|heraldsun.com.au|ipswichadvertiser.com.au|last.fm|musicfeeds.com.au|news-mail.com.au|noosanews.com.au|ntnews.com.au|nzherald.co.nz|realestateview.com.au|sf.se|sunshinecoastdaily.com.au|theaustralian.com.au|themercury.com.au|theweeklytimes.com.au|threenow.co.nz|townsvillebulletin.com.au|weatherchannel.com.au|weeklytimesnow.com.au|whitsundaytimes.com.au
 @@||imrworldwide.com/v60.js$domain=corriereadriatico.it|fanpage.it|huffingtonpost.it|ilgazzettino.it|ilmattino.it|ilmessaggero.it|la7.it|leggo.it|quotidianodipuglia.it|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lastampa.it|video.repubblica.it
 @@||in.treasuredata.com/js/*api_key$script,domain=retty.me
+@@||inbenta.io/prod/km/v1/tracking/events$domain=axa.fr
 @@||indeed.com/rpc/log/myjobs/$~third-party
 @@||informer.com^$generichide
 @@||infotel.ca/images/ads/$image,~third-party

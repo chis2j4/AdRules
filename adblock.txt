@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-12-02 16:10:25（北京时间） 
+! Version: 2022-12-03 00:10:39（北京时间） 
 ! Total count: 15461
 -960x*0.gif
 -250.js*
@@ -1661,7 +1661,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 */adload.
 */ads.
 */adsense/
-*/blsx_*_1_*?*
+*/blsx_*_*_*?*
 */html/click/
 */mediaController
 */piaofu.

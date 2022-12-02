@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-12-02 08:41:05（北京时间） 
-! Total count: 15441
+! Version: 2022-12-02 16:10:25（北京时间） 
+! Total count: 15461
 -960x*0.gif
 -250.js*
 
@@ -72,8 +72,11 @@
 ##A[href='/hth.html']
 ##A[href='/xinghuo-20.html']
 ##A[href^='http'][style^='display:block;left:0;right:0;position:fixed;border-left:']
+##A[onclick$='()'][target='_top'][style*='.gif) no-repeat;background-size:100% 100%;']
+##A[style='width: 100%;height: 150px;z-index:1000;position: absolute;display:block;top: 0px;'][onclick$=';this.style.display="none";']
 ##DIV#ad-index.col-12.position-relative
 ##DIV#bl_mobile_float
+##DIV.appdownload_ad
 ##DIV.bot-per-context[data-width='728'][data-height='90']
 ##DIV.box-width.ec-ad
 ##DIV.box-width.ec-ad.ec-ad-double.flex
@@ -88,6 +91,7 @@
 ##DIV[style^='width:100%;height:100%;line-height: 100%;overflow:hidden; margin:auto;border:1px #']
 ##IFRAME[src*="//pos.baidu.com/"]
 ##IMG[onclick='golh()'][src$='.gif']
+##IMG[src$='.dl'][style='width:100% !important;height:90px'][onclick]
 ##IMG[src*='/gg/'][src$='180.gif'][src*='800']
 ##SPAN#qdSZ2
 ##SPAN[style="position: fixed; bottom: 30vh; z-index: 2147483647; right: 0px; margin-right: 6vw; padding: 0px; text-decoration: none; background-color: red; width: 7vw; height: 7vw; border-radius: 7vw; font-size: 6vw; color: rgb(255, 255, 255); text-align: center; transform: rotate(-90deg);"]
@@ -330,6 +334,7 @@
 ##a[href*=".vxzmok.com"]
 ##a[href*=".yixing-hb.com"]
 ##a[href^="https://uds24.com/"]
+##body#nr_body.nr_all.c_nr > div[class] > DIV[style='height:90px;width:100%;']
 ##center > [href^='https://docs.qq.com/doc'][target='_blank']
 ##div#reader-scroll.acgn-reader-chapter.v>div>center>strong>button
 ##div.a_fr.a_cb,div.a_fl.a_cb,div.a_cn,div.wp.a_h
@@ -1744,24 +1749,31 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 -mobile-default/static/js/app-download-
 -time.js?
 -tongji.
+.cam/*_*_*?*$third-party
 .club$domain=yinghuacd.com
 .com/ads.
 .com/adv1/?q=
 .com/gg.js
 .gif$domain=787ck.cc
 .icu/*_*_*.js$third-party
+.ink/*_*_*_*?*$third-party
+.lijie.*/*_*_*_*?
 .live/r/*/*_r=*==
 .openx.
 .top/*/*-*-*-*.*?_=*
+.top/*_*_*_*.js?*$third-party
+.top/*q=*form=*&*url=http*$third-party
 .top/Report/*-*-*-*-*
 .userapi.com/impg^$removeparam=proxy
 .userapi.com/impg^$removeparam=type
+.xin/*_*_*_*.js?*$third-party
 .xyz$domain=yinghuacd.com
 .xyz/*/*/12194286116933？
 .xyz/*_*_*_*.js?$third-party
 .xyz/base*.js?
 .xyz/g21934*.v3h
-.xyz/hm.js?
+.xyz/hm.js?$third-party
+.xyz/jque*.js?$third-party
 /(?::\/\/i1\.hoopchina\.com\.cn\/blogfile\/.+_\d{3}x\d{4})/
 /*/*.add.*.add
 /*AdapterNew.
@@ -1914,6 +1926,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /bg.swf
 /bilibili/okretro/GeneralResponse
 /blog/*.php?z=
+/blxn_*_*_*?*$third-party
 /bwp*js
 /bwp*php
 /c/cevent.
@@ -2029,6 +2042,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /js/delay.
 /js/dubao.
 /js/fumeiti.js
+/js/hhsyw.js
 /js/htmlk*.js
 /js/js/css.js
 /js/loading.
@@ -3066,6 +3080,7 @@ caibaojian.com##.avatar,.textwidget,.single_top
 caijing.com.cn##div.downdiv
 cailianpress.com##.slick-list,.wrap
 caixin.com##.indexTopAd
+cam/*_*.apk$third-party
 cangku.in##.ad-index,.single-top-ad,.sidebar-game,.panel-zan
 cangku.in,cangku.moe,enjoymore.fun,got001.com,iwan.baidu.com,qq.com,qtv.com.cn,xinhuanet.com,zol.com.cn##.ad-box
 cangku.in,galacg.me,moneyweekly.com.tw###carousel-example-generic
@@ -5898,6 +5913,7 @@ www.btkuaisou.com##div.guanggao
 www.btshare.net##div.clear.text_center
 www.buildingstructure.cn##.allads,.banner,.leftads,.indexRightAds
 www.cailianpress.com##div.banner.AD-1
+www.cartoon18.com/assets/*/jquery.js
 www.cbber.com##div.a_mu,div.a_pt,div.a_pb,div#diy_chart.area
 www.ccav1.com###adsense9,#widget_25060ad
 www.cdz8.net##div#ads_c_tpc,div#ggggg
@@ -6648,6 +6664,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||065b42ba2b.se^
 ||065yuyu.com^
 ||07171.com^
+||074adzx.com^
 ||07780778.com^
 ||0792gdst.com^
 ||080999.cn^
@@ -10246,6 +10263,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hmwebs.top^
 ||hnbhrt.xyz^
 ||hncsdayu.com^
+||hndfw.com.cn^
 ||hnksln.com^
 ||hnlczgjx.com^
 ||hnlphr.cn^
@@ -13163,6 +13181,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sqszs.top^
 ||squarespace.com^$removeparam=subchannel
 ||sqxst.com^$third-party
+||srbzw.cn^
 ||srhuafeng.com^
 ||srmdz.vip^
 ||ss.chelaile.net.cn^
@@ -14125,6 +14144,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wlfng.com^
 ||wlgszt.com^
 ||wlhcb.cn^
+||wlsyuule.cam^
 ||wmflabs.org^
 ||wmxke.com^
 ||wn68din.cn^

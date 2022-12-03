@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-12-03 16:09:46（北京时间） 
-! Total count: 15473
+! Version: 2022-12-04 00:09:25（北京时间） 
+! Total count: 15482
 -960x*0.gif
 -250.js*
 
@@ -69,6 +69,7 @@
 ##.theme-dark>.ayx>a
 ##.width.imgs_1
 ##.zozoads
+##A#mhbottom_ad_img,[href='https://ys.44766.cc/m/download'][style*='/adcarsku/sku'],[src*='/adcarsku/sku']
 ##A[href='/hth.html']
 ##A[href='/xinghuo-20.html']
 ##A[href^='http'][style^='display:block;left:0;right:0;position:fixed;border-left:']
@@ -1774,9 +1775,9 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /*/*.add.*.add
 /*AdapterNew.
 //*.lijie.*/*_*?$third-party
-//mobi.*.cam/*_*$third-party
-//mobi.*.cyou/*_*$third-party
-//mobi.*.xyz/*_*$third-party
+//mobi*.*.cam/*_*$third-party
+//mobi*.*.cyou/*_*$third-party
+//mobi*.*.xyz/*_*$third-party
 /17mb/script/wap.js|
 /1905/1905.
 /300250/*
@@ -11193,6 +11194,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||liftoff.io^
 ||lightinthebox.com^$removeparam=url
 ||lihong.ltd^
+||lijie.in^
 ||lijunkai.com^
 ||likelife.cc^
 ||liliwoin.top^
@@ -11912,6 +11914,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nbrecsys.4paradigm.com^
 ||nbsdk-baichuan.alicdn.com^
 ||nchap.com^
+||ncnfjasd.net^
 ||ncwckj.com^
 ||ndfsl.com^
 ||neihhou.com^
@@ -12194,6 +12197,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||outoctillerytor.com^
 ||ouyhh.xyz^
 ||owlfolk.com^
+||oxj8hcfg.xyz^
 ||oyell.net^
 ||oyhurln.cn^
 ||ozon.ru^$removeparam=advert
@@ -12613,6 +12617,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qr.cp31.ott.cibntv.net^
 ||qrjxween.com^
 ||qs.lagowang.com^$object-subrequest
+||qsj8fd.com^
+||qsjfd2.com^
+||qsjfd2.xyz^
 ||qstzar.cn^
 ||qtd95fj.online^
 ||qtmdzsj.cn^
@@ -13084,6 +13091,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sjdfuvz.cn^
 ||sjh.baidu.com^
 ||sjoy7rq.cn^
+||skfj5d.com^
+||skfjd1.xyz^
 ||skfqxkk.cn^
 ||skogsborg.net^
 ||skxuueby.cn^

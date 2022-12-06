@@ -1,5 +1,5 @@
 ! Title: Allowlist
-! Version: 2022-12-06 00:10:46（北京时间） 
+! Version: 2022-12-06 16:10:51（北京时间） 
 ! Total count: 3145
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
@@ -3716,7 +3716,7 @@
 @@||1trackapp.com//static/tracking/$script,domain=1track.ru
 @@||1trackapp.com/static/tracking/$domain=1track.ru
 @@||1trackapp.com/static/tracking/$script,stylesheet,~third-party
-@@||1vkx.cn/public/1/assets/js/common/plugins/jquery/jquery.min.jss
+@@||1vkx.cn/public/1/assets/js/common/plugins/jquery/jquery.min.js
 @@||2018x.bid/adview.js
 @@||210.40.130.91^*/ad.css?$stylesheet
 @@||230book.com/images/bqg.js$domain=230book.net
@@ -3779,6 +3779,7 @@
 @@||8ox.cn/pge/?s=$script,domain=dlkoo.com
 @@||9.ujinbi.com/AD/
 @@||90-60-90.in.ua/images/moda/advt/$image,~third-party
+@@||91p49.com/*/*.mp4
 @@||930mh.com/js/config.js
 @@||939394.xyz^$generichide
 @@||95306.cn/public/images/ad/
@@ -5344,7 +5345,6 @@
 @@||kfcclub.com.tw/web/*/ad
 @@||kfcorder.com.tw/web/Script/Analytics.js
 @@||kfcorder.com.tw^*/Advert
-@@||killcovid2021.com/*/*.mp4
 @@||kincho.co.jp/cm/img/bnr_ad_$image,~third-party
 @@||kissfm.es/wp-content/themes/kissfm/assets/js/comscore.js$~third-party
 @@||kissjav.com^$generichide

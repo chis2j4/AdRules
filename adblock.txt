@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-12-07 08:41:10（北京时间） 
-! Total count: 15488
+! Version: 2022-12-07 16:10:51（北京时间） 
+! Total count: 15481
 -960x*0.gif
 -250.js*
 
@@ -392,7 +392,7 @@ $image,third-party,domain=avtb6677.com|lady1.top
 $popup,third-party,domain=downdv.com|rmdown.com|soyunpan.com|youtubeto.com
 $removeparam=%2AVersion%2A,domain=amazon.*
 $removeparam=%2Aentries%2A,domain=amazon.*
-$removeparam=/[$]ja/,domain=argos.co.uk
+$removeparam=/\$ja/,domain=argos.co.uk
 $removeparam=/^CJEVENT=/i
 $removeparam=/^ICID=/i,domain=~api.mapbox.com|~microsoft.com
 $removeparam=/^OCID=/i,domain=~youtube.com|~reiseauskunft.bahn.de
@@ -2308,18 +2308,8 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 @@guokr.com/apis/flowingboard/item/m_article
 @@guokr.com/apis/flowingboard/item/m_home_
 @@mailinglist$removeparam=/^utm_/i
+@@manwa.me/
 @@qhres2.com$domain=baike.so.com
-@@rujume.top/?url=
-@@rujume.top/API.php
-@@rujume.top/ckplayerx
-@@rujume.top/css/share.css
-@@rujume.top/dplayer
-@@rujume.top/js/jquer
-@@rujume.top/js/m3u8
-@@rujume.top/js/mplayer
-@@rujume.top/js/share
-@@rujume.top/m3u8.php?url=
-@@rujume.top/muiplayer
 @@www.cocomanga.com/js/ad_/ad2.js
 @@|wss://$removeparam
 @@|wss://zoom.us^$removeparam
@@ -4649,6 +4639,9 @@ manhua.fzdm.com###weizhi
 manhuagui.com##[class^="gg_"]
 manhuatai.com$$div[class="acgn-dynamic-content"]
 manqian.cn###adLocationConfig,.node-ad-bg
+manwa.me##DIV.swiper-container.swiper-container-horizontal
+manwa.me##[style='transform-origin: left top; margin: 0px auto;']
+manwa.me#@#.ad-area
 mao-123.com##div.cate.ad
 maodh.com##[width="960"][height="60"]
 map.baidu.com###index-areaEntry-widget
@@ -8550,7 +8543,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bloggerads.net^
 ||blogs.oracle.com^$removeparam=pcode
 ||blsenpg.cn^
-||blue-tomato.com^$removeparam=/_[$]ja/
+||blue-tomato.com^$removeparam=/_\$ja/
 ||blue-tomato.com^$removeparam=varid
 ||blue-tomato.com^$removeparam=zanox
 ||bluehost.com^

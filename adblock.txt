@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-12-09 16:10:29（北京时间） 
-! Total count: 15362
+! Version: 2022-12-10 00:10:29（北京时间） 
+! Total count: 15363
 -960x*0.gif
 -250.js*
 
@@ -5105,6 +5105,7 @@ sju.wang###dl_tips,a[href="/vip.php"]
 skinme.cc,ts.cn,xinhuanet.com##.gg2
 skycn.com##.couplet-ad-left,.couplet-ad-right,#show_top,.relate,#ppfootads
 skykiwichina.com###main_right_ad,.soku_ad,#topads,[src^="http://www.gcemedia.co.nz/www/delivery/afr.php"],[src^="http://ads.skykiwi.com/www/delivery/afr.php"],[id^="ad_"]
+skyroad.downallbook.com##IMG[height='60'][width='98%']
 slide.history.sina.com.cn##iframe[src^="http://d1.sina.com.cn/litong/"]
 slit.cn##DIV.slit_ad_tonglan,DIV.a_mu,DIV.a_fl.a_cb,DIV.a_pb,DIV.a_pr
 sm.cn###index_banner

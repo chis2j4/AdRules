@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-12-08 16:10:40（北京时间） 
-! Total count: 3146
+! Version: 2022-12-09 16:10:39（北京时间） 
+! Total count: 3147
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5739,6 +5739,7 @@
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=nlfreevpn.com|oldapps.com
 @@||pagure.io/static/issues_stats.js$~third-party
 @@||palmettostatearmory.com/static/$script,~third-party
+@@||pals.pa.gov/vendor/analytics/appinsights.js$third-party
 @@||pandora.com/images/public/devicead/$image
 @@||pandora.com^$generichide
 @@||panjiachen.github.io^$generichide

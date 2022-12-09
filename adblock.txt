@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-12-08 16:10:29（北京时间） 
-! Total count: 15361
+! Version: 2022-12-09 16:10:29（北京时间） 
+! Total count: 15362
 -960x*0.gif
 -250.js*
 
@@ -824,7 +824,7 @@ $removeparam=effect_medium
 $removeparam=effect_source
 $removeparam=effi_id
 $removeparam=effi_id2
-$removeparam=eid,document,denyallow=embed.tapkal.fi|myanimelist.net,domain=~activationspot.com|~anidb.net|~howlongtobeat.com|~piwigo.org|~vmware.com|~eventbrite.*|~egift.blackhawknetwork.com|~redeem.giftcards.com|~scopus.com|~stockmann.com|~jugem.jp|~kake.fi
+$removeparam=eid,document,denyallow=embed.tapkal.fi|myanimelist.net,domain=~activationspot.com|~anidb.net|~howlongtobeat.com|~piwigo.org|~vmware.com|~eventbrite.*|~egift.blackhawknetwork.com|~redeem.giftcards.com|~scopus.com|~stockmann.com|~jugem.jp|~kake.fi|~calendar.google.*
 $removeparam=elq
 $removeparam=elqCampaignId
 $removeparam=elqTrack
@@ -11095,6 +11095,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||linkedin.com^$removeparam=original_referer
 ||linkedin.com^$removeparam=refId
 ||linkedin.com^$removeparam=trk
+||linkedin.com^$removeparam=updateEntityUrn
 ||linktech.cn^
 ||linkvertise.com^$removeparam=o
 ||linyongming.top^

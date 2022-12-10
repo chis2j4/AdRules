@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-12-10 16:09:48（北京时间） 
-! Total count: 15363
+! Version: 2022-12-11 00:09:36（北京时间） 
+! Total count: 15365
 -960x*0.gif
 -250.js*
 
@@ -233,8 +233,10 @@
 ##div.m_avs
 ##div.main div.content div[id].is_mb a[id] img[id]
 ##div.page.player > div.main > div.content > div.module.module-player > div.module-main > div.player-box > div.player-rm.rm-list > a > img
+##div.play_boxbg div[class$='_acmsd']
 ##div.row.abs-text
 ##div.row.col5.clearfix:nth-of-type(2) > dl:nth-of-type(1)
+##div.stui-pannel__bd > #t-img-box
 ##div>span>[href='###']
 ##div[class^="is_"] > a > img[referrerpolicy="no-referrer"][src*="hdslb.com"]
 ##div[id*='cat_'][id*='_ad']

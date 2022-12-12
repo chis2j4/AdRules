@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-12-12 08:42:35（北京时间） 
-! Total count: 15366
+! Version: 2022-12-12 16:11:13（北京时间） 
+! Total count: 15368
 -960x*0.gif
 -250.js*
 
@@ -87,6 +87,7 @@
 ##DIV[style^='width:100%;height:100%;line-height: 100%;overflow:hidden; margin:auto;border:1px #']
 ##IFRAME[src*="//pos.baidu.com/"]
 ##IMG[onclick='golh()'][src$='.gif']
+##IMG[referrerpolicy='no-referrer'][style='box-sizing: border-box;height:calc(10vh); width:100%;padding: 0px 15px 10px 15px;']
 ##IMG[src$='.dl'][style='width:100% !important;height:90px'][onclick]
 ##IMG[src*='/gg/'][src$='180.gif'][src*='800']
 ##P[style$='transparent !important; font-size: 0px !important; text-indent: -10000px !important; height: 125px !important;']
@@ -2261,6 +2262,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 @@||cs-op.douyucdn.cn/vod-cover^
 @@||cs-op.douyucdn.cn/vod-index^
 @@||dash.cloudflare.com^$domain=dash.cloudflare.com,important
+@@||developer.apple.com$generichide
 @@||dlkoo.com/down/Copydown1
 @@||download.jumpw.com^
 @@||duckduckgo.com/tty^$removeparam=t

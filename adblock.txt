@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-12-13 08:43:51（北京时间） 
+! Version: 2022-12-13 16:11:03（北京时间） 
 ! Total count: 15368
 -960x*0.gif
 -250.js*
@@ -533,7 +533,7 @@ $removeparam=ad,domain=ocado.com
 $removeparam=adSize,domain=media-cdn.costco.ca|media-cdn.costco.com
 $removeparam=ad_config_id
 $removeparam=ad_content,domain=adlibris.com|scandinavianphoto.fi|e-ville.com|data-systems.fi|24hshop.fi|swamp.fi
-$removeparam=ad_id
+$removeparam=ad_id,domain=~olx.ua
 $removeparam=ad_medium
 $removeparam=ad_name
 $removeparam=ad_prodid,domain=adlibris.com|scandinavianphoto.fi|e-ville.com|data-systems.fi|24hshop.fi|swamp.fi

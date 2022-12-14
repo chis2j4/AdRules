@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-12-14 00:11:05（北京时间） 
+! Version: 2022-12-14 08:40:26（北京时间） 
 ! Total count: 15369
 -960x*0.gif
 -250.js*
@@ -1524,7 +1524,7 @@ $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biq
 $~css,~script,removeparam=campaignid
 $~image,removeparam=itok
 $~ping,removeparam=lcid,domain=~rekono.si
-$~subdocument,removeparam=aff,domain=~discoverbank.com
+$~subdocument,removeparam=aff,domain=~discoverbank.com|~discover.com
 $~xmlhttprequest,removeparam=/^refsrc=/i
 $~xmlhttprequest,removeparam=LID
 $~xmlhttprequest,removeparam=mbid

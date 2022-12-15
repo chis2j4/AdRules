@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-12-15 08:42:41（北京时间） 
-! Total count: 15357
+! Version: 2022-12-15 16:10:54（北京时间） 
+! Total count: 15359
 -960x*0.gif
 -250.js*
 
@@ -4198,6 +4198,7 @@ m.baidu.com##.suggest-hot
 m.baidu.com##.water-container.tab-news-content
 m.baidu.com##DIV#page-copyright.se-page-copyright.se-copyright-zbios[style='margin-bottom: 50px;']
 m.baidu.com##DIV#se-recommend-word-list-container.se-recommend-word-list-container
+m.baidu.com##DIV[data-module='rec:undefined-undefined']
 m.baidu.com#@#div[class*="ads"]
 m.baidu.com,www.baidu.com###provider,div[class$="fixed"],SECTION#middle_banner,.ec_ad_results,.shopping-item,#bottomOperate
 m.baidu.com,www.baidu.com##ARTICLE[class='c-container aladdin__10uYO']
@@ -5796,6 +5797,7 @@ www.im286.com##div.wp.a_t,div.wp.a_f,div.a_pt,div.wp.a_h
 www.im286.net##div[class^="index-ad"],div.im286-h,div.a_pt,img[src^="286/"]
 www.inexus.co##.a_mu,#inspiration-wx,.ads125,#diy1
 www.iqiyi.com/*.html##.rightpcadv,.pca-img
+www.itdog.cn##IMG[src^='/upload/images/'][width='270'][height='80'],.gg_link,.top_link_hidden
 www.ithome.com##.down_app
 www.itnose.net##div#menu + div[style]
 www.ixian.cn##div#comiis_tuangou,div.comiis_w1000,div.comiis_adbox,div.a_p,div.a_pb

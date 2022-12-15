@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-12-15 16:10:54（北京时间） 
-! Total count: 15359
+! Version: 2022-12-16 00:10:40（北京时间） 
+! Total count: 15364
 -960x*0.gif
 -250.js*
 
@@ -2869,6 +2869,7 @@ bimibimi.cc##[src^='https://dd-static.jd.com']
 bing.com###BottomAppPro
 bing.com###TopApp
 bing.com##.b_ad
+bing.com##DIV#bnp_container
 bing.com##DIV.sb_adsNv2,li.b_ad,div.OpInNwWndw
 biqudao.com##.dahengfu,.con_ad
 biqulou.net##.dahengfu
@@ -3120,6 +3121,7 @@ ctfile.com###alipay-qhb,#infoModal,.row-fluid.text-center,.modal-backdrop,div#ad
 ctrip.com###fl_wrap_default
 ctrip.com###mt_cpm_box,div.img_show,div.pic-banner
 ctrip.com##.set-phone.set-list > .nav-myctrip.person-text
+cupfox.app##IMG.cupfox-img[width='100%']
 cupfox.app#@#.adsbygoogle
 cw.com.tw##[class$="-ad"],[id^="div-gpt-ad-"],#iframe
 cww.net.cn##.center[height="214"],[height="92"],.ggbar,.gg_01
@@ -6449,12 +6451,14 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||064ioio.com^
 ||065b42ba2b.se^
 ||065yuyu.com^
+||066hjkl.com^
 ||07171.com^
 ||074adzx.com^
 ||07780778.com^
 ||0792gdst.com^
 ||080999.cn^
 ||0817tt.com^
+||085cczz.com^
 ||086186.com^
 ||09jsufg.com^
 ||0aa1.com/dian.js
@@ -8984,6 +8988,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||daba.tv/Runtime/js/$script
 ||dacedsfa.cn^
 ||dada.dadawm.cc^
+||dadatuwz.com^$third-party
 ||dadi.tv/xdy
 ||dagou2018.com/js/view$script
 ||dahexs.net^

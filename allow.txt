@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-12-18 16:09:23（北京时间） 
-! Total count: 3159
+! Version: 2022-12-19 00:09:25（北京时间） 
+! Total count: 3160
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4049,6 +4049,7 @@
 @@||amazon-adsystem.com/widgets/q?$image,third-party
 @@||amazon-adsystem.com^$domain=affiliate-program.amazon.com
 @@||amazon.com/home/ads/$document,subdocument,domain=affiliate-program.amazon.com
+@@||amazonaws.com/common/legacy/scripts/pixels/google_analytics.js$script,domain=evenue.net
 @@||amazonaws.com/production$xmlhttprequest,domain=ipa-reader.xyz
 @@||amazonaws.com/static.madlan.co.il/*/heatmap.json?$xmlhttprequest
 @@||amebame.com/pub/ads/$image,domain=abema.tv|ameba.jp|ameblo.jp

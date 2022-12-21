@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-12-21 08:36:45（北京时间） 
-! Total count: 3162
+! Version: 2022-12-21 16:10:47（北京时间） 
+! Total count: 3163
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5469,6 +5469,7 @@
 @@||manageengine.com/products/ad-manager/$~third-party
 @@||manhua.weibo.com/adv/
 @@||manhwaid.org^$generichide
+@@||maptiles.ping-admin.ru^$image,domain=ping-admin.com
 @@||marketing.net.idealo-partner.com^|
 @@||marketingautomation.services^$script,domain=leeuwerik.nl
 @@||marketingsolutions.com.pl^*/googleanalytics-$image,domain=marketingsolutions.com.pl

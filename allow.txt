@@ -1,5 +1,5 @@
 ! Title: Allowlist
-! Version: 2022-12-23 16:10:22（北京时间） 
+! Version: 2022-12-24 00:10:02（北京时间） 
 ! Total count: 3161
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
@@ -4141,7 +4141,7 @@
 @@||app.appsflyer.com^|
 @@||app.clarity.so^$~third-party
 @@||app.sushi.com/_next/static/chunks/pages/analytics$~third-party
-@@||appboycdn.com^*/appboy.min.js$script,domain=bakkt.com
+@@||appboycdn.com/web-sdk/$script,domain=magicseaweed.com
 @@||apple.com^$generichide
 @@||appledaily.com.hk/admedia/
 @@||appledaily.com.tw^*_ad_logo.

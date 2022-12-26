@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2022-12-26 00:09:27（北京时间） 
-! Total count: 3161
+! Version: 2022-12-26 08:39:49（北京时间） 
+! Total count: 3160
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -6160,7 +6160,6 @@
 @@||ssp.rambler.ru/capirs.js$domain=afisha.ru
 @@||ssports.com/images/resources/web/live/js/LiveAds.js
 @@||sssbozh.com^$generichide
-@@||sst.soranews24.com/gtm.js$script,~third-party
 @@||staff-start.com/js/track/$domain=enoteca.co.jp|francfranc.com|store.alpen-group.jp
 @@||stapewithadblock.monster^$generichide
 @@||starbucks.ca^*/optimizely.$script,~third-party

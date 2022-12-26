@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-12-26 08:39:35（北京时间） 
-! Total count: 15338
+! Version: 2022-12-26 16:10:27（北京时间） 
+! Total count: 15341
 -960x*0.gif
 -250.js*
 
@@ -2588,7 +2588,6 @@ baidu.com##.square-banner-bgicon.index-banner
 baidu.com##.welcome-banner
 baidu.com##.wgt-rel-exp.content-box
 baidu.com##.wgt-related-questions
-baidu.com##DIV.brand-entry
 baidu.com##DIV.c-result.result[srcid='mkt_ad_space']
 baidu.com##DIV.navs-bottom-bar
 baidu.com##[
@@ -4175,6 +4174,7 @@ m.baidu.com##DIV#page-copyright.se-page-copyright.se-copyrig
 m.baidu.com##DIV#page-copyright.se-page-copyright.se-copyright-zbios[style='margin-bottom: 50px;']
 m.baidu.com##DIV#se-recommend-word-list-container.se-recommend-word-list-container
 m.baidu.com##DIV.barea-ad
+m.baidu.com##DIV.brand-entry
 m.baidu.com##DIV[data-module='rec:undefined-undefined']
 m.baidu.com##DIV[data-module='swan-ad-fc-feed'] DIV[sid][posid][prank]
 m.baidu.com#@#div[class*="ads"]
@@ -10125,6 +10125,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||huhue.com^
 ||huichuan.sm.cn^
 ||huifangwen.com^
+||huitoukao.com^
 ||huiun.com^
 ||huiyelu.com^
 ||huiyigou111.com^
@@ -14780,6 +14781,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||z2.fakutownee.cn^
 ||z888.izhufu.net^
 ||za5.net^
+||zabdybod*.club^
+||zahrvfbd*.xyz^
 ||zailet.com^
 ||zangtui.com^
 ||zanox.com.cn^

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-12-26 16:10:27（北京时间） 
-! Total count: 15341
+! Version: 2022-12-27 00:09:38（北京时间） 
+! Total count: 15344
 -960x*0.gif
 -250.js*
 
@@ -65,6 +65,7 @@
 ##A#mhbottom_ad_img,[href='https://ys.44766.cc/m/download'][style*='/adcarsku/sku'],[src*='/adcarsku/sku']
 ##A[href='/hth.html']
 ##A[href^='http'][style^='display:block;left:0;right:0;position:fixed;border-left:']
+##A[href^='https://tv2356.cc']
 ##A[onclick$='()'][target='_top'][style*='.gif) no-repeat;background-size:100% 100%;']
 ##A[style='width: 100%;height: 150px;z-index:1000;position: absolute;display:block;top: 0px;'][onclick$=';this.style.display="none";']
 ##DIV#ad-index.col-12.position-relative
@@ -988,7 +989,7 @@ $removeparam=ldtag_cl
 $removeparam=lgw_code
 $removeparam=li,domain=msn.com
 $removeparam=lid,domain=clickserve.dartsearch.net|flipkart.com|baidu.com
-$removeparam=linkId,domain=amazon.*|disneyplus.com
+$removeparam=linkId,domain=amazon.*|cbsnews.*|disneyplus.com
 $removeparam=litb_from
 $removeparam=loc,domain=~geizhals.*|~ebay.*|~myanimelist.net|~microsoft.com|~liveperson.net
 $removeparam=locale,domain=udemy.com
@@ -12335,6 +12336,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qhicumg.cn^
 ||qhimg.com^$domain=1024li.com|mir300.com
 ||qhimgs4.com/*.gif$domain=hdmoli.com
+||qhimgs4.com/*.gif$domain=www.jiaozi.me
 ||qhmsg.com^$domain=1024li.com
 ||qhonzpl.cn^
 ||qhres2.com^
@@ -12629,6 +12631,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||run.fintechpi.com^
 ||run5.b1byou.com^
 ||runative-syndicate.com^
+||runn.fun^
 ||runningman.site^
 ||runtujs.com^
 ||rvbztg.cn^

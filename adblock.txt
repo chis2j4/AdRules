@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-12-27 08:39:14（北京时间） 
-! Total count: 15344
+! Version: 2022-12-27 16:10:08（北京时间） 
+! Total count: 15343
 -960x*0.gif
 -250.js*
 
@@ -2591,7 +2591,6 @@ baidu.com##.wgt-rel-exp.content-box
 baidu.com##.wgt-related-questions
 baidu.com##DIV.c-result.result[srcid='mkt_ad_space']
 baidu.com##DIV.navs-bottom-bar
-baidu.com##[
 baidu.com##[class^='ball-wrapper']
 baidu.com##[style^="bottom:"][class^="ball-wrapper__"]
 baidu.com##a.ball-wrapper__3BTBO.c-blocka

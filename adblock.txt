@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-12-27 16:10:08（北京时间） 
-! Total count: 15343
+! Version: 2022-12-28 00:09:40（北京时间） 
+! Total count: 15348
 -960x*0.gif
 -250.js*
 
@@ -584,7 +584,7 @@ $removeparam=affc
 $removeparam=affcode
 $removeparam=affi_id
 $removeparam=affil
-$removeparam=affiliate
+$removeparam=affiliate,domain=~justice.gov
 $removeparam=affiliateCode
 $removeparam=affiliateCustomId
 $removeparam=affiliate_id
@@ -6558,6 +6558,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||1ccbt.com^
 ||1dfsdfg.com^
 ||1f3k.com^
+||1fichier.com^$removeparam=af
 ||1kkk.com/wxh_asy.js?cid=
 ||1lan.tv^
 ||1look.tv^
@@ -9113,6 +9114,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dk.zeronethree.xyz^
 ||dklwddl.cn^
 ||dkqapp.cn^
+||dl-protect.net^$removeparam=fn
+||dl-protect.net^$removeparam=rl
 ||dl.ops.baidu.com^$third-party
 ||dl.weshineapp.com^
 ||dl12349.net^
@@ -9848,6 +9851,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gtimg.cn/*_ad^
 ||gtimg.cn/qzone/biz/gdt/
 ||gtimg.cn/wupload/oper_actity_cfg.actity_video_ad_cfg^
+||gtlpai.com^
 ||gtoyouin.biz^
 ||gtpxvpi.cn^
 ||guanggao28.xyz^
@@ -10130,6 +10134,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||huiyelu.com^
 ||huiyigou111.com^
 ||huiyueting.com^
+||huizhoumi.com^
 ||huluxia.com^$domain=m.imomoe.la
 ||humblebundle.com^$removeparam=linkID
 ||humblebundle.com^$removeparam=mcID

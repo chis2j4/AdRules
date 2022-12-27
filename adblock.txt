@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-12-27 00:09:38（北京时间） 
+! Version: 2022-12-27 08:39:14（北京时间） 
 ! Total count: 15344
 -960x*0.gif
 -250.js*
@@ -1012,7 +1012,7 @@ $removeparam=mchn
 $removeparam=mclk
 $removeparam=mediapartner,domain=evesleep.co.uk
 $removeparam=medium,domain=deepdiscount.com|eonline.com|outnorth.fi|bybit.com|t.me|twitter.com|docs.google.com|instagram.com|forms.gle|goodcrypto.app|discord.*|eventbrite.*|youtube.com|coinpanel.com|docsend.com|kasta.io|runnode.com|gleam.io|1sol.io
-$removeparam=mid,domain=agentprovocateur.com|columbia.com|dxl.com|hanes.com|josbank.com|onehanesplace.com|saksfifthavenue.com|saksoff5th.com|sorel.com|verabradley.com|change.org|productshopper.*
+$removeparam=mid,domain=agentprovocateur.com|columbia.com|dxl.com|hanes.com|josbank.com|onehanesplace.com|saksfifthavenue.com|saksoff5th.com|sorel.com|verabradley.com|change.org|productshopper.*|links.e.malwarebytes.com
 $removeparam=mindbox-click-id
 $removeparam=mindbox-message-key
 $removeparam=mkref
@@ -1429,7 +1429,7 @@ $removeparam=u,domain=change.org
 $removeparam=u1,domain=linksynergy.com|shop-links.co
 $removeparam=u_code
 $removeparam=ueid,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
-$removeparam=uid,domain=columbia.com|sorel.com|entradas.com|tomtop.com
+$removeparam=uid,domain=columbia.com|sorel.com|entradas.com|tomtop.com|links.e.malwarebytes.com
 $removeparam=unicorn_click_id
 $removeparam=unp_tpcid
 $removeparam=unptid

@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-12-28 08:39:19（北京时间） 
+! Version: 2022-12-28 16:09:57（北京时间） 
 ! Total count: 15357
 -960x*0.gif
 -250.js*
@@ -6337,6 +6337,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||*.gif|$domain=7mshipin.org|99a25.com|viidii.info|xgan.cn|xin99r3.com|xin99r4.com
 ||*.gif|$third-party,domain=33235.net
 ||*.go.sohu.com^
+||*.gtlpa*.com^
 ||*.irs03.com^
 ||*.jpg$domain=gulingge.com
 ||*.js$domain=gulingge.com
@@ -9852,7 +9853,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gtimg.cn/*_ad^
 ||gtimg.cn/qzone/biz/gdt/
 ||gtimg.cn/wupload/oper_actity_cfg.actity_video_ad_cfg^
-||gtlpai.com^
 ||gtoyouin.biz^
 ||gtpxvpi.cn^
 ||guanggao28.xyz^

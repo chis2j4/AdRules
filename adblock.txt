@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-12-28 00:09:40（北京时间） 
-! Total count: 15348
+! Version: 2022-12-28 08:39:19（北京时间） 
+! Total count: 15357
 -960x*0.gif
 -250.js*
 
@@ -1401,7 +1401,7 @@ $removeparam=track_campaignid
 $removeparam=track_click
 $removeparam=track_keyword
 $removeparam=tracker,domain=dustdeal.nl|batteryupgrade.*
-$removeparam=tracking,domain=facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|messenger.com|affiliatefuture.com|gtomega.*
+$removeparam=tracking,domain=facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|messenger.com|affiliatefuture.com|gtomega.*|malwarebytes.com
 $removeparam=trackingCode
 $removeparam=tracking_source
 $removeparam=tracking_type
@@ -9097,6 +9097,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||discountminds.com^
 ||discoveryplus.$removeparam=idp
 ||discoveryplus.$removeparam=responseCode
+||discoveryplus.com^$removeparam=_referrer
 ||dismantlepenantiterrorist.com^
 ||dispatcher.camera360.com^
 ||display.intdmp.com^$popup
@@ -11329,9 +11330,13 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mail.ru^$removeparam=mt_click_id
 ||maizixueyuan*/js/html*.js
 ||maljxp.cn^
+||malwarebytes.com^$removeparam=ADDITIONAL_AFFID
 ||malwarebytes.com^$removeparam=ADDITIONAL_x-source
 ||malwarebytes.com^$removeparam=guard
+||malwarebytes.com^$removeparam=s
+||malwarebytes.com^$removeparam=x-affid
 ||malwarebytes.com^$removeparam=x-source
+||malwarebytes.com^$removeparam=x-wts
 ||mam.netease.com^
 ||mamaqi.com/themes/slcms/js/$script
 ||man7777.com^
@@ -11406,6 +11411,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mc.muhtbnd.cn^
 ||mc.tohpeu.cn^
 ||mc.yandex.ru^
+||mcafee.com^$removeparam=adid
 ||mcafee.com^$removeparam=ccstype
 ||mcafee.com^$removeparam=cctype
 ||mcafee.com^$removeparam=csrcl2
@@ -12755,6 +12761,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||se.360.cn^
 ||se967.com^
 ||sealine.youku.com^
+||search.brave.com/api/suggest$removeparam=source
+||search.yahoo.com^$removeparam=fr
+||search.yahoo.com^$removeparam=fr2
 ||searchads.apple.com^
 ||sec.umeng.com^
 ||sec.video.qq.com^

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-12-29 16:10:03（北京时间） 
-! Total count: 15359
+! Version: 2022-12-30 00:09:53（北京时间） 
+! Total count: 15369
 -960x*0.gif
 -250.js*
 
@@ -64,6 +64,7 @@
 ##.zozoads
 ##A#mhbottom_ad_img,[href='https://ys.44766.cc/m/download'][style*='/adcarsku/sku'],[src*='/adcarsku/sku']
 ##A[href='/hth.html']
+##A[href='http://95710.vip']
 ##A[href^='http'][style^='display:block;left:0;right:0;position:fixed;border-left:']
 ##A[href^='https://tv2356.cc']
 ##A[onclick$='()'][target='_top'][style*='.gif) no-repeat;background-size:100% 100%;']
@@ -1174,6 +1175,7 @@ $removeparam=publishername,domain=vistaprint.com
 $removeparam=pubref
 $removeparam=pzid,domain=emirates.com
 $removeparam=qo,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
+$removeparam=qq-pf-to
 $removeparam=qsrc,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
 $removeparam=queryly,domain=fortune.com
 $removeparam=ranEAID
@@ -4280,6 +4282,7 @@ m.huya.com##.pop-download
 m.huya.com##.start-btn
 m.huya.com##.u-btn-down.header-app-btn
 m.huya.com##.u-btn-down.start-btn
+m.huya.com##DIV#template
 m.iqiyi.com##DIV.iqyGuide-content,.cover
 m.iqiyi.com##div#shortcut,div.banner_inner.bd-large.aaaa,div.appBar
 m.ithome.com##.hot-app
@@ -5415,6 +5418,8 @@ v.qq.com##.svg_icon_client.svg_quick_icon > path:nth-of-type(1)
 v.qq.com##div.pop_ads_wide,div#QQlive_SP_RM.l_qq_com,DIV[class^="mod_ads mod_ads_main_"],iframe[src="http://games.qq.com/playgame/videoweb/videoweb.htm"],div[class^="mod_float_"],div.mod_ad,div.site_bg.site_bg_variety,.player_bg_ad,.top_banner,.mod_ads_play,#jimu-module-10,#jimu-module-11,.tvp_open_btns,[class^="txp_ad_"],.txp_ad,.figures_ad
 v.sogou.com##[uigs^="adv_pc_adv"]
 v.youku.com##div#dragDIV,div.listcontrol
+v11av.xyz##div.content__body [rel='nofollow'][href][target='_blank']
+v11av.xyz##div.row.q-ma-none A[rel='noopener nofollow'][href][style='display: block;']
 v4p.co##iframe[SRC^="http://fans.bestvogue.com/fans/"]
 v5bjq.com##.ad-Shrink,.ad960-90,.ad336-280,.gg810,.gg-wrap
 v6p.co##iframe[SRC^="http://fans.bestvogue.com/fans/"]
@@ -8192,6 +8197,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bilibili.com/audio/mycollection?$removeparam=type
 ||bilibili.com/bangumi$removeparam=theme
 ||bilibili.com/cm/api/*/pc
+||bilibili.com/video/*$removeparam=buvid
+||bilibili.com/video/*$removeparam=mid
 ||bilibili.com/video/*$removeparam=ts
 ||bilibili.com/x/report/
 ||bilibili.com^$removeparam=-Arouter
@@ -8225,6 +8232,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bilibili.com^$removeparam=tdsourcetag
 ||bilibili.com^$removeparam=timestamp
 ||bilibili.com^$removeparam=unique_k
+||bilibili.com^$removeparam=up_id
 ||bilibili.com^$removeparam=vd_source
 ||billiger.de^$removeparam=log
 ||billiger.de^$removeparam=p
@@ -14805,6 +14813,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zangtui.com^
 ||zanox.com.cn^
 ||zaoyx.jrchiji.cn^
+||zasjf.xyz^
+||zasjfget.xyz^
 ||zazhipu.com^
 ||zb.516624.com^
 ||zblz.me^

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-12-29 08:40:21（北京时间） 
-! Total count: 15356
+! Version: 2022-12-29 16:10:03（北京时间） 
+! Total count: 15359
 -960x*0.gif
 -250.js*
 
@@ -3774,6 +3774,7 @@ itv.brtn.cn##a#onplayer
 iwan.baidu.com##div#rmaContainer,a#small-img,div.banner-container,div[class$="-banner"],div.ad,div.side-ad,#mp-werbung-left,#mp-werbung-right
 iwatch365.com###banner,.banner_body,.wp.a_h
 iweihai.cn##div.readCon_right.tar,IMG[src="http://pro.iweihai.cn/2014/dongfeng/96070.gif"],DIV#top + DIV.tac,div#lovexin12,div#lovexin14,div#iwhzhepingad
+ix6080.com##DIV[style$='vw; display: block;']
 iyaxi.com##.ad2,.widget_vfilmtime_ad,.adbg,.adsbygoogle,.hotarticlead,.ad,.textwidget
 iyaxin.com##.ads,.adv-banner,.adv,.block_area_ads
 iyin.net##[id^="ad"]
@@ -6989,6 +6990,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||89kvh.cn^
 ||8chj9.com^
 ||8cnd.com^
+||8d7hhh8x.com^
 ||8g0j.cn^
 ||8gl.com.cn^
 ||8gp4wjq3.com^
@@ -8328,6 +8330,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bobo.163.com^
 ||bobo.com/special/$subdocument
 ||bodgg.com^
+||bofnhn.com^
 ||bohanhengtian.cn^
 ||bontech-zh.com^
 ||book118.com/Public/book118/js/picture-else/

@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2022-12-31 00:09:12（北京时间） 
+! Version: 2022-12-31 08:38:03（北京时间） 
 ! Total count: 15369
 -960x*0.gif
 -250.js*
@@ -249,7 +249,7 @@ $image,third-party,domain=avtb6677.com|lady1.top
 $popup,third-party,domain=downdv.com|rmdown.com|soyunpan.com|youtubeto.com
 $removeparam=%2AVersion%2A,domain=amazon.*
 $removeparam=%2Aentries%2A,domain=amazon.*
-$removeparam=/\$ja/,domain=argos.co.uk
+$removeparam=/[$]ja/,domain=argos.co.uk
 $removeparam=/^CJEVENT=/i
 $removeparam=/^ICID=/i,domain=~api.mapbox.com|~microsoft.com
 $removeparam=/^OCID=/i,domain=~youtube.com|~reiseauskunft.bahn.de

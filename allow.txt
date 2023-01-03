@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-01-03 00:10:06（北京时间） 
-! Total count: 3166
+! Version: 2023-01-03 08:39:33（北京时间） 
+! Total count: 3163
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4427,7 +4427,6 @@
 @@||chasecdn.com^*/@ccb-blueanalytics/$script,domain=chase.com
 @@||chat.conveyhs.com/chatadapter/clickstream/clickstream.js$script
 @@||check.ddos-guard.net/check.js$script
-@@||check2.tsb.co.uk^|
 @@||cheshi-img.com/ad/csad_2019.js
 @@||chessfriends.com/js/live/GoogleAnalytics.js?$~third-party
 @@||china.com/dianbo/adv1.xml
@@ -5115,7 +5114,6 @@
 @@||gumtree.co.za/my/ads.html$~third-party
 @@||gunosy.co.jp/img/ad/$image,~third-party
 @@||gymnasedeburier.ch/themes/segment/js/$~third-party
-@@||h-sdk.online-metrix.net^|
 @@||haaretz.co.il/logger/p.gif?$image,xmlhttprequest
 @@||habibs.com.br/build/assets/js/tracking.js$domain=habibs.com.br
 @@||hackread.com/wp-content/uploads/$image,~third-party
@@ -5443,7 +5441,6 @@
 @@||logentries.com^|
 @@||logging.apache.org^$~third-party
 @@||logic-immo.com/lib/xiti/xiti.js$script,~third-party
-@@||login.eki-net.com^|
 @@||login.ingbank.pl^*/satelliteLib-$script
 @@||login.sendpulse.com^|
 @@||logmein.com/js/tracking.js$domain=logme.in|logmein.com

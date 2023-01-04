@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-01-04 16:10:37（北京时间） 
-! Total count: 3162
+! Version: 2023-01-05 00:13:31（北京时间） 
+! Total count: 3163
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4400,6 +4400,7 @@
 @@||cdn.staticfile.org^$script,domain=00ksw.com|147xiaoshuo.com|31xs.org|31xsxs.com|35xs.org|biquge18.com|biququ.info|manhuadui.com|qihaoqihao.com|rijutv.com|tsxsw.net|xbiqugexsw.com|xx31xs.org|ziyouge.com
 @@||cdn.staticfile.org^$script,domain=dybee.tv
 @@||cdn.treasuredata.com/sdk/$script,domain=retty.me
+@@||cdn.treasuredata.com/sdk/$script,domain=sso.lg.com
 @@||cdn.trustcommander.net/privacy$script,domain=tf1.fr
 @@||cdn.vidoza.co/js/$script,domain=heapfiles.com|vidoza.co|vidoza.net
 @@||cdnbc-wup.hsbc.com.hk^|

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-04 16:10:24（北京时间） 
-! Total count: 15381
+! Version: 2023-01-05 00:13:21（北京时间） 
+! Total count: 15386
 -960x*0.gif
 -250.js*
 
@@ -86,6 +86,7 @@
 ##DIV[id*="BAIDU_SSP__wrapper_"]
 ##DIV[style^='width:100%;height:100%;line-height: 100%;overflow:hidden; margin:auto;border:1px #']
 ##IFRAME[src*="//pos.baidu.com/"]
+##IMG[alt='155.fun']
 ##IMG[alt^='kaiybet']
 ##IMG[onclick='golh()'][src$='.gif']
 ##IMG[referrerpolicy='no-referrer'][src$='.gif'][width='100%']
@@ -1014,6 +1015,7 @@ $removeparam=mchn
 $removeparam=mclk
 $removeparam=mediapartner,domain=evesleep.co.uk
 $removeparam=medium,domain=deepdiscount.com|eonline.com|outnorth.fi|bybit.com|t.me|twitter.com|docs.google.com|instagram.com|forms.gle|goodcrypto.app|discord.*|eventbrite.*|youtube.com|coinpanel.com|docsend.com|kasta.io|runnode.com|gleam.io|1sol.io
+$removeparam=mibextid
 $removeparam=mid,domain=agentprovocateur.com|columbia.com|dxl.com|hanes.com|josbank.com|onehanesplace.com|saksfifthavenue.com|saksoff5th.com|sorel.com|verabradley.com|change.org|productshopper.*|links.e.malwarebytes.com
 $removeparam=mindbox-click-id
 $removeparam=mindbox-message-key
@@ -12714,6 +12716,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||saksfifthavenue.com^$removeparam=LSlinkid
 ||saksfifthavenue.com^$removeparam=LSoid
 ||samboc.com^
+||sange20221226.xyz^
 ||sankezhi.cn^
 ||sanme2.taisantech.com^
 ||satismeter.com^
@@ -13129,6 +13132,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||static.iqiyi.com/js/html5/js/app/chunk-vendors.efc31a273195493a1355.js
 ||static.lalaping.com^
 ||static.m.sjzhushou.com^$app=com.xunlei.downloadprovider
+||static.missav.com/js/plyr.js
 ||static.ptoahaistais.com^
 ||static.tieba.baidu.com/tb/img/pv.gif
 ||static.tieba.baidu.com/tb/img/track.gif
@@ -13362,6 +13366,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tetonashentai.com/wp-$script
 ||tf.mangqu.cn^
 ||tf58.com^
+||tfbulkidn.com^
 ||tg.loclog.cn^
 ||tg.tebiezhuan.com^
 ||tg33.cn^

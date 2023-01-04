@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-04 08:40:05（北京时间） 
-! Total count: 15379
+! Version: 2023-01-04 16:10:24（北京时间） 
+! Total count: 15381
 -960x*0.gif
 -250.js*
 
@@ -5747,6 +5747,7 @@ www.gg1z.com##A[href^="http://xiazai.vstartdown.com/down.asp?id="],[class="cp sp
 www.godic.net##ins.adsbygoogle
 www.google.com###tads,.ads-ad
 www.google.com$@$div[class="_ad"]
+www.google.com,www.google.com.hk,www.google.co.jp##[href*='%E2%9C%94%EF%B8%8F'][href*='%E2%9C%94%EF%B8%8F%E2%96%9B'],[href*='%E3%80%90%E2%9C%94%EF%B8%8F'],[href*='%E2%9E%BF%E3%80%91'],[href*='%E2%8F%AA%29'],[href*='%E2%9A%BD%E3%80%91'],[href*='%E2%9C%94%EF%B8%8F'][href*='%E2%8F%AA)-'],[href*='-%E3%80%90']
 www.greenhua.com##span#grhua2,span#grhua1
 www.guancha.cn##div.adiphone,div.text-center.top-spacing2,div.adboard
 www.guhai.com.cn##table[width="960"][height="90"]
@@ -5770,7 +5771,8 @@ www.im286.com##div.wp.a_t,div.wp.a_f,div.a_pt,div.wp.a_h
 www.im286.net##div[class^="index-ad"],div.im286-h,div.a_pt,img[src^="286/"]
 www.inexus.co##.a_mu,#inspiration-wx,.ads125,#diy1
 www.iqiyi.com/*.html##.rightpcadv,.pca-img
-www.itdog.cn##IMG[src^='/upload/images/'][width='270'][height='80'],.gg_link,.top_link_hidden
+www.itdog.cn##IMG[src^='/upload/images/'][width='270'][height='80'],.gg_link,.top_link_hidden,[src$='.gif']
+www.itdog.cn#%#window.alert=function(str){return}
 www.itnose.net##div#menu + div[style]
 www.ixian.cn##div#comiis_tuangou,div.comiis_w1000,div.comiis_adbox,div.a_p,div.a_pb
 www.jc35.com###luxury,.ad_position,.adPosition,.adRight

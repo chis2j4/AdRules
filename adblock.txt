@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-05 08:40:52（北京时间） 
-! Total count: 15386
+! Version: 2023-01-05 16:10:50（北京时间） 
+! Total count: 15390
 -960x*0.gif
 -250.js*
 
@@ -50,6 +50,7 @@
 ##.advertise
 ##.ayx[style="position: fixed;bottom: -10px;right:0;z-index:999;width:250px"]
 ##.bottom-pic,.col-pd.mb10
+##.clearfix > a > IMG[referrerpolicy='no-referrer'][src]:not([style='display: block;'])
 ##.div.ps_
 ##.fc_foot
 ##.fed-part-advs.fed-text-center.fed-font-xvi
@@ -69,6 +70,7 @@
 ##A[href^='https://tv2356.cc']
 ##A[onclick$='()'][target='_top'][style*='.gif) no-repeat;background-size:100% 100%;']
 ##A[style='width: 100%;height: 150px;z-index:1000;position: absolute;display:block;top: 0px;'][onclick$=';this.style.display="none";']
+##A[target='_blank'][href*='/auth/register?code=']
 ##DIV#ad-index.col-12.position-relative
 ##DIV#bl_mobile_float
 ##DIV.appdownload_ad
@@ -205,6 +207,7 @@
 ##div.close-player_pic[onclick="document.getElementById('player_pic').style.display='none'"]
 ##div.container > div.row div.yalayi_box
 ##div.container > div.t-img-box > A[href][target='_blank']
+##div.container a > IMG[referrerpolicy='no-referrer'][src]:not([style='display: block;'])
 ##div.homepage > div.main > div.content > DIV[style='width:100%;height:180px']
 ##div.m_avs
 ##div.main div.content div[id].is_mb a[id] img[id]
@@ -1623,6 +1626,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .gif$domain=787ck.cc
 .icu/*_*_*.js$third-party
 .live/r/*/*_r=*
+.live/ty/*-*-*-*-*
 .openx.
 .top/*/*-*-*-*.*?_=*
 .top/*q=*form=*&*url=http*$third-party

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-05 16:10:50（北京时间） 
-! Total count: 15390
+! Version: 2023-01-06 00:12:05（北京时间） 
+! Total count: 15391
 -960x*0.gif
 -250.js*
 
@@ -2693,7 +2693,6 @@ baiduyunso.com##.rcode
 baihe.com##div.carousel
 baihei.cc##.a_f,.a_mu,.a_cb,.a_cn,.it618_firstad_flex,td[colspan="5"],.a_pt,.bm.a_c
 baihei.net##.a_h
-baijiahao.baidu.com##.ByGTNZMLOdQ-LzxbSZ-mc
 baijiahao.baidu.com##.contentPadding.bottomTTSStruct
 baijiahao.baidu.com##.headDeflectorContainer
 baijiahao.baidu.com##.layer-item:-abp-contains(百度)
@@ -2711,8 +2710,9 @@ baijiahao.baidu.com##DIV[class='outmargin']
 baijiahao.baidu.com##SPAN[class='_2v86xffLyWbTz5nRDFr_L_ _2xxXjJo3ZlFeRRLLUMtAr_']
 baijiahao.baidu.com##SPAN[class='psDTG2YH-UVvL5hI8Ye4a']
 baijiahao.baidu.com##div.layer-item:-abp-contains(打开)
-baijiahao.baidu.com##div[class^="_"]
 baijiahao.baidu.com##div[style^="left: calc"]
+baijiahao.baidu.com##span:-abp-contains(打开APP)
+baijiahao.baidu.com##span:-abp-contains(打开百度APP)
 baijiahao.baidu.com##span[class*="cm-variable"]
 baike.baidu.com###J-bds_app
 baike.baidu.com###adLayerSideWrap
@@ -5753,7 +5753,7 @@ www.gg1z.com##A[href^="http://xiazai.vstartdown.com/down.asp?id="],[class="cp sp
 www.godic.net##ins.adsbygoogle
 www.google.com###tads,.ads-ad
 www.google.com$@$div[class="_ad"]
-www.google.com,www.google.com.hk,www.google.co.jp##[href*='%E2%9C%94%EF%B8%8F'][href*='%E2%9C%94%EF%B8%8F%E2%96%9B'],[href*='%E3%80%90%E2%9C%94%EF%B8%8F'],[href*='%E2%9E%BF%E3%80%91'],[href*='%E2%8F%AA%29'],[href*='%E2%9A%BD%E3%80%91'],[href*='%E2%9C%94%EF%B8%8F'][href*='%E2%8F%AA)-'],[href*='-%E3%80%90']
+www.google.com,www.google.com.hk,www.google.co.jp##DIV[data-sokoban-container]:has([href*='%E2%9C%94%EF%B8%8F%E2%96%9B']),DIV[data-sokoban-container]:has([href*='%E3%80%90%E2%9C%94%EF%B8%8F']),DIV[data-sokoban-container]:has([href*='%E2%9E%BF%E3%80%91']),DIV[data-sokoban-container]:has([href*='%E2%8F%AA%29']),DIV[data-sokoban-container]:has([href*='%E2%9A%BD%E3%80%91']),DIV[data-sokoban-container]:has([href*='-%E3%80%90']),DIV[data-sokoban-container]:has([href*='%E2%9C%94%EF%B8%8F'][href*='%E2%98%80%EF%B8%8F']),DIV[data-sokoban-container]:has([href*='-('][href*='%E2%9C%94%EF%B8%8F']),DIV[data-sokoban-container]:has([href*='%E2%9C%94%EF%B8%8F%29']),DIV[data-sokoban-container]:has([href*='-%E2%9C%94%EF%B8%8F'])
 www.greenhua.com##span#grhua2,span#grhua1
 www.guancha.cn##div.adiphone,div.text-center.top-spacing2,div.adboard
 www.guhai.com.cn##table[width="960"][height="90"]
@@ -12574,6 +12574,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||reddit.com^$removeparam=/^\x24original_url=/
 ||reddit.com^$removeparam=_branch_match_id
 ||reddit.com^$removeparam=correlation_id
+||reddit.com^$removeparam=post_index
 ||reddit.com^$removeparam=ref_campaign
 ||reddit.com^$removeparam=ref_source
 ||redfin.com^$removeparam=riftinfo

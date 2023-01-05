@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-05 00:13:21（北京时间） 
+! Version: 2023-01-05 08:40:52（北京时间） 
 ! Total count: 15386
 -960x*0.gif
 -250.js*
@@ -760,7 +760,7 @@ $removeparam=cx_testVariant
 $removeparam=dTribesID
 $removeparam=d_id,domain=buzzfeed.com|buzzfeednews.com
 $removeparam=dartycid
-$removeparam=data1
+$removeparam=data1,domain=~web3.cmvm.pt
 $removeparam=data2
 $removeparam=data3
 $removeparam=dc_adgroupid

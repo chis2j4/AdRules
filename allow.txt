@@ -1,5 +1,5 @@
 ! Title: Allowlist
-! Version: 2023-01-06 16:10:07（北京时间） 
+! Version: 2023-01-07 00:10:50（北京时间） 
 ! Total count: 3158
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
@@ -4590,7 +4590,6 @@
 @@||cxense.com/cx.js$domain=cyclestyle.net|mainichi.jp|nippon.com|tarzanweb.jp|tv-tokyo.co.jp|wpb.shueisha.co.jp
 @@||cy.com/hz/*/ad
 @@||cy.com^$generichide
-@@||d-card.jp/st/common/js/googleTagManager.js
 @@||d.tailtarget.com/profiles.js$domain=superesportes.com.br
 @@||d1-dm.com^$generichide
 @@||d1igp3oop3iho5.cloudfront.net^*/zaius.js$script,domain=subscriptions.management
@@ -4621,6 +4620,7 @@
 @@||daumcdn.net/adfit/static/ad-native.min.js$domain=daum.net
 @@||daumcdn.net/adfit/static/ad.min.js$script,domain=daum.net
 @@||daziba.cn/Images/share.css
+@@||dcard.docomo.ne.jp/st/common/js/googleTagManager.js
 @@||dcdirtylaundry.com/cdn-cgi/challenge-platform/$~third-party
 @@||ddmcdn.com^*/adobe.visitor-$script,domain=ahctv.com|animalplanet.com|cookingchanneltv.com|destinationamerica.com|discovery.com|discoverylife.com|diynetwork.com|foodnetwork.com|hgtv.com|investigationdiscovery.com|motortrend.com|sciencechannel.com|tlc.com|travelchannel.com
 @@||ddmcdn.com^*/comscore.streaming.$script,domain=ahctv.com|animalplanet.com|cookingchanneltv.com|destinationamerica.com|discovery.com|discoverylife.com|diynetwork.com|foodnetwork.com|hgtv.com|investigationdiscovery.com|motortrend.com|sciencechannel.com|tlc.com|travelchannel.com

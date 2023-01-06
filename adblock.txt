@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-06 08:41:10（北京时间） 
-! Total count: 15393
+! Version: 2023-01-06 16:09:58（北京时间） 
+! Total count: 15396
 -960x*0.gif
 -250.js*
 
@@ -5341,6 +5341,7 @@ toutiao.com##[ad-cursor],[ad_show]
 toutiao.com##[name^="adetail_right*top_"]
 toutiao.com##div.banner-index-bottom,#pagelet-commbox,.feedcomm,#pagelet-iad,#pagelet-btestcommbox,#pagelet-detailadd,[data-tag="ad"],#pagelet-btestad_taobao,#pagelet-adindextop,#detailAd,[data-tag^="ad_"],.J_add,#detailAd2,.adClientFlag,iframe[src^="http://toutiao.com/adsafe/"],.tbanneradd,iframe[src^="http://www.toutiao.com/adsafe/"],[src^="//www.toutiao.com/api/pc/adsafe/"],.carAd,.bonus-wrapper,.icon-container
 touxiang.la##.ad00,.adsbygoogle,.banner
+trakt.tv##DIV[id$='-wrapper']
 trakt.tv##div#large-banner-ad,div#small-banner-ad,div#large-banner-bottom-ad,div#small-banner-bottom-ad
 trjcn.com##div.bd
 ts.cn##.gg1,.gg2,.gg3,.gg4,#topgg
@@ -9880,6 +9881,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gtimg.cn/*_ad^
 ||gtimg.cn/qzone/biz/gdt/
 ||gtimg.cn/wupload/oper_actity_cfg.actity_video_ad_cfg^
+||gtlpaj.com^
 ||gtoyouin.biz^
 ||gtpxvpi.cn^
 ||guanggao28.xyz^
@@ -13839,6 +13841,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||videowood.me/assets/js/popup$script
 ||videowood.tv/assets/js/player.js
 ||videowood.tv/assets/js/popup$script
+||vidwkd.com^
 ||vieldeold.xyz^
 ||view.inews.qq.com^$removeparam=ft
 ||view.inews.qq.com^$removeparam=refer

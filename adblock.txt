@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-07 00:10:40（北京时间） 
-! Total count: 15396
+! Version: 2023-01-07 08:39:27（北京时间） 
+! Total count: 15401
 -960x*0.gif
 -250.js*
 
@@ -8256,6 +8256,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bimiacg*.net/template/JOELEO/asset/js/jquery.leeleo.js
 ||bimiacg4.net/template/JOELEO/asset/js/jquery.common.js
 ||bindright.com^$removeparam=camp_id
+||bing.*^$removeparam=CREA
+||bing.*^$removeparam=FORM
+||bing.*^$removeparam=PUBL
+||bing.*^$removeparam=cc
 ||bing.*^$removeparam=cvid
 ||bing.*^$removeparam=form
 ||bing.*^$removeparam=qp
@@ -8263,6 +8267,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bing.*^$removeparam=sc
 ||bing.*^$removeparam=sk
 ||bing.*^$removeparam=sp
+||bing.*^$removeparam=wlexpsignin
 ||bing.com/search?$removeparam=/^form=/i
 ||bing.com/search^$removeparam=pc
 ||bing.com^$removeparam=/^sh/

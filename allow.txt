@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-01-07 00:10:50（北京时间） 
-! Total count: 3158
+! Version: 2023-01-07 08:39:38（北京时间） 
+! Total count: 3160
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -6073,8 +6073,10 @@
 @@||show.g.mediav.com/s?type=$script,domain=miercn.com
 @@||showcase.codethislab.com/banners/$image,~third-party
 @@||showheroes.com/playlist/vast3?$xmlhttprequest,domain=bz-berlin.de|kochbar.de|rtl.de|rtl2.de
-@@||showheroes.com/publishertag.js$domain=bz-berlin.de|kochbar.de|rtl.de|rtl2.de
-@@||showheroes.com/pubtag.js$domain=bz-berlin.de|kochbar.de|rtl.de|rtl2.de
+@@||showheroes.com/publishertag.js$domain=bz-berlin.de|kochbar.de|rollingstone.de|rtl.de|rtl2.de
+@@||showheroes.com/pubtag.js$domain=bz-berlin.de|kochbar.de|rollingstone.de|rtl.de|rtl2.de
+@@||showheroes.com/spot/$xmlhttprequest,domain=rollingstone.de
+@@||showheroes.com/spot/iframe?$script,domain=rollingstone.de
 @@||showheroes.com/spot/iframe?pageurl=$script,subdocument,domain=bz-berlin.de|kochbar.de|rtl.de|rtl2.de
 @@||shreemaruticourier.com/banners/$~third-party
 @@||signalshares.com/webtrends.min.js$script,~third-party

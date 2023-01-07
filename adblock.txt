@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-07 16:09:39（北京时间） 
-! Total count: 15401
+! Version: 2023-01-08 00:09:00（北京时间） 
+! Total count: 15406
 -960x*0.gif
 -250.js*
 
@@ -639,6 +639,7 @@ $removeparam=at_gd
 $removeparam=atid
 $removeparam=au_advert_id
 $removeparam=au_car_id
+$removeparam=auto_token,domain=nextdoor.com
 $removeparam=avad
 $removeparam=awc
 $removeparam=awid
@@ -965,6 +966,7 @@ $removeparam=irmpname
 $removeparam=irmptype
 $removeparam=irpid
 $removeparam=irsharedid
+$removeparam=is,domain=nextdoor.com
 $removeparam=is_copy_url
 $removeparam=is_from_origin_btn,domain=shein.com
 $removeparam=is_from_webapp
@@ -998,6 +1000,7 @@ $removeparam=li_medium
 $removeparam=li_source
 $removeparam=lid,domain=clickserve.dartsearch.net|flipkart.com|baidu.com
 $removeparam=linkId,domain=amazon.*|cbsnews.*|disneyplus.com
+$removeparam=link_source_user_id,domain=nextdoor.com
 $removeparam=litb_from
 $removeparam=loc,domain=~geizhals.*|~ebay.*|~myanimelist.net|~microsoft.com|~liveperson.net
 $removeparam=locale,domain=udemy.com
@@ -1010,6 +1013,7 @@ $removeparam=m_entstream_source
 $removeparam=m_sc,domain=bloomingdales.com
 $removeparam=maf
 $removeparam=maid
+$removeparam=mar,domain=nextdoor.com
 $removeparam=marketing_id
 $removeparam=matches,domain=media-cdn.costco.ca|media-cdn.costco.com
 $removeparam=mc,domain=bose.*|hallmark.com
@@ -1034,6 +1038,7 @@ $removeparam=mkwid
 $removeparam=ml_subscriber
 $removeparam=ml_subscriber_hash
 $removeparam=mms_chref
+$removeparam=mobile_deeplink_data,domain=nextdoor.com
 $removeparam=mod,domain=barrons.com|dowjones.com|fnlondon.com|mansionglobal.com|marketwatch.com|penews.com|wsj.com
 $removeparam=mode,domain=omaha.com
 $removeparam=module,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion|scmp.com

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-08 16:09:14（北京时间） 
-! Total count: 15414
+! Version: 2023-01-09 00:09:04（北京时间） 
+! Total count: 15416
 -960x*0.gif
 -250.js*
 
@@ -782,6 +782,7 @@ $removeparam=dm_i
 $removeparam=dnt,domain=reddit.app.link
 $removeparam=domain,domain=reddit.app.link
 $removeparam=draftsforfriends
+$removeparam=driver,domain=pcgamesn.com|pockettactics.com|thedigitalfix.com|theloadout.com|wargamer.com
 $removeparam=ds_a_agid,domain=clickserve.dartsearch.net
 $removeparam=ds_a_caid,domain=clickserve.dartsearch.net
 $removeparam=ds_a_cid,domain=clickserve.dartsearch.net
@@ -4539,6 +4540,7 @@ mmybt.com##.a_mu,.a_pt
 mnw.cn##.ads,.ad2,.ad1,.left_300_250,iframe[src^="http://g.mnw.cn/"],.mnw_top_ads,.h65,.mnw_265,[style*="height:140px;width:1000px;"]
 mob.iyingdi.com##.down-load-app-container
 mob.iyingdi.com##.reply
+mobile.baidu.com##SECTION.detail-banner.banner-ck
 mobile.zol.com.cn##.tmallmbp,#collection-icon
 moe-acg.cc###text-5,#masthead + .textwidget,.adsense
 moe-acg.cc,tumutanzi.com###text-3
@@ -8519,6 +8521,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cbjs.baidu.com^
 ||cbjslog.baidu.com^
 ||cbox.ws^
+||cbs42.com^$removeparam=ipid
 ||cbu01.alicdn.com/img/ibank/*.jpg$domain=avtbf.com
 ||cbu01.alicdn.com/img/ibank/2020/714/563/22725365417_967741881.jpg
 ||cbu01.alicdn.com/img/ibank^$domain=avtbf.com
@@ -12138,7 +12141,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pc6.com/js/un/$script
 ||pc6.com/qq2010/
 ||pcbeta.com/static/image/biz/$image
-||pcgamesn.com^$removeparam=driver
 ||pconline.com.cn/global/footer/index.html
 ||pcvideogs.titan.mgtv.com/pb/*/*/*/*/.mp4?arange=*&pm=*
 ||pcvideows.titan.mgtv.com/pb/*.mp4*

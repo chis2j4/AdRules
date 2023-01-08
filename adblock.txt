@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-08 00:09:00（北京时间） 
+! Version: 2023-01-08 08:42:09（北京时间） 
 ! Total count: 15406
 -960x*0.gif
 -250.js*
@@ -384,7 +384,7 @@ $removeparam=/^tc_/,domain=bodenusa.com
 $removeparam=/^tracker=affiliatefuture$/i
 $removeparam=/^utm(_[a-z_]*)?=/
 $removeparam=/^utm-/
-$removeparam=/^utm_/i,domain=~redir.tradedoubler.com|~sendgb.com|~allegro.pl|~tix.axs.com|~transfernow.com
+$removeparam=/^utm_/i,domain=~redir.tradedoubler.com|~sendgb.com|~allegro.pl|~tix.axs.com|~transfernow.com|~carrefourpl.snrpage.com
 $removeparam=/^via=rss$/
 $removeparam=/^vn(_[a-z]*)+=/
 $removeparam=/^web_id\d+/,domain=tiktok.com

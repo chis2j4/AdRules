@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-09 08:40:58（北京时间） 
-! Total count: 15418
+! Version: 2023-01-09 16:10:56（北京时间） 
+! Total count: 15423
 -960x*0.gif
 -250.js*
 
@@ -5070,6 +5070,7 @@ smzdm.com##.logo-download
 smzdm.com##.new-zone
 smzdm.com##.see-all
 smzdm.com##.top-applink
+smzdm.com##a[class^="fixed-logo"]
 smzy.com##.ad_show
 so.360.cn##div#m-spread-left,div#so_kw-ad,DIV.spread
 so.com##DIV#m-google-top,DIV#so_kw-ad,DIV#m-spread-left,#so_bd-ad,#m-spread-bottom,.boxinner-r,div#bnbtm,.e_idea_wenda_spread,#e_idea_wenda_leftBox.result.e_clearfix,.commercialCell.cmcstyle2,.e_idea_list,.top-ads,.cmitem
@@ -6171,6 +6172,7 @@ youdao.com##.sidebar-ft,div#topImgAd
 youku.com###download_btn
 youku.com##.ad-banner-wrapper
 youku.com##.callEnd_content
+youku.com##.callEnd_fixed_box
 youku.com##.downloadApp.icon
 youku.com##.right-sidepopup,div[id^=ab_v_],li.js-draw,#yk-player-curtain
 youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_youku_taobao,div[id^="ab_v_"],DIV[class^="yk-AD-"],div#lotteryPic,#lotteryToolbar,#yk-player-curtain,#lotteryToolbarBig,#playlistIkuAD,#dressadd,[_to="dressadd"],.mplay-iku,#_xbox_ad,#module_basic_double11,.Banner,.tbg11
@@ -15161,10 +15163,13 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 32xs.com##.bd980
 34nh.com,84pb.com##.DaKuang,[height="79"],[height="70"],[height="60"],[height="65"],[href="/sp.html"]
 36dm.com##[href^="/qxads/ads"],a[href="http://www.acgsou.com/"]
+36kr.com##.app-track-banner-outer
+36kr.com##.float-app-button-wrp
 36kr.com##.goapp-btn
 36kr.com##.goapp-wrapper > .kr-mobile-goapp
 36kr.com##.open-app-fixed
 36kr.com##.phone
+36kr.com##.show.article-top-swiper-goapp
 36kr.com##.slide-in.suction-bottom > .kr-mobile-goapp
 36kr.com##section.sidebar-ad,section.sidebar-liepin.cf,div.zhongchou-ft-container,.right_ad_img1,.baidu_ads_cell
 37bjw.com##.nav_ding_ad,.introNews

@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-01-09 08:41:11（北京时间） 
-! Total count: 3161
+! Version: 2023-01-09 16:11:05（北京时间） 
+! Total count: 3162
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5553,6 +5553,7 @@
 @@||mobygames.com/images/covers/$image,~third-party
 @@||mobygames.com/images/promo/$image,~third-party
 @@||moea.gov.tw/EgisWeb/Scripts/google-analytics.js
+@@||moegirl.org.cn^$generichide
 @@||moengage.com/v2/$xmlhttprequest,domain=olx.com.lb
 @@||moengage.com/webpush/$script,domain=olx.com.lb
 @@||moja-ostroleka.pl/mapa/sensorsdata.json$~third-party,xmlhttprequest

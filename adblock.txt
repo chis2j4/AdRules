@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-10 16:10:35（北京时间） 
-! Total count: 15427
+! Version: 2023-01-11 00:12:20（北京时间） 
+! Total count: 15444
 -960x*0.gif
 -250.js*
 
@@ -2147,7 +2147,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 ?local_ga_js=
 @@$removeparam=/^OCID=/i,app=Microsoft.Msn.News.exe
 @@.png#$domain=9zvip.net|club.tgfcer.com|coolinet.com|d1-dm.com
-@@/^https?:\/\/([a-z0-9-\.])*drive\.google\.com\/videoplayback/$removeparam
+@@/^https?:\/\/([a-z0-9-\.])*(chat|drive)\.google\.com\/videoplayback/$removeparam
 @@/^https?:\/\/([a-z0-9-]+\.)*?(cloudflare\.com|prismic\.io|tangerine\.ca|gitlab\.com)/$removeparam
 @@/^https?:\/\/([a-z0-9-]+\.)*?amazon(\.[a-z]{2,}){1,}\/(hz\/reviews-render\/ajax\/|message-us\?|s\?)/$removeparam
 @@/^https?:\/\/([a-z0-9-]+\.)*?amazon(\.[a-z]{2,}){1,}\/gp\/.*?(redirector.html|cart\/ajax-update.html|video\/api\/)/$removeparam
@@ -8251,6 +8251,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bilibili.com^$removeparam=from_source
 ||bilibili.com^$removeparam=hotRank
 ||bilibili.com^$removeparam=is_story_h5
+||bilibili.com^$removeparam=mid
 ||bilibili.com^$removeparam=msource
 ||bilibili.com^$removeparam=p2p_type
 ||bilibili.com^$removeparam=platform_network_status
@@ -8258,6 +8259,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bilibili.com^$removeparam=refer_from
 ||bilibili.com^$removeparam=referfrom
 ||bilibili.com^$removeparam=seid
+||bilibili.com^$removeparam=share_from
 ||bilibili.com^$removeparam=share_medium
 ||bilibili.com^$removeparam=share_plat
 ||bilibili.com^$removeparam=share_session_id
@@ -11072,6 +11074,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||linkedin.com^$removeparam=/^li[a-z]{2}=/
 ||linkedin.com^$removeparam=original_referer
 ||linkedin.com^$removeparam=refId
+||linkedin.com^$removeparam=trackingId
 ||linkedin.com^$removeparam=trk
 ||linkedin.com^$removeparam=updateEntityUrn
 ||linktech.cn^
@@ -11509,6 +11512,19 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mercadolibre.com.ar^$removeparam=pdp_filters
 ||mercadolibre.com.mx^$removeparam=/^matt_/
 ||mercadolibre.com.mx^$removeparam=/^reco_/
+||mercadolibre.com^$removeparam=/^c_[_a-zA-Z]+=/
+||mercadolibre.com^$removeparam=/^me\.[_a-zA-Z]+=/
+||mercadolibre.com^$removeparam=/^reco_[_a-zA-Z]+=/
+||mercadolibre.com^$removeparam=DEAL_ID
+||mercadolibre.com^$removeparam=L
+||mercadolibre.com^$removeparam=S
+||mercadolibre.com^$removeparam=T
+||mercadolibre.com^$removeparam=V
+||mercadolibre.com^$removeparam=pdp_filters
+||mercadolibre.com^$removeparam=position
+||mercadolibre.com^$removeparam=search_layout
+||mercadolibre.com^$removeparam=tracking_id
+||mercadolibre.com^$removeparam=type
 ||mercury-sdk.snssdk.com^
 ||mercury.sogou.com^
 ||metauniverse88.com^
@@ -12526,6 +12542,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||quapp.1122dh.com/adscom^
 ||queqh.com^
 ||questionmarket.com^
+||quizlet.com^$removeparam=funnelUUID
 ||quldu.com^
 ||qulishi.com/js/*Adv.js|
 ||qumi.com^

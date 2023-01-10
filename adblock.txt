@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-10 08:43:05（北京时间） 
-! Total count: 15425
+! Version: 2023-01-10 16:10:35（北京时间） 
+! Total count: 15427
 -960x*0.gif
 -250.js*
 
@@ -6521,6 +6521,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||11jianzhan.com^
 ||11mtmt.com/java/$script
 ||11qqmm.com/java/$script
+||120.79.*.*:*$domain=www.pianbus.com
 ||1205qitiao2022.xyz^
 ||120askimages.com^
 ||1224.zg-babyroo.com^
@@ -10680,6 +10681,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jrjimg.cn/focus/newrenNb.png
 ||jrjimg.cn/zqt-red-1000/js/v3/itg-widget.
 ||jrszhibo.com/m/js/lrtk.js
+||js.*2023*.live^
+||js.*2023*.xyz^
 ||js.363lm.com^
 ||js.51ir.cn^
 ||js.bbdsdy.com^
@@ -12957,7 +12960,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||si1.go2yd.com^
 ||sifa.aak7.cn^
 ||sifakaoshi360.com^
-||sige20221230.xyz^
 ||siguatv.cn^
 ||silkroad.csdn.net^
 ||siluke.tw/js/count.js

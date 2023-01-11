@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-11 16:10:56（北京时间） 
-! Total count: 15453
+! Version: 2023-01-12 00:16:54（北京时间） 
+! Total count: 15454
 -960x*0.gif
 -250.js*
 
@@ -2904,6 +2904,7 @@ boosj.com##[id^="ad_"]
 boquge.com##.gad2,.adsbygoogle
 boroboromi.com##.mod-ad
 bouweenpc.nl###header-banner
+boylove.cc##DIV[style='bottom: 80px;']
 bozhou.cn##.bannerad
 bqg5200.com##.content_ad,.ad250left
 brtn.cn##.business-item,[adview-id]

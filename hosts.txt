@@ -2,8 +2,8 @@
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 12 Hours
-# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2023-01-11 08:11:05
-# Total count: 68339
+# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2023-01-11 16:17:05
+# Total count: 68356
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 0001.best
@@ -4428,6 +4428,7 @@
 0.0.0.0 adbsmetrics.genesis.com
 0.0.0.0 adbsmetrics.hyundai.com
 0.0.0.0 adbsmetrics.kia.com
+0.0.0.0 adbsmetrics.kiavirtualexperience.com
 0.0.0.0 adbsmetrics.koreanair.com
 0.0.0.0 adbsmetrics.kt.com
 0.0.0.0 adbsmetrics.lotterentacar.net
@@ -11297,6 +11298,7 @@
 0.0.0.0 bangyuandianzi.top
 0.0.0.0 banhq.com
 0.0.0.0 banht.com
+0.0.0.0 banhui.xyz
 0.0.0.0 banhx.com
 0.0.0.0 banibajury.website
 0.0.0.0 banicywan.com
@@ -12259,7 +12261,6 @@
 0.0.0.0 betteradsystem.com
 0.0.0.0 bettercollective.rocks
 0.0.0.0 bettercontentservice.top
-0.0.0.0 bettermetckens.com
 0.0.0.0 bettermeter.com
 0.0.0.0 bettermetrics.co
 0.0.0.0 bettershitecolumn.com
@@ -15115,7 +15116,15 @@
 0.0.0.0 cennter.com
 0.0.0.0 censelysoviell.xyz
 0.0.0.0 census.misterspex.at
+0.0.0.0 census.misterspex.ch
+0.0.0.0 census.misterspex.co.uk
+0.0.0.0 census.misterspex.de
+0.0.0.0 census.misterspex.es
+0.0.0.0 census.misterspex.fi
+0.0.0.0 census.misterspex.fr
+0.0.0.0 census.misterspex.nl
 0.0.0.0 census.misterspex.no
+0.0.0.0 census.misterspex.se
 0.0.0.0 censusmiles.com
 0.0.0.0 centauruspopyou.com
 0.0.0.0 centent.slreamplay.cc
@@ -29616,6 +29625,7 @@
 0.0.0.0 huifuhuo.com
 0.0.0.0 huigoushop.com
 0.0.0.0 huigun.top
+0.0.0.0 huihemou.com
 0.0.0.0 huijiamei.cn
 0.0.0.0 huilianji.com
 0.0.0.0 huimee.net
@@ -41261,6 +41271,7 @@
 0.0.0.0 nymauteyfa.info
 0.0.0.0 nymnt.top
 0.0.0.0 nypswiu.cn
+0.0.0.0 nypyzx.xyz
 0.0.0.0 nyqlwjjghhgsqeg.com
 0.0.0.0 nyrevi.ru
 0.0.0.0 nyrithenrebarro.info
@@ -52170,6 +52181,7 @@
 0.0.0.0 smentbrads.co
 0.0.0.0 smentbradsh.xyz
 0.0.0.0 smetc.banfield.com
+0.0.0.0 smetrckens.com
 0.0.0.0 smetric.4imprint.com
 0.0.0.0 smetric.ads.microsoft.com
 0.0.0.0 smetric.bahamabreeze.com
@@ -59415,7 +59427,6 @@
 0.0.0.0 tr.nl.ardennes.cci.fr
 0.0.0.0 tr.nl.mondo-shop.fr
 0.0.0.0 tr.nl.services-sncf.com
-0.0.0.0 tr.nl2.sncf-fidelfalabella.com.pe
 0.0.0.0 tr.nl2.sncf-fidelite.com
 0.0.0.0 tr.notification-gdpr.bnpparibas-personalfinance.fr
 0.0.0.0 tr.notification-gdpr.bnpparibas-pf.fr
@@ -61302,6 +61313,12 @@
 0.0.0.0 u22066.com
 0.0.0.0 u22077.com
 0.0.0.0 u22088.com
+0.0.0.0 u23011.com
+0.0.0.0 u23022.com
+0.0.0.0 u23033.com
+0.0.0.0 u23055.com
+0.0.0.0 u25011.com
+0.0.0.0 u25022.com
 0.0.0.0 u2676.com
 0.0.0.0 u26u.com
 0.0.0.0 u299.libelle-lekker.be

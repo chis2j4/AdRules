@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-11 08:41:00（北京时间） 
-! Total count: 15450
+! Version: 2023-01-11 16:10:56（北京时间） 
+! Total count: 15453
 -960x*0.gif
 -250.js*
 
@@ -5979,7 +5979,9 @@ www.zhanqi.tv##div.new-advertising-area,div.new-room-img-area,#js-room-banners-l
 www.zhaodongde.com##ins.adsbygoogle,div.ad_fixed.ie_fixed
 www.zhcw.com##div.news_blanck,div.ad1
 www.zhiboba.cc##div[class^="xwrgg_"],div[class^="ctgg_"]
+www.zhihu.com##A.MBannerAd
 www.zhihu.com##A[class='MfeedAd']
+www.zhihu.com##DIV.KfeCollection-VipRecommendCard
 www.zhihu.com##DIV[class='Card RelatedReadings']
 www.zhihu.com##DIV[class='RelatedReadingsItem']
 www.zhihu.com##DIV[id^="shameimaru-question-down-noauth-"][class="zm-side-section shameimaru-section"]
@@ -14553,6 +14555,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xjjkjo.pw^
 ||xjrvwz.com^
 ||xjuneuud.cn^
+||xkqit.com^
 ||xkzjq.cn^
 ||xlcun.com^
 ||xlivrdr.com^

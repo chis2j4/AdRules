@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-01-12 00:17:03（北京时间） 
-! Total count: 3163
+! Version: 2023-01-12 08:41:37（北京时间） 
+! Total count: 3164
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4084,6 +4084,7 @@
 @@||anitasrecipes.com/Content/Images/Recipes/$image,~third-party
 @@||aniview.com/api/$script,domain=gamingbible.co.uk|ladbible.com
 @@||annhe.net^$generichide
+@@||answers.ros.org/m/default/media/images/$image,~third-party
 @@||anteraja.id/api/api/tracking/api/captchaImg$~third-party
 @@||anteraja.id/api/api/tracking/api/reloadCaptchaImg$~third-party
 @@||anwb.webpower.eu^|

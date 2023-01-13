@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-13 08:41:38（北京时间） 
-! Total count: 15454
+! Version: 2023-01-13 16:10:41（北京时间） 
+! Total count: 15464
 -960x*0.gif
 -250.js*
 
@@ -207,7 +207,6 @@
 ##div.close-player_pic[onclick="document.getElementById('player_pic').style.display='none'"]
 ##div.container > div.row div.yalayi_box
 ##div.container > div.t-img-box > A[href][target='_blank']
-##div.container a > IMG[referrerpolicy='no-referrer'][src]:not([style='display: block;'])
 ##div.homepage > div.main > div.content > DIV[style='width:100%;height:180px']
 ##div.m_avs
 ##div.main div.content div[id].is_mb a[id] img[id]
@@ -4361,8 +4360,10 @@ m.qidian.com###footerApp
 m.qidian.com###readTopTip
 m.qidian.com###vue-components
 m.qidian.com##.read-author-say.jsAuthorSay
+m.qidian.com##A.catalog-download
 m.qidian.com##DIV[class='footer-backtop-cell jsGuestWrapper']
 m.qidian.com##DIV[class='module-field']
+m.qidian.com##I.icon-logo
 m.qidian.com##div.app_download
 m.qidian.com##div.book-detail-btn:nth-of-type(3)
 m.qidian.com##div[id*="chapterEndModule_"]
@@ -6028,9 +6029,16 @@ xiaodao.la##[height="364"]
 xiaoheizy.com##a[href^="http"]:not([href*="xiaoheizy.com"]) > img
 xiaohongshu.com##.android.all-comment
 xiaohongshu.com##.bottom-bar.button-bottom-bar.cube-z-bottom-bar
+xiaohongshu.com##.bottom-button-box
+xiaohongshu.com##.comment-items > .button-launch
 xiaohongshu.com##.fixed
 xiaohongshu.com##.more-image-desc
+xiaohongshu.com##.nav-bar-box
+xiaohongshu.com##.recommend-box
+xiaohongshu.com##.reds-modal-open.reds-modal
 xiaohongshu.com##.section.related-notes
+xiaohongshu.com##.user-notes-clo-layout-container.user-notes-box
+xiaohongshu.com##.user-notes-clo-layout-container.user-notes-box > .button-launch
 xiaohongshu.com##.wx-open-launch-app-container
 xiaohua.360.cn##div#right-fixed
 xiaojianjian.net##div.a0d-m.a0d-site
@@ -9657,6 +9665,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||freychang.fun^
 ||friendshipmale.com^
 ||frodo.douban.com/api/v2/erebor/feed_ad?
+||frpns.com^
 ||fsgsfaf6.com^
 ||fstats.xyz^
 ||ft8e.top^
@@ -10887,6 +10896,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kmpxq.cn^
 ||kmr.enrosr.cn^
 ||kmt.cslpf.cn^
+||kmyiubbv.xyz^
 ||kn.zhangdujia.com^
 ||knbtpty.xyz^
 ||knet.cn^

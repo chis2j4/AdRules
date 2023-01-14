@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-14 00:12:16（北京时间） 
-! Total count: 15464
+! Version: 2023-01-14 08:38:57（北京时间） 
+! Total count: 15470
 -960x*0.gif
 -250.js*
 
@@ -1328,6 +1328,7 @@ $removeparam=snr,domain=steampowered.com|steamcommunity.com|steamgames.com
 $removeparam=soc_src
 $removeparam=soc_trk
 $removeparam=source,domain=privatehomeclips.com
+$removeparam=sourceID,domain=gamestop.com|verizon.com
 $removeparam=sourceType,domain=vitaminshoppe.com|aliexpress.com
 $removeparam=source_location
 $removeparam=sourceid,domain=~google.*
@@ -9738,7 +9739,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gamespot.com^$removeparam=TheTime
 ||gamespot.com^$removeparam=UniqueID
 ||gamespot.com^$removeparam=ftag
-||gamestop.com^$removeparam=sourceID
 ||gamivo.com^$removeparam=glv
 ||gaoduan.cc^
 ||gaoguai.com^
@@ -13265,6 +13265,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||supersonicads.com^
 ||supfast.net^
 ||support.github.com^$removeparam=tag
+||support.google.com^$removeparam=ref_topic
 ||surfshark.com^$removeparam=transaction_id
 ||suwoj.com^
 ||sv.baidu.com/liveserver/sys/sync
@@ -13889,6 +13890,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||venetrigni.com^
 ||venienceilo.fun^
 ||venturead.com^
+||verizon.com^$removeparam=campaignGroup
+||verizon.com^$removeparam=campaignName
+||verizon.com^$removeparam=campaignSource
 ||verizon.com^$removeparam=vendorid
 ||verkkokauppa.com^$removeparam=list
 ||vfiles.gtimg.cn/pub/video_float_ad_config.config_list^
@@ -14811,9 +14815,11 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||youtube.com/pagead/
 ||youtube.com/ptracking?pltype=adhost
 ||youtube.com^$removeparam=ab_channel
+||youtube.com^$removeparam=embeds_euri
 ||youtube.com^$removeparam=feature
 ||youtube.com^$removeparam=gclid
 ||youtube.com^$removeparam=kw
+||youtube.com^$removeparam=source_ve_path
 ||youtui.net^
 ||youxi.com/$third-party
 ||youxiaoad.com^

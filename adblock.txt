@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-14 08:38:57（北京时间） 
-! Total count: 15470
+! Version: 2023-01-14 16:09:27（北京时间） 
+! Total count: 15481
 -960x*0.gif
 -250.js*
 
@@ -67,6 +67,7 @@
 ##A[href='/hth.html']
 ##A[href='http://95710.vip']
 ##A[href^='http'][style^='display:block;left:0;right:0;position:fixed;border-left:']
+##A[href^='https://d1-dm.online/go/']
 ##A[href^='https://tv2356.cc']
 ##A[onclick$='()'][target='_top'][style*='.gif) no-repeat;background-size:100% 100%;']
 ##A[style='width: 100%;height: 150px;z-index:1000;position: absolute;display:block;top: 0px;'][onclick$=';this.style.display="none";']
@@ -210,6 +211,7 @@
 ##div.homepage > div.main > div.content > DIV[style='width:100%;height:180px']
 ##div.m_avs
 ##div.main div.content div[id].is_mb a[id] img[id]
+##div.padding-0 > A[href][target='_blank']
 ##div.page.player > div.main > div.content > div.module.module-player > div.module-main > div.player-box > div.player-rm.rm-list > a > img
 ##div.page.player > div.main > div.content > div.module.module-player DIV[style='width:100%;height:180px']
 ##div.page.view > div.main > div.content > DIV[style='width:100%;height:100px']
@@ -4365,6 +4367,7 @@ m.qidian.com##A.catalog-download
 m.qidian.com##DIV[class='footer-backtop-cell jsGuestWrapper']
 m.qidian.com##DIV[class='module-field']
 m.qidian.com##I.icon-logo
+m.qidian.com##P.text-content
 m.qidian.com##div.app_download
 m.qidian.com##div.book-detail-btn:nth-of-type(3)
 m.qidian.com##div[id*="chapterEndModule_"]
@@ -7955,6 +7958,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||awempire.com^
 ||awkdjfkdsjk.duxingangtiaoban.com^
 ||aws^$removeparam=did
+||awyyzx.com^
 ||ax1x.com^$domain=caibaojian.com|htcui.com|nutgeek.com
 ||axbdlox.cn^
 ||axcdt.cn^
@@ -8100,6 +8104,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||banggood.com^$removeparam=custlinkid
 ||bangrongjinfu.com^
 ||bangyuandianzi.top^
+||banhui.xyz^
 ||banmamedia.com^
 ||banmeng.com^
 ||banner-cfnetwork.cdn.hinet.net^
@@ -8662,6 +8667,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||chixingkeji.com^
 ||chlbiz.com^
 ||chmae.com^
+||cholo101.cn^
 ||cholor201015.cn^
 ||cholor201115.cn^
 ||choupsee.com^
@@ -10204,6 +10210,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||huhue.com^
 ||huichuan.sm.cn^
 ||huifangwen.com^
+||huikouhuo.com^
 ||huitoukao.com^
 ||huiun.com^
 ||huiyelu.com^
@@ -10802,6 +10809,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||k.toospk.com^
 ||k.wudejia.com^
 ||k08999.com^
+||k16e9b.com^
 ||k2.dancihu.com^
 ||k31bpzf.xyz^
 ||k5ggua.xyz^
@@ -10976,6 +10984,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||l.ykimg.com^
 ||l.youku.com^
 ||la/style/vue.js?v=
+||laawmmy.cn^
 ||ladymetro.com^
 ||lakjdskls.zhdchb.com^
 ||lalaping.com^
@@ -11620,6 +11629,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mkadsearch.lizhifm.com^
 ||mkqdj.cn^
 ||mlog.aipai.com^
+||mlzgazz.cn^
 ||mm.365dmp.com^
 ||mm.ficea.cn^
 ||mm28j.com^
@@ -11971,6 +11981,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ntvsw.com^
 ||nuaaad.cn^
 ||nuannuanqi.top^
+||nudpqt.com^
 ||nuffnang.com.cn^$third-party
 ||nuheoub.cn^
 ||nutaku.net^

@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-01-14 08:39:10（北京时间） 
-! Total count: 3164
+! Version: 2023-01-14 16:09:39（北京时间） 
+! Total count: 3165
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -6031,6 +6031,7 @@
 @@||scyts.com^$generichide
 @@||sdc.pingan.com^$~image
 @@||sdltutorials.com/Data/Ads/AppStateBanner.jpg$~third-party
+@@||sdn.cz/*/loader.js$domain=novinky.cz
 @@||sealserver.trustwave.com/seal.js$domain=zoom.us
 @@||search.brave.com/search$xmlhttprequest
 @@||searchad.naver.com^$~third-party

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-15 16:09:28（北京时间） 
-! Total count: 15490
+! Version: 2023-01-16 00:09:03（北京时间） 
+! Total count: 15493
 -960x*0.gif
 -250.js*
 
@@ -67,6 +67,8 @@
 ##A[href='/hth.html']
 ##A[href='http://95710.vip']
 ##A[href^='http'][style^='display:block;left:0;right:0;position:fixed;border-left:']
+##A[href^='http://h5.shangjinssp.com/sjprom'][style='display:block;']
+##A[href^='https://chmjmff.com/']
 ##A[href^='https://d1-dm.online/go/']
 ##A[href^='https://tv2356.cc']
 ##A[onclick$='()'][target='_top'][style*='.gif) no-repeat;background-size:100% 100%;']
@@ -207,6 +209,7 @@
 ##div.box.bottom-adv
 ##div.callApp_fl_btn.an
 ##div.close-player_pic[onclick="document.getElementById('player_pic').style.display='none'"]
+##div.container > IFRAME[align][width][src][border][height]
 ##div.container > div.row div.yalayi_box
 ##div.container > div.t-img-box > A[href][target='_blank']
 ##div.homepage > div.main > div.content > DIV[style='width:100%;height:180px']

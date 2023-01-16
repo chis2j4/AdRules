@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-16 00:09:03（北京时间） 
-! Total count: 15493
+! Version: 2023-01-16 08:40:33（北京时间） 
+! Total count: 15497
 -960x*0.gif
 -250.js*
 
@@ -2448,14 +2448,18 @@ Mplay/kk1.js
 ^adv^
 ^advertisement^
 ^ad|
+^deal=futurepedia^$removeparam=deal
 ^fs=e$doc,removeparam=fs
 ^getappmsgad^
 ^interfaceAdMonitor^
 ^interfaceAd^
 ^p=1^$removeparam=p,domain=bilibili.com
 ^presentid=webnews^$removeparam=presentid
+^ref=futurepedia^$removeparam=ref
+^ref=hackernoon.com^$removeparam=ref
 ^s=cl$doc,removeparam=s
 ^t=0^$removeparam=t,domain=bilibili.com
+^via=futurepedia^$removeparam=via
 ^via=toolbar^$removeparam=via,domain=user.qzone.qq.com
 _/bigREDdog.js
 _ad&callback=

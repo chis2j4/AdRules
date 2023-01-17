@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-17 08:41:15（北京时间） 
-! Total count: 15497
+! Version: 2023-01-17 16:10:28（北京时间） 
+! Total count: 15501
 -960x*0.gif
 -250.js*
 
@@ -63,7 +63,6 @@
 ##.theme-dark>.ayx>a
 ##.width.imgs_1
 ##.zozoads
-##A#mhbottom_ad_img,[href='https://ys.44766.cc/m/download'][style*='/adcarsku/sku'],[src*='/adcarsku/sku']
 ##A[href='/hth.html']
 ##A[href='http://95710.vip']
 ##A[href^='http'][style^='display:block;left:0;right:0;position:fixed;border-left:']
@@ -76,6 +75,7 @@
 ##A[target='_blank'][href*='/auth/register?code=']
 ##DIV#ad-index.col-12.position-relative
 ##DIV#bl_mobile_float
+##DIV#mhbottom_ad_box
 ##DIV.appdownload_ad
 ##DIV.bot-per-context[data-width='728'][data-height='90']
 ##DIV.box-width.ec-ad
@@ -6166,6 +6166,7 @@ yemancomic.com##div > center > strong > button[onclick^="window.location.href"]
 yesky.com##DIV#bdadv.bd_adv,DIV.wth200 > DIV.baidu,DIV.ad190,div.tit_spb
 yeyou.com##div#ad-yeyou-nitifiction,div[class^="ad-box"]
 yeyoubbs.com##DIV.wp> TABLE[width="960"],IMG[src^="http://www.yeyoubbs.com"],div.a_pt,[width="960"][height="66"]
+yhdmp.net##[style^='bottom:'][style$='block;']
 yicai.com##div.ad68570,div.ad257
 yidianzixun.com##.ad-wrapper
 yidianzixun.com##[class^="banner "],[data-adtype]
@@ -11263,6 +11264,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lwdown.com/user08/index_top
 ||lwdown.com/user08/user_*_
 ||lwhsdfc.cn^
+||lwlqsgr.cn^
 ||lwmbc.cn^
 ||lwtxt.net/gaogao/
 ||lwxs99.cc^
@@ -11629,6 +11631,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mipengine.baidu.com^
 ||miqiks.com^
 ||mir300.com/88a/
+||misadw1.cn^
 ||misc.pandora.xiaomi.com^
 ||mishop.cdn.pandora.xiaomi.com^
 ||mishop.pandora.xiaomi.com^
@@ -14658,6 +14661,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xww360.com^
 ||xxba.cc^
 ||xxcgdq.com^
+||xxczdfb.cn^
 ||xxdongfa.com^
 ||xxdy8.cn/template/Datll/aaaa/
 ||xxgslt.com^

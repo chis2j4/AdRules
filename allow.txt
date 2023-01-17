@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-01-17 08:41:24（北京时间） 
-! Total count: 3166
+! Version: 2023-01-17 16:10:37（北京时间） 
+! Total count: 3165
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4524,7 +4524,6 @@
 @@||collector.leaddyno.com/shopify.js$script,domain=s4l.us
 @@||collusion.com/static/analytics.js$script,~third-party
 @@||collusion.com/static/newrelic.js$script,~third-party
-@@||comic-boost.com/gentosha/advertisement_view$subdocument,~third-party
 @@||commons.wikimedia.org/w/api.php?$~third-party,xmlhttprequest
 @@||community.brave.com/t/$xmlhttprequest
 @@||communityenergysolutions.com/ui/assets/gtm/gtm.js$script,~third-party

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-18 08:42:05（北京时间） 
-! Total count: 15506
+! Version: 2023-01-18 16:10:44（北京时间） 
+! Total count: 15518
 -960x*0.gif
 -250.js*
 
@@ -75,6 +75,7 @@
 ##A[target='_blank'][href*='/auth/register?code=']
 ##DIV#ad-index.col-12.position-relative
 ##DIV#bl_mobile_float
+##DIV#div1.div-relative[style='display:block;']
 ##DIV#mhbottom_ad_box
 ##DIV.appdownload_ad
 ##DIV.bot-per-context[data-width='728'][data-height='90']
@@ -108,6 +109,7 @@
 ##[alt='52bl']
 ##[alt='ACG里番']
 ##[alt='西瓜社']
+##[aria-label='广告']
 ##[at*='尼斯人注册送']
 ##[class^="chapter_"] > .baiduCenter
 ##[data-url='http://xixi.stylar.hk/']
@@ -197,6 +199,7 @@
 ##body#nr_body.nr_all.c_nr > div[class] > DIV[style='height:90px;width:100%;']
 ##body.active > div.myui-panel > DIV#home_slide
 ##center > [href^='https://docs.qq.com/doc'][target='_blank']
+##center > a > IMG[alt$='到期']
 ##div#reader-scroll.acgn-reader-chapter.v>div>center>strong>button
 ##div.a_fr.a_cb,div.a_fl.a_cb,div.a_cn,div.wp.a_h
 ##div.a_mu,tr.ad,div.wp.a_f,div.a_fl.a_cb,div.a_fr.a_cb
@@ -5725,6 +5728,7 @@ www.ali213.net##DIV.ad-widget-imageplus.ad-widget-imageplus-box,DIV[id^="f21ac82
 www.antpedia.com###articlebody a.adv_oraurl,[class^="tag-b"],.n-img-div,#luxury_car,.topgg,.gg1,.gg2,.gglinks
 www.avtbo.com$$img[style="padding-bottom"]
 www.baidu.com###content_left > *:not([id]) *,[class="result c-container new-pmd"][id="1"][tpl="se_com_default"][data-click="{"]
+www.baidu.com##DIV.c-row:has([data-tuiguang])
 www.baidu.com#@#div[class*="ads"]
 www.baidu.com$@$div[class="ad_"]
 www.baidu.com,m.baidu.com##.listbox
@@ -8233,6 +8237,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bh100.com.cn^
 ||bhaabom.cn^
 ||bhlianhe.com^
+||bhulgot.com^
 ||bi.ui.doulaihai.top^
 ||bibi100.com^
 ||biddingx.com^
@@ -9359,6 +9364,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||e399.com^
 ||e49.xyz^
 ||e719.net^$domain=~www.flv.tv
+||eabids.com^
 ||eamob.com^
 ||easytomessage.com^
 ||ebay.$removeparam=abcId
@@ -10221,6 +10227,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||huhue.com^
 ||huichuan.sm.cn^
 ||huifangwen.com^
+||huiruwei.com^
 ||huitoukao.com^
 ||huiun.com^
 ||huiyelu.com^
@@ -11443,6 +11450,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mamaqi.com/themes/slcms/js/$script
 ||man7777.com^
 ||manage.wuhancloud.cn^
+||manage88.com^
 ||mangabz.com/wxh_asy.js
 ||manguan.vip^
 ||manhuabei.com/assets/xiwang.js
@@ -11925,6 +11933,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nimaxrv.cn^
 ||ninebox.cn^
 ||nisihu.com.cn^
+||nissifresh.com^
 ||nithisp.cn^
 ||niulai0323166.space^
 ||niusnews.com/upload/banners/
@@ -12633,6 +12642,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||r.zaitouwang.com^
 ||r1.ykimg.com^$app=com.huawei.hwvplayer.youku
 ||r36ku.site^
+||r6pt6kfz.com^
 ||ra.gtimg.com/uv/1712104/index.js
 ||rakutenmarketing.com^
 ||rakuya.com.tw/position?*&adTagFlag=
@@ -13751,6 +13761,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||twjsx.cn^
 ||twjxmd.com^
 ||twrank.com^
+||txjfso.com^
 ||txscn.cn^
 ||txshuku.com/js/
 ||tyawwj.cn^
@@ -14602,6 +14613,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xj-n-tax.gov.cn^
 ||xjjkjo.pw^
 ||xjrvwz.com^
+||xjssjc.com^
 ||xjuneuud.cn^
 ||xkqit.com^
 ||xkzjq.cn^

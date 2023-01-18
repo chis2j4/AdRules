@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-18 00:10:08（北京时间） 
-! Total count: 15502
+! Version: 2023-01-18 08:42:05（北京时间） 
+! Total count: 15506
 -960x*0.gif
 -250.js*
 
@@ -1527,7 +1527,7 @@ $~xmlhttprequest,removeparam=mbid
 $~xmlhttprequest,removeparam=mcid,domain=~miguvideo.*
 $~xmlhttprequest,removeparam=msid
 $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odysee.com
-$~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|imdb.com|primevideo.com|shopbop.com|awesomeopensource.com
+$~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|imdb.com|primevideo.com|shopbop.com|awesomeopensource.com|amazon.*
 &ad*&puid=*&uid=*=show
 &ad=*&referer=
 &adid=$third-party
@@ -9756,6 +9756,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gamespot.com^$removeparam=TheTime
 ||gamespot.com^$removeparam=UniqueID
 ||gamespot.com^$removeparam=ftag
+||gaming.amazon.com^$removeparam=redirectRoute
 ||gamivo.com^$removeparam=glv
 ||gaoduan.cc^
 ||gaoguai.com^
@@ -11972,6 +11973,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nortonsafe.search.ask.com^$removeparam=vendorsrc
 ||notice.game.xiaomi.com^
 ||notice.iqiyi.com^
+||notion.so^$removeparam=gspk
+||notion.so^$removeparam=gsxid
+||notion.so^$removeparam=pscd
 ||nourcomip.fun^
 ||nova.cz^$removeparam=dop_ab_variant
 ||nova.cz^$removeparam=dop_id

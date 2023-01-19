@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-19 16:10:44（北京时间） 
-! Total count: 15520
+! Version: 2023-01-20 00:10:30（北京时间） 
+! Total count: 15512
 -960x*0.gif
 -250.js*
 
@@ -9013,10 +9013,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||d.tonghua5.com^
 ||d.toutiao.com^
 ||d.ziyuanm.com^
-||d10lumateci472.cloudfront.net^
 ||d13gni3sfor862.cloudfront.net^
-||d18t35yyry2k49.cloudfront.net^
-||d1ac2du043ydir.cloudfront.net^
 ||d1ad.com^
 ||d1esebcdm6wx7j.cloudfront.net^
 ||d1f05vr3sjsuy7.cloudfront.net^
@@ -9024,9 +9021,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||d1q4x2p7t0gq14.cloudfront.net^
 ||d20903hof2l33q.cloudfront.net^
 ||d227cncaprzd7y.cloudfront.net^
-||d28s7kbgrs6h2f.cloudfront.net^
-||d2kadvyeq051an.cloudfront.net^
-||d3beefy8kd1pr7.cloudfront.net^
 ||d3g.qq.com^
 ||d3mshiiq22wqhz.cloudfront.net^
 ||d8360.com^
@@ -9237,7 +9231,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dm5.com/wxh.js?pt=$script
 ||dm50.jkyd.net^
 ||dmfjeu.xyz^
-||dmmzkfd82wayn.cloudfront.net^
 ||dmrtb.com^
 ||dmsz.win7sky.com^
 ||dmtrck.com^
@@ -9324,7 +9317,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dvv9dkv.site^
 ||dvzk66.cn^
 ||dw.com^$removeparam=maca
-||dwnm2295blvjq.cloudfront.net^
 ||dx-bdcdncnc.inter.71edge.com/qpdxv/other^$empty
 ||dx-bdcdncnc.inter.71edge.com/videos/other^$domain=iqiyi.com,redirect=noopmp4-1s
 ||dx-cards-css.iqiyi.com^

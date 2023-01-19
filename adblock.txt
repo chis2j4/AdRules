@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-19 08:42:47（北京时间） 
+! Version: 2023-01-19 16:10:44（北京时间） 
 ! Total count: 15520
 -960x*0.gif
 -250.js*
@@ -89,6 +89,7 @@
 ##DIV.tpc_icon
 ##DIV[class$='_ad_wrap']
 ##DIV[class^='ads_border_']
+##DIV[data-text-ad]
 ##DIV[id*="BAIDU_SSP__wrapper_"]
 ##DIV[style^='width:100%;height:100%;line-height: 100%;overflow:hidden; margin:auto;border:1px #']
 ##IFRAME[src*="//pos.baidu.com/"]
@@ -109,7 +110,6 @@
 ##[alt='52bl']
 ##[alt='ACG里番']
 ##[alt='西瓜社']
-##[aria-label='广告']
 ##[at*='尼斯人注册送']
 ##[class^="chapter_"] > .baiduCenter
 ##[data-url='http://xixi.stylar.hk/']

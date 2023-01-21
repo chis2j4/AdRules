@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-21 08:41:05（北京时间） 
-! Total count: 15513
+! Version: 2023-01-21 16:09:27（北京时间） 
+! Total count: 15517
 -960x*0.gif
 -250.js*
 
@@ -64,9 +64,13 @@
 ##.width.imgs_1
 ##.zozoads
 ##A[href='/hth.html']
+##A[href='http://88yd.cc/']
+##A[href='http://8hgpro.vip/']
 ##A[href='http://95710.vip']
+##A[href='http://kkyty29.cc/']
 ##A[href^='http'][style^='display:block;left:0;right:0;position:fixed;border-left:']
 ##A[href^='http://h5.shangjinssp.com/sjprom'][style='display:block;']
+##A[href^='http://www.kyty1119.com']
 ##A[href^='https://chmjmff.com/']
 ##A[href^='https://d1-dm.online/go/']
 ##A[href^='https://tv2356.cc']
@@ -6988,6 +6992,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||7631.com^
 ||7656c4.com^
 ||767drv.cn^
+||7701zxcv.com^
 ||772773a.com^
 ||7759.com^
 ||777g.me/cs$script
@@ -9253,7 +9258,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||domains.ch^$removeparam=REF
 ||domob.cn^
 ||domob.com.cn^
-||domp4.cc/Style/2020/js/base.js
 ||domp4.cc/js/wcount.js
 ||dong.aeimmmj.cn^
 ||dongbeisurewin.com^

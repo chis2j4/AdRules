@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-21 16:09:27（北京时间） 
+! Version: 2023-01-22 00:09:28（北京时间） 
 ! Total count: 15517
 -960x*0.gif
 -250.js*
@@ -767,7 +767,7 @@ $removeparam=ctc,domain=avantlink.com
 $removeparam=cuid
 $removeparam=curator_clanid,domain=~store.steampowered.*
 $removeparam=custlixnkid
-$removeparam=cvid,domain=bing.com|msn.com
+$removeparam=cvid,domain=msn.cn|msn.com|chinadaily.com.cn|yiyouliao.com|tianqi.com
 $removeparam=cvosrc
 $removeparam=cx_artPos
 $removeparam=cx_testId
@@ -2235,7 +2235,6 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 @@||billiger.de/*mc=$removeparam
 @@||bing.*/WS/redirect/$removeparam
 @@||bing.*/ws/redirect/$removeparam
-@@||bing.com/AS/Suggestions?$removeparam=cvid
 @@||bkimg.cdn.bcebos.com^
 @@||blizzard.com/oauth2$removeparam
 @@||bnet.163.com^
@@ -8329,6 +8328,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bing.*^$removeparam=sp
 ||bing.*^$removeparam=wlexpsignin
 ||bing.com/search?$removeparam=/^form=/i
+||bing.com/search?$removeparam=cvid
 ||bing.com/search^$removeparam=pc
 ||bing.com^$removeparam=/^sh/
 ||bing.com^$removeparam=PC

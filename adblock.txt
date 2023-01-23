@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-23 16:10:54（北京时间） 
-! Total count: 15539
+! Version: 2023-01-24 00:10:22（北京时间） 
+! Total count: 15543
 -960x*0.gif
 -250.js*
 
@@ -10930,6 +10930,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kmr.enrosr.cn^
 ||kmt.cslpf.cn^
 ||kmyiubbv.xyz^
+||kmzayrt.cn^
 ||kn.zhangdujia.com^
 ||knbtpty.xyz^
 ||knet.cn^
@@ -11667,6 +11668,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mm.365dmp.com^
 ||mm.ficea.cn^
 ||mm28j.com^
+||mmevt.icu^
 ||mmfcezwqaz.com^
 ||mmgg62.com^
 ||mmkkhhnn.cn^
@@ -12897,6 +12899,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sdkconfig.ad.xiaomi.com^
 ||sdkconfig.play.aiseet.atianqi.com^
 ||sdkconfig.video.qq.com^
+||sdkdfjksl.com^
 ||sdkm.w.inmobi.cn^
 ||sdkserver.op.hicloud.com/sdkserver^$app=com.huawei.hwvplayer.youku
 ||sdksp.video.qq.com^
@@ -14754,6 +14757,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||yd.yuanqitu.com^
 ||ydbbs.us/js/
 ||ydgsvls.cn^
+||ydjfdkcv.com^
 ||ydjs.zol.com.cn^
 ||yds.hivecn.net^$domain=m.51lawen.com
 ||ydtykj.net^

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-24 08:43:39（北京时间） 
-! Total count: 15547
+! Version: 2023-01-24 16:10:09（北京时间） 
+! Total count: 15551
 -960x*0.gif
 -250.js*
 
@@ -11300,6 +11300,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lyra.iscrv.com^
 ||lyraik.cn^
 ||lyszsz.cn^
+||lyua.cn^
 ||lywdoo.cn^
 ||lz13.cn/THEMES/shouji/TEMPLATE/js/ms.js
 ||lzitzfb.cn^
@@ -12741,6 +12742,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||rgyun.com^
 ||rhinogo.cn^
 ||rhlxm.top^
+||rhtc.quanminyouxi.cn^
 ||riceck.cn^
 ||ricewaterhou.xyz^
 ||richshredinger.com^
@@ -12838,6 +12840,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||s7.qhres.com/static^$domain=m.haiduomi.com,third-party
 ||s8.qhres.com/static/*.js$domain=nicotv.cc
 ||s8x1.com^
+||saccac11.com^
 ||sacredperpetratorbasketball.com^
 ||sadjk.com^
 ||saitef.cn^
@@ -14231,6 +14234,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wrltxt.com/hello/
 ||wsacdn1.miaopai.com/upload-pic/*.jpg|
 ||wsacjdg.cn^
+||wschao.xyz^
 ||wsds.cn^
 ||wsgwc.com^
 ||wshlcgj.com^

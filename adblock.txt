@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-24 00:10:22（北京时间） 
-! Total count: 15543
+! Version: 2023-01-24 08:43:39（北京时间） 
+! Total count: 15547
 -960x*0.gif
 -250.js*
 
@@ -84,6 +84,7 @@
 ##DIV#bl_mobile_float
 ##DIV#div1.div-relative[style='display:block;']
 ##DIV#mhbottom_ad_box
+##DIV.ad-area.ad-area-fix-bottom
 ##DIV.appdownload_ad
 ##DIV.bot-per-context[data-width='728'][data-height='90']
 ##DIV.box-width.ec-ad
@@ -207,9 +208,11 @@
 ##body.active > div.myui-panel > DIV#home_slide
 ##center > [href^='https://docs.qq.com/doc'][target='_blank']
 ##center > a > IMG[alt$='到期']
+##div#detail.selector-zero > div > DIV[style]
 ##div#reader-scroll.acgn-reader-chapter.v>div>center>strong>button
 ##div.a_fr.a_cb,div.a_fl.a_cb,div.a_cn,div.wp.a_h
 ##div.a_mu,tr.ad,div.wp.a_f,div.a_fl.a_cb,div.a_fr.a_cb
+##div.ad-area > [href]
 ##div.ad-box
 ##div.ad-frame-container
 ##div.ad-recommend
@@ -9902,6 +9905,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||googleadsserving.cn^
 ||googleanalysis.mobi^
 ||googlesyndication.com^
+||googletagmanager.com^
 ||googletagservices.com/dcm/dcmads.js
 ||googletagservices.com/tag/js/gpt.js$script,domain=~bestbuy.ca|~zaobao.com
 ||googlevideoads.com^

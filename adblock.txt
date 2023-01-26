@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-26 16:10:17（北京时间） 
-! Total count: 15556
+! Version: 2023-01-27 00:09:55（北京时间） 
+! Total count: 15558
 -960x*0.gif
 -250.js*
 
@@ -773,7 +773,7 @@ $removeparam=ctc,domain=avantlink.com
 $removeparam=cuid
 $removeparam=curator_clanid,domain=~store.steampowered.*
 $removeparam=custlixnkid
-$removeparam=cvid,domain=msn.cn|msn.com|chinadaily.com.cn|yiyouliao.com|tianqi.com
+$removeparam=cvid,domain=msn.cn|msn.com|chinadaily.com.cn|yiyouliao.com|tianqi.com|eastday.com
 $removeparam=cvosrc
 $removeparam=cx_artPos
 $removeparam=cx_testId
@@ -8300,6 +8300,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bilibili.com^$removeparam=mid
 ||bilibili.com^$removeparam=msource
 ||bilibili.com^$removeparam=p2p_type
+||bilibili.com^$removeparam=plat_id
 ||bilibili.com^$removeparam=platform_network_status
 ||bilibili.com^$removeparam=quality_description
 ||bilibili.com^$removeparam=refer_from
@@ -9372,6 +9373,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||e719.net^$domain=~www.flv.tv
 ||eabids.com^
 ||eamob.com^
+||eastday.com^$removeparam=qid
 ||easytomessage.com^
 ||ebay.$removeparam=abcId
 ||ebay.$removeparam=campid

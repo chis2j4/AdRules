@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-01-26 16:10:29（北京时间） 
-! Total count: 3174
+! Version: 2023-01-27 00:10:08（北京时间） 
+! Total count: 3178
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4246,6 +4246,7 @@
 @@||basinnow.com/admin/upload/settings/advertise-img.jpg
 @@||basinnow.com/upload/settings/advertise-img.jpg
 @@||battle.net^
+@@||battlecats-db.com^$generichide
 @@||bbc.co.uk^*/adverts.js
 @@||bbc.gscontxt.net^$script,domain=bbc.com
 @@||bbs.tgfcer.com^$generichide
@@ -4296,6 +4297,7 @@
 @@||bloominc.jp/adtool/$~third-party
 @@||bluecare.express/js/tracking/$script,~third-party
 @@||blueconic.net/capitolbroadcasting.js$script,domain=wral.com
+@@||bluesky-soft.com/common/script/ga.js$script,~third-party
 @@||bnet.163.com^
 @@||boatwizard.com/ads_prebid.min.js$script,domain=boats.com
 @@||bobbibrowncosmetics.com^*/analytics.min.js$~third-party
@@ -5764,6 +5766,7 @@
 @@||pagead2.googlesyndication.com/pagead/managed/js/*/show_ads_impl_$script,domain=games.wkb.jp
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=knowlet3389.blogspot.com|knowlet3389.blogspot.hk|knowlet3389.blogspot.jp|knowlet3389.blogspot.tw|mnighthk.net|weithenn.org
 @@||pagead2.googlesyndication.com/pagead/show_ads.js$domain=nlfreevpn.com|oldapps.com
+@@||pagead2.googlesyndication.com^$domain=battlecats-db.com
 @@||pagure.io/static/issues_stats.js$~third-party
 @@||palmettostatearmory.com/static/$script,~third-party
 @@||pals.pa.gov/vendor/analytics/$~third-party
@@ -6112,6 +6115,7 @@
 @@||sinajs.cn/open/analytics/js/suda.js$domain=weibo.com|~widget.weibo.com
 @@||sinajs.cn/open/api/js/wb.js$domain=sc.sina.com.cn
 @@||sinopac.com/applyweb/OpenAccount/js/oas.
+@@||sisal.it/etc.clientlibs/sisal-fullresponsive/clientlibs/tealium.js$script,~third-party
 @@||site-banner.hange.jp/adshow?$domain=animallabo.hange.jp
 @@||siteapps.caa.co.uk/scripts/plugins/analytics/ga.min.js$script,~third-party
 @@||siteapps.com^$script,domain=netcombo.com.br

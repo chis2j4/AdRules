@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-01-26 00:10:07（北京时间） 
-! Total count: 3176
+! Version: 2023-01-26 08:40:34（北京时间） 
+! Total count: 3174
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -6688,8 +6688,6 @@
 @@||zeit.de/cre-*/tracking/tracking.js$domain=zeit.de
 @@||zergnet.com^$image,script,stylesheet,domain=ci.craveonline.com|ci.gamerevolution.com|ci.momtastic.com|ci.thefashionspot.com|ci.totallyher.com
 @@||zhaiyd5.com^$script,domain=louzhong8.com|miwens.com
-@@||zhaopin.cn/js/app/popShow.
-@@||zhaopin.cn^*/adbox_
 @@||zinro.net/m/end.php?$~third-party
 @@||zinro.net/m/log.php
 @@||zjjcxy.cn^*/ad.css?$stylesheet

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-27 16:10:09（北京时间） 
-! Total count: 15561
+! Version: 2023-01-28 00:09:57（北京时间） 
+! Total count: 15572
 -960x*0.gif
 -250.js*
 
@@ -60,14 +60,16 @@
 ##.player_pic_link > [src*='/player.gif']
 ##.ssr1
 ##.swiper-wrapper.leo-source-cho
-##.theme-dark>.ayx>a
+##.theme-dark > .ayx > a
 ##.width.imgs_1
 ##.zozoads
 ##A[href='/hth.html']
 ##A[href='http://88yd.cc/']
 ##A[href='http://8hgpro.vip/']
 ##A[href='http://95710.vip']
+##A[href='http://k023055.com']
 ##A[href='http://kkyty29.cc/']
+##A[href='http://x5123.cc/']
 ##A[href^='http'][style^='display:block;left:0;right:0;position:fixed;border-left:']
 ##A[href^='http://h5.shangjinssp.com/sjprom'][style='display:block;']
 ##A[href^='http://www.kyty1119.com']
@@ -92,6 +94,7 @@
 ##DIV.col-4.col-sm-2.col-xl-2.px-1.px-sm-2.pb-3.pt-3.pt-sm-0.d-block.d-sm-none
 ##DIV.ec-ad.tim-box
 ##DIV.fixed-bottom.d-block.d-sm-none.movies_ad
+##DIV.module-adslist
 ##DIV.myui-content__acc[style='position: relative;padding: 0 10px']
 ##DIV.sptable_do_not_remove f_one
 ##DIV.tpc_icon
@@ -101,6 +104,7 @@
 ##DIV[id*="BAIDU_SSP__wrapper_"]
 ##DIV[style^='width:100%;height:100%;line-height: 100%;overflow:hidden; margin:auto;border:1px #']
 ##IFRAME[src*="//pos.baidu.com/"]
+##IMG.cupfox[src$='gif']
 ##IMG[alt='155.fun']
 ##IMG[alt^='kaiybet']
 ##IMG[onclick='golh()'][src$='.gif']
@@ -117,6 +121,7 @@
 ##[alt="要恰饭的嘛"]
 ##[alt='52bl']
 ##[alt='ACG里番']
+##[alt='ad']
 ##[alt='西瓜社']
 ##[at*='尼斯人注册送']
 ##[class^="chapter_"] > .baiduCenter
@@ -199,6 +204,7 @@
 ##[style$='auto;text-align: center;line-height: initial;margin-bottom: 10px;margin-left: 20px;margin-right: 20px;']
 ##[style^="pointer-events: none;background-image:url('https://33789.qqqwww987.site"],[style^='z-index: 2147483647; height: 123px; ']
 ##[style^='bottom: 0px; width: 100%; height: 50vw; position: fixed; left: 0px; right: 0px; margin: 0px; background: url("https://']
+##a > I.gg-icon
 ##a.broad_roll
 ##a.gggg[href^="https"]
 ##a.outlink
@@ -236,6 +242,7 @@
 ##div.row.col5.clearfix:nth-of-type(2) > dl:nth-of-type(1)
 ##div.stui-pannel__bd > #t-img-box
 ##div[class^="is_"] > a > img[referrerpolicy="no-referrer"][src*="hdslb.com"]
+##div[id*='ad'][class*='text']
 ##div[id*='cat_'][id*='_ad']
 ##div[id][style="width: 100%;"] > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div[style^="width: 100%;"][style$="display: block;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
@@ -244,6 +251,7 @@
 ##img#hth[onclick^="window.open"]
 ##oxk
 ##secion#ly LI[role='group'],secion#ly > H2
+##span > A[href='###']
 $$a[href="/js/app.htm?url="]
 $$a[href="changhong886.com"]
 $$div[class="-ad-"]
@@ -10576,6 +10584,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||iwan.$third-party
 ||iweiweb.com^
 ||ixelrsd.cn^
+||ixjtpbj.cn^
 ||ixnrmco.com^
 ||ixpub.net^*.js
 ||iyes.youku.com^
@@ -12341,6 +12350,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||plugrush.com^
 ||pluto.sogou.com^
 ||plwan.com^
+||pmensrl.cn^
 ||pmp.365dmp.com^$app=com.huawei.hwvplayer.youku
 ||pmvlwjy.cn^
 ||pn.sbdebcz.cn^
@@ -13534,6 +13544,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||theta.sogou.com^
 ||thetestpage.39.net^$script
 ||thewindrun.com^
+||thezbpe5yvlv.xyz^
 ||thinkmd.cn^
 ||thjunshi.com/theme/js/all.js
 ||thli43.cn^

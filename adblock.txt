@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-27 00:09:55（北京时间） 
-! Total count: 15558
+! Version: 2023-01-27 16:10:09（北京时间） 
+! Total count: 15561
 -960x*0.gif
 -250.js*
 
@@ -5567,6 +5567,7 @@ weiphone.com##[class^="wea_d_"]
 wenda.haosou.com##div#e_idea_wenda_detail_rightBox,.mod-top-ad,div.garllery_ad,div[class="clearfix js-show-data"]
 wenda.so.com##div#tuiguang,.js-show-data,.garllery_ad
 wendu.cn###banner,#topads,div.summary,.duilian,[class^="t_2015_"],#top
+wenku.baidu.com##+js(set,history.replaceState,noopFunc)
 wenku.baidu.com##.bottom-theme-select-wrap
 wenku.baidu.com##.bottom-theme-wrap-mask
 wenku.baidu.com##.browser-label-guide
@@ -14151,6 +14152,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wenjinsai.top^
 ||wenku.baidu.com/search?$removeparam=cc
 ||wenku.baidu.com/xpage/$xmlhttprequest
+||wenku.baidu.com^$removeparam=_wkts_
+||wenku.baidu.com^$removeparam=aggId
 ||wenku.baidu.com^$removeparam=fixfr
 ||wenku.baidu.com^$removeparam=rec_flag
 ||wenku.baidu.com^$removeparam=sxts

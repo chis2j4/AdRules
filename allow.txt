@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-01-29 16:09:20（北京时间） 
-! Total count: 3179
+! Version: 2023-01-30 00:09:23（北京时间） 
+! Total count: 3180
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5157,7 +5157,7 @@
 @@||hello.myfonts.net/count/$stylesheet,domain=cfr.org|furniturevillage.co.uk|luggagehero.com
 @@||herokuapp.com/api/analytics$domain=madeincookware.com
 @@||hh010.com^$generichide
-@@||high.auriro.net/http/600x400/$image,domain=afterdawn.com|dawn.fi|hardware.fi
+@@||high.auriro.net/http/600x400/$image,domain=afterdawn.com|dawn.fi|findance.com|hardware.fi
 @@||highcharts.com.cn/highcharts/modules/heatmap.js
 @@||hinagiku-u.ed.jp/wp54/wp-content/themes/hinagiku/images/$image,~third-party
 @@||hirosystems.vscode-unpkg.net/*/clarity-lsp/$domain=github.dev|vscode.dev
@@ -5878,6 +5878,7 @@
 @@||prebid.adnxs.com^$xmlhttprequest,domain=go.cnn.com
 @@||premiumleecher.com^$generichide
 @@||preromanbritain.com/maxymiser/$~third-party
+@@||pro-foto.jp/ads/img/$~third-party
 @@||pro.gooooal.com/ad/ad_2.js
 @@||pro.ip-api.com/json$xmlhttprequest,domain=aljazeera.com|cookappsgames.com|nontongp.xyz|sheee.co.il|walla.co.il|weatherscan.tk
 @@||prod.office.ch.locatee.com/internal/api/analytics/v1/systempropertys$~third-party,xmlhttprequest

@@ -1,5 +1,5 @@
 ! Title: Allowlist
-! Version: 2023-01-31 00:10:41（北京时间） 
+! Version: 2023-01-31 08:43:34（北京时间） 
 ! Total count: 3180
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
@@ -4604,6 +4604,7 @@
 @@||d1-dm.com^$generichide
 @@||d1igp3oop3iho5.cloudfront.net^*/zaius.js$script,domain=subscriptions.management
 @@||d1km2unb2600pw.cloudfront.net/assets/tracking-history-popup-$script,domain=collectplus.yodel.co.uk
+@@||d26opx5dl8t69i.cloudfront.net/js/reflektion.js$script,domain=jdsports.com
 @@||d2r1yp2w7bby2u.cloudfront.net^$domain=sonyliv.com
 @@||d2wy8f7a9ursnm.cloudfront.net/v4/bugsnag.min.js$script,domain=einthusan.tv|tlk.io
 @@||d2wy8f7a9ursnm.cloudfront.net^$script,domain=staples.ca
@@ -4613,7 +4614,6 @@
 @@||da.mgtv.com/m5/page?
 @@||daan.dev/wp-content/*/caos-supports-google-analytics-$image,~third-party
 @@||daikoku.ebis.ne.jp^|
-@@||dailylol.com/wp-content/uploads/$image,~third-party
 @@||dailymotion.com/advertise/$xmlhttprequest
 @@||daoju.qq.com/time/*/js/ad/
 @@||darmstadt.ui-traffic.de/mobile/webapp/bower_components/heatmap.js$domain=darmstadt.ui-traffic.de

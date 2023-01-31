@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-01-31 00:10:29（北京时间） 
-! Total count: 15577
+! Version: 2023-01-31 08:43:25（北京时间） 
+! Total count: 15574
 -960x*0.gif
 -250.js*
 
@@ -2275,7 +2275,6 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 @@||changyan.sohu.com/api/2^$app=com.biquge.ebook.app
 @@||chinatelecom.com.cn^
 @@||chuiyao.com/static/js*/pinglun.js?v=
-@@||client-channel.google.com/client-channel*zx=$removeparam
 @@||cntv.cn/nettv/adp/online
 @@||comment-cdn.9gag.com/*comment-list.json?$removeparam
 @@||cpro.baidu.com/cpro/ui/baiduLoader_as3.swf
@@ -2316,7 +2315,6 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 @@||guokr.com/apis/flowingboard/item/m_article
 @@||guokr.com/apis/flowingboard/item/m_home_
 @@||gw.m.163.com^
-@@||hangouts.google.com/webchat*zx=$removeparam
 @@||hinta.fi/lib/$removeparam=v
 @@||hitta.se^$removeparam=ad_id
 @@||hudong.pl.youku.com/n/setplugins/id_
@@ -9909,7 +9907,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||google.*^$removeparam=sxsrf
 ||google.*^$removeparam=uact
 ||google.*^$removeparam=vet
-||google.*^$removeparam=zx
 ||google.com*/pagead
 ||google.com.hk^$domain=p4vip.com
 ||googleads.

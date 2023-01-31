@@ -1,5 +1,5 @@
 ! Title: Allowlist
-! Version: 2023-01-31 08:43:34（北京时间） 
+! Version: 2023-01-31 16:10:39（北京时间） 
 ! Total count: 3180
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
@@ -4101,7 +4101,7 @@
 @@||api-merchants.skimlinks.com^
 @@||api-v*.trbo.com^|
 @@||api-v4.trbo.com/r.php?$script,domain=blau.de
-@@||api.adinplay.com/libs/aiptag/$domain=bigescapegames.com|brofist.io|findcat.io|geotastic.net|lordz.io|squadd.io
+@@||api.adinplay.com/libs/aiptag/$script
 @@||api.adnetmedia.lt/api/$~third-party
 @@||api.ads.tvb.com^
 @@||api.apolomedia.com/static/libs/event-tracking.min.js$script

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-01 08:46:44（北京时间） 
-! Total count: 15578
+! Version: 2023-02-01 16:10:28（北京时间） 
+! Total count: 15579
 -960x*0.gif
 -250.js*
 
@@ -1663,6 +1663,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .com/adv1/?q=
 .com/gg.js
 .com/sh/to$third-party
+.com/sh/to/$third-party
 .cyou/redbaiduct.com
 .cyou/xling_*_
 .gif$domain=787ck.cc

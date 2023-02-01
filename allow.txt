@@ -1,5 +1,5 @@
 ! Title: Allowlist
-! Version: 2023-02-01 00:10:41（北京时间） 
+! Version: 2023-02-01 08:46:58（北京时间） 
 ! Total count: 3180
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
@@ -3701,7 +3701,6 @@
 @@||127.0.0.1/admin/admin_ad.php?$domain=127.0.0.1
 @@||159i.com/a_d/$media
 @@||163.com/user/event?id=
-@@||16668.*/css/ad.css$stylesheet
 @@||16668tu.com/css/ad.css
 @@||17173im.allyes.com^
 @@||17track.net/www/js/ad.min.js
@@ -6051,6 +6050,7 @@
 @@||search.brave.com/search$xmlhttprequest
 @@||searchad.naver.com^$~third-party
 @@||seasungame.com/ad/
+@@||secure.ehc.com/design/lib/analytics/google-tag-manager/
 @@||secure.logmein.com/scripts/Tracking/$script,domain=logme.in|logmein.com
 @@||securegames.iwin.com/data/gtm.json$~third-party,xmlhttprequest
 @@||securenetsystems.net/advertising/ad_campaign_get.cfm?$xmlhttprequest

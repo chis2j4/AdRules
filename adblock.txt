@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-02 08:42:36（北京时间） 
-! Total count: 15579
+! Version: 2023-02-02 16:10:31（北京时间） 
+! Total count: 15587
 -960x*0.gif
 -250.js*
 
@@ -75,8 +75,10 @@
 ##A[href^='http://www.kyty1119.com']
 ##A[href^='https://chmjmff.com/']
 ##A[href^='https://d1-dm.online/go/']
+##A[href^='https://js.iconiclee.com']
 ##A[href^='https://js.pico4pro.com']
 ##A[href^='https://tv2356.cc']
+##A[href^='https://www.nonstopclub.xyz']
 ##A[href^='https://yongle008.com']
 ##A[onclick$='()'][target='_top'][style*='.gif) no-repeat;background-size:100% 100%;']
 ##A[style='width: 100%;height: 150px;z-index:1000;position: absolute;display:block;top: 0px;'][onclick$=';this.style.display="none";']
@@ -118,6 +120,7 @@
 ##SPAN#qdSZ2
 ##SPAN[style$='font-size: 6vw; color:#fff; text-align: center; transform: rotate(-90deg);']
 ##SPAN[style="position: fixed; bottom: 30vh; z-index: 2147483647; right: 0px; margin-right: 6vw; padding: 0px; text-decoration: none; background-color: red; width: 7vw; height: 7vw; border-radius: 7vw; font-size: 6vw; color: rgb(255, 255, 255); text-align: center; transform: rotate(-90deg);"]
+##UL.myui-extra.clearfix
 ##UL[style='margin: 0px; padding: 0px; font-size: 0px; display: flex;']
 ##VIDEO[loop='true'][muted='true'][autoplay='true'][playsinline='true'][preload='auto']
 ##[alt="要恰饭的嘛"]
@@ -207,10 +210,12 @@
 ##[style^="pointer-events: none;background-image:url('https://33789.qqqwww987.site"],[style^='z-index: 2147483647; height: 123px; ']
 ##[style^='bottom: 0px; width: 100%; height: 50vw; position: fixed; left: 0px; right: 0px; margin: 0px; background: url("https://']
 ##a > I.gg-icon
+##a > IMG[src$='.gif'][wapsrc][style^='width: 100%']
 ##a.broad_roll
 ##a.gggg[href^="https"]
 ##a.outlink
 ##a[href^="https://uds24.com/"]
+##body > h1 > strong > title > a
 ##body#nr_body font > [id]
 ##body#nr_body.nr_all.c_nr > div[class] > DIV[style='height:90px;width:100%;']
 ##body.active > div.myui-panel > DIV#home_slide
@@ -10949,6 +10954,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kmaa45.com^
 ||kmgfjc.cn^
 ||kmhmyaj.cn^
+||kminker.xyz^
 ||kmnhbr.xyz^
 ||kmpl.rnqxp.cn^
 ||kmpxq.cn^
@@ -11792,6 +11798,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mpp9h.cn^
 ||mpush.cn^
 ||mrhboe.xyz^
+||mryshl.com^
 ||msads.net^
 ||msdsd2.cn^
 ||msg-intl.qy.net^
@@ -15013,6 +15020,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zangtui.com^
 ||zanox.com.cn^
 ||zaoyx.jrchiji.cn^
+||zaqlovhrabd.xyz^
 ||zaqptv2bo.xyz^
 ||zasjf.xyz^
 ||zasjfget.xyz^

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-03 16:10:26（北京时间） 
-! Total count: 15587
+! Version: 2023-02-04 00:09:53（北京时间） 
+! Total count: 15595
 -960x*0.gif
 -250.js*
 
@@ -99,6 +99,8 @@
 ##DIV.module-adslist
 ##DIV.myui-content__acc[style='position: relative;padding: 0 10px']
 ##DIV.sptable_do_not_remove f_one
+##DIV.swiper-container
+##DIV.swiper-slide.swiper-slide-active
 ##DIV.tpc_icon
 ##DIV[class$='_ad_wrap']
 ##DIV[class^='ads_border_']
@@ -114,6 +116,7 @@
 ##IMG[referrerpolicy='no-referrer'][src$='.gif'][width='100%']
 ##IMG[referrerpolicy='no-referrer'][style='box-sizing: border-box;height:calc(10vh); width:100%;padding: 0px 15px 10px 15px;']
 ##IMG[src$='.dl'][style='width:100% !important;height:90px'][onclick]
+##IMG[src$='.gif']
 ##IMG[src*='/gg/'][src$='180.gif'][src*='800']
 ##IMG[url][onclick='window.open(this.url)'][src$='.gif'][width='100%']
 ##P[style$='transparent !important; font-size: 0px !important; text-indent: -10000px !important; height: 125px !important;']
@@ -238,6 +241,7 @@
 ##div.container > IFRAME[align][width][src][border][height]
 ##div.container > div.row div.yalayi_box
 ##div.container > div.t-img-box > A[href][target='_blank']
+##div.flex-1.order-first > DIV.under_player
 ##div.homepage > div.main > div.content > DIV[style='width:100%;height:180px']
 ##div.m_avs
 ##div.main div.content div[id].is_mb a[id] img[id]
@@ -248,6 +252,7 @@
 ##div.row.abs-text
 ##div.row.col5.clearfix:nth-of-type(2) > dl:nth-of-type(1)
 ##div.stui-pannel__bd > #t-img-box
+##div.video-box > div.hf > a
 ##div[class^="is_"] > a > img[referrerpolicy="no-referrer"][src*="hdslb.com"]
 ##div[id*='ad'][class*='text']
 ##div[id*='cat_'][id*='_ad']
@@ -259,6 +264,7 @@
 ##oxk
 ##secion#ly LI[role='group'],secion#ly > H2
 ##span > A[href='###']
+##ul.content-list > li.content-tb
 $$a[href="/js/app.htm?url="]
 $$a[href="changhong886.com"]
 $$div[class="-ad-"]
@@ -9867,6 +9873,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gndmnrh.cn^
 ||gnqxd.cn^
 ||gnrnws.cn^
+||go.live.missav.com^
 ||go.skimresources.com^$removeparam=xcreo
 ||go.skimresources.com^$removeparam=xed
 ||go.sohu.com^
@@ -14054,6 +14061,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||vodone.com^
 ||vogate.com^
 ||voiceads.cn^
+||vokmhydy.xyz^
 ||vole.3hbox.com^
 ||vp.html5.qq.com^
 ||vpic.video.qq.com^

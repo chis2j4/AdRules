@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-02-03 16:10:39（北京时间） 
-! Total count: 3173
+! Version: 2023-02-04 00:10:06（北京时间） 
+! Total count: 3174
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4388,7 +4388,7 @@
 @@||cdn.jsdelivr.net^$script,domain=35xss.com
 @@||cdn.jsdelivr.net^$script,domain=yemancomic.com|yexiashuge.com
 @@||cdn.jsdelivr.net^*/fp.min.js$script,domain=cuevana2.io
-@@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|freeshipping.com|heroku.com
+@@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|fedex.com|freeshipping.com|heroku.com
 @@||cdn.optimizely.com/js/*.js$domain=kktv.me
 @@||cdn.petametrics.com^$script,domain=comics.mecha.cc
 @@||cdn.plyvdo.live/scripts/$script
@@ -6473,6 +6473,7 @@
 @@||vast.com/vimpressions.js$domain=everycarlisted.com
 @@||vcentry3.valuecommerce.ne.jp^|
 @@||vd.l.qq.com^
+@@||vefir.mms.is^*/static/analytics.js$~third-party
 @@||velet.jp/images/adv/$image,~third-party
 @@||video.520cc.cc/ad.php|
 @@||video.520cc.cc^$generichide

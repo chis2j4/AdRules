@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-02-03 00:10:37（北京时间） 
-! Total count: 3173
+! Version: 2023-02-03 08:43:27（北京时间） 
+! Total count: 3172
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4316,7 +4316,7 @@
 @@||britannica.com/mendel-resources/3-52/js/libs/prebid4.$script,~third-party
 @@||brm-core-*.brsrvr.com^|
 @@||browser.cloud.ucweb.com^
-@@||browser.sentry-cdn.com^$domain=acustica-audio.com|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|menshealth.com|roomster.com|timesprime.com|womenshealthmag.com
+@@||browser.sentry-cdn.com^$domain==app.homebinder.com|acustica-audio.com|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|menshealth.com|roomster.com|timesprime.com|womenshealthmag.com
 @@||browser.sentry-cdn.com^$domain=marshmallow-qa.com
 @@||browser.sentry-cdn.com^$script,domain=podcasty.seznam.cz
 @@||browser.sentry-cdn.com^$script,domain=vivareal.com.br
@@ -4885,7 +4885,6 @@
 @@||frosmo.com/messageApi$xmlhttprequest,domain=hobbyhall.fi
 @@||frosmo.com/recoApi/$xmlhttprequest,domain=apu.fi|hobbyhall.fi|lily.fi|meillakotona.fi|terve.fi
 @@||fscinda.com/ad/$~third-party
-@@||fullmatchesandshows.com^$generichide
 @@||fuseplatform.net^*/fuse.js$script,domain=broadsheet.com.au|friendcafe.jp
 @@||fwmrm.net^*/AdManager.js$script
 @@||g.alicdn.com/??*/criteo

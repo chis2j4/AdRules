@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-02-04 08:39:18（北京时间） 
-! Total count: 3174
+! Version: 2023-02-04 16:09:25（北京时间） 
+! Total count: 3175
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5891,6 +5891,7 @@
 @@||pttplay.com/js/momo/adsbygoogle.js
 @@||ptwxz.com/scripts/readindex/tongji.js
 @@||pub.alimama.com/common/adzone/
+@@||pub.pixels.ai/prebid_standard.js$script,domain=standard.co.uk
 @@||pubads.g.doubleclick.net/gampad/ads?*&description_url=https%3A%2F%2Fani.gamer.com.tw$domain=imasdk.googleapis.com
 @@||pubads.g.doubleclick.net/ssai/$domain=worldsurfleague.com
 @@||public-cis.exponea.com^|

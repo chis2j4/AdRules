@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-02-05 08:45:16（北京时间） 
-! Total count: 3174
+! Version: 2023-02-05 16:09:36（北京时间） 
+! Total count: 3175
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4973,6 +4973,7 @@
 @@||global-uploads.webflow.com/*_dimensions-$image,domain=dimensions.com
 @@||glokom.club/adv/ads/popunder.js$script
 @@||gls-info.nl/Scripts/tracking.js$~third-party
+@@||gls-us.com/api/tracking/$~third-party
 @@||gminazamosc.pl/wp-content/plugins/wp-google-analytics-events/js/ga-scroll-events.js?
 @@||gn-web-assets.api.bbc.com/bbcdotcom/assets/$script,domain=bbc.co.uk
 @@||go.com/b/ss/$image

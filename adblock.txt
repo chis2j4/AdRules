@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-06 08:39:16（北京时间） 
-! Total count: 15602
+! Version: 2023-02-06 16:10:51（北京时间） 
+! Total count: 15608
 -960x*0.gif
 -250.js*
 
@@ -5338,13 +5338,18 @@ tieba.baidu.com##.top-guide-wrap.top-guide
 tieba.baidu.com##.tuijian-wrap
 tieba.baidu.com##A[class='pb_cut_hot_recommend_content j_recommend_item']
 tieba.baidu.com##A[class='recommend_item j_recommend_item']
+tieba.baidu.com##DIV.clearfix.thread_item_box
+tieba.baidu.com##DIV.fengchao-wrap-feed:has(SPAN.ec-tuiguang)
 tieba.baidu.com##DIV.panel_bottom,LI.tl_shadow tl_shadow_new ^
 tieba.baidu.com##DIV.pb_cut_hot_recommend
+tieba.baidu.com##DIV.tbui_slideshow_container:has(SPAN.ad_logo)
 tieba.baidu.com##DIV[class='empty_wrap']
 tieba.baidu.com##DIV[class='j_daoliubar']
 tieba.baidu.com##DIV[class='re_floor']
 tieba.baidu.com##DIV[class='recommend_list_title']
 tieba.baidu.com##DIV[class='top-guide top-guide-wrap']
+tieba.baidu.com##DIV[id^='aside-ad']
+tieba.baidu.com##DIV[id^='mediago-tb-frs-list']
 tieba.baidu.com##SPAN.top_bar_content_text,DIV.appPromote_wrapper scale-1px-bottom,IMG.j_footer_logo_img,#m_footer,DIV.no_mean,DIV.addbodybottom,DIV.j_footer footer
 tieba.baidu.com##div.banner-wrapper,div.fixed-nav-bar.nav-bar-wrapper,div.recommend-list,div.nav-bar-wrapper
 tieba.baidu.com##div.daoliubar.appPromote
@@ -5362,6 +5367,7 @@ tieba.baidu.com##div.ui_image_header_bottom
 tieba.baidu.com##div[class*="appPromote"]
 tieba.baidu.com##div[class*="fixed-nav-bar nav-bar-wrapper"]
 tieba.baidu.com##div[class*="nav-bar-wrapper"]
+tieba.baidu.com##div[class*='-ad-pb-']
 tieba.baidu.com##div[class="sub-img-list"],div[class="appPromote_wrapper scale-1px-bottom"],div[class="j_pb_footer j_footer footer pb-footer"]
 tieba.baidu.com##frs-tuijian,tl_gap,p_article,p_hot,p_show,s_post.post_user,p_media,hongbao_page_pop_common,ui_image_header_bottom,daoliu_sign_in_prompt,daoliu_sign_in_prompt_img,j_top_bar,wake_app_tip,addbodybottom,no_mean,frs-tuijian,blue_kit_outer_w,daoliu,appPromote,j_footer footer,tuijian-wrap,j_top_bar blue_kit,tab_head tab_index_head j_tab_index_head blue_kit light_tab_head,ui_search j_tab_con_search,expand-all,img_desc,mylike_edit,expand-all,c-blocka,pb_lzl_header_bar,tbheader,top-guide,navbar-box,search-box,all-btn,interest-bar,footer-wrap,hot-topic,no-signed-interest
 tieba.baidu.com##li.tb-share__item:nth-of-type(1)

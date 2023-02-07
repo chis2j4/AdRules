@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-02-07 00:10:26（北京时间） 
-! Total count: 3177
+! Version: 2023-02-07 08:42:24（北京时间） 
+! Total count: 3178
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3630,7 +3630,7 @@
 @@/pub/ad/*$domain=ruten.com.tw
 @@/pub1/??$domain=banggo.com
 @@/sensorsdata-$domain=zkh.com
-@@/sensorsdata.$domain=36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|imooc.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|zzjiasuqi.com
+@@/sensorsdata.$domain=fenbi.com|36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|imooc.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|zzjiasuqi.com
 @@/setCookie?$domain=ctrip.com|ctrip.com.hk|pinyin.cn
 @@/share/js/*$domain=yunpanjingling.com
 @@/show_ad_$domain=wb.qq.com
@@ -5893,6 +5893,7 @@
 @@||ptwxz.com/scripts/readindex/tongji.js
 @@||pub.alimama.com/common/adzone/
 @@||pub.pixels.ai/prebid_standard.js$script,domain=standard.co.uk
+@@||pub.pixels.ai/wrap-independent-no-prebid-lib.js$script,domain=independent.co.uk
 @@||pubads.g.doubleclick.net/gampad/ads?*&description_url=https%3A%2F%2Fani.gamer.com.tw$domain=imasdk.googleapis.com
 @@||pubads.g.doubleclick.net/ssai/$domain=worldsurfleague.com
 @@||public-cis.exponea.com^|

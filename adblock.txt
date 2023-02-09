@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-09 08:40:56（北京时间） 
-! Total count: 15617
+! Version: 2023-02-09 16:10:31（北京时间） 
+! Total count: 15620
 -960x*0.gif
 -250.js*
 
@@ -63,6 +63,7 @@
 ##.theme-dark > .ayx > a
 ##.width.imgs_1
 ##.zozoads
+##A[href*='.com:'][target='_blank'] > IMG[src][width='100%'][height='60px']
 ##A[href='/hth.html']
 ##A[href='http://88yd.cc/']
 ##A[href='http://8hgpro.vip/']
@@ -70,6 +71,8 @@
 ##A[href='http://k023055.com']
 ##A[href='http://kkyty29.cc/']
 ##A[href='http://x5123.cc/']
+##A[href][target='_blank'] > IMG[src$='.gif'][width='100%'][height='120px']
+##A[href][target='_blank'] > IMG[src$='.gif'][width='100%'][height='60px']
 ##A[href^='http'][style^='display:block;left:0;right:0;position:fixed;border-left:']
 ##A[href^='http://cszb420.tinawd81.com/']
 ##A[href^='http://h5.shangjinssp.com/sjprom'][style='display:block;']
@@ -1696,9 +1699,11 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .userapi.com/impg^$removeparam=proxy
 .userapi.com/impg^$removeparam=type
 .xyz$domain=yinghuacd.com
+.xyz/alpine?$third-party
 .xyz/base*.js?$third-party
 .xyz/hm.js?$third-party
 .xyz/jque*.js?$third-party
+.xyz/svelte?$third-party
 .xyz/xling_*_*_*.js?*
 /(?::\/\/i1\.hoopchina\.com\.cn\/blogfile\/.+_\d{3}x\d{4})/
 /(blsx|xling)_\d{4,}_.+.js\?\d{5,}$/
@@ -3978,7 +3983,6 @@ jjxw.cn##.logo_ad_r,[class$="_banner"],#ad2,.c_banner_02_ad
 jkforum.net##div.a_p,div.a_pb,div.a_mu
 jlonline.com##.ad960,.ad670,.ad1200,.ad390
 jlonline.com##.focusPic,.ad300_250,[class^="ad_"]
-jmb.izzcwww*.*
 jmbbs.com##DIV.wp.a_h,DIV.comiis_ad,DIV.a_mu,DIV.a_pt,DIV.a_p,div.a_fl.a_cb,div.a_fr.a_cb,div.a_pr,div#comiis_jmad02,img[width="980"][height="60"],[src^="http://img.jmbbs.cn/sjgg/"],[width="1100"][height="55"],.a_pb
 jobbole.com###sidebar > .widget_text:first-child
 jobbole.com##.post-adds + .textwidget
@@ -7772,7 +7776,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||api-shoulei-ssl.xunlei.com^
 ||api-u-ssl.xunlei.com^
 ||api-yuedu.iqiyi.com/book/cloudShelf/pushCloudShelf?qyidv2=1DF0BFF1D9EC8E76824990C7D7A1F38E&appVer=3.6.6&srcPlatform=10&userId=read&qiyiId=865376038025837&md5=6fcd2d8b50e3117b73c8b06c5ec8ffa2&timeStamp=1530867293768$app=com.qiyi.video
-||api.*.com/sh/to/$third-party
+||api.*.com/sh/to/$third-part
 ||api.06fgej.com^
 ||api.1101yh.com^
 ||api.22lianmeng.com^
@@ -12247,7 +12251,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||padsdel.com^
 ||pagead.
 ||pagead2.
-||pagead2.googlesyndication.com^
 ||pagechoice.com^
 ||pagechoice.net^
 ||pageview.kgsz.cn^

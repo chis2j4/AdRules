@@ -1,5 +1,5 @@
 ! Title: Allowlist
-! Version: 2023-02-09 00:10:49（北京时间） 
+! Version: 2023-02-09 08:41:06（北京时间） 
 ! Total count: 3180
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
@@ -5802,7 +5802,6 @@
 @@||pepperjamnetwork.com/banners/$image,domain=extrarebates.com
 @@||petrochina.com.cn/advertisement_
 @@||pg-wuming.com^$generichide
-@@||pgcm58.com/files/h5/app.js
 @@||phatcatmedia.net/images/ad.jpg$image,domain=allsonicgames.net
 @@||photofunia.com/effects/$image,~third-party
 @@||photopea.com/ads.js
@@ -5982,6 +5981,7 @@
 @@||retailmenot.com/__wsm.gif$ping,~third-party,xmlhttprequest
 @@||rfksrv.com/rfk/js/*/init.js$script,domain=riteaid.com
 @@||right.com.cn/forum/*300*250$image
+@@||rltdxt.com/files/h5/app.js
 @@||rmdown.com/ads.js
 @@||rojadirecta.me^$generichide
 @@||rollbar.com^*/rollbar.min.js$domain=rollingstone.com|variety.com|wwd.com

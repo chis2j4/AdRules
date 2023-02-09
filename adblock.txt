@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-09 00:10:37（北京时间） 
-! Total count: 15612
+! Version: 2023-02-09 08:40:56（北京时间） 
+! Total count: 15617
 -960x*0.gif
 -250.js*
 
@@ -90,13 +90,16 @@
 ##DIV#bfad
 ##DIV#bl_mobile_float
 ##DIV#div1.div-relative[style='display:block;']
+##DIV#links.links.my-1.row[style='font-size:20px']
 ##DIV#mhbottom_ad_box
+##DIV#video-player-ads-wrap
 ##DIV.ad-area.ad-area-fix-bottom
 ##DIV.appdownload_ad
 ##DIV.bot-per-context[data-width='728'][data-height='90']
 ##DIV.box-width.ec-ad
 ##DIV.box-width.ec-ad.ec-ad-double.flex
 ##DIV.col-4.col-sm-2.col-xl-2.px-1.px-sm-2.pb-3.pt-3.pt-sm-0.d-block.d-sm-none
+##DIV.col-lg-3.col-md-3.col-sm-4.col-12.item.p-0.px-1
 ##DIV.ec-ad.tim-box
 ##DIV.fixed-bottom.d-block.d-sm-none.movies_ad
 ##DIV.module-adslist
@@ -133,6 +136,7 @@
 ##[alt='ad']
 ##[alt='西瓜社']
 ##[at*='尼斯人注册送']
+##[class$="_main_outstream"][style="right: 0px;"]
 ##[class^="chapter_"] > .baiduCenter
 ##[data-url='http://xixi.stylar.hk/']
 ##[href$='/ads.aspx']
@@ -1706,6 +1710,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /300x250.
 /360mse/360mse_*.apk?
 /361xk-2^
+/4.0.0/crypto-js.min.js
 /61.174.50.
 /96090/*
 /960x*0.gif
@@ -3594,6 +3599,7 @@ hao.360.cn##DIV.small-obj.animate,a[href$="src=hao_ncad_yule"],a[href$="src=hao_
 hao.qq.com##[id^="AD_"]
 hao.rising.cn###box_taobao2,#box_taobao1,#bbTao,.bd-lmhot,.banner-ad,.channel-adimg
 hao123.com##.adiframe,.adli,.newskin-tip,div.column-mask-model,div.column-content,div.treasure-game,#js-righttip-pic,.ad-imax,#iframeTp
+hao123.com##DIV.popup
 hao7zhe.com##.a_mu,[width="150"][height="300"],.a_pt,.wp.a_f
 haodf.com##div.closeid,div[class^="index_bottom"]
 haokan5.com##.ad8,.ads
@@ -8362,7 +8368,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bimiacg4.net/template/JOELEO/asset/js/jquery.common.js
 ||bindright.com^$removeparam=camp_id
 ||bing.*^$removeparam=CREA
-||bing.*^$removeparam=FORM
 ||bing.*^$removeparam=PUBL
 ||bing.*^$removeparam=cc
 ||bing.*^$removeparam=cvid

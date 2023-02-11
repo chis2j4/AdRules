@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-11 00:10:38（北京时间） 
+! Version: 2023-02-11 08:36:52（北京时间） 
 ! Total count: 15620
 -960x*0.gif
 -250.js*
@@ -233,6 +233,7 @@
 ##center > [href^='https://docs.qq.com/doc'][target='_blank']
 ##center > a > IMG[alt$='到期']
 ##div#detail.selector-zero > div > DIV[style]
+##div#h2_player_prevideo > A[href][target='_blank']
 ##div#reader-scroll.acgn-reader-chapter.v>div>center>strong>button
 ##div.a_fr.a_cb,div.a_fl.a_cb,div.a_cn,div.wp.a_h
 ##div.a_mu,tr.ad,div.wp.a_f,div.a_fl.a_cb,div.a_fr.a_cb
@@ -1715,7 +1716,6 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /300x250.
 /360mse/360mse_*.apk?
 /361xk-2^
-/4.0.0/crypto-js.min.js
 /61.174.50.
 /96090/*
 /960x*0.gif

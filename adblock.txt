@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-12 00:09:19（北京时间） 
-! Total count: 15620
+! Version: 2023-02-12 08:44:51（北京时间） 
+! Total count: 15622
 -960x*0.gif
 -250.js*
 
@@ -2633,6 +2633,7 @@ avsuggest.com##.overlay
 avtb579.com###content > div.col-xs.col-sm-12.col-md-10:last-child > div.panel.panel-default:nth-child(2) > div.panel-body.panel-padding:last-child > a:first-child
 avtb6677.com###menu-main-content > li:nth-child(n+5)
 awaker.cn###bew_10010,.adsbygoogle,div#wp125-2,div#text-31
+axutongxue.com##ARTICLE[id]
 axutongxue.com##body > div[id] > ul[class] > li > A[href^='http'],body > div[id] > ul[class] > li > img.icon
 azhibo.tv##.fill-content,[width="680"][height="60"],[href^="http://www.00880808.com/go/"],[src="/images/leisu.png"]
 b2b.hc360.com##[class="maincont-one-main"],div#cu_channel,div#leftsuspend,div[class^="line"],div.wechactLi
@@ -3962,6 +3963,7 @@ jingyan.baidu.com###wrapper > div.exp-container:nth-child(2) > aside.wgt-ad-gues
 jingyan.baidu.com##.fresh-share-exp-e
 jingyan.baidu.com##.task-panel-entrance
 jingyan.baidu.com##div.ad-card
+jingyan.baidu.com##div.asp-self-rander > DIV.asp-wrap
 jingyan.baidu.com##div.left-promotion,.bottom-ads-container,.wgt-left-promo
 jingyan.baidu.com##div[class^="ui-slider"][style*="height"]
 jingyan.baidu.com$$aside[class="wgt-ad"]

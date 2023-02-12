@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-02-12 08:45:01（北京时间） 
-! Total count: 3182
+! Version: 2023-02-12 16:09:54（北京时间） 
+! Total count: 3183
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5453,6 +5453,7 @@
 @@||logic-immo.com/lib/xiti/xiti.js$script,~third-party
 @@||login.ingbank.pl^*/satelliteLib-$script
 @@||login.sendpulse.com^|
+@@||logistics.costco.com/innovel-services/api/tracking/$~third-party
 @@||logmein.com/js/tracking.js$domain=logme.in|logmein.com
 @@||logo.clearbit.com^$image,third-party
 @@||lokopromo.com^*/adsimages/$~third-party

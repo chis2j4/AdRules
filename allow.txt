@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-02-13 08:43:43（北京时间） 
-! Total count: 3182
+! Version: 2023-02-13 16:11:49（北京时间） 
+! Total count: 3183
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4400,7 +4400,7 @@
 @@||cdn.segment.com/v1/projects/
 @@||cdn.segmentify.com^$script,domain=gratis.com
 @@||cdn.smartclip-services.com^$script,domain=cerebriti.com
-@@||cdn.staticfile.org^$script,domain=00ksw.com|147xiaoshuo.com|31xiaoshuo.com|biququ.info|bxwx.tw|feisucn.net|txtnovel.today|yushubo.com|ziyouge.top
+@@||cdn.staticfile.org^$script,domain=00ksw.com|147xiaoshuo.com|31xiaoshuo.com|biququ.info|bookbao.me|bxwx.tw|feisucn.net|txtnovel.today|yushubo.com|ziyouge.top
 @@||cdn.staticfile.org^$script,domain=00ksw.com|147xiaoshuo.com|31xs.org|31xsxs.com|35xs.org|biquge18.com|biququ.info|manhuadui.com|qihaoqihao.com|rijutv.com|tsxsw.net|xbiqugexsw.com|xx31xs.org|ziyouge.com
 @@||cdn.staticfile.org^$script,domain=dybee.tv
 @@||cdn.treasuredata.com/sdk/$script,domain=retty.me
@@ -5453,6 +5453,7 @@
 @@||logic-immo.com/lib/xiti/xiti.js$script,~third-party
 @@||login.ingbank.pl^*/satelliteLib-$script
 @@||login.sendpulse.com^|
+@@||logistics.costco.com/innovel-services/api/tracking/$~third-party
 @@||logmein.com/js/tracking.js$domain=logme.in|logmein.com
 @@||logo.clearbit.com^$image,third-party
 @@||lokopromo.com^*/adsimages/$~third-party

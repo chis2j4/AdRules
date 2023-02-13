@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-13 16:11:38（北京时间） 
-! Total count: 15628
+! Version: 2023-02-14 00:10:22（北京时间） 
+! Total count: 15629
 -960x*0.gif
 -250.js*
 
@@ -267,7 +267,6 @@
 ##div.stui-pannel__bd > #t-img-box
 ##div.video-box > div.hf > a
 ##div[class^="is_"] > a > img[referrerpolicy="no-referrer"][src*="hdslb.com"]
-##div[id*='ad'][class*='text']
 ##div[id*='cat_'][id*='_ad']
 ##div[id][style="width: 100%;"] > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div[style^="width: 100%;"][style$="display: block;"] iframe[scrolling="no"][src*="//"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
@@ -3799,7 +3798,7 @@ ifkdy.com##a[href*=".yhm11.com"]
 iguang.tw##.mall[shop],#googleAD1
 ii-i.org##.KusCuPF9l9Id,.KusCuPF9l9Id-bg,.adsbygoogle,[class^="asb asb-post asb-post-0"]
 iidvd.com###Gxbuffer,[href^="http://www.jxf0055.com/"]
-ikan6.vip##IMG[src$='.gif']
+ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
 ikanman.com##.top_banner,.mtb16,[class="mt10"][style],[class^="gg_"]
 ilvruan.com###text-11
 ilvruan.com###text-12
@@ -6046,6 +6045,7 @@ www.y4dg.com##div.a_mu,div.a_pb,div.a_pt,div.a_pr,div.wp.a_t
 www.yatu.tv##div[id^="myads_"]
 www.yayaxz.com##div.room-box
 www.ybzhan.cn##.banneradv,.leftAdvNewA,.leftAdvNewB,.adRight,.adTop
+www.ydyse.com##.left,.bottom,.right,.ad,.adimage
 www.yeyou1.com##img[src^="http://www.yeyou1.com/images/"],div.left-box
 www.yiihuu.com##div.popup-ad
 www.you85.cn##div.a_pb,div.a_pt,div.a_mu
@@ -15071,6 +15071,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zazgiyoh0s.xyz^
 ||zazhipu.com^
 ||zb.516624.com^
+||zbc6hyepls.xyz^
 ||zblz.me^
 ||zcdsp.com^
 ||zcnnn.com^

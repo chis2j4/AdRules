@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-02-14 16:11:30（北京时间） 
-! Total count: 3185
+! Version: 2023-02-15 00:10:55（北京时间） 
+! Total count: 3186
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4788,6 +4788,7 @@
 @@||envato.market^|
 @@||eolinker.com^$generichide
 @@||epicgames.com/id/api/analytics$~third-party,xmlhttprequest
+@@||epson.com.cn/common/new/js/tracking_code.js$~third-party
 @@||epub.ekh.no/*/static/analytics.js
 @@||epubit.com/static/epubit/share/js/share.min.js
 @@||eservice.nationalgeneral.com/service/lib/gtm.js$~third-party

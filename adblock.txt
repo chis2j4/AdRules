@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-14 16:11:18（北京时间） 
-! Total count: 15639
+! Version: 2023-02-15 00:10:46（北京时间） 
+! Total count: 15633
 -960x*0.gif
 -250.js*
 
@@ -322,7 +322,7 @@ $removeparam=/^_s=afl_impact$/
 $removeparam=/^_sgm_/i
 $removeparam=/^action_(object|type|ref)_map=/
 $removeparam=/^adgroup=/i
-$removeparam=/^adjust_/
+$removeparam=/^adjust/
 $removeparam=/^adword_/
 $removeparam=/^af_sub[0-9]=/
 $removeparam=/^affSource/i
@@ -1584,10 +1584,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 *$app=com.miui.systemAdSolution
 *-stats.jpush.cn^
 *.com/css/showfloatdiv^
-*.gif$domain=m.imomoe.live
 *.lijie.*/*_*?$third-party
-*.tfptlgrw.*
-*.u8hdqyug.*
 */?tzbilibili
 */ad.
 */adbox/
@@ -1601,7 +1598,6 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 */piaofu/
 */redirect?ad_cb=
 */svnad/$image,script
-*:*/*.html?k=*&_=*
 *ContentAD.
 *H5Logic_
 *[STATUS]*
@@ -1687,7 +1683,6 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .com/ads.
 .com/adv1/?q=
 .com/gg.js
-.com/sh/to$third-party
 .com/sh/to/$third-party
 .cyou/redbaiduct.com
 .cyou/xling_*_
@@ -7785,7 +7780,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||api-shoulei-ssl.xunlei.com^
 ||api-u-ssl.xunlei.com^
 ||api-yuedu.iqiyi.com/book/cloudShelf/pushCloudShelf?qyidv2=1DF0BFF1D9EC8E76824990C7D7A1F38E&appVer=3.6.6&srcPlatform=10&userId=read&qiyiId=865376038025837&md5=6fcd2d8b50e3117b73c8b06c5ec8ffa2&timeStamp=1530867293768$app=com.qiyi.video
-||api.*.com/sh/to/$third-part
 ||api.06fgej.com^
 ||api.1101yh.com^
 ||api.22lianmeng.com^

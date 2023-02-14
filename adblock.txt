@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-14 00:10:22（北京时间） 
-! Total count: 15629
+! Version: 2023-02-14 08:42:47（北京时间） 
+! Total count: 15639
 -960x*0.gif
 -250.js*
 
@@ -1209,6 +1209,7 @@ $removeparam=pk_keyword
 $removeparam=pk_kwd
 $removeparam=pk_medium
 $removeparam=pk_source
+$removeparam=pk_vid,document
 $removeparam=pldnSite,domain=amazon.*
 $removeparam=plimit,domain=privatehomeclips.com
 $removeparam=plink,domain=audible.*
@@ -2457,6 +2458,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 @@||tix.axs.com^$removeparam=utm_medium
 @@||tix.axs.com^$removeparam=utm_source
 @@||tix.axs.com^$removeparam=utm_term
+@@||track.sendle.com/tracking$removeparam=ref
 @@||transfernow.net/*/dltransfer$removeparam
 @@||tuhu.cn^
 @@||twitter.com/i/redirect$removeparam
@@ -13578,6 +13580,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tf.mangqu.cn^
 ||tf58.com^
 ||tfbulkidn.com^
+||tfutcmail.com^
 ||tfzozf.xyz^
 ||tg.loclog.cn^
 ||tg.tebiezhuan.com^
@@ -14667,6 +14670,12 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xiaodongrui.com^
 ||xiaohead.com^
 ||xiaohei.com^
+||xiaohongshu.com^$removeparam=app_platform,document
+||xiaohongshu.com^$removeparam=app_version,document
+||xiaohongshu.com^$removeparam=apptime,document
+||xiaohongshu.com^$removeparam=appuid,document
+||xiaohongshu.com^$removeparam=share_from_user_hidden,document
+||xiaohongshu.com^$removeparam=xhsshare,document
 ||xiaohuangshu.me^
 ||xiaojifly.cn^
 ||xiaomifood.cn^
@@ -15099,6 +15108,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zgclmw.cn^
 ||zgdshoes.com^
 ||zgfshoes.com^
+||zgm1.com^
 ||zgystsd.com^
 ||zgzxs.weathercn.com^
 ||zhads.com^

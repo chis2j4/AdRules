@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-15 08:42:35（北京时间） 
-! Total count: 15633
+! Version: 2023-02-15 16:11:10（北京时间） 
+! Total count: 15639
 -960x*0.gif
 -250.js*
 
@@ -8237,6 +8237,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bd1.zuimeitianqi.com^
 ||bd2.zuimeitianqi.com^
 ||bdcode1.haodou.com^
+||bddwm.com^
 ||bdfpbimg.ifengimg.com^
 ||bdgg.youbian.com^
 ||bdhcpll.cn^
@@ -8439,6 +8440,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bjcass.com^
 ||bjcathay.com^
 ||bjgztt.com^
+||bjkedvvelwf.xyz^
 ||bjlmok.com^
 ||bjmcmj.cn^
 ||bjs.mscto.com^
@@ -9981,6 +9983,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||govliuzhou.cn^
 ||govxinjiang.cn^
 ||gozendata.com^
+||gpxxbyf.cn^
 ||gqdfgyz.cn^
 ||grandcomms.cn^
 ||greatservice.online^
@@ -11138,6 +11141,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||letao.com^
 ||letaotaojishi.com^
 ||letv.com/*ark=
+||letvcdn.com^
 ||letvimg.com/gugwl/201*.jpg
 ||letvimg.com/lc06_gugwl/20$image
 ||lewenma.com/js/read.js
@@ -12202,6 +12206,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||openload.co/assets/js/script$script
 ||openrcv.baidu.com^
 ||ophwrh.cn^
+||opnkedfdye.xyz^
 ||opqsr.com^
 ||optaim.com^
 ||optimix.asia^
@@ -15181,6 +15186,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zkads.cc^
 ||zkvivi.com/skin/wxc.js
 ||zlbkj.com^
+||zljnwzp.cn^
 ||zlnmzc.top^
 ||zmkma.com^
 ||znlgplt.com^

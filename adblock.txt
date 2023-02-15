@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-15 16:11:10（北京时间） 
-! Total count: 15639
+! Version: 2023-02-16 00:10:59（北京时间） 
+! Total count: 15643
 -960x*0.gif
 -250.js*
 
@@ -110,6 +110,7 @@
 ##DIV.module-adslist
 ##DIV.myui-content__acc[style='position: relative;padding: 0 10px']
 ##DIV.sptable_do_not_remove f_one
+##DIV.stui-player.clearfix > [id*='ad'],div.stui-pannel > [id*='ad'],div.container > [id*='ad']
 ##DIV.tpc_icon
 ##DIV[class$='_ad_wrap']
 ##DIV[class^='ads_border_']
@@ -251,6 +252,7 @@
 ##div.box.bottom-adv
 ##div.callApp_fl_btn.an
 ##div.close-player_pic[onclick="document.getElementById('player_pic').style.display='none'"]
+##div.container > DIV.t-img-box
 ##div.container > IFRAME[align][width][src][border][height]
 ##div.container > div.row div.yalayi_box
 ##div.container > div.t-img-box > A[href][target='_blank']
@@ -11289,6 +11291,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||log3-normal-hl.toutiaoapi.com^
 ||log6.reader.qq.com^
 ||logconf.iflytek.com^
+||login.afreecatv.com^$removeparam=szFrom
 ||logonext.tv.kuyun.com^
 ||logs.amap.com^
 ||logs.chelaile.net.cn^
@@ -13636,6 +13639,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tiktok.com^$removeparam=_d
 ||tiktok.com^$removeparam=_r
 ||tiktok.com^$removeparam=checksum
+||tiktok.com^$removeparam=embed_source
 ||tiktok.com^$removeparam=preview_pb
 ||tiktok.com^$removeparam=sec_uid
 ||tiktok.com^$removeparam=share_app_name

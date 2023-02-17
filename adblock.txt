@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-17 16:10:54（北京时间） 
-! Total count: 15659
+! Version: 2023-02-18 00:10:12（北京时间） 
+! Total count: 15669
 -960x*0.gif
 -250.js*
 
@@ -231,6 +231,7 @@
 ##a.gggg[href^="https"]
 ##a.outlink
 ##a[href^="https://uds24.com/"]
+##body > A[ontouchstart='this.click();'][href]
 ##body > [id][style*='width:100%'][style*='min-height:120px']
 ##body > h1 > strong > title > a
 ##body#nr_body font > [id]
@@ -4435,6 +4436,7 @@ m.qidian.com##P.text-content
 m.qidian.com##div.app_download
 m.qidian.com##div.book-detail-btn:nth-of-type(3)
 m.qidian.com##div[id*="chapterEndModule_"]
+m.qilishusong.cn##[style*='display: block'],[style*='position: absolute; width: 100%;'],[style*='height:120px;']
 m.qu.la###chaptercontent > p
 m.qu.la###chaptercontent > span
 m.qu.la##dfn.MjAxNQ
@@ -5870,8 +5872,11 @@ www.hcyy.org##div.a_pt,div#diy1.area,div.drag,div.a_mu
 www.hd2hd.cn##div.a_pt,div.a_pr,div.bm.a_c
 www.hi1978.com##div.ad,div#miaov_float_layer
 www.hon3yhd.com##div[id^="MarketGidScriptRootC"],iframe[src^="http://bdfrm.bidvertiser.com/"]
+www.huadongty.com##DIV[id$=' img-containers']
+www.huadongty.com##SECTION
 www.hxsteel.cn###paihang,.xuanchuan,.baidulianmeng
 www.hxsxw.com##div.tac.mb5
+www.hzw.com.cn##DIV.xfb_close_icon,DIV#xfb_lbox,DIV.xfb_close_btn
 www.iapps.im##aside.ad-a45-wrap,div.block-right.block-right_than_zjbb_ads
 www.ib-china.com##.huuige,.huige,.ads_er,.wid980,.a_guanggao,[style^="height:80px;"]
 www.iefans.net###attachment_23454
@@ -10696,6 +10701,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jcpenney.com$removeparam=urlState
 ||jcrb.com/ZYW/$subdocument
 ||jd-bbs.com/tianyi/
+||jd2ujc.cn^
 ||jd5c.top^
 ||jebe.renren.com^
 ||jebe.xnimg.cn^
@@ -11015,6 +11021,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||knet.cn^
 ||knet.cn^$third-party
 ||knicks.jd.com^
+||knlk2md.cn^
 ||knmwrkw.xyz^
 ||ko2v.eiya.net^
 ||ko3aql2d.zczcjx.com^$script
@@ -13190,6 +13197,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||slfango.ltd^
 ||slickdeals.net^$removeparam=bsencid
 ||sljkj.com^
+||slutcmail.com^
 ||sm-tc.cn^
 ||sm.cn/adclick
 ||sm.cn/conn
@@ -13875,6 +13883,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||twjsx.cn^
 ||twjxmd.com^
 ||twrank.com^
+||twww.sbs^
 ||txjfso.com^
 ||txscn.cn^
 ||txshuku.com/js/
@@ -14678,6 +14687,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xiangshengw.com/cp.js
 ||xiangwangdesh.com^
 ||xiankandy.com^
+||xianzhice.com^
 ||xiaoangel.com^
 ||xiaobao8888.com^
 ||xiaobeier.cn^

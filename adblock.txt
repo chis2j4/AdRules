@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-18 16:09:51（北京时间） 
-! Total count: 15669
+! Version: 2023-02-19 00:09:34（北京时间） 
+! Total count: 15675
 -960x*0.gif
 -250.js*
 
@@ -9606,6 +9606,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||f1.lutouwang.net^
 ||f4.uaevivi.top^
 ||f77j6t2b.com^
+||f77xv3.top^
 ||f8272.com^
 ||f8ejqxp.cn^
 ||f99.gdsoq.com^
@@ -11901,6 +11902,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||muyuge.net/js/bb
 ||muzsj.com^
 ||mvlkvth.cn^
+||mwdwepok.xyz^
 ||mwzbp.iask.com.cn^
 ||mx.adrtb.net/backstage^$domain=lanzous.com
 ||mxde.com/js/05sun.js$script
@@ -11908,6 +11910,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||my.rtmark.net^
 ||my5058.com^
 ||myad.cn^
+||myads.cc^
 ||mydas.mobi
 ||mydisplay.ctfile.com^
 ||mydrivers.com/2018/drivers/yjgg
@@ -12271,6 +12274,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||p0y.cn^
 ||p1-feedback.byteimg.com^
 ||p188.cn^
+||p26.gejulm*.com^
 ||p4vip.com/f*.js
 ||p4vip.com/z*.js
 ||p4vip.com^*.html$subdocument
@@ -12928,6 +12932,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||s4te24u.com^
 ||s4zqj3m.cn^
 ||s5.cnzz.com^
+||s65m.win^
 ||s7.qhres.com/static^$domain=m.haiduomi.com,third-party
 ||s8.qhres.com/static/*.js$domain=nicotv.cc
 ||s8x1.com^
@@ -14609,6 +14614,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wxsnsdythumb.wxs.qq.com^
 ||wxsohu.com^
 ||wyb128.com/js/pc/
+||wyplmjufd.live^
 ||wyqaafplm.live^
 ||wyunion.com^
 ||wyxcb3.top^

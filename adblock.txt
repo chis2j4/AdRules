@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-19 16:09:49（北京时间） 
-! Total count: 15676
+! Version: 2023-02-20 00:09:19（北京时间） 
+! Total count: 15679
 -960x*0.gif
 -250.js*
 
@@ -232,6 +232,7 @@
 ##a.outlink
 ##a[href^="https://uds24.com/"]
 ##body > A[ontouchstart='this.click();'][href]
+##body > DIV[class][style^='bottom: '][style$='vw; display: block;']
 ##body > [id][style*='width:100%'][style*='min-height:120px']
 ##body > h1 > strong > title > a
 ##body#nr_body font > [id]
@@ -12176,6 +12177,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||okead.com^
 ||okforwardt.fun^
 ||okmgy.cn^
+||okmwfq.xyz^
 ||okokw.com^
 ||okwfx.cn^
 ||olcdn.com^
@@ -14019,6 +14021,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||utywsi.cn^
 ||uucm.cn^
 ||uuff.com^
+||uujhveglpo.xyz^
 ||uum6.com/$third-party,~font,popup
 ||uunak.cn^
 ||uvcourse.net^

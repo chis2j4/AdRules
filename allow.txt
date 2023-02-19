@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-02-19 16:09:59（北京时间） 
-! Total count: 3189
+! Version: 2023-02-20 00:09:28（北京时间） 
+! Total count: 3190
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -6279,6 +6279,7 @@
 @@||taboola.com/libtrc/impl.$script,domain=businessinsider.com|insider.com
 @@||taboola.com^*/json?tim=$domain=sueddeutsche.de
 @@||tag.aticdn.net/583901/at.js$script,domain=tv5monde.com
+@@||tag.aticdn.net/piano-analytics.js$domain=yourstory.com
 @@||tag.aticdn.net^*/smarttag.js$domain=gouv.fr|mon.compteczam.fr
 @@||tag.aticdn.net^*/smarttag.js$domain=rte.ie|uktvplay.co.uk
 @@||tag.md-nx.com^$script,domain=weather.us

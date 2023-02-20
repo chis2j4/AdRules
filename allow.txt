@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-02-20 00:09:28（北京时间） 
-! Total count: 3190
+! Version: 2023-02-20 08:44:55（北京时间） 
+! Total count: 3191
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4358,6 +4358,7 @@
 @@||captcha.su.baidu.com^
 @@||carandclassic.co.uk/images/free_advert/$image,~third-party
 @@||carexpert.com.tw/wp-content/plugins/like-box-pro/includes/javascript/front_end_js.js
+@@||caritas-international.de^*/analyticsmediator.js$domain=caritas-international.de
 @@||carsensor.net/usedcar/modules/clicklog_top_lp_revo.php$xmlhttprequest
 @@||cat.telia.no/gtm.js$script,domain=telia.no
 @@||catalogue.jbhifi.com.au^*/static/analytics.js$script,~third-party

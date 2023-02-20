@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-20 08:44:44（北京时间） 
-! Total count: 15679
+! Version: 2023-02-21 00:10:33（北京时间） 
+! Total count: 15694
 -960x*0.gif
 -250.js*
 
@@ -88,6 +88,7 @@
 ##A[onclick$='()'][target='_top'][style*='.gif) no-repeat;background-size:100% 100%;']
 ##A[style='width: 100%;height: 150px;z-index:1000;position: absolute;display:block;top: 0px;'][onclick$=';this.style.display="none";']
 ##A[target='_blank'][href*='/auth/register?code=']
+##BODY > DIV.ggcontainer
 ##DIV#ad-index.col-12.position-relative
 ##DIV#advertisings.advertising
 ##DIV#bannerCtrl.source_container.swiper-wrapper
@@ -99,6 +100,7 @@
 ##DIV#video-player-ads-wrap
 ##DIV.JS_mid_ad
 ##DIV.ad-area.ad-area-fix-bottom
+##DIV.advertisingConfiguration
 ##DIV.appdownload_ad
 ##DIV.bot-per-context[data-width='728'][data-height='90']
 ##DIV.box-width.ec-ad
@@ -107,16 +109,18 @@
 ##DIV.col-lg-3.col-md-3.col-sm-4.col-12.item.p-0.px-1
 ##DIV.ec-ad.tim-box
 ##DIV.fixed-bottom.d-block.d-sm-none.movies_ad
+##DIV.footer-appload.js-footer-appload
 ##DIV.module-adslist
 ##DIV.myui-content__acc[style='position: relative;padding: 0 10px']
 ##DIV.sptable_do_not_remove f_one
-##DIV.stui-player.clearfix > [id*='ad'],div.stui-pannel > [id*='ad'],div.container > [id*='ad']
 ##DIV.tpc_icon
 ##DIV[class$='_ad_wrap']
 ##DIV[class^='ads_border_']
 ##DIV[data-text-ad]
 ##DIV[id*="BAIDU_SSP__wrapper_"]
 ##DIV[style*='.xyz/gif/']
+##DIV[style*='px; top: 0px; left: 0px; z-index: '][style*='http']
+##DIV[style='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: 288; top: 0px; left: 0px;']
 ##DIV[style^='width:100%;height:100%;line-height: 100%;overflow:hidden; margin:auto;border:1px #']
 ##IFRAME[src*="//pos.baidu.com/"]
 ##IFRAME[src^='https://mydisplay.ctfile.com/popview.php']
@@ -132,6 +136,7 @@
 ##IMG[style='width: 100%;'][src^='https://ad.']
 ##IMG[url][onclick='window.open(this.url)'][src$='.gif'][width='100%']
 ##P[style$='transparent !important; font-size: 0px !important; text-indent: -10000px !important; height: 125px !important;']
+##P[style*='background: rgb(255, 255, 255) !important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important;']
 ##SPAN#qdSZ2
 ##SPAN[style$='font-size: 6vw; color:#fff; text-align: center; transform: rotate(-90deg);']
 ##SPAN[style="position: fixed; bottom: 30vh; z-index: 2147483647; right: 0px; margin-right: 6vw; padding: 0px; text-decoration: none; background-color: red; width: 7vw; height: 7vw; border-radius: 7vw; font-size: 6vw; color: rgb(255, 255, 255); text-align: center; transform: rotate(-90deg);"]
@@ -6597,6 +6602,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||1074.a.dlads.cn^
 ||1074.dlads.cn^
 ||107788.com^$third-party
+||109218er.xyz^
 ||1104piaoba2022.xyz^
 ||1105yh.com^
 ||1106yh.com^
@@ -9337,6 +9343,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||domp4.cc/js/wcount.js
 ||dong.aeimmmj.cn^
 ||dongbeisurewin.com^
+||dongya.org^
 ||doowe.cn^
 ||dopa.com^
 ||dorangesource.alicdn.com^
@@ -10311,6 +10318,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hugedomains.com^
 ||huhue.com^
 ||huichuan.sm.cn^
+||huicpu.com^
 ||huifangwen.com^
 ||huiruwei.com^
 ||huitoukao.com^
@@ -11110,6 +11118,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lanmeiyu.work^
 ||lanseshuba.com/xbai.net/js/77ad
 ||lanzous.com/img^
+||larbcc.xyz^
 ||lattestatic.lattebank.com/huanbapp.apk
 ||launchingonsetwhirlwind.com^
 ||layyi.com^
@@ -12170,6 +12179,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ohchehw.cn^
 ||oi9rp7.online^
 ||oikotie.fi^$removeparam=sRef
+||oinjkenwok.xyz^
 ||oinlkwdsx.xyz^
 ||oiuqwppcsdf.com^
 ||ojj258.com^
@@ -12317,6 +12327,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||parkingcrew.net^
 ||parse.fzcjjx.com^
 ||path.qidian.com^
+||payoneok.com^
 ||paypal.com^$removeparam=calc
 ||pb.hd.sohu.com.cn^
 ||pb.sogou.com^
@@ -12660,6 +12671,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qn.bejson.com^
 ||qncye.com/templets/default/js/mb.js
 ||qndown.com^
+||qnfvojfkw.xyz^
 ||qnieo.fun^
 ||qnipkk.xyz^
 ||qnwxk.com^$third-party
@@ -13616,6 +13628,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tg33.cn^
 ||tgfyq.cn^
 ||tgwopez.cn^
+||tgymhwt.cn^
 ||thallus.net^
 ||thedailybeast.com^$removeparam=via
 ||thefatherofsalmon.com^
@@ -13865,6 +13878,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tunka.com.cn/images/1234.gif
 ||turn.com^
 ||tutufu.com/bd/b-c1.js
+||tuvtpxp.cn^
 ||tuxi.com.cn^
 ||tv.sohu.com##[width="640"][height="100"],.adv
 ||tv.sohu.com/upload/Trace/$script
@@ -13916,6 +13930,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||u.txuesoft.cn^
 ||u1.idongde.com^
 ||u26u.com/$third-party,~font,popup
+||u7s546.com^
 ||u8ad.com^
 ||u9yy.com/js/js/$script
 ||ubcpm.com^

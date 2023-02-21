@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-02-21 00:10:47（北京时间） 
-! Total count: 3192
+! Version: 2023-02-21 08:44:41（北京时间） 
+! Total count: 3190
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4125,7 +4125,6 @@
 @@||api.ipinfodb.com^$xmlhttprequest,domain=management30.com
 @@||api.ipstack.com/check$domain=blockfi.com|get-in.com|withpersona.com
 @@||api.ipstack.com^$domain=meteo365.es|ride.guru
-@@||api.nyda.pro^$websocket
 @@||api.paymentwall.com^$domain=adguard.com
 @@||api.perfops.net^$script,xmlhttprequest,domain=cdnperf.com|dnsperf.com
 @@||api.touchnote.io^$xmlhttprequest,domain=app.touchnote.com
@@ -6165,7 +6164,6 @@
 @@||soufunimg.com/??*/fshare.
 @@||soufunimg.com/count/uvbforpc.js
 @@||sourcegraph.com^$generichide
-@@||sourcepoint.telegraph.co.uk^$~third-party,xmlhttprequest
 @@||sourcepointcmp.bloomberg.*/ccpa.js$script,domain=bloomberg.co.jp|bloomberg.com
 @@||sourcepointcmp.bloomberg.*/mms/get_site_data?$domain=bloomberg.co.jp|bloomberg.com
 @@||sozi.cn/images/ad/tj

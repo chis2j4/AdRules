@@ -2,8 +2,8 @@
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 12 Hours
-# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2023-02-22 00:39:59
-# Total count: 81784
+# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2023-02-22 08:11:38
+# Total count: 81799
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 0001.best
@@ -731,6 +731,7 @@
 0.0.0.0 22588888.com
 0.0.0.0 2276bf7413.com
 0.0.0.0 22773.com
+0.0.0.0 228tuchuang.com
 0.0.0.0 22ark.pro
 0.0.0.0 22ei7q8l12.com
 0.0.0.0 22ether.net
@@ -1318,6 +1319,7 @@
 0.0.0.0 4140690839.com
 0.0.0.0 4167.api.swrve.com
 0.0.0.0 4167.content.swrve.com
+0.0.0.0 4199tv.com
 0.0.0.0 41df76c67812005c.com
 0.0.0.0 41ee789d61.com
 0.0.0.0 41fcd2b939.com
@@ -4972,7 +4974,6 @@
 0.0.0.0 adbmetrics.degustacastillayleon.es
 0.0.0.0 adbmetrics.diariosur.es
 0.0.0.0 adbmetrics.diariovasco.com
-0.0.0.0 adbmetrics.diariovasco.obilemag.com
 0.0.0.0 adbmetrics.elcomercio.es
 0.0.0.0 adbmetrics.elcorreo.com
 0.0.0.0 adbmetrics.eldiariomontanes.es
@@ -6622,6 +6623,7 @@
 0.0.0.0 ads.livetv314.me
 0.0.0.0 ads.livetv623.me
 0.0.0.0 ads.livetv625.me
+0.0.0.0 ads.livetv626.me
 0.0.0.0 ads.livetvcdn.net
 0.0.0.0 ads.lmmob.com
 0.0.0.0 ads.lordlucky.com
@@ -8724,6 +8726,7 @@
 0.0.0.0 aftonbladetnya.sc.omtrdc.net
 0.0.0.0 aftrangale.com
 0.0.0.0 afunnygames.com
+0.0.0.0 afuz032.com
 0.0.0.0 afvmusm.cn
 0.0.0.0 afy11.net
 0.0.0.0 afyads.com
@@ -16077,7 +16080,6 @@
 0.0.0.0 bonzai.ad
 0.0.0.0 bonzesantra.life
 0.0.0.0 boo-box.com
-0.0.0.0 boobeeshop.com
 0.0.0.0 boobzi.com
 0.0.0.0 boodi.cyou
 0.0.0.0 boododa.com
@@ -24032,6 +24034,7 @@
 0.0.0.0 db-z.fr
 0.0.0.0 db.utag.ijinshan.com
 0.0.0.0 db033pq6bj64g.cloudfront.net
+0.0.0.0 db11yy.com
 0.0.0.0 db3aqu.atdmt.com
 0.0.0.0 db5.settings.data.microsoft.com.akadns.net
 0.0.0.0 db5.vortex.data.microsoft.com.akadns.net
@@ -36488,6 +36491,7 @@
 0.0.0.0 iklanumum.com
 0.0.0.0 iklda.cn
 0.0.0.0 iklghjooyj.com
+0.0.0.0 iknwqdpo.xyz
 0.0.0.0 ikoee.com
 0.0.0.0 ikoplvp.cn
 0.0.0.0 ikoptaud.com
@@ -37766,6 +37770,7 @@
 0.0.0.0 ionamin.1.p2l.info
 0.0.0.0 iongsoni.uno
 0.0.0.0 ioniaukmla.xyz
+0.0.0.0 ionksfefe.xyz
 0.0.0.0 ionnmjdsf.com
 0.0.0.0 iononetravoy.com
 0.0.0.0 ionqv.cn
@@ -42590,6 +42595,7 @@
 0.0.0.0 log.reformal.ru
 0.0.0.0 log.ren.tv
 0.0.0.0 log.rutube.ru
+0.0.0.0 log.saigondautu.com.vn
 0.0.0.0 log.sdk.zadn.vn
 0.0.0.0 log.seekda.com
 0.0.0.0 log.sggp.org.vn
@@ -47818,6 +47824,7 @@
 0.0.0.0 n0611.com
 0.0.0.0 n0622.com
 0.0.0.0 n0633.com
+0.0.0.0 n0644.com
 0.0.0.0 n0909.com
 0.0.0.0 n12qga4ld3zk.com
 0.0.0.0 n1307adserv.xyz
@@ -54959,6 +54966,7 @@
 0.0.0.0 ptztvpremium.com
 0.0.0.0 pu1.biz
 0.0.0.0 pu3.biz
+0.0.0.0 pu4.biz
 0.0.0.0 pu5hk1n2020.com
 0.0.0.0 puaabvs.cn
 0.0.0.0 pub-sdk-cfg.criteo.com
@@ -55201,6 +55209,8 @@
 0.0.0.0 pushad.metajoy.services
 0.0.0.0 pushads.biz
 0.0.0.0 pushadv.biz
+0.0.0.0 pushadve.biz
+0.0.0.0 pushadvert.bid
 0.0.0.0 pushagim.com
 0.0.0.0 pushalert.co
 0.0.0.0 pushalk.com
@@ -55221,6 +55231,7 @@
 0.0.0.0 pushcrew.com
 0.0.0.0 pushdelone.com
 0.0.0.0 pushdi.com
+0.0.0.0 pushdirect.bid
 0.0.0.0 pushdom.co
 0.0.0.0 pushdusk.com
 0.0.0.0 pushdy.com
@@ -55746,6 +55757,7 @@
 0.0.0.0 qienews.cn
 0.0.0.0 qiezijs.cc
 0.0.0.0 qifake.com
+0.0.0.0 qifjksdqwd.xyz
 0.0.0.0 qifvupoxxo.com
 0.0.0.0 qigfhle.cn
 0.0.0.0 qihaoqu.com
@@ -57749,6 +57761,7 @@
 0.0.0.0 rigvkgfepy.com
 0.0.0.0 rihlosty.com
 0.0.0.0 rihosaphe.com
+0.0.0.0 rikqo.cc
 0.0.0.0 rilelogicbuy.com
 0.0.0.0 rilenews.com
 0.0.0.0 rilledlyres.com
@@ -66989,6 +67002,7 @@
 0.0.0.0 swiftmining.win
 0.0.0.0 swiftpedigreebike.com
 0.0.0.0 swiftype.fr
+0.0.0.0 swill.icu
 0.0.0.0 swimg2.tsderen.cn
 0.0.0.0 swimslope.com
 0.0.0.0 swimsuitmysteryisland.com
@@ -80829,6 +80843,7 @@
 0.0.0.0 yyp17.com
 0.0.0.0 yypd.top
 0.0.0.0 yyptyrrjba.xyz
+0.0.0.0 yyrgz.cn
 0.0.0.0 yyrrw.top
 0.0.0.0 yyslate.com
 0.0.0.0 yystzl.cn

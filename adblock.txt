@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-22 08:39:43（北京时间） 
-! Total count: 15708
+! Version: 2023-02-22 16:11:23（北京时间） 
+! Total count: 15716
 -960x*0.gif
 -250.js*
 
@@ -211,6 +211,7 @@
 ##[href^='https://xxx.nunxun.com']
 ##[onclick*="trackEvent', 'ad"]
 ##[onclick*='https://i.opiwb.com:']
+##[onclick*='pypyj.com']
 ##[onclick*='www.l4lui.com'],.col-12.position-relative>b
 ##[onclick="window.open('http://682kg.com/')"]
 ##[onclick="window.open('https://docs.qq.com/doc/DZGtmWUxpamJGTnNY');"]
@@ -6868,6 +6869,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||402v.com^
 ||40fenzhong.com^
 ||4135.com^
+||4199tv.com^
 ||42.51.8.24^
 ||425555a.com^
 ||426g.com^
@@ -7551,6 +7553,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||afk3rs.xyz^
 ||afp.alicdn.com/afp-creative/$image,object-subrequest
 ||afp.m1905.com^
+||afuz032.com^
 ||ag.qq.com^
 ||agata88.com^$removeparam=source
 ||agdewasmnjktfrdewqjgdser.top^
@@ -8784,6 +8787,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||chuantu.biz^$domain=thzx.cc
 ||chuiyao.com/static/js$script
 ||chumanzi.com/wap
+||chumeng.link^
 ||chunfuxie.cn^
 ||chushoushijian.cn^
 ||chuzushijian.cn^
@@ -9172,6 +9176,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||daup.map.baidu.com/cltr/rcvr$app=com.qiyi.video
 ||daxiu01.oss-accelerate.aliyuncs.com^
 ||dazhantai.com^
+||db11yy.com^
 ||dbkdwe1.com^
 ||dbncp.com^$third-party
 ||dbp-resource.cdn.bcebos.com/*/banner*.jpg
@@ -9794,6 +9799,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fubo.tv^$removeparam=irmp
 ||fuentekj.com^
 ||fuimg.com^$domain=678cn.com
+||fujifood.hk^
 ||fujincenter.com^
 ||fumeiti.cc^
 ||fumiad.dxys.pro^
@@ -10600,6 +10606,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||intl.iqiyi.com/control/feature_switch?
 ||inveno.com^
 ||ionemanhua.com/js/xvideo.js
+||ionksfefe.xyz^
 ||iosppk.com^
 ||ip.120ask.com^
 ||ip.ta.wangkx.xyz^
@@ -12634,6 +12641,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qids.xyz^
 ||qienews.cn^
 ||qifake.com^
+||qifjksdqwd.xyz^
 ||qihaoqu.com^
 ||qijpaih.cn^
 ||qimgg.com^

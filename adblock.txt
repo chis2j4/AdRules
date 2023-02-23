@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-23 00:10:53（北京时间） 
-! Total count: 15716
+! Version: 2023-02-23 08:40:54（北京时间） 
+! Total count: 15718
 -960x*0.gif
 -250.js*
 
@@ -544,6 +544,7 @@ $removeparam=_cid,domain=addnature.*|bikester.*
 $removeparam=_from
 $removeparam=_ft_
 $removeparam=_ga
+$removeparam=_ga,domain=~login.aliexpress.*
 $removeparam=_gac
 $removeparam=_gl
 $removeparam=_hsenc
@@ -13935,6 +13936,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tykor.net^
 ||tylll.paohao.com^
 ||tymh2022.xyz^
+||typeform.com^$removeparam=typeform-source
 ||tyutuyoo.top^
 ||tz-dsp.com^
 ||tz.yuanmengbi.com^

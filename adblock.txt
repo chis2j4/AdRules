@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-23 08:40:54（北京时间） 
-! Total count: 15718
+! Version: 2023-02-23 16:10:52（北京时间） 
+! Total count: 15727
 -960x*0.gif
 -250.js*
 
@@ -114,6 +114,7 @@
 ##DIV.myui-content__acc[style='position: relative;padding: 0 10px']
 ##DIV.sptable_do_not_remove f_one
 ##DIV.tpc_icon
+##DIV[allowtransparency='true'][scrolling='no']
 ##DIV[class$='_ad_wrap']
 ##DIV[class^='ads_border_']
 ##DIV[data-text-ad]
@@ -6834,6 +6835,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||365rich.cn/live.htm
 ||36d1ef387c.com^
 ||36g.top^
+||36htg.fun^
 ||36pn.com^$third-party
 ||37.com/$third-party
 ||37cs.com^
@@ -8328,10 +8330,12 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bfdcdn.com^
 ||bfdtt.com^
 ||bfugui.com^
+||bg4nxu2u5t.com^
 ||bh0874.online^
 ||bh100.com.cn^
 ||bhaabom.cn^
 ||bhlianhe.com^
+||bhpprfk.cn^
 ||bhulgot.com^
 ||bi.ui.doulaihai.top^
 ||bibi100.com^
@@ -9194,6 +9198,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ddrk.me/ad
 ||ddwt.am^
 ||de.pandora.xiaomi.com^
+||dedcrfvdj.xyz^
 ||deepdiscount.com^$removeparam=bid
 ||deeplearning.ai^$removeparam=_hsenc
 ||deeplearning.ai^$removeparam=_hsmi
@@ -9222,6 +9227,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dexinyi.cn^
 ||dexuanyu.top^
 ||dfcfw.com^
+||dfghaqea.xyz^
 ||dfkd.xyz^
 ||dfsvhv88.com^
 ||dftoutiao.com^
@@ -9377,6 +9383,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dp.push.dc.360.cn/v1/list/ip?
 ||dp3.play.aiseet.atianqi.com^
 ||dp3.qq.com^
+||dpjzzgw.cn^
 ||dq06u9lt5akr2.cloudfront.net^
 ||dr999.cc^
 ||dreamine.com^$third-party
@@ -12200,6 +12207,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||oikotie.fi^$removeparam=sRef
 ||oinjkenwok.xyz^
 ||oinlkwdsx.xyz^
+||oinlkwr.xyz^
 ||oiuqwppcsdf.com^
 ||ojj258.com^
 ||ok-11-cai.cc^
@@ -15122,6 +15130,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||yylady.cn^
 ||yylys.com^
 ||yynncbn.cn^
+||yyselrqpyu.com^
 ||yyslate.com^
 ||yystzl.cn^
 ||yytcdn.com/uploads/player_image/

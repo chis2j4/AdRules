@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-23 16:10:52（北京时间） 
-! Total count: 15727
+! Version: 2023-02-24 00:10:58（北京时间） 
+! Total count: 15732
 -960x*0.gif
 -250.js*
 
@@ -128,6 +128,7 @@
 ##IFRAME[src*="//pos.baidu.com/"]
 ##IFRAME[src^='https://mydisplay.ctfile.com/popview.php']
 ##IMG.cupfox[src$='gif']
+##IMG.lazyload[src='/statics/img/load.gif']
 ##IMG[alt='155.fun']
 ##IMG[alt^='kaiybet']
 ##IMG[onclick='golh()'][src$='.gif']
@@ -227,6 +228,7 @@
 ##[src^='/Uploads/ad/'][src$='.gif'][alt='广告']
 ##[src^='https://ae01.alicdn.com/'][alt='歪歪漫画']
 ##[src^='https://dingbu.bj.bcebos.com/']
+##[src^='https://immmg.owowqrf.cn']
 ##[src^='https://l.bt5v.com/v.php']
 ##[src^='https://play.cdn6.buzz/js/']
 ##[src^='https://qwe0231141.bj.bcebos.com/']
@@ -6530,6 +6532,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||025zxcv.com^
 ||0272aa.com^
 ||0272dd.com^
+||027dir.com^
 ||027pbj.net^
 ||028yhtz.com^
 ||02asdf.com^
@@ -8978,6 +8981,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||com:2516/code/
 ||com:91/Runtime/js/psCreat.js
 ||commdata.v.qq.com^
+||commondata.oss-cn-hangzhou.aliyuncs.com^
 ||commontgw6.reader.qq.com/common/adV3?
 ||community.321mh.com/comment^
 ||community.spiceworks.com^$removeparam=carPos
@@ -9339,6 +9343,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dm5.com/wxh.js?pt=$script
 ||dm50.jkyd.net^
 ||dmfjeu.xyz^
+||dmm.aizhan.com^
 ||dmrtb.com^
 ||dmsz.win7sky.com^
 ||dmtrck.com^

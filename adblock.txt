@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-24 00:10:58（北京时间） 
+! Version: 2023-02-24 08:41:50（北京时间） 
 ! Total count: 15732
 -960x*0.gif
 -250.js*
@@ -344,10 +344,10 @@ $removeparam=/^action_(object|type|ref)_map=/
 $removeparam=/^adgroup=/i
 $removeparam=/^adjust/
 $removeparam=/^adword_/
-$removeparam=/^af_sub[0-9]=/
+$removeparam=/^af_sub\d=/
 $removeparam=/^affSource/i
-$removeparam=/^aff_id[0-9]?=/i,domain=~affiliate.salestring.com
-$removeparam=/^aff_sub[0-9]?=/
+$removeparam=/^aff_id\d?=/i,domain=~affiliate.salestring.com
+$removeparam=/^aff_sub\d?=/
 $removeparam=/^affid=/i,domain=~redir.tradedoubler.com|~affiliate.geekbuying.com
 $removeparam=/^affiliateID=/i
 $removeparam=/^affsrc=/i
@@ -362,7 +362,7 @@ $removeparam=/^cid=DTCI-Synergy/,domain=disneyplus.com|espn.com|hotstar.com|star
 $removeparam=/^cid=DTCI_STAR-Synergy/,domain=disneyplus.com|espn.com|hotstar.com|starplus.com
 $removeparam=/^cid_/
 $removeparam=/^clickid=/i
-$removeparam=/^clickref[0-9]?=/
+$removeparam=/^clickref\d?=/
 $removeparam=/^cm_mmc/
 $removeparam=/^cmpid%3D=/i,domain=bloomberg.com
 $removeparam=/^cvo_/
@@ -443,7 +443,7 @@ $removeparam=/^src=aff$/
 $removeparam=/^src=rss$/
 $removeparam=/^srcCode=/i,domain=jcrew.com|magellans.com|teleflora.com|tigerdirect.com
 $removeparam=/^stm_/,domain=~redir.tradedoubler.com
-$removeparam=/^sub_id[0-9]=/
+$removeparam=/^sub_id\d=/
 $removeparam=/^subid1=/i
 $removeparam=/^subid2=/i
 $removeparam=/^subid3=/i
@@ -2244,7 +2244,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 @@/advertisement/*$domain=ininin.com|midea.com|muyingzhijia.com
 @@/advertisement_ads_$domain=pdawiki.com|tahua.net
 @@/adview_pic_$domain=2hanju.com|laimanhua.com|lingjike.com|mahua.com|meiyouad.com|mh160.com|reh.tw|silisili.me|xiaoz.me|ykit.cn|zgpingshu.com
-@@/aff_c?$removeparam=/^aff_id[0-9]?=/i
+@@/aff_c?$removeparam=/^aff_id\d?=/i
 @@/b/ref=$removeparam=ie
 @@/fingerprint2.$domain=nfmovies.com
 @@/fingerprint2.js$domain=fangcloud.com|fx678.com|pop-fashion.com
@@ -7435,7 +7435,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||adrdir.qq.com^
 ||adrecover.com^
 ||adres.wpscdn.cn^
-||adressa.no^$removeparam=/^rs[0-9]/
+||adressa.no^$removeparam=/^rs\d/
 ||adroition.net^
 ||adroll.com^
 ||adrotator.se^
@@ -8014,7 +8014,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||arpg2.com^
 ||arpun.com/arpun/$script
 ||arts-cloud.net^
-||artstation.com^$removeparam=/^[0-9]/
+||artstation.com^$removeparam=/^\d/
 ||arwh3scr.world^
 ||arwh4scr.xyz^
 ||as.com^$removeparam=id_externo_noti
@@ -14217,7 +14217,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||waizongguan.net^
 ||wakamoment.tk^
 ||walmart.$removeparam=/^ath/
-||walmart.$removeparam=/^wl[0-9]=/
+||walmart.$removeparam=/^wl\d=/
 ||walmart.$removeparam=wl10
 ||walmart.$removeparam=wl11
 ||walmart.$removeparam=wl12

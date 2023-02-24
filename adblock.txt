@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-24 08:41:50（北京时间） 
-! Total count: 15732
+! Version: 2023-02-24 16:11:11（北京时间） 
+! Total count: 15738
 -960x*0.gif
 -250.js*
 
@@ -107,6 +107,7 @@
 ##DIV.box-width.ec-ad.ec-ad-double.flex
 ##DIV.col-4.col-sm-2.col-xl-2.px-1.px-sm-2.pb-3.pt-3.pt-sm-0.d-block.d-sm-none
 ##DIV.col-lg-3.col-md-3.col-sm-4.col-12.item.p-0.px-1
+##DIV.div_adhost
 ##DIV.ec-ad.tim-box
 ##DIV.fixed-bottom.d-block.d-sm-none.movies_ad
 ##DIV.footer-appload.js-footer-appload
@@ -116,6 +117,8 @@
 ##DIV.tpc_icon
 ##DIV[allowtransparency='true'][scrolling='no']
 ##DIV[class$='_ad_wrap']
+##DIV[class*='home'][class*='Ads']
+##DIV[class*='id_ads__']
 ##DIV[class^='ads_border_']
 ##DIV[data-text-ad]
 ##DIV[id*="BAIDU_SSP__wrapper_"]
@@ -285,6 +288,7 @@
 ##div.row.col5.clearfix:nth-of-type(2) > dl:nth-of-type(1)
 ##div.stui-pannel__bd > #t-img-box
 ##div.video-box > div.hf > a
+##div[class*='bookid_ads']
 ##div[class^="is_"] > a > img[referrerpolicy="no-referrer"][src*="hdslb.com"]
 ##div[id$='ad1'][class^='text'],div[id$='ad2'][class^='text'],div[id$='ad3'][class^='text'],div[id$='ad4'][class^='text'],div[id$='ad5'][class^='text'],div[id$='ad6'][class^='text']
 ##div[id*='cat_'][id*='_ad']
@@ -1700,6 +1704,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 -mobile-default/static/js/app-download-
 -time.js?
 -tongji.
+.cfd/video/index/index/user_login/
 .club$domain=yinghuacd.com
 .com/ads.
 .com/adv1/?q=
@@ -12206,6 +12211,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ofreadingand.biz^
 ||ofweek.com/img/proimage/2017/osl
 ||oganilglk.cyou^
+||oghqvffmnt.com^
 ||ognujxj.cn^
 ||ohchehw.cn^
 ||oi9rp7.online^

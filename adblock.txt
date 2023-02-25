@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-25 16:10:00（北京时间） 
-! Total count: 15743
+! Version: 2023-02-26 00:09:37（北京时间） 
+! Total count: 15741
 -960x*0.gif
 -250.js*
 
@@ -63,10 +63,10 @@
 ##.theme-dark > .ayx > a
 ##.width.imgs_1
 ##.zozoads
+##ASIDE[id^='custom_html-']
 ##A[href*='.com:'][target='_blank'] > IMG[src][width='100%'][height='60px']
 ##A[href='/?'][target='_blank']
 ##A[href='/hth.html']
-##A[href='http://88yd.cc/']
 ##A[href='http://8hgpro.vip/']
 ##A[href='http://95710.vip']
 ##A[href='http://k023055.com']
@@ -105,6 +105,7 @@
 ##DIV.bot-per-context[data-width='728'][data-height='90']
 ##DIV.box-width.ec-ad
 ##DIV.box-width.ec-ad.ec-ad-double.flex
+##DIV.code-block[style='margin: 8px 0; clear: both;']
 ##DIV.col-4.col-sm-2.col-xl-2.px-1.px-sm-2.pb-3.pt-3.pt-sm-0.d-block.d-sm-none
 ##DIV.col-lg-3.col-md-3.col-sm-4.col-12.item.p-0.px-1
 ##DIV.div_adhost
@@ -128,6 +129,7 @@
 ##DIV[style*='height: 33.25px; top:'][style*='background-size: 400px 133px !important;']
 ##DIV[style*='px; top: 0px; left: 0px; z-index: '][style*='http']
 ##DIV[style='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: 288; top: 0px; left: 0px;']
+##DIV[style^='position: fixed; bottom: 50%; z-index: 19999 !important; ']
 ##DIV[style^='width:100%;height:100%;line-height: 100%;overflow:hidden; margin:auto;border:1px #']
 ##IFRAME[src*="//pos.baidu.com/"]
 ##IFRAME[src^='https://mydisplay.ctfile.com/popview.php']
@@ -159,7 +161,6 @@
 ##[at*='尼斯人注册送']
 ##[class$="_main_outstream"][style="right: 0px;"]
 ##[class^="chapter_"] > .baiduCenter
-##[data-url='http://xixi.stylar.hk/']
 ##[href$='/ads.aspx']
 ##[href*="/?channelCode="] > [referrerpolicy='no-referrer']
 ##[href*="/entry/register/?i_code="]
@@ -167,7 +168,6 @@
 ##[href*='.xacg.info/']
 ##[href*='sohu.com/hy-op']
 ##[href="/ad/007.html"]
-##[href="http://www.28cpw.com"]
 ##[href='/ad.html']
 ##[href='/ad/bfy.html']
 ##[href='/aga2/1661087']
@@ -175,22 +175,15 @@
 ##[href='/my/dp.html']
 ##[href='/my/gd.html']
 ##[href='http://ky53362.com/']
-##[href='http://li.hmwang.cc']
-##[href='https://blfanss.com']
-##[href='https://cai35b9.com/']
 ##[href='https://click.aliyun.com/m/1000332699/']
 ##[href='https://dpurl.cn/HifSTUtz']
 ##[href='https://www.aiwajbh.com/mh.php']
-##[href='https://www.riqingxs.com/']
 ##[href^="https://9996867.com"]
 ##[href^="https://lantianyong"]
 ##[href^="openapp.jdmobile://virtual?params="]
-##[href^='http://akmh069.vip']
 ##[href^='http://j6597v.hjlego.com']
-##[href^='http://jg.awaliwa.com/tg']
+##[href^='http://jg.awaliwa.com/']
 ##[href^='http://mm.alameinv.com/']
-##[href^='http://www.hyd59.com/']
-##[href^='https://0414483.com/']
 ##[href^='https://65564535.com']
 ##[href^='https://97749516.com/']
 ##[href^='https://analytics.woozooo.com/jump.php?url=']
@@ -206,7 +199,6 @@
 ##[href^='https://kcc.qrjxween.com/cc/']
 ##[href^='https://luodi.aitaokeji.top/']
 ##[href^='https://mtyshi.com/']
-##[href^='https://record.brave108.com/']
 ##[href^='https://tz.jingjiezhenkong.com']
 ##[href^='https://tz.kefuyuming.vip/']
 ##[href^='https://w5979.com:']
@@ -9633,6 +9625,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||everesttech.net^$removeparam=/^ev_/
 ||evtubescms.phncdn.com^
 ||evtubescms.phncdn.com^$redirect=noopmp4-1s
+||ewrwf.com^
 ||ewtyewj.com^
 ||exceptionlog.kugou.com^
 ||excsyrv.cn^
@@ -10826,6 +10819,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jixing.cc^
 ||jizzads.com^
 ||jjckb.cn/flash/1031ad/
+||jjdk33.com^
 ||jjiv.top^
 ||jjjak.com^
 ||jjjcyjj.cn^
@@ -11586,6 +11580,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||magento.com^$removeparam=itm_term
 ||magicflute.club^
 ||maihehd.com^
+||mail.kguapp.com^
 ||mail.qq.com/cgi-bin/frame_html?$removeparam=r
 ||mail.ru^$removeparam=mt_click_id
 ||maizixueyuan*/js/html*.js
@@ -12627,6 +12622,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qczcxe.cn^
 ||qd.wanjuanba.com^
 ||qdcode.com^
+||qdczx66.com^
 ||qdhyy.cn^
 ||qdimg.com/css/baidu.js|
 ||qdp.qidian.com^
@@ -13084,6 +13080,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||seefarger.com^
 ||segment.com^
 ||select6.reader.qq.com/*/getRecommendDataForAd
+||selected.com^$removeparam=clickedFromCategory
 ||self-study-service.com.cn^
 ||sell*.etlong.com^
 ||sellbuyads.cn^$third-party
@@ -15190,6 +15187,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zconfig.alibabausercontent.com^
 ||zcoup.com^
 ||zcy821.com^
+||zczcvx.com^
 ||zd518.cn/statics/js/home.js
 ||zd518.cn/template/qpg6080/baidufx/baidufx.js
 ||zdd-9.com^

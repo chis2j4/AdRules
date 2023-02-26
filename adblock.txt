@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-26 16:10:12（北京时间） 
-! Total count: 15751
+! Version: 2023-02-27 00:09:30（北京时间） 
+! Total count: 15750
 -960x*0.gif
 -250.js*
 
@@ -1251,7 +1251,7 @@ $removeparam=pr_seq
 $removeparam=prisjakt,domain=davids.se|larsbengtsson.se|poradio.se|teleradio.nu
 $removeparam=privacy_mutation_token
 $removeparam=pro,domain=etsy.com
-$removeparam=promo,domain=thegay.com|hammacher.com|upornia.com
+$removeparam=promo,domain=thegay.com|hammacher.com|upornia.com|hclips.com
 $removeparam=promo_creative,domain=oikotie.fi|kesaduuni.org
 $removeparam=promo_name,domain=oikotie.fi|kesaduuni.org
 $removeparam=promo_position,domain=oikotie.fi|kesaduuni.org
@@ -8504,7 +8504,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||blog.csdn.net//phoenix/web/v2/skill-tree-info?
 ||blog.getadblock.com^$removeparam=gi
 ||blogad.com.tw^$third-party
-||blogger.com^$removeparam=bpli
 ||bloggerads.net^
 ||blogs.oracle.com^$removeparam=pcode
 ||blsenpg.cn^

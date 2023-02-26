@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-26 08:48:33（北京时间） 
-! Total count: 15741
+! Version: 2023-02-26 16:10:12（北京时间） 
+! Total count: 15751
 -960x*0.gif
 -250.js*
 
@@ -248,6 +248,7 @@
 ##body#nr_body.nr_all.c_nr > div[class] > DIV[style='height:90px;width:100%;']
 ##body.active > div.myui-panel > DIV#home_slide
 ##body.bg_xin > A[href*='com:'][target='_blank']
+##body.chapter > div.container div.slide-baidu *
 ##center > [href^='https://docs.qq.com/doc'][target='_blank']
 ##center > a > IMG[alt$='到期']
 ##div#detail.selector-zero > div > DIV[style]
@@ -6722,6 +6723,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||1dfsdfg.com^
 ||1f3k.com^
 ||1fichier.com^$removeparam=af
+||1kanz.cn^
 ||1kkk.com/wxh_asy.js?cid=
 ||1lan.tv^
 ||1look.tv^
@@ -6832,6 +6834,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||34nh.com/go.js
 ||34nh.com/pv.js
 ||35.$popup,domain=dfpan.com
+||35kn0fn.1kanz.cn^
 ||360-bo.com/js/float
 ||360che.com/article2014/AjaxAD.ashx?
 ||360kaixin.com^
@@ -7353,6 +7356,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||adbana.com^
 ||adbeuch.cn^
 ||adbrite.com^
+||adbtwyxl96.fun^
 ||adcash.com^
 ||adcccc.com^
 ||adcdn.holmesmind.com^
@@ -10666,6 +10670,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||is.snssdk.com^
 ||is686.com^
 ||iscrv.com^
+||isdfbvkvsc.xyz^
 ||issuecdn.baidupcs.com^
 ||istreamsche.com^
 ||iswgnn.com^
@@ -10680,6 +10685,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||itopdog.cn/js/you.js$script
 ||itxinrou.com^
 ||ityangstudy.cn^
+||iufjkdjmsm.xyz^
 ||iuiweb.com^
 ||iuuff.com^
 ||iuuiugbjd.xyz^
@@ -12220,6 +12226,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||oinlkwdsx.xyz^
 ||oinlkwr.xyz^
 ||oiuqwppcsdf.com^
+||ojbkmcsdx.xyz^
 ||ojj258.com^
 ||ok-11-cai.cc^
 ||okead.com^
@@ -12490,6 +12497,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pojkhufef.xyz^
 ||policy.jd.com/m/log^
 ||policy.video.iqiyi.com^
+||polkmerth.com^
 ||polkmnhytgb.com^
 ||popads.net^
 ||popcash.net^
@@ -15180,8 +15188,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zbc6hye*.xyz^
 ||zbc6hyip.xyz^
 ||zblz.me^
+||zbv7kxrteclub.xyz^
 ||zcchyr*.xyz^
 ||zcchyw*.xyz^
+||zcck60qyw.xyz^
 ||zcdsp.com^
 ||zcnnn.com^
 ||zconfig.alibabausercontent.com^

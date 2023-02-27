@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-02-27 16:11:42（北京时间） 
-! Total count: 3196
+! Version: 2023-02-28 00:11:27（北京时间） 
+! Total count: 3197
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3816,6 +3816,7 @@
 @@||actiris.be/urchin.js
 @@||ad-api-v01.uliza.jp^$script,xmlhttprequest,domain=golfnetwork.co.jp|tv-asahi.co.jp
 @@||ad-gone.com^
+@@||ad-img.gmarket.com/ads/$image,domain=gmarket.co.kr
 @@||ad-maven.com^$generichide
 @@||ad.10010.com^
 @@||ad.12306.cn^$elemhide,subdocument,domain=95306.cn

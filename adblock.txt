@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-27 16:11:33（北京时间） 
-! Total count: 15753
+! Version: 2023-02-28 00:11:16（北京时间） 
+! Total count: 15760
 -960x*0.gif
 -250.js*
 
@@ -63,6 +63,7 @@
 ##.theme-dark > .ayx > a
 ##.width.imgs_1
 ##.zozoads
+##A.toptxt[target='_blank']
 ##ASIDE[id^='custom_html-']
 ##A[href*='.com:'][target='_blank'] > IMG[src][width='100%'][height='60px']
 ##A[href='/?'][target='_blank']
@@ -87,6 +88,8 @@
 ##A[href^='https://yongle008.com']
 ##A[onclick$='()'][target='_top'][style*='.gif) no-repeat;background-size:100% 100%;']
 ##A[style='width: 100%;height: 150px;z-index:1000;position: absolute;display:block;top: 0px;'][onclick$=';this.style.display="none";']
+##A[target='_blank'] > IMG[src*='.gif'][alt]
+##A[target='_blank'] > IMG[width='100%'][src*='.gif']
 ##A[target='_blank'][href*='/auth/register?code=']
 ##BODY > DIV.ggcontainer
 ##DIV#ad-index.col-12.position-relative
@@ -148,6 +151,7 @@
 ##P[style$='transparent !important; font-size: 0px !important; text-indent: -10000px !important; height: 125px !important;']
 ##P[style*='background: rgb(255, 255, 255) !important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important;']
 ##SPAN#qdSZ2
+##SPAN.closebox1,SPAN.closebox2,SPAN.closebox3,SPAN.closebox4
 ##SPAN[style$='font-size: 6vw; color:#fff; text-align: center; transform: rotate(-90deg);']
 ##SPAN[style="position: fixed; bottom: 30vh; z-index: 2147483647; right: 0px; margin-right: 6vw; padding: 0px; text-decoration: none; background-color: red; width: 7vw; height: 7vw; border-radius: 7vw; font-size: 6vw; color: rgb(255, 255, 255); text-align: center; transform: rotate(-90deg);"]
 ##UL.myui-extra.clearfix
@@ -280,6 +284,7 @@
 ##div.page.view > div.main > div.content > DIV[style='width:100%;height:100px']
 ##div.play_boxbg div[class$='_acmsd']
 ##div.post_list_ajax > A[target='_blank']
+##div.row > DIV.md-r-panel
 ##div.row.abs-text
 ##div.row.col5.clearfix:nth-of-type(2) > dl:nth-of-type(1)
 ##div.stui-pannel__bd > #t-img-box
@@ -1469,7 +1474,7 @@ $removeparam=tc,domain=media-cdn.costco.ca|media-cdn.costco.com
 $removeparam=tcid,domain=~rug.nl
 $removeparam=tck,domain=mongodb.com
 $removeparam=tctx
-$removeparam=tduid,domain=~redir.tradedoubler.com
+$removeparam=tduid,domain=~tradedoubler.com
 $removeparam=term,domain=outnorth.fi|bybit.com
 $removeparam=textadID,domain=media-cdn.costco.ca|media-cdn.costco.com
 $removeparam=tg_ref
@@ -6906,6 +6911,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||49wanwan.com^
 ||4d0m.cn^
 ||4dyt.cn^
+||4etsr.xyz^
 ||4h44.com^
 ||4kfv18.cn^
 ||4name.com^$third-party
@@ -7284,6 +7290,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||a2m.cn^
 ||a3.ikafan.com^
 ||a48505.cn^
+||a4sz.xyz^
 ||a5.1xasset.com^$domain=6161bb.com
 ||a7shun.com^
 ||a9v8.cn^

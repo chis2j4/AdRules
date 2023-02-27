@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-27 00:09:30（北京时间） 
-! Total count: 15750
+! Version: 2023-02-27 08:43:06（北京时间） 
+! Total count: 15752
 -960x*0.gif
 -250.js*
 
@@ -1150,6 +1150,7 @@ $removeparam=mweb_user_name,domain=reddit.app.link
 $removeparam=mwv_rm,domain=dailymail.co.uk|thisismoney.co.uk
 $removeparam=n_cid
 $removeparam=name,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
+$removeparam=natb,domain=duckduckgo.com
 $removeparam=navigation_source,domain=hobbyhall.fi
 $removeparam=ncid
 $removeparam=nettype
@@ -9419,6 +9420,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dtscout.com^
 ||dtsxn.cn^
 ||duapp.com^$domain=sexcar.cn
+||duckduckgo.com^$removeparam=cp
 ||duier.top^
 ||dulewang.com^
 ||duodada.com/Tpl/default/system.js

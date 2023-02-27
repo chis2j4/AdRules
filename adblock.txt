@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-27 08:43:06（北京时间） 
-! Total count: 15752
+! Version: 2023-02-27 16:11:33（北京时间） 
+! Total count: 15753
 -960x*0.gif
 -250.js*
 
@@ -8694,6 +8694,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ccies.cn^
 ||ccleaner.com^$removeparam=x-acqsource
 ||cd828.com^
+||cdc.gov^$removeparam=ACSTrackingID
+||cdc.gov^$removeparam=ACSTrackingLabel
+||cdc.gov^$removeparam=deliveryName
 ||cdfzcz.com^
 ||cdgjxt.com^
 ||cdn-img.tadpoles.xyz/vipgg/pc/images/dadajiangjiang.gif$domain=kdw019.com,important
@@ -9740,8 +9743,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fintechpi.com^
 ||firearmtire.com^
 ||firefang.cn^
-||firefox.com^$removeparam=context
-||firefox.com^$removeparam=entrypoint
 ||firefox.com^$removeparam=form_type
 ||fish882.xyz^
 ||fiverr.com^$removeparam=afp

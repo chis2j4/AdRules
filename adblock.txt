@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-28 08:42:48（北京时间） 
+! Version: 2023-02-28 16:11:41（北京时间） 
 ! Total count: 15760
 -960x*0.gif
 -250.js*
@@ -100,6 +100,7 @@
 ##DIV#div1.div-relative[style='display:block;']
 ##DIV#links.links.my-1.row[style='font-size:20px']
 ##DIV#mhbottom_ad_box
+##DIV#tads
 ##DIV#video-player-ads-wrap
 ##DIV.JS_mid_ad
 ##DIV.ad-area.ad-area-fix-bottom
@@ -2051,6 +2052,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /n6b7/*.js
 /nav/ad
 /navflash.js*
+/new/837*.html
 /new20*/tlys.
 /newhuagg/*
 /newsPopup/*
@@ -3111,9 +3113,7 @@ chuanke.com##div#down_float_div
 chushou.tv##.h5_footer
 chysg.com###comiis01,[height="90"],.a_pt,.ad,.comiis_ad
 cibaipuki.com##A[href^='/article-list-id'][target='_blank']
-cibaipuki.com##DIV.box.width-full:has([href*=":"])
 cibaipuki.com##DIV.table2
-cibaipuki.com##DIV.titletablerow:has([href*=":"])
 cibaipuki.com##DIV.topnotice a:not([href='http://7a7c.com'])
 cibaipuki.com##IMG[border='0'][width='100%']
 cibaipuki.com##SECTION[id^='download_']
@@ -5386,10 +5386,8 @@ tieba.baidu.com##.tuijian-wrap
 tieba.baidu.com##A[class='pb_cut_hot_recommend_content j_recommend_item']
 tieba.baidu.com##A[class='recommend_item j_recommend_item']
 tieba.baidu.com##DIV.clearfix.thread_item_box
-tieba.baidu.com##DIV.fengchao-wrap-feed:has(SPAN.ec-tuiguang)
 tieba.baidu.com##DIV.panel_bottom,LI.tl_shadow tl_shadow_new ^
 tieba.baidu.com##DIV.pb_cut_hot_recommend
-tieba.baidu.com##DIV.tbui_slideshow_container:has(SPAN.ad_logo)
 tieba.baidu.com##DIV[class='empty_wrap']
 tieba.baidu.com##DIV[class='j_daoliubar']
 tieba.baidu.com##DIV[class='re_floor']
@@ -5813,7 +5811,6 @@ www.ali213.net##DIV.ad-widget-imageplus.ad-widget-imageplus-box,DIV[id^="f21ac82
 www.antpedia.com###articlebody a.adv_oraurl,[class^="tag-b"],.n-img-div,#luxury_car,.topgg,.gg1,.gg2,.gglinks
 www.avtbo.com$$img[style="padding-bottom"]
 www.baidu.com###content_left > *:not([id]) *,[class="result c-container new-pmd"][id="1"][tpl="se_com_default"][data-click="{"]
-www.baidu.com##DIV.c-row:has([data-tuiguang])
 www.baidu.com#@#div[class*="ads"]
 www.baidu.com$@$div[class="ad_"]
 www.baidu.com,m.baidu.com##.listbox
@@ -8515,7 +8512,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bloggerads.net^
 ||blogs.oracle.com^$removeparam=pcode
 ||blsenpg.cn^
-||blue-tomato.com^$removeparam=/_[$]ja/
+||blue-tomato.com^$removeparam=/_(\$)ja/
 ||blue-tomato.com^$removeparam=varid
 ||blue-tomato.com^$removeparam=zanox
 ||bluehost.com^
@@ -8549,6 +8546,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||boy.fujieace.com^
 ||boyxu.cn^
 ||bozhihua.com^
+||bozhou666.com^
 ||bp.blogspot.com^$removeparam=time
 ||bp776.com^
 ||bpimg.com^$domain=ref.so
@@ -12920,6 +12918,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||rijutv.com/statics/skin/hjtv-wap/js/plus.js?
 ||rinshy17.xyz^
 ||riverisland.com^$removeparam=sem
+||rizihao.top^
 ||rjgw.theta.sogou.com^
 ||rkzby.cn^
 ||rl.go2yd.com^
@@ -13680,6 +13679,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tf.mangqu.cn^
 ||tf58.com^
 ||tfbulkidn.com^
+||tfsuggestion.live^
 ||tfutcmail.com^
 ||tfzozf.xyz^
 ||tg.loclog.cn^

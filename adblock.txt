@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-02-28 16:11:41（北京时间） 
-! Total count: 15760
+! Version: 2023-03-01 00:10:58（北京时间） 
+! Total count: 15770
 -960x*0.gif
 -250.js*
 
@@ -133,6 +133,7 @@
 ##DIV[style*='height: 33.25px; top:'][style*='background-size: 400px 133px !important;']
 ##DIV[style*='px; top: 0px; left: 0px; z-index: '][style*='http']
 ##DIV[style='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: 288; top: 0px; left: 0px;']
+##DIV[style='width: 100%;background-color: black;color: white;padding: 15px 0;']
 ##DIV[style^='position: fixed; bottom: 50%; z-index: 19999 !important; ']
 ##DIV[style^='width:100%;height:100%;line-height: 100%;overflow:hidden; margin:auto;border:1px #']
 ##IFRAME[src*="//pos.baidu.com/"]
@@ -235,6 +236,8 @@
 ##[src^='https://qwe0231141.bj.bcebos.com/']
 ##[style$="both;margin: auto;text-align: center;line-height: initial;margin-bottom: 10px;"]
 ##[style$='auto;text-align: center;line-height: initial;margin-bottom: 10px;margin-left: 20px;margin-right: 20px;']
+##[style*='width: 100% !important; margin: 0px !important; padding: 0px !important; display: flex !'] *
+##[style='width:100%;height:auto;min-height:120px;position:relative;display:block;']
 ##[style^="pointer-events: none;background-image:url('https://33789.qqqwww987.site"],[style^='z-index: 2147483647; height: 123px; ']
 ##[style^='bottom: 0px; width: 100%; height: 50vw; position: fixed; left: 0px; right: 0px; margin: 0px; background: url("https://']
 ##a > I.gg-icon
@@ -254,6 +257,7 @@
 ##body.active > div.myui-panel > DIV#home_slide
 ##body.bg_xin > A[href*='com:'][target='_blank']
 ##body.chapter > div.container div.slide-baidu *
+##body.no_overflow strong
 ##center > [href^='https://docs.qq.com/doc'][target='_blank']
 ##center > a > IMG[alt$='到期']
 ##div#detail.selector-zero > div > DIV[style]
@@ -331,7 +335,8 @@ $image,third-party,domain=avtb6677.com|lady1.top
 $popup,third-party,domain=downdv.com|rmdown.com|soyunpan.com|youtubeto.com
 $removeparam=%2AVersion%2A,domain=amazon.*
 $removeparam=%2Aentries%2A,domain=amazon.*
-$removeparam=/[$]ja/,domain=argos.co.uk
+$removeparam=/(\$)ja/,domain=argos.co.uk
+$removeparam=/^(\$)/,domain=boohoo.com|forever21.com
 $removeparam=/^CJEVENT=/i
 $removeparam=/^ICID=/i,domain=~api.mapbox.com|~microsoft.com
 $removeparam=/^OCID=/i,domain=~youtube.com|~reiseauskunft.bahn.de
@@ -340,7 +345,6 @@ $removeparam=/^WT\./i
 $removeparam=/^WT_/i
 $removeparam=/^WTmc\./i
 $removeparam=/^WTmc_/i
-$removeparam=/^[$],domain=boohoo.com|forever21.com
 $removeparam=/^[a-z]?mc=/
 $removeparam=/^\~/,domain=boohoo.com|forever21.com
 $removeparam=/^__xts__/
@@ -783,6 +787,7 @@ $removeparam=cl_pub
 $removeparam=cl_str
 $removeparam=cl_vend
 $removeparam=clickArea
+$removeparam=clickCSR,domain=argos.co.uk
 $removeparam=clickOrigin
 $removeparam=clickPR,domain=argos.co.uk
 $removeparam=clickSR
@@ -9104,6 +9109,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ctobsnssdk.com^
 ||ctr.hd.sohu.com^
 ||ctripcorp.com^
+||ctsau.xyz^
 ||cui.m.1688.com^
 ||cupid.iqiyi.com/mixer?a*=qc_100001_100
 ||cupid.ptqy.gitv.tv/mixer?ap=
@@ -10431,6 +10437,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||iask.qq.com^
 ||ibaiducdn.com/Public/Assets/js/hz_
 ||ibozys.cn^
+||ibwqfpo.xyz^
 ||ic.aliyune.xyz^
 ||ic.snssdk.com/*/article/information/
 ||icast.cn^
@@ -10530,6 +10537,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ikjwmfeds.xyz^
 ||ikkdm.com/mg/show2.js
 ||iklda.cn^
+||iknwqdpo.xyz^
 ||ikunikun.xyz^
 ||ilce.alicdn.com/montage^
 ||ildhy.com^
@@ -10760,6 +10768,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jd-bbs.com/tianyi/
 ||jd2ujc.cn^
 ||jd5c.top^
+||jdnlynb.cn^
 ||jebe.renren.com^
 ||jebe.xnimg.cn^
 ||jellyfish.pandora.xiaomi.com^
@@ -11079,6 +11088,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||knet.cn^
 ||knet.cn^$third-party
 ||knicks.jd.com^
+||knjcsonpo.com^
 ||knlk2md.cn^
 ||knmwrkw.xyz^
 ||ko2v.eiya.net^

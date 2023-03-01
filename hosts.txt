@@ -2,8 +2,8 @@
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 12 Hours
-# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2023-03-01 00:50:30
-# Total count: 82671
+# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2023-03-01 08:11:43
+# Total count: 82697
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 0001.best
@@ -4761,6 +4761,7 @@
 0.0.0.0 ad.zinimedia.com
 0.0.0.0 ad.zodera.hu
 0.0.0.0 ad.zuimeitianqi.com
+0.0.0.0 ad0.0pixel.staticworld.net
 0.0.0.0 ad0.bigmir.net
 0.0.0.0 ad0.haynet.com
 0.0.0.0 ad01.focalink.com
@@ -5171,6 +5172,8 @@
 0.0.0.0 adcron.com
 0.0.0.0 adcrowd.com
 0.0.0.0 adcryp.to
+0.0.0.0 adcs-ap.myappsget.com
+0.0.0.0 adcs-ue.myappsget.com
 0.0.0.0 adcs.rqmob.com
 0.0.0.0 adcsh.cfd
 0.0.0.0 adcycle.com
@@ -6694,7 +6697,9 @@
 0.0.0.0 ads.morningstar.com
 0.0.0.0 ads.motorvarlden.se
 0.0.0.0 ads.motosiklet.net
+0.0.0.0 ads.mous.br
 0.0.0.0 ads.mouseplanet.com
+0.0.0.0 ads.mousord.com
 0.0.0.0 ads.movieweb.com
 0.0.0.0 ads.mp.mydas.mobi
 0.0.0.0 ads.mp3searchy.com
@@ -8321,6 +8326,7 @@
 0.0.0.0 adx.adform.net
 0.0.0.0 adx.admicro.vn
 0.0.0.0 adx.ads.oppomobile.com
+0.0.0.0 adx.apiok.net
 0.0.0.0 adx.appsdk.com.cn
 0.0.0.0 adx.baolongan.vn
 0.0.0.0 adx.cda.pl
@@ -11399,6 +11405,7 @@
 0.0.0.0 api.moengage.com
 0.0.0.0 api.monedata.io
 0.0.0.0 api.monetate.net
+0.0.0.0 api.myadsget.com
 0.0.0.0 api.myendpoint.io
 0.0.0.0 api.nanigans.com
 0.0.0.0 api.nas.nct.vn
@@ -11526,6 +11533,7 @@
 0.0.0.0 api.xyhx.cc
 0.0.0.0 api.yidaomobi.com
 0.0.0.0 api.yieldlove-ad-serving.net
+0.0.0.0 api.youngle.tech
 0.0.0.0 api.youtu.qq.com
 0.0.0.0 api.yuanzun888.com
 0.0.0.0 api.yuedu.iqiyi.com
@@ -14647,6 +14655,7 @@
 0.0.0.0 beaconads.com
 0.0.0.0 beaconin2.notinote.me
 0.0.0.0 beacons.extremereach.io
+0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.helium.com
 0.0.0.0 beacons.mediamelon.com
 0.0.0.0 beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
@@ -14732,6 +14741,7 @@
 0.0.0.0 bedaslonejul.cc
 0.0.0.0 bedbaatvdc.com
 0.0.0.0 bedbwgjjpxiuox.com
+0.0.0.0 bedchichome.com
 0.0.0.0 beddingcadetexploded.com
 0.0.0.0 bedeaflakism.com
 0.0.0.0 bedevilaspirinromance.com
@@ -16168,6 +16178,7 @@
 0.0.0.0 bonzai.ad
 0.0.0.0 bonzesantra.life
 0.0.0.0 boo-box.com
+0.0.0.0 boobeeshop.com
 0.0.0.0 boobzi.com
 0.0.0.0 boodi.cyou
 0.0.0.0 boododa.com
@@ -24964,6 +24975,7 @@
 0.0.0.0 dg186.cn
 0.0.0.0 dgafgadsgkjg.top
 0.0.0.0 dgaoz.com
+0.0.0.0 dgaxxjq.cn
 0.0.0.0 dgbaozhuang.cn
 0.0.0.0 dgcollector.evidon.com
 0.0.0.0 dgemanowhot.com.ua
@@ -28020,7 +28032,6 @@
 0.0.0.0 em1g.top
 0.0.0.0 ema.hostvn.net
 0.0.0.0 emagicone.fr
-0.0.0.0 emaiaseys.com
 0.0.0.0 email-clicks.vts.com
 0.0.0.0 email-link.mg.surkus.com
 0.0.0.0 email-listrak.branch.rocks
@@ -28503,6 +28514,7 @@
 0.0.0.0 epithetduler.com
 0.0.0.0 epitrack.com
 0.0.0.0 epiv.cardlytics.com
+0.0.0.0 eplanet.com
 0.0.0.0 epm.mailperformance.com
 0.0.0.0 epmads.com
 0.0.0.0 epmf4.cn
@@ -30613,6 +30625,7 @@
 0.0.0.0 flagresponsive.com
 0.0.0.0 flagros2sii8fdbrh09.com
 0.0.0.0 flags.es
+0.0.0.0 flagshipism.com
 0.0.0.0 flairsyzygal.com
 0.0.0.0 flakesrental.com
 0.0.0.0 flakyfeast.com
@@ -32069,6 +32082,7 @@
 0.0.0.0 gcirm.courierpostonline.com
 0.0.0.0 gcirm.customcoupon.com
 0.0.0.0 gcirm.dailyrecord.com
+0.0.0.0 gcirm.dailyrecvicer.co
 0.0.0.0 gcirm.delawareonline.com
 0.0.0.0 gcirm.democratandchronicle.com
 0.0.0.0 gcirm.desmoinesregister.com
@@ -33563,7 +33577,6 @@
 0.0.0.0 gqsufwoasgfmex.com
 0.0.0.0 gqubkbuinx.com
 0.0.0.0 gqvdcek.cn
-0.0.0.0 gr.travellink.no
 0.0.0.0 gr8y7z1xaq30.com
 0.0.0.0 grabascoop.com
 0.0.0.0 grabify.link
@@ -33997,6 +34010,7 @@
 0.0.0.0 guntang.me
 0.0.0.0 gunzblazingpromo.com
 0.0.0.0 guoad.com
+0.0.0.0 guoandong.ltd
 0.0.0.0 guode.cyou
 0.0.0.0 guodulvyou.xyz
 0.0.0.0 guojinfeng123.top
@@ -36061,6 +36075,7 @@
 0.0.0.0 huskydesigner.pro
 0.0.0.0 huskypartydance.com
 0.0.0.0 huspelatropia.website
+0.0.0.0 husqvarnaoutlet.shop
 0.0.0.0 hust.cx
 0.0.0.0 husuko.xyz
 0.0.0.0 hutati.com
@@ -37561,7 +37576,6 @@
 0.0.0.0 info.visitorlando.com
 0.0.0.0 info.washingtoninstitute.org
 0.0.0.0 info.woodward.com
-0.0.0.0 info.woodward.l.app.theiconic.com.au
 0.0.0.0 info.zoomintel.com
 0.0.0.0 info.zuidema.nl
 0.0.0.0 info1park.ru
@@ -39303,6 +39317,7 @@
 0.0.0.0 jnkmwr.xyz
 0.0.0.0 jnmami.cn
 0.0.0.0 jnmascx.xyz
+0.0.0.0 jnn-pa.googleapis.com
 0.0.0.0 jnova.cjt1.net
 0.0.0.0 jnqiangzhi.xyz
 0.0.0.0 jnrtavp2x66u.com
@@ -46504,6 +46519,7 @@
 0.0.0.0 midan.io
 0.0.0.0 midas-i.com
 0.0.0.0 midas-network.com
+0.0.0.0 midas-tracker.hellay.net
 0.0.0.0 midas.chase.com
 0.0.0.0 midasatlas.com
 0.0.0.0 midastouchrt.com
@@ -48423,6 +48439,7 @@
 0.0.0.0 nalapop.com
 0.0.0.0 nallytohe.xyz
 0.0.0.0 nalook.com
+0.0.0.0 nalzahqp.page.link
 0.0.0.0 nameads.com
 0.0.0.0 namedq.com
 0.0.0.0 namel.net
@@ -50665,6 +50682,7 @@
 0.0.0.0 okmwfq.xyz
 0.0.0.0 oknmalpxnjhe.xyz
 0.0.0.0 oko.net
+0.0.0.0 okoc.top
 0.0.0.0 okod.top
 0.0.0.0 okokw.com
 0.0.0.0 okoshechka.net
@@ -51053,6 +51071,7 @@
 0.0.0.0 online.mik123.com
 0.0.0.0 online.mobify.net
 0.0.0.0 online1.webcams.com
+0.0.0.0 onlineadid.com
 0.0.0.0 onlineads.magicvalley.com
 0.0.0.0 onlineapi.youappi.com
 0.0.0.0 onlinecash.com
@@ -52988,6 +53007,7 @@
 0.0.0.0 pertersacstyli.com
 0.0.0.0 pertfair.com
 0.0.0.0 pertholin.com
+0.0.0.0 pertinacious-assemblage.com
 0.0.0.0 pertov.com
 0.0.0.0 pertyvaluati.com
 0.0.0.0 pertyvaluationia.monster
@@ -61152,7 +61172,6 @@
 0.0.0.0 secure.tray0bury.com
 0.0.0.0 secure.trust-guard.com
 0.0.0.0 secure.tube6sour.com
-0.0.0.0 secure.tula9mari.coimg.nbcuni.com
 0.0.0.0 secure.tula9mari.com
 0.0.0.0 secure.vane3alga.com
 0.0.0.0 secure.vice4beek.com
@@ -62323,6 +62342,7 @@
 0.0.0.0 siduohua.top
 0.0.0.0 sidwarestsec.com
 0.0.0.0 siegepolitical.com
+0.0.0.0 siejp.cyou
 0.0.0.0 sielsmaats.com
 0.0.0.0 siewmi.uncommongoods.com
 0.0.0.0 sifakaoshi360.com
@@ -62717,6 +62737,7 @@
 0.0.0.0 sklentspelves.digital
 0.0.0.0 skmtyaw.cn
 0.0.0.0 sknkwpvrkz.com
+0.0.0.0 skocz.0politicalopinionsurvey.com
 0.0.0.0 skocz.pl
 0.0.0.0 skogsborg.net
 0.0.0.0 skoovyads.com
@@ -62880,6 +62901,7 @@
 0.0.0.0 slryca.meyou.jp
 0.0.0.0 sls2.loisirsencheres.com
 0.0.0.0 slshiye.cn
+0.0.0.0 slsuggestion.live
 0.0.0.0 slsynmlb.fun
 0.0.0.0 slsyuulb.cam
 0.0.0.0 sltint.adv.ott.cibntv.net
@@ -62970,6 +62992,7 @@
 0.0.0.0 smartology.co
 0.0.0.0 smartpixel.auditorius.ru
 0.0.0.0 smartpower4all.org
+0.0.0.0 smartproduct.site
 0.0.0.0 smartracker.net
 0.0.0.0 smartselling.cz
 0.0.0.0 smartshare.lgtvsdp.com
@@ -63381,7 +63404,6 @@
 0.0.0.0 smetrics.coca-cola.com
 0.0.0.0 smetrics.codan.dk
 0.0.0.0 smetrics.columbia.com
-0.0.0.0 smetrics.com
 0.0.0.0 smetrics.comcast.com
 0.0.0.0 smetrics.comdata.com
 0.0.0.0 smetrics.comenity.net
@@ -71313,7 +71335,6 @@
 0.0.0.0 tr.news.linxea.com
 0.0.0.0 tr.news.maisonfoody.com
 0.0.0.0 tr.news.manufacturing.fr
-0.0.0.0 tr.news.marics.bnpparibas.com
 0.0.0.0 tr.news.mdbp.fr
 0.0.0.0 tr.news.meillandrichardier.com
 0.0.0.0 tr.news.mi-oferta.es
@@ -74007,6 +74028,7 @@
 0.0.0.0 ujvqrs.meandem.com
 0.0.0.0 uk-script.dotmetrics.net
 0.0.0.0 uk-tracking.nextdoor.com
+0.0.0.0 uk-wemakewebsites.com
 0.0.0.0 uk.ads.justpremium.com
 0.0.0.0 uk.lucanet.com
 0.0.0.0 uk.sharpmarketing.eu
@@ -74773,6 +74795,7 @@
 0.0.0.0 usbkngf.cn
 0.0.0.0 usbvhzg.cn
 0.0.0.0 usc.adserver.snapads.com
+0.0.0.0 uscampinghiking.com
 0.0.0.0 uscdn.top
 0.0.0.0 uscollector.tealeaf.ibmcloud.com
 0.0.0.0 usdmusk.org
@@ -75241,6 +75264,7 @@
 0.0.0.0 vanjyvsr.com
 0.0.0.0 vanmostthiamin.com
 0.0.0.0 vantage-media.net
+0.0.0.0 vantagemarketads.com
 0.0.0.0 vap.lijit.com
 0.0.0.0 vap1ams1.lijit.com
 0.0.0.0 vap1ewr1.lijit.com
@@ -75966,6 +75990,7 @@
 0.0.0.0 viralvideos.tips
 0.0.0.0 virginyoungestrust.com
 0.0.0.0 virgma.com
+0.0.0.0 virgo-eth.net
 0.0.0.0 virgoplato.com
 0.0.0.0 virgul.com
 0.0.0.0 viriginradio.fr
@@ -80539,6 +80564,7 @@
 0.0.0.0 xtraffstat.com
 0.0.0.0 xtransferme.com
 0.0.0.0 xtrasizeoriginal.com.br
+0.0.0.0 xtrasizeoriginal.com.nicovideo.jp
 0.0.0.0 xtreff69.com
 0.0.0.0 xtremelivesupport.com
 0.0.0.0 xtremepush.com

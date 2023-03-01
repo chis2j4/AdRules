@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-03-01 08:50:20（北京时间） 
-! Total count: 15771
+! Version: 2023-03-01 16:11:29（北京时间） 
+! Total count: 15779
 -960x*0.gif
 -250.js*
 
@@ -2059,7 +2059,10 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /n6b7/*.js
 /nav/ad
 /navflash.js*
-/new/837*.html
+/new/27*.html
+/new/55*.html
+/new/83*.html
+/new/86*.html
 /new20*/tlys.
 /newhuagg/*
 /newsPopup/*
@@ -5486,6 +5489,7 @@ tuwan.com##div.adbox,div.Video-r-adm,.ad_970_90,.adsbygoogle
 tuzuan.com##[class^="tuzuanad_"],div[style^="width: 100%; height: 60px;"]
 tv.sohu.com##.ad-vbox,.x-download-panel
 tv.sohu.com##.x-dl-shake.x-download-panel, #playerBar > div.area ~a
+tv.sohu.com##DIV.actv-banner.js-app-topbanner,DIV.banner_yunying,DIV.js-oper-pos,IMG.vrs-banner-act-img
 tv.sohu.com##a.us_left.abs,a.us_right.abs,div#comicRecomm.comics-recomm,div.adv_960,.skyAD,#cp_sohuv_100_1,.lux_left,.lux_right,[href^="http://c.admaster.com.cn/c/"],#vippromotion
 tvapk.net##.a_mu,.a_f,img[height="90"]
 tvboxnow.com##iframe[src^="ads_"],[class^="ad_textlink"],.ad_pip,#ad_headerbanner,iframe[height="90"]
@@ -8062,6 +8066,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||asycxtz.cn^
 ||atdmt.com^
 ||atm.cp31.ott.cibntv.net$media,redirect=noopmp4-1s
+||atnnf.xyz^
 ||atrace.chelaile.net.cn^
 ||att.stargame.com^
 ||aty.cp45.ott.cibntv.net^
@@ -9263,6 +9268,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dg.sawadeca.com^
 ||dg.yaomuzhubao.com^
 ||dg186.cn^
+||dgaxxjq.cn^
 ||dgdg16.com/js/so/duilian.js^
 ||dgfgflod.com^
 ||dgfggy.com^
@@ -9780,6 +9786,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fjmailia.com^
 ||fjshxjs.cn^
 ||fjxyo.com^
+||flagshipism.com^
 ||flipkart.com^$removeparam=/^[cilp]id=/
 ||flipkart.com^$removeparam=/^otracker.?=/
 ||flipkart.com^$removeparam=/^p\[\]=/
@@ -13285,6 +13292,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||slfango.ltd^
 ||slickdeals.net^$removeparam=bsencid
 ||sljkj.com^
+||slsuggestion.live^
 ||slutcmail.com^
 ||sm-tc.cn^
 ||sm.cn/adclick

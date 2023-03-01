@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-03-01 00:10:58（北京时间） 
-! Total count: 15770
+! Version: 2023-03-01 08:50:20（北京时间） 
+! Total count: 15771
 -960x*0.gif
 -250.js*
 
@@ -541,6 +541,7 @@ $removeparam=TheTime,domain=gamespot.com|cnet.*
 $removeparam=UniqueID,domain=gamespot.com|cnet.*
 $removeparam=WebSiteMapNodeID
 $removeparam=XCID
+$removeparam=_1lr
 $removeparam=__cn_tracker
 $removeparam=__hsfp
 $removeparam=__hssc
@@ -1153,6 +1154,7 @@ $removeparam=mrn_rm,domain=dailymail.co.uk|thisismoney.co.uk
 $removeparam=mrnd
 $removeparam=msclkid
 $removeparam=mt,domain=media-cdn.costco.ca|media-cdn.costco.com
+$removeparam=mt_click_id,domain=mail.ru|vkplay.ru
 $removeparam=mv_pc,domain=fragrancenet.com
 $removeparam=mweb_loid,domain=reddit.app.link
 $removeparam=mweb_loid_created,domain=reddit.app.link
@@ -11605,7 +11607,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||maihehd.com^
 ||mail.kguapp.com^
 ||mail.qq.com/cgi-bin/frame_html?$removeparam=r
-||mail.ru^$removeparam=mt_click_id
 ||maizixueyuan*/js/html*.js
 ||maljxp.cn^
 ||malwarebytes.com^$removeparam=ADDITIONAL_AFFID

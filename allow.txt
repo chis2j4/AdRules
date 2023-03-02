@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-03-02 08:46:36（北京时间） 
-! Total count: 3197
+! Version: 2023-03-02 16:11:36（北京时间） 
+! Total count: 3200
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3912,7 +3912,10 @@
 @@||ads-i.org/images/ads3.jpg$~third-party
 @@||ads-twitter.com/oct.js$domain=jp.square-enix.com
 @@||ads-twitter.com/uwt.js$domain=factory.pixiv.net
+@@||ads.adthrive.com/api/$domain=packhacker.com
 @@||ads.adthrive.com/builds/$script,domain=www.mediaite.com
+@@||ads.adthrive.com/builds/core/*/js/adthrive.min.js$domain=packhacker.com
+@@||ads.adthrive.com/sites/$domain=packhacker.com
 @@||ads.adthrive.com/sites/$script,domain=www.mediaite.com
 @@||ads.alafish.cn^$~third-party
 @@||ads.amazon^$popup

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-03-03 00:11:06（北京时间） 
-! Total count: 15788
+! Version: 2023-03-03 10:35:38（北京时间） 
+! Total count: 15793
 -960x*0.gif
 -250.js*
 
@@ -724,7 +724,6 @@ $removeparam=at_gd
 $removeparam=atid
 $removeparam=au_advert_id
 $removeparam=au_car_id
-$removeparam=auto_token,domain=nextdoor.com
 $removeparam=avad
 $removeparam=awc
 $removeparam=awid
@@ -1054,7 +1053,6 @@ $removeparam=irmpname
 $removeparam=irmptype
 $removeparam=irpid
 $removeparam=irsharedid
-$removeparam=is,domain=nextdoor.com
 $removeparam=is_copy_url
 $removeparam=is_from_origin_btn,domain=shein.com
 $removeparam=is_from_webapp
@@ -1088,7 +1086,6 @@ $removeparam=li_medium
 $removeparam=li_source
 $removeparam=lid,domain=clickserve.dartsearch.net|flipkart.com|baidu.com
 $removeparam=linkId,domain=amazon.*|cbsnews.*|disneyplus.com
-$removeparam=link_source_user_id,domain=nextdoor.com
 $removeparam=litb_from
 $removeparam=loc,document,domain=~geizhals.*|~ebay.*|~myanimelist.net|~microsoft.com|~liveperson.net|~saltenposten.no
 $removeparam=locale,domain=udemy.com
@@ -1101,7 +1098,6 @@ $removeparam=m_entstream_source
 $removeparam=m_sc,domain=bloomingdales.com
 $removeparam=maf
 $removeparam=maid
-$removeparam=mar,domain=nextdoor.com
 $removeparam=marketing_id
 $removeparam=matches,domain=media-cdn.costco.ca|media-cdn.costco.com
 $removeparam=mc,domain=bose.*|hallmark.com
@@ -1126,7 +1122,6 @@ $removeparam=mkwid
 $removeparam=ml_subscriber
 $removeparam=ml_subscriber_hash
 $removeparam=mms_chref
-$removeparam=mobile_deeplink_data,domain=nextdoor.com
 $removeparam=mod,domain=barrons.com|dowjones.com|fnlondon.com|mansionglobal.com|marketwatch.com|penews.com|wsj.com
 $removeparam=mode,domain=omaha.com
 $removeparam=module,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion|scmp.com
@@ -1470,6 +1465,7 @@ $removeparam=surface,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2d
 $removeparam=sv_affiliate_id
 $removeparam=sv_campaign_id
 $removeparam=sxsrf
+$removeparam=szFrom,document,domain=login.afreecatv.com
 $removeparam=szredirectid
 $removeparam=t,domain=rakuten.com|steamcdn-a.akamaihd.net|duckduckgo.com|npr.org|elprecio.es|adressa.no|tiktok.com|lookmovie211.xyz
 $removeparam=tag,domain=amazon.*|argos.co.uk|habitat.co.uk|tv2.no
@@ -7934,7 +7930,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||apistat.gao7.com^
 ||apiwz.midukanshu.com^
 ||apk.qqvv88.com^
-||apnews.com/article$removeparam=user_email
+||apnews.com/article*user_email$removeparam=user_email
 ||app-analytics-cn.huami.com^
 ||app-analytics.huami.com^
 ||app-api.smzdm.com/util/loading?
@@ -8694,7 +8690,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cbjs.baidu.com^
 ||cbjslog.baidu.com^
 ||cbox.ws^
-||cbs42.com^$removeparam=ipid
+||cbs42.com^*ipid$removeparam=ipid
 ||cbu01.alicdn.com/img/ibank/*.jpg$domain=avtbf.com
 ||cbu01.alicdn.com/img/ibank/2020/714/563/22725365417_967741881.jpg
 ||cbu01.alicdn.com/img/ibank^$domain=avtbf.com
@@ -8717,9 +8713,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ccies.cn^
 ||ccleaner.com^$removeparam=x-acqsource
 ||cd828.com^
-||cdc.gov^$removeparam=ACSTrackingID
-||cdc.gov^$removeparam=ACSTrackingLabel
-||cdc.gov^$removeparam=deliveryName
+||cdc.gov^*ACSTrackingID$removeparam=ACSTrackingID
+||cdc.gov^*ACSTrackingLabel$removeparam=ACSTrackingLabel
+||cdc.gov^*deliveryName$removeparam=deliveryName
 ||cdfzcz.com^
 ||cdgjxt.com^
 ||cdn-img.tadpoles.xyz/vipgg/pc/images/dadajiangjiang.gif$domain=kdw019.com,important
@@ -8855,9 +8851,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||clickadu.com^
 ||clickeye.cn^
 ||clicki.cn^
-||clicklogger.rm.uol.com.br^$removeparam=grp
-||clicklogger.rm.uol.com.br^$removeparam=msr
-||clicklogger.rm.uol.com.br^$removeparam=oper
+||clicklogger.rm.uol.com.br^*grp$removeparam=grp
+||clicklogger.rm.uol.com.br^*msr$removeparam=msr
+||clicklogger.rm.uol.com.br^*oper$removeparam=oper
 ||clicksor.net^
 ||clickvalue.cn^
 ||client.tv.uc.cn^
@@ -9331,7 +9327,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||discountminds.com^
 ||discoveryplus.$removeparam=idp
 ||discoveryplus.$removeparam=responseCode
-||discoveryplus.com^$removeparam=_referrer
+||discoveryplus.com^*_referrer$removeparam=_referrer
 ||dismantlepenantiterrorist.com^
 ||dispatcher.camera360.com^
 ||display.intdmp.com^$popup
@@ -9449,7 +9445,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dtscout.com^
 ||dtsxn.cn^
 ||duapp.com^$domain=sexcar.cn
-||duckduckgo.com^$removeparam=cp
+||duckduckgo.com^*cp$removeparam=cp
 ||duier.top^
 ||dulewang.com^
 ||duodada.com/Tpl/default/system.js
@@ -9490,7 +9486,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dytt8.net/js$script
 ||dywjcc.top^
 ||dzais.com^
-||dzen.ru^$removeparam=yredirect
+||dzen.ru^*yredirect$removeparam=yredirect,document
 ||dzgg.com^
 ||dzone.com^$removeparam=fromrel
 ||dzz8.com/public/ptcms/s_wap_novelsearch_chapter_read.js
@@ -9508,7 +9504,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||e719.net^$domain=~www.flv.tv
 ||eabids.com^
 ||eamob.com^
-||eastday.com^$removeparam=qid
+||eastday.com^*qid$removeparam=qid
 ||easytomessage.com^
 ||ebay.$removeparam=abcId
 ||ebay.$removeparam=campid
@@ -9970,9 +9966,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gitee.com/joinli/Api/raw/master/banner$replace=/ad_url//
 ||github.com^$removeparam=email_source
 ||github.com^$removeparam=email_token
-||github.com^$removeparam=ref_cta
-||github.com^$removeparam=ref_loc
-||github.com^$removeparam=ref_page
+||github.com^*ref_cta$removeparam=ref_cta
+||github.com^*ref_loc$removeparam=ref_loc
+||github.com^*ref_page$removeparam=ref_page
 ||gjapplog.uc.cn^
 ||gjh9v.tianshilv.cn^
 ||gknybkl.cn^
@@ -10124,6 +10120,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gw.d.ywopt.com^
 ||gw.m.163.com/nc-main/api/v1/hqc/no-repeat-hot-list
 ||gwertyuadf.com^
+||gwg51.com^
 ||gwmrb.cn^
 ||gxbnp.cn^
 ||gxdmxx.com^
@@ -11391,7 +11388,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||log3-normal-hl.toutiaoapi.com^
 ||log6.reader.qq.com^
 ||logconf.iflytek.com^
-||login.afreecatv.com^$removeparam=szFrom
 ||logonext.tv.kuyun.com^
 ||logs.amap.com^
 ||logs.chelaile.net.cn^
@@ -11623,13 +11619,13 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mail.qq.com/cgi-bin/frame_html?$removeparam=r
 ||maizixueyuan*/js/html*.js
 ||maljxp.cn^
-||malwarebytes.com^$removeparam=ADDITIONAL_AFFID
 ||malwarebytes.com^$removeparam=ADDITIONAL_x-source
 ||malwarebytes.com^$removeparam=guard
-||malwarebytes.com^$removeparam=s
-||malwarebytes.com^$removeparam=x-affid
 ||malwarebytes.com^$removeparam=x-source
-||malwarebytes.com^$removeparam=x-wts
+||malwarebytes.com^*ADDITIONAL_AFFID$removeparam=ADDITIONAL_AFFID
+||malwarebytes.com^*s$removeparam=s
+||malwarebytes.com^*x-affid$removeparam=x-affid
+||malwarebytes.com^*x-wts$removeparam=x-wts
 ||mam.netease.com^
 ||mamaqi.com/themes/slcms/js/$script
 ||man7777.com^
@@ -11706,10 +11702,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mc.muhtbnd.cn^
 ||mc.tohpeu.cn^
 ||mc.yandex.ru^
-||mcafee.com^$removeparam=adid
 ||mcafee.com^$removeparam=ccstype
 ||mcafee.com^$removeparam=cctype
 ||mcafee.com^$removeparam=csrcl2
+||mcafee.com^*adid$removeparam=adid
 ||mcchou.com/wp-content/themes/begin/js/mcchou.js
 ||mcdwfed.cn^
 ||mclseww.top^
@@ -12050,7 +12046,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ncnfjasd.net^
 ||ncwckj.com^
 ||ndfsl.com^
-||neeva.com^$removeparam=nva
+||neeva.com^*nva$removeparam=nva
 ||neihhou.com^
 ||nend.net^
 ||neobux.com^
@@ -12091,6 +12087,11 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nex.163.com/q?
 ||nex.163.com^
 ||nexage.com^
+||nextdoor.com^*auto_token$removeparam=auto_token
+||nextdoor.com^*is$removeparam=is
+||nextdoor.com^*link_source_user_id$removeparam=link_source_user_id
+||nextdoor.com^*mar$removeparam=mar
+||nextdoor.com^*mobile_deeplink_data$removeparam=mobile_deeplink_data
 ||nflks.cn^
 ||nfmovies.com/pic/tu/a191124001.$rewrite=abp-resource:1x1-transparent-gif,~third-party
 ||nfmovies.com/pic/tu^
@@ -12172,9 +12173,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nortonsafe.search.ask.com^$removeparam=vendorsrc
 ||notice.game.xiaomi.com^
 ||notice.iqiyi.com^
-||notion.so^$removeparam=gspk
-||notion.so^$removeparam=gsxid
-||notion.so^$removeparam=pscd
+||notion.so^*gspk$removeparam=gspk
+||notion.so^*gsxid$removeparam=gsxid
+||notion.so^*pscd$removeparam=pscd
 ||nourcomip.fun^
 ||nova.cz^$removeparam=dop_ab_variant
 ||nova.cz^$removeparam=dop_id
@@ -12807,7 +12808,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||queqh.com^
 ||questionmarket.com^
 ||quizlet.com^$removeparam=funnelUUID
-||quizlet.com^$removeparam=signupOrigin
+||quizlet.com^*funnelUUID$removeparam=funnelUUID
+||quizlet.com^*signupOrigin$removeparam=signupOrigin
 ||quldu.com^
 ||qulishi.com/js/*Adv.js|
 ||qumi.com^
@@ -12889,9 +12891,11 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||reddit.com^$removeparam=/^\x24original_url=/
 ||reddit.com^$removeparam=_branch_match_id
 ||reddit.com^$removeparam=correlation_id
-||reddit.com^$removeparam=post_index
 ||reddit.com^$removeparam=ref_campaign
 ||reddit.com^$removeparam=ref_source
+||reddit.com^*3p$removeparam=%243p
+||reddit.com^*deep_link$removeparam=%24deep_link
+||reddit.com^*post_index$removeparam=post_index
 ||redfin.com^$removeparam=riftinfo
 ||redianad.com^
 ||redirect.appmetrica.yandex.com^$removeparam=c
@@ -13110,9 +13114,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||se967.com^
 ||sealine.youku.com^
 ||search.brave.com/api/suggest$removeparam=source
-||search.brave.com^$removeparam=origin
-||search.yahoo.com^$removeparam=fr
-||search.yahoo.com^$removeparam=fr2
+||search.brave.com^*origin$removeparam=origin
+||search.yahoo.com^*fr$removeparam=fr
+||search.yahoo.com^*fr2$removeparam=fr2
 ||searchads.apple.com^
 ||sec.umeng.com^
 ||sec.video.qq.com^
@@ -13121,7 +13125,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||seefarger.com^
 ||segment.com^
 ||select6.reader.qq.com/*/getRecommendDataForAd
-||selected.com^$removeparam=clickedFromCategory
+||selected.com^*clickedFromCategory$removeparam=clickedFromCategory
 ||self-study-service.com.cn^
 ||sell*.etlong.com^
 ||sellbuyads.cn^$third-party
@@ -13526,7 +13530,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||supersonicads.com^
 ||supfast.net^
 ||support.github.com^$removeparam=tag
-||support.google.com^$removeparam=ref_topic
+||support.google.com^*ref_topic$removeparam=ref_topic
 ||surfshark.com^$removeparam=transaction_id
 ||suwoj.com^
 ||sv.baidu.com/liveserver/sys/sync
@@ -13764,7 +13768,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tiktok.com^$removeparam=_d
 ||tiktok.com^$removeparam=_r
 ||tiktok.com^$removeparam=checksum
-||tiktok.com^$removeparam=embed_source
 ||tiktok.com^$removeparam=preview_pb
 ||tiktok.com^$removeparam=sec_uid
 ||tiktok.com^$removeparam=share_app_name
@@ -13778,6 +13781,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tiktok.com^$~xmlhttprequest,removeparam=refer
 ||tiktok.com^$~xmlhttprequest,removeparam=referer_url
 ||tiktok.com^$~xmlhttprequest,removeparam=referer_video_id
+||tiktok.com^*embed_source$removeparam=embed_source
 ||ting.com^$removeparam=lpn
 ||tingyunfenxi.com^
 ||tinypic.com^$third-party,domain=~cn163.net
@@ -14167,10 +14171,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||venetrigni.com^
 ||venienceilo.fun^
 ||venturead.com^
-||verizon.com^$removeparam=campaignGroup
-||verizon.com^$removeparam=campaignName
-||verizon.com^$removeparam=campaignSource
 ||verizon.com^$removeparam=vendorid
+||verizon.com^*campaignGroup$removeparam=campaignGroup
+||verizon.com^*campaignName$removeparam=campaignName
+||verizon.com^*campaignSource$removeparam=campaignSource
 ||verkkokauppa.com^$removeparam=list
 ||vfiles.gtimg.cn/pub/video_float_ad_config.config_list^
 ||vfsdgjrr.xyz^
@@ -14808,12 +14812,12 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xiaodongrui.com^
 ||xiaohead.com^
 ||xiaohei.com^
-||xiaohongshu.com^$removeparam=app_platform,document
-||xiaohongshu.com^$removeparam=app_version,document
-||xiaohongshu.com^$removeparam=apptime,document
-||xiaohongshu.com^$removeparam=appuid,document
-||xiaohongshu.com^$removeparam=share_from_user_hidden,document
-||xiaohongshu.com^$removeparam=xhsshare,document
+||xiaohongshu.com^*app_platform$removeparam=app_platform,document
+||xiaohongshu.com^*app_version$removeparam=app_version,document
+||xiaohongshu.com^*apptime$removeparam=apptime,document
+||xiaohongshu.com^*appuid$removeparam=appuid,document
+||xiaohongshu.com^*share_from_user_hidden$removeparam=share_from_user_hidden,document
+||xiaohongshu.com^*xhsshare$removeparam=xhsshare,document
 ||xiaohuangshu.me^
 ||xiaojifly.cn^
 ||xiaomifood.cn^
@@ -15100,6 +15104,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||youku6.top^
 ||youle55.com^
 ||youmi.net^
+||youp05.com^
 ||youqumob.com^
 ||youqumob.com^$third-party
 ||yousuode.cn^
@@ -15113,11 +15118,11 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||youtube.com/pagead/
 ||youtube.com/ptracking?pltype=adhost
 ||youtube.com^$removeparam=ab_channel
-||youtube.com^$removeparam=embeds_euri
 ||youtube.com^$removeparam=feature
 ||youtube.com^$removeparam=gclid
 ||youtube.com^$removeparam=kw
-||youtube.com^$removeparam=source_ve_path
+||youtube.com^*embeds_euri$removeparam=embeds_euri
+||youtube.com^*source_ve_path$removeparam=source_ve_path
 ||youtui.net^
 ||youxi.com/$third-party
 ||youxiaoad.com^

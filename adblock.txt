@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-03-04 08:41:28（北京时间） 
-! Total count: 15816
+! Version: 2023-03-04 16:09:55（北京时间） 
+! Total count: 15820
 -960x*0.gif
 -250.js*
 
@@ -8773,6 +8773,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cfg.imtt.qq.com/tbs^
 ||cfg.imtt.qq.com^
 ||cfts1tifqr.com^
+||cgigc.com.cn^
 ||cgmalight.com^
 ||cgz0213.com^
 ||ch-hr12333.com^
@@ -12160,6 +12161,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nlyuuy.cn^
 ||nmbtedu.com^
 ||nmgyllh.cn^
+||nmm9i.xyz^
 ||nmrdnqn.cn^
 ||nnocsin.cn^
 ||nnwm.com^
@@ -12839,6 +12841,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qvc.com^$removeparam=qq
 ||qw2v.taoxiehui.cn^
 ||qwant.com^$removeparam=client
+||qwcwnjk.com^
 ||qwe0231141.bj.bcebos.com^
 ||qweasd.vip^
 ||qweewq2021.online^
@@ -15187,6 +15190,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||yusnw.cc^
 ||yutew.cc^
 ||yuunion.com^
+||yuvdqnpo.com^
 ||yuxyz.com^
 ||yuyueyang.cn^
 ||yvqmzci.cn^

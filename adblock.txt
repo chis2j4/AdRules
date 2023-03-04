@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-03-04 16:09:55（北京时间） 
-! Total count: 15820
+! Version: 2023-03-05 00:09:22（北京时间） 
+! Total count: 15828
 -960x*0.gif
 -250.js*
 
@@ -66,6 +66,7 @@
 ##A.toptxt[target='_blank']
 ##ASIDE[id^='custom_html-']
 ##A[href*='.com:'][target='_blank'] > IMG[src][width='100%'][height='60px']
+##A[href*='//v.wanfumei.net']
 ##A[href='/?'][target='_blank']
 ##A[href='/hth.html']
 ##A[href='/statics/js/ky-a.html']
@@ -101,6 +102,7 @@
 ##DIV#div1.div-relative[style='display:block;']
 ##DIV#links.links.my-1.row[style='font-size:20px']
 ##DIV#mhbottom_ad_box
+##DIV#recommend-float.player-recommend-float > a
 ##DIV#tads
 ##DIV#video-player-ads-wrap
 ##DIV.JS_mid_ad
@@ -134,6 +136,7 @@
 ##DIV[style*='display: block; width: 100%; left: 0px; position: fixed; z-index:'][style*='height: 25px; top: 133px;']
 ##DIV[style*='height: 33.25px; top:'][style*='background-size: 400px 133px !important;']
 ##DIV[style*='px; top: 0px; left: 0px; z-index: '][style*='http']
+##DIV[style='position: fixed; bottom: 0px; left: 0px; width: 100%; height: 5.85rem; z-index: 99999;']
 ##DIV[style='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: 288; top: 0px; left: 0px;']
 ##DIV[style='width: 100%;background-color: black;color: white;padding: 15px 0;']
 ##DIV[style^='position: fixed; bottom: 50%; z-index: 19999 !important; ']
@@ -261,6 +264,8 @@
 ##body.bg_xin > A[href*='com:'][target='_blank']
 ##body.chapter > div.container div.slide-baidu *
 ##body.no_overflow strong
+##body.page.player > DIV.shortcuts-mobile-overlay
+##body.page.player > div.popup.popup-tips.popup-icon.open
 ##center > [href^='https://docs.qq.com/doc'][target='_blank']
 ##center > a > IMG[alt$='到期']
 ##div#detail.selector-zero > div > DIV[style]
@@ -292,6 +297,7 @@
 ##div.page.player > div.main > div.content > div.module.module-player DIV[style='width:100%;height:180px']
 ##div.page.view > div.main > div.content > DIV[style='width:100%;height:100px']
 ##div.play_boxbg div[class$='_acmsd']
+##div.player-rm.rm-two.rm-list > a
 ##div.post_list_ajax > A[target='_blank']
 ##div.row > DIV.md-r-panel
 ##div.row.abs-text
@@ -12708,6 +12714,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qhmsg.com^$domain=1024li.com
 ||qhonzpl.cn^
 ||qhres2.com^
+||qiabayyds.com^
 ||qiangquanvip.com^
 ||qianjia.com/HotImages/2017/11/img20171109122716999.jpg
 ||qiaolianshu.com^
@@ -13737,6 +13744,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tg.loclog.cn^
 ||tg.tebiezhuan.com^
 ||tg33.cn^
+||tgcfmh.com^
 ||tgfyq.cn^
 ||tgwopez.cn^
 ||tgymhwt.cn^

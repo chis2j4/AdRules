@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-03-05 00:09:34（北京时间） 
-! Total count: 3203
+! Version: 2023-03-05 08:49:18（北京时间） 
+! Total count: 3204
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4956,8 +4956,8 @@
 @@||geo.ngtv.io/locate/$domain=hbo.com
 @@||geo.query.yahoo.com^$xmlhttprequest,domain=tw.autos.yahoo.com|tw.buy.yahoo.com
 @@||geoip-db.com/jsonp/$script,third-party
-@@||geoip-js.com/js/apis/geoip2/$script,domain=freshdesk.com|luminskin.com|mybalancenow.com|myvanillacard.com|web.aw.ca
-@@||geoip-js.com^*/me?referrer=$xmlhttprequest,domain=freshdesk.com|ibanez.com
+@@||geoip-js.com/js/apis/geoip2/$script,domain=bricomart.es|freshdesk.com|luminskin.com|mybalancenow.com|myvanillacard.com|web.aw.ca
+@@||geoip-js.com^*/me?referrer=$xmlhttprequest,domain=bricomart.es|freshdesk.com|ibanez.com
 @@||geoip.cookieyes.com/geoip/checker/result.php$domain=marktechpost.com
 @@||geolocation-db.com/jsonp$script,domain=parts.hp.com
 @@||geoplugin.net/javascript.gp?$script,domain=suicidepreventionlifeline.org|virginmobile.ca
@@ -5600,7 +5600,7 @@
 @@||mozu.com^*/monetate.js$script,domain=acehardware.com
 @@||mparticle.com/js/v2/*/mparticle.js$script,domain=bk.com|cnbc.com|motortrendondemand.com
 @@||mpsnare.iesnare.com/snare.js$script,domain=power.fi|verkkokauppa.com
-@@||mpsnare.iesnare.com^$script,domain=citi.com|citibank.com|enmasse.com|equifax.ca|jbhifi.com.au|login.skype.com|princessauto.com|usbank.com|vitacost.com|westernunion.com
+@@||mpsnare.iesnare.com^$script,domain=citi.com|citibank.com|enmasse.com|equifax.ca|jbhifi.com.au|login.skype.com|oreillyauto.com|princessauto.com|usbank.com|vitacost.com|westernunion.com
 @@||ms332.com^$generichide
 @@||msecnd.net/scripts/jsll-$domain=microsoft.com
 @@||msecnd.net/scripts/jsll-$script,domain=forms.microsoft.com|office.com|sharepoint.com|teams.microsoft.com
@@ -5978,6 +5978,7 @@
 @@||rasset.ie/dotie/js/tracker.js$domain=rte.ie
 @@||rba-screen.healthsafe-id.com/fp/tags.js$script,domain=myuhc.com
 @@||readmoo.com/images/social/
+@@||reallyfreegeoip.org/json/$domain=thekitchensafe.com
 @@||realtor.com/rentals/api/optimizely.js$script,~third-party
 @@||reastatic.net/150x200-$domain=realestate.com.au
 @@||recaptcha.net/recaptcha/$script

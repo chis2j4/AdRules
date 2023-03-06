@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-03-06 16:11:29（北京时间） 
-! Total count: 15845
+! Version: 2023-03-07 00:10:37（北京时间） 
+! Total count: 15849
 -960x*0.gif
 -250.js*
 
@@ -390,7 +390,7 @@ $removeparam=/^cvo_/
 $removeparam=/^dpg_/
 $removeparam=/^ds_/,domain=~clickserve.dartsearch.net
 $removeparam=/^dv_adwords_/
-$removeparam=/^ecid=/i
+$removeparam=/^ecid=/i,domain=~account.microsoft.com
 $removeparam=/^fb_(source|ref)=/
 $removeparam=/^fb_action_(types|ids)=/
 $removeparam=/^from=ceneo$/
@@ -2027,6 +2027,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /js/hhsyw.js
 /js/htmlk*.js
 /js/js/css.js
+/js/js4.js
 /js/loading.
 /js/mts.js
 /js/mts66.js
@@ -6908,6 +6909,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||3q3l.cn^
 ||3shangyou.com^
 ||3t769up6.com^
+||3v7c7y.online^
 ||3wtuan.com^
 ||402v.com^
 ||40fenzhong.com^
@@ -10983,6 +10985,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jssav6hk.club^
 ||jsxf.org/images/
 ||jsyunmi.com^
+||jsyunmy.com^
 ||jszctech.com^
 ||jszhonglang.com^
 ||jt.dangbei.net/dbfs.js
@@ -13029,6 +13032,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ruanjiancms.com^
 ||rubiconproject.com^
 ||rugncn.ifeng.com^
+||rui61.cn^
 ||ruisu.cc^
 ||ruiwen.com/js/a/p.js
 ||run-syndicate.com^
@@ -14375,7 +14379,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wdzwd.xyz^
 ||weareqy.com^
 ||web-track.go2yd.com^
-||web.cdn.openinstall.io^
 ||web.kuaiwan.com^
 ||webkaka.com/a/*-1100x50.
 ||websitequan.com^
@@ -15190,6 +15193,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ys6ot.cn^
 ||yse1234.com/template/phone/imagess/p4.js^
 ||ysjkbk.com^
+||ysqlmpo.cn^
 ||yt800h.com^
 ||ytelc.com^
 ||ytunion.com^

@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-03-06 16:11:38（北京时间） 
-! Total count: 3204
+! Version: 2023-03-07 00:10:46（北京时间） 
+! Total count: 3205
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5927,6 +5927,7 @@
 @@||pv.sohu.com/suv/
 @@||pvtag.yahoo.co.jp^$script,domain=paypaymall.yahoo.co.jp
 @@||px-cdn.net/api/v2/collector/ocaptcha$xmlhttprequest
+@@||px.a8.net^|
 @@||qbox.me/static/js/ads.js$domain=linux.cn
 @@||qhimg.com^*/monitor_analytic.
 @@||qhres.com^*/monitor_analytic.js$domain=mse.360.cn

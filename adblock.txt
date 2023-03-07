@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-03-07 16:11:37（北京时间） 
-! Total count: 15852
+! Version: 2023-03-08 00:10:42（北京时间） 
+! Total count: 15853
 -960x*0.gif
 -250.js*
 
@@ -5776,6 +5776,7 @@ www.0731fdc.com##div#menu2.fixed,div#fontAd
 www.1080pba.com##div.ad_960,div.ad_300,div#topxia,img[src="/templets/default/images/1.gif"]
 www.10s1.com##[src^="http://www.10s1.com/ggpic/"],.jyzxad,.adver
 www.115zk.com##div.wp.a_f,div.a_cn
+www.123pan.com##DIV.VipBanner,DIV[style='width:100%;position:fixed;bottom:80px'],DIV[style='width: 100%; position: fixed; bottom: 25px;']
 www.123yq.com##div.Messageml
 www.12580sky.com##img[width="998"][height="70"],img[width="998"][height="80"],img[width="490"][height="80"],div.zz-list,div.bk8 + table
 www.126.com,mail.163.com##div.APP-dashi-botBanner,div.gWel-promt

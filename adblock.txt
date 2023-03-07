@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-03-07 08:46:25（北京时间） 
-! Total count: 15849
+! Version: 2023-03-07 16:11:37（北京时间） 
+! Total count: 15852
 -960x*0.gif
 -250.js*
 
@@ -2194,6 +2194,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /us.js
 /v.php?siteid=&id=
 /v0/amp-addthis-*.js
+/v2/stats/99*
 /v3/resolve?
 /variety.tc.qq.com^*.mp4
 /videoAd.
@@ -2203,6 +2204,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /view/*/async*
 /view/*/pop*
 /vip_img/*
+/vj1/
 /vkp.tc.qq.com/$media
 /vlive.qqvideo.tc.qq.com*.mp4
 /vmindhls.tc.qq.com^
@@ -3126,6 +3128,7 @@ chinanews.com.cn##[id$="_advert"]
 chinaqking.com##.ad,#cnt-ad
 chinaso.com###Fixed_app
 chinaso.com###boxBrandRightA,[class^="bnwrap"],.head_ad_right190,.headAD,.new_gs_gscp_gs
+chinaso.com##DIV.wrap-toolbar
 chinatimes.com##div.ad_72890_box,div[class^="ad-"],ins.adsbygoogle,div.ad,div.banner-300x250,div.page_ad,div[class^="stack googlead_"],div.idx_ad_box,[class^="ad"]
 chinawutong.com##.adflash,div.logo_r.fr,div[class^="ad"],div.badbot,div.cboad1,div#focus001,img[width="130"][height="300"],img[width="980"][height="80"]
 chinayk.com##.ad_250,.ad1024,.l_box,[id^="ads_r_"],.yb_banner

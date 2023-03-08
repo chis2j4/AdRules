@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-03-08 08:44:45（北京时间） 
-! Total count: 3206
+! Version: 2023-03-08 16:11:21（北京时间） 
+! Total count: 3207
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -6023,6 +6023,7 @@
 @@||rumble.com/embedJS/$script,domain=usawatchdog.com
 @@||rumble.com/j/p/$script,domain=usawatchdog.com
 @@||runescape.wiki^$image,~third-party
+@@||ruralking.com^*/Creatuity_GoogleTagManager/$script,~third-party
 @@||ruten.com.tw/ahd/fetch_ad.php
 @@||ruten.com.tw/js/jquery.ruten.supertop_ad.js
 @@||s-microsoft.com/mscc/statics/$script,domain=microsoft.com

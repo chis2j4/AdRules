@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-03-11 16:09:39（北京时间） 
-! Total count: 15811
+! Version: 2023-03-12 00:09:06（北京时间） 
+! Total count: 15812
 -960x*0.gif
 -250.js*
 
@@ -4428,6 +4428,7 @@ m.egame.qq.com##.widget-wrapper
 m.ftchinese.com##DIV.banner-content,DIV.bn-ph,DIV.subscription-promo-container show-image-in-mobile,#ad-*
 m.gome.com.cn##.m-downapp
 m.gongchang.com###app-download-link,div.advise-pic
+m.guancha.cn##DIV.g_header.go-to-app
 m.hao123.com##a.hdbanner,.pop-news,[id^="colorBlock"].color-block
 m.hc360.com##div#globalCgtTop
 m.hupu.com##A[href^='https://mobile.yangkeduo.com/duo_transfer_channel.html']

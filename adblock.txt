@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-03-12 16:09:25（北京时间） 
-! Total count: 15812
+! Version: 2023-03-13 00:08:57（北京时间） 
+! Total count: 15813
 -960x*0.gif
 -250.js*
 
@@ -3348,6 +3348,7 @@ doc.mbalib.com###viewer > div.doc-ad
 doc88.com##div.adpx250,[id^="ad_"]
 docin.com##DIV#endSwfAd,div.beforeAd,.adBox,[id^="view_adv"]
 dodoca.com##div#ad_box
+dongmanhuayuan.myheartsite.com##DIV.card-body
 dooland.com##div#adimage
 dop2p.com##div.brand
 dospy.com##div#ad,div#phoneimg,div.com-adm,.fixed

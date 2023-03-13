@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-03-13 16:11:25（北京时间） 
-! Total count: 15815
+! Version: 2023-03-14 00:10:43（北京时间） 
+! Total count: 15836
 -960x*0.gif
 -250.js*
 
@@ -26,6 +26,7 @@
 ###favCanvas
 ###header_global_ad
 ###hongbao20201217
+###imgad
 ###layui-layer-shade1
 ###layui-layer1
 ###left_float
@@ -1324,7 +1325,7 @@ $removeparam=recurring_goal_id
 $removeparam=reddaid,domain=reddit.app.link
 $removeparam=redirect_log_mongo_id
 $removeparam=redirect_mongo_id
-$removeparam=ref,domain=abebooks.com|accounts.binance.com|adobe.com|akuankka.fi|albiononline.com|altcustoms.com|amazon.*|app.blockfi.com|arvopaperi.fi|audible.*|baidu.com|bestbuy.com|bing.com|bitlox.com|bitwarden.com|blogit.fi|bookdepository.com|brave.com|buzzfeed.com|buzzfeednews.com|bybit.com|catch.com.au|codehs.com|comixology.*|coop.no|deal.no|dell.com|digidip.net|domains.ch|droix.net|eset.com|etsy.com|expo.io|facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|fig.io|foreca.*|geeksforgeeks.org|github.com|github.io|goodreads.com|hintaopas.fi|hintaseuranta.fi|hs.fi|idenati.com|ikea.com|iltapulu.fi|imdb.com|is.fi|jasonsavard.com|kauppalehti.fi|kesaduuni.org|kickstarter.com|ku.fi|mastermind.ac|mediuutiset.fi|megapornfreehd.com|merrell.com|mikrobitti.fi|motouutiset.fi|oikotie.fi|omataloyhtio.fi|protonvpn.com|proton.me|puutarha.net|rakentaja.fi|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion|remppatori.fi|sahkovertailu.fi|sanoma.fi|scandinavianphoto.fi|schibsted.fi|semrush.com|shein.com|shodan.io|shopping.google.*|sketch.com|spiegel.de|sportskeeda.com|storyhouseegmont.fi|suomi24.fi|talouselama.fi|target.com|tekniikkatalous.fi|telsu.fi|thedailybeast.com|theregister.com|tivi.fi|tokenmetrics.com|twitch.tv|udemy.com|uusisuomi.fi|vultr.com|webhallen.no|woot.com|wormhole.app|yle.fi|zappos.com|zulily.com
+$removeparam=ref,domain=abebooks.com|accounts.binance.com|adobe.com|akuankka.fi|albiononline.com|altcustoms.com|amazon.*|app.blockfi.com|arvopaperi.fi|audible.*|baidu.com|bestbuy.com|bing.com|bitlox.com|bitwarden.com|blogit.fi|bookdepository.com|brave.com|buzzfeed.com|buzzfeednews.com|bybit.com|catch.com.au|codehs.com|comixology.*|coop.no|deal.no|dell.com|digidip.net|domains.ch|droix.net|eset.com|etsy.com|expo.io|facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|fig.io|foreca.*|geeksforgeeks.org|github.com|github.io|goodreads.com|hintaopas.fi|hintaseuranta.fi|hs.fi|idenati.com|ikea.com|iltapulu.fi|imdb.com|is.fi|jasonsavard.com|kauppalehti.fi|kesaduuni.org|kickstarter.com|ku.fi|lex.page|mastermind.ac|mediuutiset.fi|megapornfreehd.com|merrell.com|mikrobitti.fi|motouutiset.fi|oikotie.fi|omataloyhtio.fi|protonvpn.com|proton.me|puutarha.net|rakentaja.fi|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion|remppatori.fi|sahkovertailu.fi|sanoma.fi|scandinavianphoto.fi|schibsted.fi|semrush.com|shein.com|shodan.io|shopping.google.*|sketch.com|spiegel.de|sportskeeda.com|storyhouseegmont.fi|suomi24.fi|talouselama.fi|target.com|tekniikkatalous.fi|telsu.fi|thedailybeast.com|theregister.com|tivi.fi|tokenmetrics.com|twitch.tv|udemy.com|uusisuomi.fi|vultr.com|webhallen.no|woot.com|wormhole.app|yle.fi|zappos.com|zulily.com
 $removeparam=refRID
 $removeparam=ref_campaign
 $removeparam=ref_ctx_id
@@ -4489,6 +4490,7 @@ m.lianjia.com##div.mod_download:nth-of-type(1)
 m.meilishuo.com##a[href^="/goto/open/?bg"]
 m.mi.com##.download-app-go
 m.mi.com##div.download-app-go
+m.nxnba.com##DIV.bootom-fixed
 m.pcpop.com##div#android_fu,div#apple_fu,div.logo
 m.qidian.com###bookDetailWrapper > div.book-detail-info:last-child > div.book-detail-btn:last-child
 m.qidian.com###footerApp
@@ -8161,6 +8163,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||b2pk.com^
 ||b2xy4m.xyz^
 ||b3.jandan.net^
+||b59.xyz^
 ||b5h7.com^
 ||babbel.com^$removeparam=bsc
 ||babbel.com^$removeparam=btp
@@ -9618,6 +9621,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ekstrabladet.dk^$removeparam=ilc
 ||eladies.zhmyq.cn^
 ||elegant-creator.com^
+||elopatchwork.com^
 ||elsmom.xyz^
 ||elsynmlw.fun^
 ||em.baidu.com^
@@ -9788,6 +9792,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fengying5.com^
 ||fengyx.com^
 ||feqii.com^
+||ffmehcg.cn^
 ||ffmobi.com^
 ||ffnvhig.cn^
 ||ffyoo.com^
@@ -9964,6 +9969,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gayide.com^
 ||gbcnvip15.com^
 ||gbitcoin.cn^
+||gbrtyhnsc.xyz^
 ||gbsp002.com^
 ||gbwzrcymfmvym.bid^
 ||gdfp.gifshow.com^
@@ -10250,6 +10256,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hcbmg.cn^
 ||hcbmq.cn^
 ||hccms.com.cn^
+||hcdjy.xyz^
 ||hczzw.com^
 ||hd.browser.miui.com^
 ||hd126.com/js/$script
@@ -10360,6 +10367,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hnpjshop.com^
 ||hnrhyy.com/vip/$script
 ||hntezhi.com^
+||hnzzff.club^
 ||hollg8023.745c.cn^
 ||holor0701.cn^
 ||holor0804.cn^
@@ -10467,8 +10475,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hzbrcajp.cn^
 ||hzbxm.com^
 ||hzdaye.m.zwdu.com^
+||hzhuang.wang^
 ||hzxfmc.com^$third-party
 ||i*.hdslb.com/bfs/sycp/tmaterial/*.jpg@680w_200h*.webp$app=tv.danmaku.bili
+||i-fk.cn^
 ||i-mobile.co.jp^
 ||i.cidianwang.com^
 ||i.gtimg.cn/ams-web/public/tangram-report/settings-android-qq-*-hotfix.json
@@ -11004,6 +11014,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||juzi.cn^
 ||juzi007.com^$third-party
 ||juzilm.com^$third-party
+||jvpyxve.cn^
 ||jwcsb.com.cn/js/neirong.js
 ||jwddpvu.cn^
 ||jwiyr.com^
@@ -11628,6 +11639,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||m.zwda.com^
 ||m.zwdu.com^
 ||m.zzcm5.com^
+||m09mm.xyz^
 ||m1.hapi123.net^
 ||m1905.cn/collect.
 ||m19ud.cn^
@@ -12033,6 +12045,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||myiee.com^
 ||myip.myzaker.com^
 ||myjianzhu.com/file/upload/201806/12/192806811.gif
+||mykch.top^
 ||mylmad.com^
 ||myqcloud.com^$domain=hfg.80579.net
 ||myrtb.net^
@@ -12296,6 +12309,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||okmgy.cn^
 ||okmwfq.xyz^
 ||okokw.com^
+||okpoiione.com^
 ||okwfx.cn^
 ||olcdn.com^
 ||olcdn.com^$script
@@ -12352,6 +12366,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||openrcv.baidu.com^
 ||ophwrh.cn^
 ||opnked*.xyz^
+||opnkedfdye.xyz^
 ||opqsr.com^
 ||optaim.com^
 ||optimix.asia^
@@ -12480,6 +12495,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pglstatp-toutiao.com^
 ||philips.$removeparam=linkname
 ||philips.$removeparam=uuid
+||phoorned.com^
 ||photofans.cn*/banner/
 ||photojobz.com^$removeparam=hop
 ||photovms.tv.sohu.com/*/*_1.jpg$app=com.sohu.sohuvideo
@@ -12820,6 +12836,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qr.cp31.ott.cibntv.net^
 ||qrjxween.com^
 ||qs.lagowang.com^$object-subrequest
+||qscvli.com^
 ||qsj8fd.com^
 ||qsjfd2.com^
 ||qsjfd2.xyz^
@@ -13311,6 +13328,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sitemaji.com^$third-party
 ||sitepoint.com^$removeparam=fromBlog
 ||sitetag.us^
+||siwei.pub^
 ||sixiuwl.cn^
 ||siz3wxt8p.shop^
 ||sjarvis.taobao.com^
@@ -13714,6 +13732,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||techcrunch.com^$removeparam=ncid
 ||techcrunch.com^$removeparam=sr
 ||techcrunch.com^$removeparam=sr_share
+||techspecndt.com^
 ||ted-club.com^
 ||teletrader.com^$removeparam=internal
 ||templates_pc/default/scripts/chapter_bottom.js
@@ -15160,6 +15179,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ytelc.com^
 ||ytunion.com^
 ||ytvwhbejc.com'
+||ytvwhbejc.com^
 ||ytybl.com^
 ||yu0123456.com^
 ||yubingyuan.top^
@@ -15186,6 +15206,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||yuxyz.com^
 ||yuyueyang.cn^
 ||yvqmzci.cn^
+||yvsnhc.com^
 ||yw800.com.cn^
 ||ywsywh.cn^
 ||ywtd.xyz^

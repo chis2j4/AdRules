@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-03-14 00:10:53（北京时间） 
-! Total count: 3211
+! Version: 2023-03-14 08:37:13（北京时间） 
+! Total count: 3210
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4483,7 +4483,6 @@
 @@||clicktale.net/WRc5.js$domain=telefonkonyv.hu
 @@||clients*.google.com/adsense/*?key=$domain=~calcalist.co.il|~gaytube.com|~mako.co.il|~pornhub.com|~pornhubthbh7ap3u.onion|~redtube.com|~redtube.com.br|~tube8.com|~tube8.es|~tube8.fr|~walla.co.il|~xtube.com|~ynet.co.il|~youjizz.com|~youporn.com|~youporngay.com
 @@||clj.valuecommerce.com/*/vcushion.min.js
-@@||clj.valuecommerce.com^|
 @@||clk*.tradedoubler.com^|
 @@||cloud.google.com^$generichide
 @@||cloud.google.com^$~third-party
@@ -5344,7 +5343,7 @@
 @@||jsjiami.com^$generichide
 @@||json.geoiplookup.io/?callback=$script,domain=chilepeajes.cl
 @@||jsonip.com/?callback=$script,domain=pagtel.com.br
-@@||jsonip.com/?format=json$xmlhttprequest,domain=cyberpower.com
+@@||jsonip.com^$domain=cyberpower.com|pocketcomics.com
 @@||jsqsjn.com^$script,domain=fyxfcw.com
 @@||jsrdn.com/s/$script,domain=distro.tv
 @@||jswenhui.com^*/ad/

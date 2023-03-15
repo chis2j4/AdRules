@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-03-15 16:10:58（北京时间） 
-! Total count: 15857
+! Version: 2023-03-16 00:10:57（北京时间） 
+! Total count: 15861
 -960x*0.gif
 -250.js*
 
@@ -132,6 +132,7 @@
 ##DIV[class^='ads_border_']
 ##DIV[data-text-ad]
 ##DIV[id*="BAIDU_SSP__wrapper_"]
+##DIV[style*='!important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important; line-height: 0px !important; height: 150px !important;']
 ##DIV[style*='.xyz/gif/']
 ##DIV[style*='display: block; width: 100%; left: 0px; position: fixed; z-index:'][style*='height: 25px; top: 133px;']
 ##DIV[style*='height: 33.25px; top:'][style*='background-size: 400px 133px !important;']
@@ -14109,6 +14110,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ugooo.cc^
 ||uhyhdrh.cn^
 ||ui37.net^
+||uibjhqwkl.com^
 ||uid.mdbchina.com^
 ||uil.cbs.baidu.com^$third-party
 ||uiqjcpt.cn^
@@ -15293,8 +15295,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zcchyr*.xyz^
 ||zcchyw*.xyz^
 ||zcck60qyw.xyz^
+||zcczrsaqw.xyz^
 ||zcczrvsaqw.shop^
 ||zcczrvsaqw.world^
+||zcczrvsaqw.xyz^
 ||zcczrvsaw.xyz^
 ||zcdsp.com^
 ||zcnnn.com^

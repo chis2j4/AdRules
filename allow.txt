@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-03-15 00:12:38（北京时间） 
-! Total count: 3210
+! Version: 2023-03-15 08:41:58（北京时间） 
+! Total count: 3211
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5908,6 +5908,7 @@
 @@||promo.gramedia.com^|
 @@||promo.zendesk.com^$xmlhttprequest,domain=promo.com
 @@||proto2ad.durasite.net^|
+@@||proxy.openathens.net^*/html/static/analytics.js$domain=openathens.net|openu.ac.il
 @@||przegladpiaseczynski.pl/wp-content/plugins/wppas/$~third-party
 @@||przegladpiaseczynski.pl/wp-content/uploads/*-300x250-$image,~third-party
 @@||ps.w.org/google-analytics-dashboard-for-wp/assets/

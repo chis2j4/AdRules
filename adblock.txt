@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-03-16 08:43:16（北京时间） 
-! Total count: 15861
+! Version: 2023-03-16 16:10:41（北京时间） 
+! Total count: 15865
 -960x*0.gif
 -250.js*
 
@@ -12151,6 +12151,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nfmovies.com/static^
 ||nfmovies.com^$replace=/adsTime = 15/adsTime = 1/
 ||nftjjw.com^
+||ng8f.top^
 ||nga.cn/common_res/js_dscommon.js^
 ||ngacn.cc/common_res/js_dscommon.js^
 ||ngacn.cc/proxy/cache_attach/ds_list.js
@@ -12812,6 +12813,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qktmwiq.cn^
 ||qling.com^
 ||qm92.com^$third-party
+||qmfcybwbf19.com^
 ||qn.bejson.com^
 ||qncye.com/templets/default/js/mb.js
 ||qndown.com^
@@ -13048,6 +13050,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||rui61.cn^
 ||ruisu.cc^
 ||ruiwen.com/js/a/p.js
+||rulwph.xyz^
 ||run-syndicate.com^
 ||runative-syndicate.com^
 ||runn.fun^
@@ -13142,6 +13145,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sdfp.snssdk.com^
 ||sdgreg.cn^
 ||sdhjueue.com^
+||sdhuawen.cn^
 ||sdk.api.bjshcw.com^
 ||sdk.api.oaid.wocloud.cn^
 ||sdk.conf.igexin.com^

@@ -1,5 +1,5 @@
 ! Title: Allowlist
-! Version: 2023-03-16 08:43:25（北京时间） 
+! Version: 2023-03-16 16:10:53（北京时间） 
 ! Total count: 3211
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
@@ -4899,7 +4899,7 @@
 @@||friends.ponta.jp/app/assets/images/$~third-party
 @@||front-go.lemall.com^
 @@||frosmo.com/messageApi$xmlhttprequest,domain=hobbyhall.fi
-@@||frosmo.com/recoApi/$xmlhttprequest,domain=apu.fi|hobbyhall.fi|lily.fi|meillakotona.fi|terve.fi
+@@||frosmo.com/recoApi/$xmlhttprequest,domain=apu.fi|eeva.fi|hobbyhall.fi|lily.fi|meillakotona.fi|terve.fi
 @@||fscinda.com/ad/$~third-party
 @@||fuseplatform.net^*/fuse.js$script,domain=broadsheet.com.au|friendcafe.jp
 @@||fwmrm.net^*/AdManager.js$script
@@ -5641,7 +5641,7 @@
 @@||nbe.com.eg/NBEeChannelManager/CallMW.aspx$~third-party
 @@||nc-myus.com/images/pub/www/uploads/merchant-logos/$image,~third-party
 @@||nceea.cn/Content/images/ad/
-@@||nelonenmedia.fi/logger/logger-ini.json$xmlhttprequest,domain=embed.sanoma-sndp.fi
+@@||nelonenmedia.fi/logger/logger-ini.json$xmlhttprequest,domain=embed.sanoma-sndp.fi|supla.fi
 @@||nemlog-in.dk/resources/js/adrum.js$~third-party
 @@||netatmo.commander1.com^|
 @@||netcoresmartech.com/smartechclient.js$domain=cgv.vn

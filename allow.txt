@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-03-16 00:11:08（北京时间） 
-! Total count: 3210
+! Version: 2023-03-16 08:43:25（北京时间） 
+! Total count: 3211
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3982,6 +3982,7 @@
 @@||adservice.google.com/adsid/integrator.js$domain=logi.im
 @@||adswizz.com/adswizz/js/SynchroClient*.js$script,third-party,domain=jjazz.net
 @@||adswizz.com/sca_newenco/$xmlhttprequest,domain=triplem.com.au
+@@||adt.redventures.io^$stylesheet,xmlhttprequest,domain=security.adt.com
 @@||adtng.com/get/$subdocument,domain=hanime.tv
 @@||adv.asahi.com^$popup
 @@||adv.cr^$popup

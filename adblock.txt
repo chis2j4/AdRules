@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-03-18 00:10:22（北京时间） 
-! Total count: 15865
+! Version: 2023-03-18 08:39:58（北京时间） 
+! Total count: 15866
 -960x*0.gif
 -250.js*
 
@@ -1115,7 +1115,7 @@ $removeparam=litb_from
 $removeparam=loc,document,domain=~geizhals.*|~ebay.*|~myanimelist.net|~microsoft.com|~liveperson.net|~saltenposten.no
 $removeparam=locale,domain=udemy.com
 $removeparam=location,domain=media-cdn.costco.ca|media-cdn.costco.com
-$removeparam=logTag
+$removeparam=logTag,document
 $removeparam=loid,domain=reddit.app.link
 $removeparam=loid_created,domain=reddit.app.link
 $removeparam=lst,domain=facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|messenger.com
@@ -2530,6 +2530,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 @@||tuhu.cn^
 @@||twitter.com/i/redirect$removeparam
 @@||union.video.qq.com/fcgi-bin/data?$script
+@@||urldefense.com^$removeparam
 @@||v.17173.com/advideo/*.mp4
 @@||v.17173.com/advideo/20*.flv
 @@||vd.l.qq.com^

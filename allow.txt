@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-03-18 08:40:07（北京时间） 
-! Total count: 3212
+! Version: 2023-03-18 16:09:41（北京时间） 
+! Total count: 3211
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3624,6 +3624,7 @@
 @@/jquery/*$domain=sobooks.cc
 @@/js/ads.$domain=shrinklink.co
 @@/js/prebid-$domain=huruwo.top
+@@/log/report/*$script,domain=bilibili.com
 @@/mobileads.$domain=naviking.localking.com.tw
 @@/modules/ads/*$domain=shopee.tw
 @@/needsharebutton.min.js$domain=leetcode-cn.com
@@ -3714,7 +3715,6 @@
 @@||1trackapp.com//static/tracking/$script,domain=1track.ru
 @@||1trackapp.com/static/tracking/$domain=1track.ru
 @@||1trackapp.com/static/tracking/$script,stylesheet,~third-party
-@@||1vkx.cn/public/*/jquery.min.js
 @@||2018x.bid/adview.js
 @@||210.40.130.91^*/ad.css?$stylesheet
 @@||230book.com/images/bqg.js$domain=230book.net
@@ -5160,7 +5160,6 @@
 @@||hcaptcha.com^*/api.js
 @@||hdsky.net/ad/down.png
 @@||hdslb.com/bfs/cm/cm-sdk/static/js/bili-collect.js
-@@||hdslb.com/bfs/seed/log/report/log-reporter.js
 @@||health.halodoc.com^|
 @@||healthgateway.gov.bc.ca/snowplow.js$~third-party
 @@||healthyadvertising.es^$~third-party

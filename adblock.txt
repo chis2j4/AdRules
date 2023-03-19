@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-03-19 08:44:54（北京时间） 
-! Total count: 15866
+! Version: 2023-03-19 16:09:31（北京时间） 
+! Total count: 15874
 -960x*0.gif
 -250.js*
 
@@ -255,8 +255,11 @@
 ##a.outlink
 ##a[href^="https://uds24.com/"]
 ##body > A[ontouchstart='this.click();'][href]
+##body > DIV[class][style='top: 132px;']
 ##body > DIV[class][style='top: 133px;']
 ##body > DIV[class][style^='bottom: '][style$='vw; display: block;']
+##body > DIV[style*='height: 33px'][style*='132px !important;']
+##body > DIV[style='display: block; width: 100%; height: 132px;']
 ##body > DIV[style='display: block; width: 100%; height: 133px;']
 ##body > [id][style*='width:100%'][style*='min-height:120px']
 ##body > h1 > strong > title > a
@@ -1762,6 +1765,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .xyz$domain=yinghuacd.com
 .xyz/alpine?$third-party
 .xyz/base*.js?$third-party
+.xyz/hm.html?s=
 .xyz/hm.js?$third-party
 .xyz/jque*.js?$third-party
 .xyz/svelte?$third-party
@@ -2086,7 +2090,9 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /nav/ad
 /navflash.js*
 /new/27*.html
+/new/50*.html
 /new/55*.html
+/new/81*.html
 /new/82*.html
 /new/83*.html
 /new/84*.html
@@ -5937,6 +5943,7 @@ www.guhai.com.cn##table[width="960"][height="90"]
 www.guofs.com##DIV[style="border:1px solid #a6c9e1;height:10px;width:880px;height:161px;"]
 www.gzmama.com,www.bjmama.com##div#zone_down_big,div.wp.tjOther,div#frame_tips,div.a_pt,div.wp.a_t,div.a_pb,#zone_top_ceiling
 www.hahade.com##span#loadimg.movieload
+www.haijiao.com##DIV.addbox,DIV.bannerliststyle,DIV.van-swipe-item,DIV.crossbutton
 www.hao123.com##DIV#ecom,A.tip[monkey="righttip"],div.widget-topbanner,div.g-wd.topbanner-inner
 www.haoting5.com##div.bdCont,div#mleft,div#mright
 www.hbhtyl.com##P[style^='width: 100% !important; margin: 0p']
@@ -10647,6 +10654,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||img.*mk.cn^$domain=avtbf.com
 ||img.91p51.com^
 ||img.baidu.com/hunter/musicmonkey.min.js
+||img.bzzyx.cn/dipiao.js
 ||img.ckcgsy.cn^
 ||img.dubyc.com^
 ||img.eqbyc.com^

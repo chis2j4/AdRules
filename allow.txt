@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-03-22 08:38:43（北京时间） 
-! Total count: 3211
+! Version: 2023-03-22 16:10:04（北京时间） 
+! Total count: 3212
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -6451,6 +6451,7 @@
 @@||tvcom-static.ssl.cdn.cra.cz/*/videojs.ga.js$script,domain=tvcom.cz
 @@||tw.cx/c?a=$xmlhttprequest,domain=justwatch.com
 @@||tweaktown.com^$generichide
+@@||twicli.neocat.jp/plugins/geomap.js
 @@||twitter.com/oct.js$domain=jp.square-enix.com
 @@||type.jp/common/js/clicktag.js
 @@||uaprom.net/image/blank.gif?$image

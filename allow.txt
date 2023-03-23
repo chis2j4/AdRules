@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-03-23 08:40:03（北京时间） 
-! Total count: 3212
+! Version: 2023-03-23 16:10:14（北京时间） 
+! Total count: 3209
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3914,11 +3914,9 @@
 @@||ads-i.org/images/ads3.jpg$~third-party
 @@||ads-twitter.com/oct.js$domain=jp.square-enix.com
 @@||ads-twitter.com/uwt.js$domain=factory.pixiv.net
-@@||ads.adthrive.com/api/$domain=packhacker.com
-@@||ads.adthrive.com/builds/$script,domain=www.mediaite.com
-@@||ads.adthrive.com/builds/core/*/js/adthrive.min.js$domain=packhacker.com
-@@||ads.adthrive.com/sites/$domain=packhacker.com
-@@||ads.adthrive.com/sites/$script,domain=www.mediaite.com
+@@||ads.adthrive.com/api/$domain=mediaite.com|packhacker.com
+@@||ads.adthrive.com/builds/core/*/js/adthrive.min.js$domain=mediaite.com|packhacker.com
+@@||ads.adthrive.com/sites/$script,domain=mediaite.com|packhacker.com
 @@||ads.alafish.cn^$~third-party
 @@||ads.amazon^$popup
 @@||ads.askgamblers.com^$popup
@@ -4242,7 +4240,6 @@
 @@||bam.nr-data.net^$script,domain=kapwing.com
 @@||banc.jp/images/ad/$image,~third-party
 @@||bancosantander.es/pagos-inmediatos/common/js/modules/tealium.js$~third-party
-@@||bangumi.org/sdk/rakuraku.js?referer=$domain=bs11.jp
 @@||banki.ru/bitrix/*/advertising.block/$stylesheet
 @@||bankofamerica.com^*?adx=$~third-party,xmlhttprequest
 @@||banma.com/statics/js/??

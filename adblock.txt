@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-03-23 08:39:50（北京时间） 
-! Total count: 15887
+! Version: 2023-03-23 16:10:02（北京时间） 
+! Total count: 15890
 -960x*0.gif
 -250.js*
 
@@ -2314,6 +2314,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 @@^mkt_unsubscribe=$removeparam=mkt_tok
 @@^mod=djemalertNEWS^$removeparam=mod
 @@_adview_$domain=muzlan.top
+@@guokr.com/apis/flowingboard/item/guokrapp_download_source.json
 @@mailinglist$removeparam=/^utm_/i
 @@|wss://$removeparam
 @@|wss://zoom.us^$removeparam
@@ -5860,6 +5861,7 @@ www.ahbb.cc##DIV.a_mu,div.wp.a_h,div.wp.a_t,DIV#a13,DIV#aa1,div#LeftAd,div#Right
 www.ahtv.cn##div.l1,div.r1,TD[style="height:95px;"],TABLE[style="text-align:center; width:960px; margin:0 auto;"],DIV[id^="ad_"][hg_adbox],div#ads
 www.aiqlm.com##A[href^="/e/public/ClickAd"]
 www.airtofly.com##td[height="97"]
+www.aiwuav.xyz##A.toptxt,IMG[src*='.gif'][alt],SPAN[class^="clobox"],IMG[width='100%'][src*='.gif']
 www.aiyuke.com##div.GGad,div#Playerpad.Padhtml
 www.ak47fuli.com##p.tglogo
 www.ali213.net##DIV.ad-widget-imageplus.ad-widget-imageplus-box,DIV[id^="f21ac82b21eeb7322631b6aa94e17f"],DIV.newright,div[id^="ali-ad-js-"],[id^="ali-js-"]
@@ -15605,9 +15607,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 18avhub.com,18avtube.com,adultwefong.com,aicoin.net.cn,avmimi.com,fsdpp.cn,mm-cg.com,mse.360.cn,sports.qq.com,suopao.org,ting56.com,txzqw.me,youxi.baidu.com###banner
 18board.com##[height="60"],[height="70"],[height="80"],[height="500"],[src^="http://dioimg.net"],[href="http://www.554400.com"],[href="http://zdpdfb.co/"],[href="http://mws3032.tk"]
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
-18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##DIV.col-lg-3.col-md-3
+18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group#DIV.bot-per-times
+18comic.vip##IMG[src^='//18comic.vip/media/albums/']
 18p2p.com##[href*="/?Intr="],[href*="/?Extend="],[href*="/?intr="],[src^="http://diopic.net/images"],[href^="http://www.yin6666.net/"],[href^="http://pj555716.net"],[height="60"][width="340"]
 18qiang.com##.imgbanner,.bottom_khdxz
 19lou.com##DIV.head-ad,DIV.dongxi-banner,DIV.float-ad-wrap,DIV.ad-cycle,DIV.pop-ad,UL.ad-190x60,div.ad-980x90,IFRAME[src="http://www.19lou.com/topic/html/2014/0630ad.html"],.ad-300x30,.radio-mod,.lazyImage,.ad650-60

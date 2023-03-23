@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-03-23 00:09:49（北京时间） 
-! Total count: 15883
+! Version: 2023-03-23 08:39:50（北京时间） 
+! Total count: 15887
 -960x*0.gif
 -250.js*
 
@@ -10787,6 +10787,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||itiexue.net/global/images/a_d_hint.png
 ||itopdog.cn/itopdog/$script
 ||itopdog.cn/js/you.js$script
+||itpest.cn^
 ||itxinrou.com^
 ||ityangstudy.cn^
 ||iufjkdjmsm.xyz^
@@ -12759,6 +12760,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qhmsg.com^$domain=1024li.com
 ||qhonzpl.cn^
 ||qhres2.com^
+||qhvws.com^
 ||qiabayyds.com^
 ||qiangquanvip.com^
 ||qianjia.com/HotImages/2017/11/img20171109122716999.jpg
@@ -12819,6 +12821,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qj.ituanhui.com^
 ||qj202.cc^
 ||qjhlc.com^
+||qjwpy.com^
 ||qjxys.cn^
 ||qktmwiq.cn^
 ||qling.com^
@@ -15601,9 +15604,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 17yy.com###load_ad,.t2_3,.t3,.t2r_3,#web_yx,#close
 18avhub.com,18avtube.com,adultwefong.com,aicoin.net.cn,avmimi.com,fsdpp.cn,mm-cg.com,mse.360.cn,sports.qq.com,suopao.org,ting56.com,txzqw.me,youxi.baidu.com###banner
 18board.com##[height="60"],[height="70"],[height="80"],[height="500"],[src^="http://dioimg.net"],[href="http://www.554400.com"],[href="http://zdpdfb.co/"],[href="http://mws3032.tk"]
-18comic.vip##.bot-per-context
-18comic.vip##DIV.bot-per-times
-18comic.vip##DIV.col-lg-3.col-md-3
+18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
+18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##DIV.col-lg-3.col-md-3
+18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
+18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group#DIV.bot-per-times
 18p2p.com##[href*="/?Intr="],[href*="/?Extend="],[href*="/?intr="],[src^="http://diopic.net/images"],[href^="http://www.yin6666.net/"],[href^="http://pj555716.net"],[height="60"][width="340"]
 18qiang.com##.imgbanner,.bottom_khdxz
 19lou.com##DIV.head-ad,DIV.dongxi-banner,DIV.float-ad-wrap,DIV.ad-cycle,DIV.pop-ad,UL.ad-190x60,div.ad-980x90,IFRAME[src="http://www.19lou.com/topic/html/2014/0630ad.html"],.ad-300x30,.radio-mod,.lazyImage,.ad650-60

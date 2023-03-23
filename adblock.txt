@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-03-23 16:10:02（北京时间） 
-! Total count: 15890
+! Version: 2023-03-24 00:10:32（北京时间） 
+! Total count: 15899
 -960x*0.gif
 -250.js*
 
@@ -2066,6 +2066,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /kaola/*ad
 /keyrun*js
 /keyrun*php
+/killcovid2021\.com/\d\.mp4/$mp4
 /layer/*$domain=bejson.com
 /leftad*
 /lianmeng*
@@ -2087,6 +2088,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /n6b7/*.js
 /nav/ad
 /navflash.js*
+/new/21*.html
 /new/27*.html
 /new/50*.html
 /new/55*.html
@@ -2096,6 +2098,9 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /new/84*.html
 /new/85*.html
 /new/86*.html
+/new/87*.html
+/new/88*.html
+/new/89*.html
 /new20*/tlys.
 /newhuagg/*
 /newsPopup/*
@@ -12176,6 +12181,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||niangaoxiansheng.com^
 ||nicearticle.cc^
 ||nicovideo.jp/comic^$removeparam=track
+||niebiaoyyds.com^
 ||nihaovcd.com/js/neirong
 ||nijiua.com^
 ||nijnqwem.xyz^
@@ -12320,6 +12326,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ognujxj.cn^
 ||ohchehw.cn^
 ||oi9rp7.online^
+||oiknldwlkop.com^
 ||oikotie.fi^$removeparam=sRef
 ||oikqwnm.com^
 ||oinjkenwok.xyz^
@@ -12741,6 +12748,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qdczx66.com^
 ||qdhyy.cn^
 ||qdimg.com/css/baidu.js|
+||qdlzj.cn^
 ||qdp.qidian.com^
 ||qdvideo.xyz^
 ||qdzilh.cn^
@@ -15459,6 +15467,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zuche321.com^
 ||zuciwang.com^
 ||zuixinyiqi.com^
+||zukddms.cn^
 ||zunmi.cn^
 ||zvvg678.xyz^
 ||zwdu.com/getuserinfo.php

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-03-24 08:39:03（北京时间） 
-! Total count: 15899
+! Version: 2023-03-24 16:09:04（北京时间） 
+! Total count: 15910
 -960x*0.gif
 -250.js*
 
@@ -153,6 +153,7 @@
 ##IMG[src$='.dl'][style='width:100% !important;height:90px'][onclick]
 ##IMG[src*='.xyz/tupian/'][src$='/h5.gif']
 ##IMG[src*='/gg/'][src$='180.gif'][src*='800']
+##IMG[src*='qmfcybwbf']
 ##IMG[src='/js/imgs/taote.jpg']
 ##IMG[style='width: 100%;'][src^='https://ad.']
 ##IMG[url][onclick='window.open(this.url)'][src$='.gif'][width='100%']
@@ -9633,6 +9634,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||egrent.cn^
 ||egsxdp.cn^
 ||ehk.trenhdg.com^
+||eignky.xyz^
 ||eiykmtb.cn^
 ||ejfeng.com^
 ||ejieban.com^
@@ -10362,6 +10364,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hitslink.com^
 ||hivedata.com.cn/trace/*/ad^
 ||hj217.com^
+||hjbqnwb.com^
 ||hjgen.cn^
 ||hkgolden.com/reqwads?s=
 ||hkjs.shuake.ink^
@@ -10848,6 +10851,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jc.lgtianma.cn/*.gif$domain=m.geosouth.net
 ||jc001.cn/footer_float_bar/
 ||jcde.site^
+||jched3.com^
 ||jcheys.com^
 ||jcpecb.com^
 ||jcpenney.com$removeparam=Dr
@@ -12343,6 +12347,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||okmwfq.xyz^
 ||okokw.com^
 ||okpoiione.com^
+||okqwidvnsk.net^
 ||okwfx.cn^
 ||olcdn.com^
 ||olcdn.com^$script
@@ -12751,6 +12756,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qdlzj.cn^
 ||qdp.qidian.com^
 ||qdvideo.xyz^
+||qdwnlkdw.com^
 ||qdzilh.cn^
 ||qexitv.com^
 ||qf1d.top^
@@ -12836,6 +12842,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qktmwiq.cn^
 ||qling.com^
 ||qm92.com^$third-party
+||qmfcybwbf12.com^
 ||qmfcybwbf19.com^
 ||qn.bejson.com^
 ||qncye.com/templets/default/js/mb.js
@@ -15013,6 +15020,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xunyangdianzi4.cn^
 ||xunyibaike.com^
 ||xushenghb.com^
+||xwbspx.xyz^
 ||xwuad.com^
 ||xww360.com^
 ||xxba.cc^
@@ -15340,11 +15348,14 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zczcvx.com^
 ||zd518.cn/statics/js/home.js
 ||zd518.cn/template/qpg6080/baidufx/baidufx.js
+||zdabnt.buzz^
 ||zdabnt.live^
 ||zdama.xyz^
+||zdamybi.xyz^
 ||zdd-9.com^
 ||zdfans.com/wp-content/themes/D7/img/ad
 ||zdfjas.top^
+||zdfl.xyz^
 ||zdmimg.com/collect^
 ||zdpeanut.com^
 ||zdx25.site^

@@ -24,7 +24,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 
 <tr>
 <td>blocklist last updated:</td>
-<td><b class=blue>Fri, 10 Mar 2023 20:49:49 GMT</b></td>
+<td><b class=blue>Thu, 23 Mar 2023 22:00:53 GMT</b></td>
 </tr>
 
 
@@ -41,7 +41,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 
 <tr>
 <td>total entries:</td>
-<td><b class=blue>3752 / 3752</b></td>
+<td><b class=blue>3753 / 3753</b></td>
 </tr>
 
 </table>
@@ -77,8 +77,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 10 Mar 2023 20:49:49 GMT
-# entries:        3752
+# last updated:   Thu, 23 Mar 2023 22:00:53 GMT
+# entries:        3753
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts
@@ -3734,6 +3734,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 webtrendslive.com
 127.0.0.1 webxcdn.com
 127.0.0.1 wellmadefrog.com
+127.0.0.1 welved.com
 127.0.0.1 werbung.meteoxpress.com
 127.0.0.1 wetrack.it
 127.0.0.1 whaleads.com

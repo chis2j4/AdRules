@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-03-28 00:10:19（北京时间） 
-! Total count: 3213
+! Version: 2023-03-28 08:40:36（北京时间） 
+! Total count: 3216
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4561,6 +4561,7 @@
 @@||content.pouet.net/avatars/adx.gif$image,~third-party
 @@||content.s8bbs.com/ad/bbs/*.jpg
 @@||contents*.00110.citi.com^|
+@@||cookielaw.org^*/OtAutoBlock.js$domain=darkreading.com
 @@||coolinet.com^$generichide
 @@||core.windows.net^*/annonser/$image,domain=kmauto.no
 @@||coremetrics.com*/eluminate.js
@@ -5983,6 +5984,8 @@
 @@||rasset.ie/dotie/js/tracker.js$domain=rte.ie
 @@||rba-screen.healthsafe-id.com/fp/tags.js$script,domain=myuhc.com
 @@||readmoo.com/images/social/
+@@||realclearpolitics.com/esm/assets/js/admiral.js$~third-party
+@@||realclearpolitics.com/esm/assets/js/analytics/$~third-party,xmlhttprequest
 @@||reallyfreegeoip.org/json/$domain=thekitchensafe.com
 @@||realtor.com/rentals/api/optimizely.js$script,~third-party
 @@||reastatic.net/150x200-$domain=realestate.com.au

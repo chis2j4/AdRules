@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-03-28 16:11:10（北京时间） 
-! Total count: 3216
+! Version: 2023-03-29 00:14:05（北京时间） 
+! Total count: 3217
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4965,7 +4965,7 @@
 @@||geoplugin.net/javascript.gp?$script,domain=suicidepreventionlifeline.org|virginmobile.ca
 @@||geoplugin.net/json.gp?jsoncallback=$script,domain=worldc.am
 @@||geostag.cardinalcommerce.com/DeviceFingerprintWeb/includes/js/fingerprint2.min.js$script
-@@||get.geojs.io/v1/ip/geo.json$domain=shop.critrole.com
+@@||get.geojs.io/v1/ip/geo.json$domain=namlih.my.id|shop.critrole.com
 @@||get.s-onetag.com/*/tag.min.js$domain=zakzak.co.jp
 @@||getflywheel.com/addons/google-analytics/$~third-party
 @@||getjad.io/library/$script,domain=allocine.fr
@@ -5928,6 +5928,7 @@
 @@||publisher.adservice.com^$domain=publisher.adservice.com
 @@||publisher.adservice.com^$generichide
 @@||puch-ersatzteile.at^*/google-analytics.min.js
+@@||pushpushgo.com/js/$script,domain=centrumriviera.pl
 @@||pv.sohu.com/cityjson$domain=vip.jsjinfu.com
 @@||pv.sohu.com/suv/
 @@||pvtag.yahoo.co.jp^$script,domain=paypaymall.yahoo.co.jp

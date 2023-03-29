@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-03-29 00:13:55（北京时间） 
+! Version: 2023-03-29 08:44:03（北京时间） 
 ! Total count: 15838
 -960x*0.gif
 -250.js*
@@ -383,7 +383,7 @@ $removeparam=/^adgroup=/i
 $removeparam=/^adjust/
 $removeparam=/^adpopup=[a-eg-zA-EG-Z0-9]/
 $removeparam=/^adppopup=[a-eg-zA-EG-Z0-9]/
-$removeparam=/^adword_/
+$removeparam=/^adword_/,domain=~justdial.com
 $removeparam=/^af_sub\d=/
 $removeparam=/^affSource/i
 $removeparam=/^aff_id\d?=/i,domain=~affiliate.salestring.com
@@ -495,7 +495,7 @@ $removeparam=/^tc_/,domain=bodenusa.com
 $removeparam=/^tracker=affiliatefuture$/i
 $removeparam=/^utm(_[a-z_]*)?=/
 $removeparam=/^utm-/
-$removeparam=/^utm_/i,domain=~redir.tradedoubler.com|~sendgb.com|~allegro.pl|~tix.axs.com|~transfernow.com|~carrefourpl.snrpage.com
+$removeparam=/^utm_/i,domain=~redir.tradedoubler.com|~sendgb.com|~allegro.pl|~tix.axs.com|~transfernow.com|~carrefourpl.snrpage.com|~justdial.com
 $removeparam=/^via=rss$/
 $removeparam=/^vn(_[a-z]*)+=/
 $removeparam=/^web_id\d+/,domain=tiktok.com

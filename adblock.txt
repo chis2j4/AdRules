@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-03-30 16:10:35（北京时间） 
-! Total count: 15806
+! Version: 2023-03-31 00:09:59（北京时间） 
+! Total count: 15809
 -960x*0.gif
 -250.js*
 
@@ -824,7 +824,7 @@ $removeparam=clickCSR,domain=argos.co.uk
 $removeparam=clickOrigin
 $removeparam=clickPR,domain=argos.co.uk
 $removeparam=clickSR
-$removeparam=click_id
+$removeparam=click_id,domain=~bookings.beatthatflight.*
 $removeparam=click_key,domain=etsy.com
 $removeparam=click_sum,domain=etsy.com
 $removeparam=clicktime
@@ -2521,6 +2521,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 @@||space.bilibili.com^$removeparam
 @@||speedtest.net^
 @@||sso.serverplan.com/manage2fa/check?ref=$removeparam
+@@||startpage.com/sp/qi$removeparam=sc
 @@||startpage.com/suggestions$removeparam=segment
 @@||stat.pc.music.qq.com/fcgi-bin/player_
 @@||stat.v-56.com/player
@@ -2719,8 +2720,9 @@ avsuggest.com##.overlay
 avtb579.com###content > div.col-xs.col-sm-12.col-md-10:last-child > div.panel.panel-default:nth-child(2) > div.panel-body.panel-padding:last-child > a:first-child
 avtb6677.com###menu-main-content > li:nth-child(n+5)
 awaker.cn###bew_10010,.adsbygoogle,div#wp125-2,div#text-31
-axutongxue.com##ARTICLE[id]
-axutongxue.com##body > div[id] > ul[class] > li > A[href^='http'],body > div[id] > ul[class] > li > img.icon
+axutongxue.com##ASIDE[style*='height:58px;overflow:hidden;width:322px;border:dashed .5px']
+axutongxue.com##DIV[style*='px;position:relative;box-shadow:rgb(0 0 0/24%)0px 3px 8px;']
+axutongxue.com##DIV[style*='z-index: 9999999;display: flex;justify-content: center;align-items: center;']
 azhibo.tv##.fill-content,[width="680"][height="60"],[href^="http://www.00880808.com/go/"],[src="/images/leisu.png"]
 b2b.hc360.com##[class="maincont-one-main"],div#cu_channel,div#leftsuspend,div[class^="line"],div.wechactLi
 b2bname.com##.block-ad
@@ -5808,7 +5810,7 @@ www.0731fdc.com##div#menu2.fixed,div#fontAd
 www.1080pba.com##div.ad_960,div.ad_300,div#topxia,img[src="/templets/default/images/1.gif"]
 www.10s1.com##[src^="http://www.10s1.com/ggpic/"],.jyzxad,.adver
 www.115zk.com##div.wp.a_f,div.a_cn
-www.123pan.com##DIV.VipBanner,DIV[style='width:100%;position:fixed;bottom:80px'],DIV[style='width: 100%; position: fixed; bottom: 25px;']
+www.123pan.com##IMG[src*='-banner']
 www.123yq.com##div.Messageml
 www.12580sky.com##img[width="998"][height="70"],img[width="998"][height="80"],img[width="490"][height="80"],div.zz-list,div.bk8 + table
 www.126.com,mail.163.com##div.APP-dashi-botBanner,div.gWel-promt
@@ -8158,6 +8160,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||axbdlox.cn^
 ||axcdt.cn^
 ||axcdy.cn^
+||axutongxue.com/js/uuiiio.js
 ||ayidaye.m.zwdu.com^
 ||aykibra.cn^
 ||aymtdcg.cn^

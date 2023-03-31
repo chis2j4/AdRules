@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-03-31 16:10:06（北京时间） 
-! Total count: 15809
+! Version: 2023-04-01 00:08:09（北京时间） 
+! Total count: 15817
 -960x*0.gif
 -250.js*
 
@@ -2094,6 +2094,8 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /new/27*.html
 /new/50*.html
 /new/55*.html
+/new/56*.html
+/new/57*.html
 /new/81*.html
 /new/82*.html
 /new/83*.html
@@ -7095,6 +7097,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||612.com^$third-party
 ||61hhdp.com^
 ||620uu.com/images/$image
+||637o.top^
 ||63ig.com/*nr.js
 ||63ig.com/go.js
 ||63ig.com/stat.JS
@@ -11451,6 +11454,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lookxiuxiu.com^
 ||lop.lamimi.cn^
 ||lopostone.com^
+||lopqrx.xyz^
 ||loupan99.com^
 ||lovegg.club^
 ||lowadec.cn^
@@ -11783,6 +11787,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mercadolibre.com^$removeparam=type
 ||mercury-sdk.snssdk.com^
 ||metauniverse88.com^
+||metaword.cn^
 ||metheny.cn^
 ||metok.sys.miui.com^
 ||metosk.com^
@@ -12048,6 +12053,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nadvideo2.baidu.com^
 ||naemailom.fun^
 ||namedq.com^
+||naned.xyz^
 ||naqigs.com^
 ||naquan.com/packages/assets/js/jquery.reveal.js
 ||narrowad.org^
@@ -15255,6 +15261,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zdftqc.xyz^
 ||zdg-bend.xyz^
 ||zdgbend.buzz^
+||zdhpen.xyz^
+||zdhpenn.shop^
 ||zdmimg.com/collect^
 ||zdpeanut.com^
 ||zdx25.site^

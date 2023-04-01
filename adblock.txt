@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-01 08:39:49（北京时间） 
-! Total count: 15819
+! Version: 2023-04-01 16:08:50（北京时间） 
+! Total count: 15820
 -960x*0.gif
 -250.js*
 
@@ -12794,6 +12794,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qnwxk.com^$third-party
 ||qpb.sohu.com^
 ||qpb0.sohu.com^
+||qpb1.sohu.com^
 ||qpic.cn/mblogpic/$image,domain=www.repaik.com|www.neonan.com
 ||qq-hls.xyz^
 ||qq.com/bbs/m/p/a/bottom_banner.htm

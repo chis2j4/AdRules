@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-02 00:08:16（北京时间） 
-! Total count: 15819
+! Version: 2023-04-02 08:41:15（北京时间） 
+! Total count: 15820
 -960x*0.gif
 -250.js*
 
@@ -1586,6 +1586,7 @@ $removeparam=version,domain=mp.weixin.qq.com|us.norton.com
 $removeparam=vfadid
 $removeparam=vgo_ee
 $removeparam=vh,domain=hotspotshield.com|gethotspotshield.com
+$removeparam=via,domain=sincode.ai
 $removeparam=vifAdCount
 $removeparam=vifNav
 $removeparam=visit_id,domain=bilibili.com|google.*

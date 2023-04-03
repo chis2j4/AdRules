@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-03 16:10:20（北京时间） 
-! Total count: 15820
+! Version: 2023-04-04 00:09:24（北京时间） 
+! Total count: 15837
 -960x*0.gif
 -250.js*
 
@@ -133,6 +133,7 @@
 ##DIV[id*="BAIDU_SSP__wrapper_"]
 ##DIV[style*='!important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important; line-height: 0px !important; height: 150px !important;']
 ##DIV[style*='.xyz/gif/']
+##DIV[style*='animation: 1s ease 0.2s infinite normal none running shakegwegs; z-index:'][style*='background: url']
 ##DIV[style*='display: block; width: 100%; left: 0px; position: fixed; z-index:'][style*='height: 25px; top: 133px;']
 ##DIV[style*='height: 33.25px; top:'][style*='background-size: 400px 133px !important;']
 ##DIV[style*='px; top: 0px; left: 0px; z-index: '][style*='http']
@@ -279,6 +280,7 @@
 ##div#beijing.article_content.layui-clear > div.left > div > a
 ##div#content.content div[id] > DIV[style*='z-index: 2147483647']
 ##div#detail.selector-zero > div > DIV[style]
+##div#gmright
 ##div#h2_player_prevideo > A[href][target='_blank']
 ##div#page-back DIV.container.clearfix div > A > IMG[src]
 ##div#reader-scroll.acgn-reader-chapter.v>div>center>strong>button
@@ -1907,6 +1909,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /android_start.asp?start=
 /api/ad/*
 /api/analytics?_
+/api/getPos?jspath=/videos/view//
 /app/*/%E6%B5%8F%E8%A7%88%E5%99%A8.apk
 /app/market/*/%E9%AB%98%E9%80%9F%E6%B5%8F%E8%A7%8%A8.apk
 /app_ads^
@@ -2095,6 +2098,10 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /new/21*.html
 /new/27*.html
 /new/50*.html
+/new/51*.html
+/new/52*.html
+/new/53*.html
+/new/54*.html
 /new/55*.html
 /new/56*.html
 /new/57*.html
@@ -2602,6 +2609,7 @@ Mplay/kk1.js
 ^via=futurepedia^$removeparam=via
 ^via=toolbar^$removeparam=via,domain=user.qzone.qq.com
 ^z=*&var=$removeparam=var
+_/bigREDdog.css?
 _/bigREDdog.js
 _ad&callback=
 _ad.htm
@@ -7673,6 +7681,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||aise9738.com^
 ||aiseet.aa.atianqi.com^
 ||aishang.bid^
+||aisnj.cn^
 ||aisouk.cn^
 ||aiwei365.net^
 ||aiyouji.xyz^
@@ -8764,6 +8773,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cc/ad/
 ||cc3.ifeng.com^
 ||cc9514.com/img^
+||ccav.website^
 ||ccav5.com/static/js/gTool.js
 ||ccc.sys.miui.com^
 ||cccrir.com^
@@ -11123,6 +11133,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kkbiqu2.com/js/one.js
 ||kkbiqu2.com/js/yuedu.js
 ||kkpgv2.xunlei.com^
+||kkylx.xyz^
 ||kl.yditweb.cn^
 ||klfxq.kieedi.foosheng.com^
 ||klgzzs.cn^
@@ -11374,6 +11385,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lixiaodongcy.com^
 ||ljarfvg.cn^
 ||ljrtb.cn^
+||lkancklanklcav.com^
 ||lknlkndasda.top^
 ||lkpmprksau.com^
 ||llaxl.com^
@@ -12357,6 +12369,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||optaim.com^
 ||optimix.asia^
 ||optimix.cn^
+||oqjfekdkc.net^
 ||orange-dc.youku.com^
 ||orbit.jd.com^
 ||ordidc.com^
@@ -12557,6 +12570,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||poiqknfl.com^
 ||pojihfnkbllg.net^
 ||pojkhufef.xyz^
+||polfaqgvsd.net^
 ||policy.jd.com/m/log^
 ||policy.video.iqiyi.com^
 ||polkkqm.com^
@@ -12792,6 +12806,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qnieo.fun^
 ||qnipkk.xyz^
 ||qnwxk.com^$third-party
+||qowfknlds.net^
 ||qpb.sohu.com^
 ||qpb0.sohu.com^
 ||qpb1.sohu.com^
@@ -13009,6 +13024,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||rsvqlz.cn^
 ||rtbapi.douyucdn.cn^
 ||rte.fuoo1.top^
+||rtjmln.xyz^
 ||rtmark.net^
 ||rtsdfw44.com^
 ||ruan.cn^
@@ -13865,6 +13881,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tmall.com^$removeparam=utparam
 ||tmdn2015x9.com^
 ||tmead.y.qq.com^
+||tmochyf.cn^
 ||tmuseum.com.cn^
 ||tnc*.zijieapi.com^
 ||tnc3-aliec2.snssdk.com^

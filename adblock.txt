@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-04 16:10:06（北京时间） 
-! Total count: 15838
+! Version: 2023-04-05 00:09:37（北京时间） 
+! Total count: 15845
 -960x*0.gif
 -250.js*
 
@@ -2014,6 +2014,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /h5/download?qr=
 /hdpv.
 /hengfu.js
+/hm.html?s=*=http
 /hm.js^$third-party
 /homead*
 /hostinger-promote-$domain=nodkey.xyz
@@ -9290,6 +9291,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dc1.networkbench.com^
 ||dcms.1688.com^
 ||dcrzz.com^
+||dcvbnzss.xyz^
 ||ddbuwo.cn^
 ||ddl.3g567.com^
 ||ddpaowanji.com^
@@ -12924,6 +12926,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||reactor.xingye.work^
 ||readdc.com^$removeparam=ref
 ||reader.sh.vip.qq.com^
+||readme.red^
 ||realestate.com.au^$removeparam=rsf
 ||realsrv.com^
 ||realtime-bid.com^
@@ -14215,6 +14218,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||verkkokauppa.com^$removeparam=list
 ||vfiles.gtimg.cn/pub/video_float_ad_config.config_list^
 ||vfsdgjrr.xyz^
+||vfsdsdeq.xyz^
 ||vgijoh.com^
 ||vhulan.com^
 ||video.dispatch.tc.qq.com^
@@ -15274,6 +15278,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zdabnt.live^
 ||zdama.xyz^
 ||zdamybi.xyz^
+||zdcfta.buzz^
 ||zdcfta.live^
 ||zdd-9.com^
 ||zdfans.com/wp-content/themes/D7/img/ad
@@ -15283,7 +15288,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zdg-bend.xyz^
 ||zdgbend.buzz^
 ||zdhpen.xyz^
+||zdhpenn.live^
 ||zdhpenn.shop^
+||zdlnhv.xyz^
 ||zdmimg.com/collect^
 ||zdpeanut.com^
 ||zdx25.site^

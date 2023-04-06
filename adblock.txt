@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-06 16:09:33（北京时间） 
-! Total count: 15854
+! Version: 2023-04-07 00:09:00（北京时间） 
+! Total count: 15865
 -960x*0.gif
 -250.js*
 
@@ -1771,12 +1771,18 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .userapi.com/impg^$removeparam=proxy
 .userapi.com/impg^$removeparam=type
 .xyz$domain=yinghuacd.com
+.xyz/*0*0*==$third-party
 .xyz/alpine?$third-party
 .xyz/base*.js?$third-party
+.xyz/foundation?$third-party
+.xyz/gatsby?$third-party
 .xyz/hm.html?s=
 .xyz/hm.js?$third-party
 .xyz/jque*.js?$third-party
+.xyz/mithril?$third-party
+.xyz/stimulus?$third-party
 .xyz/svelte?$third-party
+.xyz/xefeliffng_$third-party
 .xyz/xling_*_*_*.js?*
 /(?::\/\/i1\.hoopchina\.com\.cn\/blogfile\/.+_\d{3}x\d{4})/
 /*/*.add.*.add
@@ -6142,6 +6148,7 @@ www.williamlong.info##div.divAdsense,ins.adsbygoogle
 www.wjx.top$$div[id="divAward"]
 www.wy96.com##img[src^="/wy96ad/"]
 www.xbiquge.com,www.xbquge.com,www.biquge.tw,biquge.com.tw##.con_ad,[width="960"][height="90"],.dahengfu,[src^="http://img.xa9t.com/html/click/"],[src^="http://img.fd7c.com/html/click/"]
+www.xda-developers.com##DIV.adzone-above-latest
 www.xhgszy.com##A[href*='www.agg668.com']
 www.xhgszy.com##A[href*='www.g22688.com']
 www.xhgszy.com##IMG[style='width:100%']
@@ -10232,6 +10239,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||h5f2.com/image/ll/
 ||h5jww.com^
 ||h6cp.icu^
+||h731.icu^
 ||h9k9.com^
 ||hackeraa.xyz^
 ||hadesleta.com^
@@ -10298,6 +10306,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hechaocheng.cn^
 ||hefan365.com^
 ||hefei126.com^
+||hefei64.com^
 ||hehuren.cn^
 ||heiad.com^
 ||heidoumedia.com^
@@ -14283,6 +14292,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||vogate.com^
 ||voiceads.cn^
 ||vokmhydy.xyz^
+||vorluic.cn^
 ||vp.html5.qq.com^
 ||vpic.video.qq.com^
 ||vpie.net^
@@ -14418,6 +14428,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wfndponfd.com^
 ||wghjq.cn^
 ||wgnpq.com^
+||wgoeisdnlk.com^
 ||whatsapp.com^$removeparam=helpref
 ||whcrdz.com^
 ||whdafei.com^

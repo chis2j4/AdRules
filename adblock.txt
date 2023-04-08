@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-08 00:08:59（北京时间） 
-! Total count: 15865
+! Version: 2023-04-08 08:36:06（北京时间） 
+! Total count: 15868
 -960x*0.gif
 -250.js*
 
@@ -360,7 +360,7 @@ $document,removeparam=_clde
 $document,removeparam=_cldee
 $document,removeparam=l,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
 $document,removeparam=o,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
-$document,removeparam=source,denyallow=googlevideo.com,domain=1sol.io|ashford.com|asos.com|att.com|awd-it.*|bankofamerica.com|barenecessities.com|bedbathandbeyond.com|betterprogramming.pub|blavity.com|blog.getadblock.com|blogs.oracle.com|boscovs.com|boxboat.com|brownells.*|britishcornershop.co.uk|burkesoutlet.com|bybit.com|choicehotels.com|chollometro.com|coinpanel.com|contabo.com|cyberghostvpn.com|despegar.*|directv.com|discord.*|docs.google.com|docsend.com|drinkhint.com|edx.org|educba.com|eonline.com|escentual.com|eventbrite.*|fiverr.com|fool.com|forms.gle|gethotspotshield.com|gleam.io|goodcrypto.app|googleusercontent.com|greenhouse.io|greenvoice.fr|hammacher.com|hanes.com|hobbyhall.fi|hotspotshield.com|hottopic.com|housing.com|hp.com|instagram.com|itnext.io|jacquielawson.com|just-eat.co.uk|kasta.io|ladbible.com|medium.com|microsoftedgewelcome.microsoft.com|monster.fi|nautica.com|nortonsafe.search.ask.com|onehanesplace.com|outnorth.fi|paypal.com|petsupplies.com|phonesoap.com|quizlet.com|riteaid.com|runnode.com|search.brave.com|seekingalpha.com|sonos.com|spiceworks.com|squarespace.com|studio.co.uk|subscribe.gq.com|t.me|thedailybeast.com|tiktok.com|tokopedia.com|tommybahama.com|torrid.com|tous.com|tradingview.com|tumblr.com|twitter.com|user.qzone.qq.com|vimeo.com|webhint.io|wilsonsleather.com|wired.com|ylighting.com|youtube.com|yubo.live
+$document,removeparam=source,denyallow=googlevideo.com,domain=1sol.io|ashford.com|asos.com|att.com|awd-it.*|bankofamerica.com|barenecessities.com|bedbathandbeyond.com|betterprogramming.pub|blavity.com|blog.getadblock.com|blogs.oracle.com|boscovs.com|boxboat.com|brownells.*|britishcornershop.co.uk|burkesoutlet.com|bybit.com|choicehotels.com|chollometro.com|coinpanel.com|contabo.com|cyberghostvpn.com|despegar.*|directv.com|discord.*|docs.google.com|docsend.com|drinkhint.com|edx.org|educba.com|eonline.com|escentual.com|eventbrite.*|fiverr.com|fool.com|forms.gle|gethotspotshield.com|gleam.io|goodcrypto.app|googleusercontent.com|greenhouse.io|greenvoice.fr|hammacher.com|hanes.com|hobbyhall.fi|hotspotshield.com|hottopic.com|housing.com|hp.com|instagram.com|itnext.io|jacquielawson.com|just-eat.co.uk|kasta.io|ladbible.com|learn.microsoft.com|medium.com|microsoftedgewelcome.microsoft.com|monster.fi|nautica.com|nortonsafe.search.ask.com|onehanesplace.com|outnorth.fi|paypal.com|petsupplies.com|phonesoap.com|quizlet.com|riteaid.com|runnode.com|search.brave.com|seekingalpha.com|sonos.com|spiceworks.com|squarespace.com|studio.co.uk|subscribe.gq.com|t.me|thedailybeast.com|tiktok.com|tokopedia.com|tommybahama.com|torrid.com|tous.com|tradingview.com|tumblr.com|twitter.com|user.qzone.qq.com|vimeo.com|webhint.io|wilsonsleather.com|wired.com|ylighting.com|youtube.com|yubo.live
 $document,removeparam=trackID
 $document,removeparam=trackid,domain=~nzpost.co.nz
 $image,third-party,domain=avtb6677.com|lady1.top
@@ -637,6 +637,7 @@ $removeparam=ad_name
 $removeparam=ad_prodid,domain=adlibris.com|scandinavianphoto.fi|e-ville.com|data-systems.fi|24hshop.fi|swamp.fi
 $removeparam=ad_pvid
 $removeparam=ad_src,domain=adlibris.com|scandinavianphoto.fi|e-ville.com|data-systems.fi|24hshop.fi|swamp.fi
+$removeparam=ad_sub,domain=homo.xxx
 $removeparam=ad_type
 $removeparam=adblock,domain=reddit.app.link
 $removeparam=adcampaigngroup
@@ -829,6 +830,7 @@ $removeparam=clickSR
 $removeparam=click_id,domain=~bookings.beatthatflight.*
 $removeparam=click_key,domain=etsy.com
 $removeparam=click_sum,domain=etsy.com
+$removeparam=clickedFromCategory,domain=objectci.com|pieces.com|selected.com|vila.com
 $removeparam=clicktime
 $removeparam=clkInTab,domain=ocado.com
 $removeparam=cm_ainfo
@@ -1383,6 +1385,7 @@ $removeparam=rfsn
 $removeparam=rid,domain=giphy.com
 $removeparam=rlsatarget
 $removeparam=rlz
+$removeparam=rm,domain=jackjones.com|jjxx.com|mamalicious.com|only.com|onlyandsons.com|veromoda.com
 $removeparam=rmmds
 $removeparam=rmtsref
 $removeparam=rndad
@@ -10647,6 +10650,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ildhy.com^
 ||ilepai.com^
 ||ilkwork.com^
+||ilo.org^$removeparam=ssSourceSiteId
 ||iloveyouxi.com^
 ||ilyf4amifh.com^
 ||im-x.jd.com^
@@ -13193,7 +13197,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||seefarger.com^
 ||segment.com^
 ||select6.reader.qq.com/*/getRecommendDataForAd
-||selected.com^$removeparam=clickedFromCategory
 ||self-study-service.com.cn^
 ||sell*.etlong.com^
 ||sellbuyads.cn^$third-party

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-09 16:08:43（北京时间） 
-! Total count: 15873
+! Version: 2023-04-10 00:08:09（北京时间） 
+! Total count: 15887
 -960x*0.gif
 -250.js*
 
@@ -247,6 +247,10 @@
 ##[style$="both;margin: auto;text-align: center;line-height: initial;margin-bottom: 10px;"]
 ##[style$='auto;text-align: center;line-height: initial;margin-bottom: 10px;margin-left: 20px;margin-right: 20px;']
 ##[style*='width: 100% !important; margin: 0px !important; padding: 0px !important; display: flex !'] *
+##[style='top: 0vw; display: block;']
+##[style='top: 16.4vw; display: block;']
+##[style='top: 24.6vw; display: block;']
+##[style='top: 8.2vw; display: block;']
 ##[style='width:100%;height:auto;min-height:120px;position:relative;display:block;']
 ##[style^="pointer-events: none;background-image:url('https://33789.qqqwww987.site"],[style^='z-index: 2147483647; height: 123px; ']
 ##[style^='bottom: 0px; width: 100%; height: 50vw; position: fixed; left: 0px; right: 0px; margin: 0px; background: url("https://']
@@ -2619,6 +2623,7 @@ Mplay/kk1.js
 ^via=futurepedia^$removeparam=via
 ^via=toolbar^$removeparam=via,domain=user.qzone.qq.com
 ^z=*&var=$removeparam=var
+_/bigREDcat.css?
 _/bigREDdog.css?
 _/bigREDdog.js
 _ad&callback=
@@ -9519,6 +9524,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dsxgg.com^
 ||dt243100.com^
 ||dtckvpc.cn^
+||dtfyhdghsd.online^
 ||dtrcw.cc^
 ||dtscout.com^
 ||dtsxn.cn^
@@ -12633,6 +12639,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||prispresseren.dk^$removeparam=/^amp;/
 ||privateadx.com^
 ||prjslxhtx005.top^
+||prlioxb.cn^
 ||pro.cn^
 ||prodigalpromotion.com^
 ||profile.csdnimg.cn^
@@ -12830,6 +12837,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qnieo.fun^
 ||qnipkk.xyz^
 ||qnwxk.com^$third-party
+||qonkdwwf.net^
 ||qowfknlds.net^
 ||qpb.sohu.com^
 ||qpb0.sohu.com^
@@ -13602,6 +13610,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||svdpgmt.cn^
 ||svem.cc^
 ||svvbrkk.cn^
+||sw9t.ml^
 ||swc.weather.com.cn^
 ||swf?noCache=
 ||switchadhub.com^
@@ -13755,6 +13764,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||techcrunch.com^$removeparam=sr_share
 ||techspecndt.com^
 ||ted-club.com^
+||teddync.net^
 ||teletrader.com^$removeparam=internal
 ||templates_pc/default/scripts/chapter_bottom.js
 ||tencent.xn--io0a7i^
@@ -15306,6 +15316,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zdamybi.xyz^
 ||zdcfta.buzz^
 ||zdcfta.live^
+||zdcoes.live^
+||zdcv5.xyz^
 ||zdd-9.com^
 ||zdfans.com/wp-content/themes/D7/img/ad
 ||zdfjas.top^
@@ -15316,6 +15328,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zdhpen.xyz^
 ||zdhpenn.live^
 ||zdhpenn.shop^
+||zdkdwk.live^
+||zdkjr.xyz^
 ||zdlnhv.xyz^
 ||zdmimg.com/collect^
 ||zdpeanut.com^

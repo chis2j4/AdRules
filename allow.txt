@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-04-09 16:08:54（北京时间） 
-! Total count: 3071
+! Version: 2023-04-10 00:08:19（北京时间） 
+! Total count: 3072
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -6087,6 +6087,7 @@
 @@||sozi.cn/images/ad/tj
 @@||spanishdict.com^$generichide
 @@||spankbang.com^*/prebid-ads.js$domain=spankbang.com
+@@||spark.co.nz/content/*/utag.sync.js$~third-party
 @@||spatialbuzz.com/piwik/piwik.js$domain=spatialbuzz.com
 @@||speakout7eleven.ca^*/Magento_GoogleTagManager/$~third-party
 @@||speedtest.net^

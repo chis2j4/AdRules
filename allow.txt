@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-04-09 08:39:27（北京时间） 
-! Total count: 3070
+! Version: 2023-04-09 16:08:54（北京时间） 
+! Total count: 3071
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -6377,6 +6377,7 @@
 @@||urlgalleries.net^$generichide
 @@||usbank.com^*/adrum.js?$~third-party
 @@||useinsider.com/ins.js$domain=pizzahut.jp
+@@||user.userguiding.com/sdk/identify$xmlhttprequest,domain=xaris.ai
 @@||userapi.com^*.gif?extra=$image,domain=vk.com
 @@||userload.co/adpopup.js$script
 @@||usgamer.net/static/scripts/AdsLoad.js$script,~third-party

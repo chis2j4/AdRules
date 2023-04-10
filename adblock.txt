@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-10 08:37:28（北京时间） 
-! Total count: 15887
+! Version: 2023-04-10 16:09:58（北京时间） 
+! Total count: 15894
 -960x*0.gif
 -250.js*
 
@@ -3830,6 +3830,7 @@ huxiu.com##div#app-guide-box
 huxiu.com##li:nth-of-type(1) > .header-top-list__link > .flip-wrap > .flip-up
 huya.com###J_duyaHeaderRight > .clearfix.duya-header-control > .hy-nav-download.hy-nav-right
 huya.com###player-download-guide-tip
+huya.com##.jump-to-phone
 huya.com##.tip-bg-common-new.diy-activity-icon-bubble-tips
 huya.com##.wrap-income.chat-wrap-panel
 huya.com##div[class*="NavDownload"]
@@ -4368,6 +4369,9 @@ m.88dshu.com###xs_dev_top
 m.88dshu.com##div.view_a
 m.88dshu.com##div.view_lm
 m.a67.com##[id^="ad"]
+m.acfun.cn##.flex-center.down-app-button
+m.acfun.cn##.header-ico
+m.acfun.cn##.shown.open-app-btn
 m.aliyun.com###guid-1351324
 m.appchina.com##div[class^="yyh"]
 m.autohome.com.cn##A[href^="http://t.cn"],section.fn-mt.fn-mlr,li.jmp-promote,[class^="adv03"],#s2205,#s1748
@@ -11881,6 +11885,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mimg.127.net/m/lb/img/leftNavBottom/$image
 ||mimg.127.net/m/lc/img/LoginBackgroundPic/$image
 ||minanjiaoyu.com^
+||mindopu.com^
 ||minero-proxy-*now.sh
 ||minero.pw^
 ||minesage.com^
@@ -15328,6 +15333,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zdhpen.xyz^
 ||zdhpenn.live^
 ||zdhpenn.shop^
+||zdjeae.live^
+||zdkdwk.buzz^
 ||zdkdwk.live^
 ||zdkjr.xyz^
 ||zdlnhv.xyz^

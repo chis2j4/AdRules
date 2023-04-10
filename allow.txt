@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-04-10 00:08:19（北京时间） 
-! Total count: 3072
+! Version: 2023-04-10 08:37:38（北京时间） 
+! Total count: 3070
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4582,7 +4582,6 @@
 @@||d.tailtarget.com/profiles.js$domain=superesportes.com.br
 @@||d1-dm.com^$generichide
 @@||d1igp3oop3iho5.cloudfront.net^*/zaius.js$script,domain=subscriptions.management
-@@||d1km2unb2600pw.cloudfront.net/assets/tracking-history-popup-$script,domain=collectplus.yodel.co.uk
 @@||d2r1yp2w7bby2u.cloudfront.net^$domain=sonyliv.com
 @@||d2wy8f7a9ursnm.cloudfront.net/v4/bugsnag.min.js$script,domain=einthusan.tv|tlk.io
 @@||d2wy8f7a9ursnm.cloudfront.net^$script,domain=staples.ca
@@ -6019,7 +6018,6 @@
 @@||shopeesz.com/shopee/*/modules/ads/
 @@||shopify.com/*assets/pixel.gif$image,domain=metrovac.com
 @@||shopify.com/shopifycloud/boomerang/shopify-boomerang-$domain=rydewear.com
-@@||shopify.com^*/assets/tracking-$domain=oatsovernight.com
 @@||shopping.naver.net/ad/$image,script,stylesheet,domain=naver.com
 @@||show.g.mediav.com/s?type=$domain=v.360kan.com
 @@||show.g.mediav.com/s?type=$script,domain=miercn.com
@@ -6087,7 +6085,7 @@
 @@||sozi.cn/images/ad/tj
 @@||spanishdict.com^$generichide
 @@||spankbang.com^*/prebid-ads.js$domain=spankbang.com
-@@||spark.co.nz/content/*/utag.sync.js$~third-party
+@@||spark.co.nz/content/*/utag.sync.js$domain=skinny.co.nz
 @@||spatialbuzz.com/piwik/piwik.js$domain=spatialbuzz.com
 @@||speakout7eleven.ca^*/Magento_GoogleTagManager/$~third-party
 @@||speedtest.net^

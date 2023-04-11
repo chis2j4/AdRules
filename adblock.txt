@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-11 08:38:54（北京时间） 
-! Total count: 15894
+! Version: 2023-04-11 16:09:46（北京时间） 
+! Total count: 15904
 -960x*0.gif
 -250.js*
 
@@ -162,6 +162,7 @@
 ##INS.adsbygoogle
 ##P[style$='transparent !important; font-size: 0px !important; text-indent: -10000px !important; height: 125px !important;']
 ##P[style*='background: rgb(255, 255, 255) !important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important;']
+##SPAN#VuMk2.IgpuN2
 ##SPAN#qdSZ2
 ##SPAN.closebox1,SPAN.closebox2,SPAN.closebox3,SPAN.closebox4
 ##SPAN[style$='font-size: 6vw; color:#fff; text-align: center; transform: rotate(-90deg);']
@@ -255,7 +256,6 @@
 ##[style^="pointer-events: none;background-image:url('https://33789.qqqwww987.site"],[style^='z-index: 2147483647; height: 123px; ']
 ##[style^='bottom: 0px; width: 100%; height: 50vw; position: fixed; left: 0px; right: 0px; margin: 0px; background: url("https://']
 ##a > I.gg-icon
-##a > IMG.img-responsive[src*='.gif']
 ##a > IMG[src$='.gif'][wapsrc][style^='width: 100%']
 ##a.broad_roll
 ##a.gggg[href^="https"]
@@ -1760,6 +1760,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .club$domain=yinghuacd.com
 .com/ads.
 .com/adv1/?q=
+.com/c.php?s=*=*=$third-party
 .com/gg.js
 .com/sh/to/$third-party
 .cyou/redbaiduct.com
@@ -1771,6 +1772,8 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .live/r/*/*_r=*
 .live/ty/*-*-*
 .live:*/o.js
+.net/v2/stats/10*$third-party
+.net/vh1/15*$third-party
 .openx.
 .top/*/*-*-*-*.*?_=*
 .top/*q=*form=*&*url=http*$third-party
@@ -7917,6 +7920,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||aomeng.net^
 ||aoovqo8t.stats.lncld.net^
 ||aoqinglv.cn^
+||aornkmae.com^
 ||aoshi.com/jpfans.jpg
 ||aoshi.com/jpseek.jpg
 ||aoyou1.top^
@@ -9791,6 +9795,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||faiusr.com/2/ABUIABACGAAg_dCW0gUo7NqNJjDgATh3.jpg
 ||faiusr.com/3/ABUIABADGAAgkIXb6gUo-L_AwwcwsAk4Wg.gif
 ||fakjkwp.cn^
+||falal.cn^
 ||famorlymal.com^
 ||fandom.com^$removeparam=so
 ||fangfeng009.xyz^
@@ -11318,6 +11323,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lekkrrlel.com^
 ||lekuad.com^
 ||lekuad.com^$third-party
+||lendc.xyz^
 ||lendgo.com^$removeparam=_offer_super-low_rates.
 ||lendgo.com^$removeparam=apr
 ||lendgo.com^$removeparam=lt
@@ -12842,6 +12848,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qnieo.fun^
 ||qnipkk.xyz^
 ||qnwxk.com^$third-party
+||qoilbsfwqd.net^
 ||qonkdwwf.net^
 ||qowfknlds.net^
 ||qpb.sohu.com^
@@ -12916,6 +12923,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qweewq2021.online^
 ||qwer220.cn^
 ||qwertyuadf.com^
+||qwrnkpow.com^
 ||qwsy.com/script/TuiGuang.js
 ||qwsy.com/script/jquery.lazyload.js
 ||qwvv.com^
@@ -13785,6 +13793,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tetonashentai.com/wp-$script
 ||tf58.com^
 ||tfbulkidn.com^
+||tfexcludes.shop^
 ||tfsuggestion.live^
 ||tfutcmail.com^
 ||tfzozf.xyz^
@@ -14444,6 +14453,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wensixuetang.com^
 ||wenyoutai.com/data/attachment/forum$image
 ||weplay.cn/crossdomain.xml$object-subrequest
+||werois.com^
 ||wesat.cn^
 ||west001.com^
 ||wfhxssg.com^

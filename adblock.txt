@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-11 16:09:46（北京时间） 
+! Version: 2023-04-12 00:09:32（北京时间） 
 ! Total count: 15904
 -960x*0.gif
 -250.js*
@@ -1647,7 +1647,7 @@ $~css,~script,removeparam=campaignid
 $~image,removeparam=itok
 $~ping,removeparam=lcid,domain=~rekono.si
 $~subdocument,removeparam=aff,domain=~discoverbank.com|~discover.com
-$~subdocument,removeparam=referrer,domain=~f4map.com|~deviantart.com|~github.com|~discover.*|~vimeo.*
+$~subdocument,removeparam=referrer,domain=~bolt.com|~f4map.com|~deviantart.com|~github.com|~discover.*|~vimeo.*
 $~xmlhttprequest,removeparam=/^refsrc=/i
 $~xmlhttprequest,removeparam=LID
 $~xmlhttprequest,removeparam=mbid

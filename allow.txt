@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-04-12 16:09:49（北京时间） 
-! Total count: 3070
+! Version: 2023-04-13 00:09:40（北京时间） 
+! Total count: 3072
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -6004,6 +6004,7 @@
 @@||seyise8.com^$generichide
 @@||seyy66.space^$generichide
 @@||seznam.cz/?spec=*&url=$image,domain=search.seznam.cz
+@@||shaka-player-demo.appspot.com/lib/ads/ad_manager.js$script,~third-party
 @@||shana.pe.kr^$generichide
 @@||share.baidu.com^$script,stylesheet,domain=k73.com
 @@||share1223.com^$generichide
@@ -6235,6 +6236,7 @@
 @@||tgfcer.com/advert.js
 @@||th-sjy.com^$generichide
 @@||th7.cn/sanda2015/css/ads.js
+@@||thaiairways.com/static/common/js/wt_js/webtrends.min.js$~third-party
 @@||thdstatic.com/experiences/local-ad/$domain=homedepot.com
 @@||the-japan-news.com/modules/js/lib/fgp/fingerprint2.js
 @@||thefreedictionary.com^$generichide

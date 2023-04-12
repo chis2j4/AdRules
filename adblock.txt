@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-12 00:09:32（北京时间） 
-! Total count: 15904
+! Version: 2023-04-12 08:37:25（北京时间） 
+! Total count: 15913
 -960x*0.gif
 -250.js*
 
@@ -617,7 +617,7 @@ $removeparam=_vsrefdom
 $removeparam=_zucks_suid
 $removeparam=a_aid
 $removeparam=a_fid
-$removeparam=ab,domain=fanatics.com|nhl.com
+$removeparam=ab,domain=fanatics.com|hbr.org|nhl.com
 $removeparam=acampID
 $removeparam=acid,domain=lenovo.com
 $removeparam=acontext
@@ -788,7 +788,7 @@ $removeparam=camp,domain=calvinklein.*|dickssportinggoods.com|dockers.com|dressb
 $removeparam=campaign,domain=blue-tomato.com|sitepoint.com|sportler.com|peterhahn.*|outnorth.fi|shopee.*|bybit.com|t.me|twitter.com|docs.google.com|instagram.com|forms.gle|goodcrypto.app|discord.*|eventbrite.*|youtube.com|coinpanel.com|docsend.com|kasta.io|runnode.com|gleam.io|1sol.io|scmp.com|bdsmx.tube
 $removeparam=campaign,domain=reddit.app.link
 $removeparam=campaign_id,domain=~kochava.com|~unisportstore.*
-$removeparam=cardId
+$removeparam=cardId,document,domain=alibaba.com
 $removeparam=cbsclick,domain=paramountplus.com|cbs.com
 $removeparam=ceneo_spo
 $removeparam=cf_affiliate_id
@@ -972,7 +972,7 @@ $removeparam=fobs
 $removeparam=fr,domain=baidu.com|thegay.com
 $removeparam=fr,domain=hclips.com
 $removeparam=fref
-$removeparam=from,domain=apkpure.com|bandcamp.com|browserling.com|luisaviaroma.com|sogou.com|onlinepngtools.com
+$removeparam=from,domain=apkpure.com|bandcamp.com|browserling.com|luisaviaroma.com|sogou.com|store.hbr.org|onlinepngtools.com
 $removeparam=fromLoggedOutHome,domain=ocado.com
 $removeparam=fromMostRead,domain=bloomberg.com
 $removeparam=fromRankId
@@ -1417,7 +1417,7 @@ $removeparam=sb_referer_host
 $removeparam=sc,domain=bing.com|qvc.com|startpage.com
 $removeparam=scd,domain=ashleystewart.com
 $removeparam=scici,domain=shein.com
-$removeparam=scid
+$removeparam=scid,domain=~pnc.com
 $removeparam=scm
 $removeparam=scm-url
 $removeparam=scm_id
@@ -7700,6 +7700,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||aimg.shangdu.com/$script,image
 ||aiode.cn^
 ||aipai.com/rsd/
+||airbnb.(com|ae|ca|co.in|co.nz|co.uk|co.za|com.au|com.mt|com.sg|de|gy|ie)^$removeparam=federated_search_id
+||airbnb.(com|ae|ca|co.in|co.nz|co.uk|co.za|com.au|com.mt|com.sg|de|gy|ie)^$removeparam=search_type
+||airbnb.(com|ae|ca|co.in|co.nz|co.uk|co.za|com.au|com.mt|com.sg|de|gy|ie)^$removeparam=source
+||airbnb.(com|ae|ca|co.in|co.nz|co.uk|co.za|com.au|com.mt|com.sg|de|gy|ie)^$removeparam=source_impression_id
 ||airpush.com^
 ||aise9738.com^
 ||aiseet.aa.atianqi.com^
@@ -8380,6 +8384,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bbc.$removeparam=pinned_post_asset_id
 ||bbc.$removeparam=pinned_post_locator
 ||bbc.$removeparam=pinned_post_type
+||bbc.com^$removeparam=/^at_[a-z_]+=/
+||bbc.com^$removeparam=xtor
 ||bbs.nga.cn/app_api.php?__lib=home&__act=ad&
 ||bbs.yys5.com/76070.gif$image
 ||bbs.zhanzhangwo.com/img/*.gif
@@ -8502,6 +8508,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bilibili.com^$removeparam=bbid
 ||bilibili.com^$removeparam=broadcast_type
 ||bilibili.com^$removeparam=bsource
+||bilibili.com^$removeparam=buvid
 ||bilibili.com^$removeparam=callback
 ||bilibili.com^$removeparam=from
 ||bilibili.com^$removeparam=from_source
@@ -13582,6 +13589,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||stg8.com^
 ||stgowan.com^
 ||stmzzs.com^
+||store.hbr.org^$removeparam=fromSku
+||store.hbr.org^$removeparam=fromSkuRelated
 ||store.tv.api.3g.youku.com^
 ||store.xl.api.3g.youku.com^
 ||storyren.com/images/dl

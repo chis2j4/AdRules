@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-13 16:09:49（北京时间） 
-! Total count: 15919
+! Version: 2023-04-14 00:08:17（北京时间） 
+! Total count: 15927
 -960x*0.gif
 -250.js*
 
@@ -1928,7 +1928,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /ali213-kx-function.js
 /amp-analytics-
 /android_start.asp?start=
-/api/ad/*
+/api/ad/
 /api/analytics?_
 /api/getPos?jspath=/videos/view//
 /app/*/%E6%B5%8F%E8%A7%88%E5%99%A8.apk
@@ -6225,6 +6225,7 @@ xafc.com###news_detail_onescreen,#sidebar,[class^="float_ad"]
 xanimeporn.com###videoad,[id^="popmake-"],[id^="pum"],[id$="_ad"],.textwidget
 xav11.com###banner,[class="index-info cc"]
 xbqge.com##.mulugg
+xc*.cos.ap-*.myqcloud.com/*.js
 xcar.com.cn##DIV.adbox980.clearfix,DIV[class^="adset_955"],div.ad230,DIV[class^="market_ad mar_"],.ad980,.news_lt_ad,[class="ns_wf_detail bd"],[class^="ad_"]
 xda-developers.com##.purchad,.ad-tag,.leaderboard
 xdcad.net###diy1
@@ -8942,6 +8943,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cj0968.com/mmad_cn18.js?var=
 ||cjmob.com^
 ||ck1997.com/js/lunbo.js
+||ck33.top^
 ||ckerw.xyz^
 ||clarins.com.cn^
 ||click.fanyi.baidu.com^
@@ -9483,6 +9485,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dns.ximalaya.com^
 ||dnyzbp.cn^
 ||dobest.com/$third-party
+||doccd.xyz^
 ||dodhvug.cn^
 ||doglobal.com^
 ||doglobal.net^
@@ -10776,6 +10779,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||intimidatepropel.com^
 ||intl.iqiyi.com/control/feature_switch?
 ||inveno.com^
+||ioiksw.cn^
 ||ionemanhua.com/js/xvideo.js
 ||ionksfefe.xyz^
 ||iosppk.com^
@@ -11052,6 +11056,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jszctech.com^
 ||jszhonglang.com^
 ||jt.dangbei.net/dbfs.js
+||jtjh.tw^
 ||jtjsmp.top^
 ||jtxh.net^
 ||jtys8.com^
@@ -12320,6 +12325,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||oadz.com^
 ||oaer9.cn^
 ||oaftaijo.net^
+||oajfpqojev.net^
 ||obertsiamw.fun^
 ||obgbok.com^
 ||oceanbot-steam.com^
@@ -12490,6 +12496,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pangu.cc^
 ||panmeme.com/pc/common.js
 ||panmeme.com/pc/youxiajiao.js
+||pansclub.xyz^
 ||paopao.iqiyi.com^
 ||paopao0.qiyipic.com^
 ||paopao1.qiyipic.com^
@@ -15473,6 +15480,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zone.guiderank-app.com/guiderank-web/app/popUpAdCollection^
 ||zongzuhulian.com^
 ||zonst.com^
+||zouqiuyyds.com^
 ||zowralr.cn^
 ||zp0573.cn^
 ||zpxw.vip^

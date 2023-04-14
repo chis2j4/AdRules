@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-14 16:09:33（北京时间） 
-! Total count: 16088
+! Version: 2023-04-15 00:09:20（北京时间） 
+! Total count: 16102
 -960x*0.gif
 -250.js*
 
@@ -275,6 +275,7 @@
 ##body > DIV[style='display: block; width: 100%; height: 132px;']
 ##body > DIV[style='display: block; width: 100%; height: 133px;']
 ##body > [id][style*='width:100%'][style*='min-height:120px']
+##body > a[id*='hudie_']
 ##body > h1 > strong > title > a
 ##body#nr_body div.fixed ~ *
 ##body#nr_body font > [id]
@@ -327,11 +328,13 @@
 ##div.poi-row IMG[width='950'][height='300'][style='max-width:100%;height:auto']
 ##div.poi-row a > IMG[width='100%'][height='auto'][src]
 ##div.post_list_ajax > A[target='_blank']
+##div.recommend > a[id*='hudie_']
 ##div.row > DIV.md-r-panel
 ##div.row > div[id] > ul > li.cpn > a
 ##div.row.abs-text
 ##div.row.col5.clearfix:nth-of-type(2) > dl:nth-of-type(1)
 ##div.stui-pannel__bd > #t-img-box
+##div.synopsisArea > a[id*='hudie_']
 ##div.video-box > div.hf > a
 ##div:not([class]):not([id]) > a > [src*='.gif'][style*='width:100%']
 ##div[class*='bookid_ads']
@@ -3027,7 +3030,6 @@ bilibili.com###openAppBtn
 bilibili.com##.app-download-link
 bilibili.com##.bili-app
 bilibili.com##.bili-app-link-container
-bilibili.com##.bili-dialog-m
 bilibili.com##.clearfix.h5-download-bar
 bilibili.com##.gg-window > .operate-card
 bilibili.com##.index__container__src-commonComponent-bottomOpenApp-
@@ -7805,6 +7807,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||allxing.net^
 ||allyes.
 ||allykitchen.com^
+||almabelen.com^
 ||alog.umeng
 ||als.baidu.com^
 ||alwayzcars.com^
@@ -8228,6 +8231,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||att.stargame.com^
 ||aty.cp45.ott.cibntv.net^
 ||au.w.inmobi.cn/c.asm^$app=com.baidu.yuedu
+||au6w0.xyz^
 ||au737.com^
 ||auction.unityads.unity3d.com^$third-party
 ||audible.$removeparam=ipRedirectFrom
@@ -9763,6 +9767,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||egsxdp.cn^
 ||ehk.trenhdg.com^
 ||eignky.xyz^
+||eileenjaney.com^
 ||eiykmtb.cn^
 ||ejfeng.com^
 ||ejieban.com^
@@ -9965,6 +9970,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||findqc.com^$third-party
 ||finead.cn^
 ||fintechpi.com^
+||fionamignon.com^
 ||firearmtire.com^
 ||firefang.cn^
 ||firefox.com^$removeparam=form_type
@@ -11516,6 +11522,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||linkedin.com^$removeparam=updateEntityUrn
 ||linktech.cn^
 ||linkvertise.com^$removeparam=o
+||linuozhiyao.xyz^
 ||linyongming.top^
 ||linzhangxian.com^
 ||lishibu.com^
@@ -12733,6 +12740,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pixel.facebook.com^$third-party
 ||pixels.asia^
 ||pixfuture.net^
+||pj3f7.xyz^
 ||pj8.net^$third-party
 ||pjogndc8ixoidna.360doc.cn^
 ||pk840.com^
@@ -13555,6 +13563,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||slfango.ltd^
 ||slickdeals.net^$removeparam=bsencid
 ||sljkj.com^
+||slonlyuse.shop^
 ||slsuggestion.live^
 ||slutcmail.com^
 ||sm-tc.cn^
@@ -13818,6 +13827,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||syr66.com.cn^
 ||sysad.cn^
 ||systemcity.cn/feed.php
+||sytclsb.cyou^
 ||syxgsq.com.cn^
 ||szdaqi88.com^
 ||szfhl99.com^
@@ -14147,6 +14157,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||touxiang.la/js/book.js
 ||tovppl.cn^
 ||tp.nty.tv189.com//bmsimg/*.jpg$domain=h5.nty.tv189.com,app=com.telecom.video
+||tqdpqq.com^
 ||tqmcj.cn^
 ||tr.iadsdk.apple.com^$third-party
 ||tr.jianshu.com^
@@ -14429,6 +14440,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||vas-hl-x.snssdk.com^
 ||vaxgyly.cn^
 ||vchiy.com^
+||vel7.xyz^
 ||velocitycdn.com^
 ||venator.link^
 ||venetrigni.com^
@@ -15075,6 +15087,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xiaohuangshu.me^
 ||xiaojifly.cn^
 ||xiaomifood.cn^
+||xiaoqurong.com^
 ||xiaosunxin.cn^
 ||xiaoyang.mobi^
 ||xiaoyange.cn^
@@ -15237,6 +15250,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||yaoyee.com^
 ||yaqurc.com^
 ||yazhouyu.
+||yb0a.xyz^
 ||yb6.me/img/VY9F^
 ||yb6.me^$app=com.xxx.svideo
 ||ycc90.xyz^

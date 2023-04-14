@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-14 00:08:17（北京时间） 
-! Total count: 15927
+! Version: 2023-04-14 08:36:49（北京时间） 
+! Total count: 15949
 -960x*0.gif
 -250.js*
 
@@ -1539,7 +1539,7 @@ $removeparam=tid1
 $removeparam=tid2
 $removeparam=tid3
 $removeparam=tid4
-$removeparam=tj
+$removeparam=tj,domain=baidu.com|sina.com.cn
 $removeparam=tmLog
 $removeparam=tmad
 $removeparam=tmcampid
@@ -8278,17 +8278,38 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||baidu.com/tc?
 ||baidu.com/tcbox?
 ||baidu.com^$app=com.tencent.qqlive
+||baidu.com^$document,removeparam=/^from/
+||baidu.com^$document,removeparam=/^rsv_/
+||baidu.com^$document,removeparam=category
+||baidu.com^$document,removeparam=cf
+||baidu.com^$document,removeparam=fid
+||baidu.com^$document,removeparam=iid
+||baidu.com^$document,removeparam=jid
+||baidu.com^$document,removeparam=lattr
+||baidu.com^$document,removeparam=miniId
+||baidu.com^$document,removeparam=nc
+||baidu.com^$document,removeparam=pi
+||baidu.com^$document,removeparam=pn
+||baidu.com^$document,removeparam=prod_type
+||baidu.com^$document,removeparam=ps
+||baidu.com^$document,removeparam=query
+||baidu.com^$document,removeparam=rn
+||baidu.com^$document,removeparam=tpl_from
+||baidu.com^$document,removeparam=xzhid
 ||baidu.com^$removeparam=/^rsv/
 ||baidu.com^$removeparam=asctag
+||baidu.com^$removeparam=bsst
 ||baidu.com^$removeparam=cl
 ||baidu.com^$removeparam=dyTabStr
 ||baidu.com^$removeparam=euri
+||baidu.com^$removeparam=fenlei
 ||baidu.com^$removeparam=for
 ||baidu.com^$removeparam=frs
 ||baidu.com^$removeparam=gsid
 ||baidu.com^$removeparam=hisfilter
 ||baidu.com^$removeparam=hl_tag
 ||baidu.com^$removeparam=idctag
+||baidu.com^$removeparam=ie
 ||baidu.com^$removeparam=inputT
 ||baidu.com^$removeparam=issp
 ||baidu.com^$removeparam=ivk_sa
@@ -8298,6 +8319,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||baidu.com^$removeparam=od
 ||baidu.com^$removeparam=oq
 ||baidu.com^$removeparam=p_from
+||baidu.com^$removeparam=p_tk
 ||baidu.com^$removeparam=pageFrom
 ||baidu.com^$removeparam=params_ssrt
 ||baidu.com^$removeparam=platform

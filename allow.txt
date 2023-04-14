@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-04-14 00:08:30（北京时间） 
-! Total count: 3072
+! Version: 2023-04-14 08:37:02（北京时间） 
+! Total count: 3070
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4380,7 +4380,6 @@
 @@||cdn.staticfile.org^$script,domain=dybee.tv
 @@||cdn.treasuredata.com/sdk/$script,domain=retty.me
 @@||cdn.treasuredata.com/sdk/$script,domain=sso.lg.com
-@@||cdn.trustcommander.net/privacy$script,domain=tf1.fr
 @@||cdn.vidoza.co/js/$script,domain=vidoza.co|vidoza.net
 @@||cdn.viglink.com/api/vglnk.js$domain=9to5mac.com|electrek.co
 @@||cdnbc-wup.hsbc.com.hk^|
@@ -6321,7 +6320,6 @@
 @@||trj.valuecommerce.com/vcushion.js
 @@||trueaccordengage.com/tae/api/v1/collectors/$~third-party
 @@||trustcommander.net/iab-tcfapi/tcfapi.js$script,domain=tf1info.fr
-@@||trustcommander.net/privacy/*/privacy$script,domain=tf1info.fr
 @@||trustprofile.com/banners/$image
 @@||tsyndicate.com/sdk/v1/n.js$domain=hpjav.tv
 @@||tt1069.com/adbrite.js

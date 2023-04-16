@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-16 08:39:35（北京时间） 
-! Total count: 16100
+! Version: 2023-04-16 16:08:42（北京时间） 
+! Total count: 16105
 -960x*0.gif
 -250.js*
 
@@ -7697,6 +7697,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||aefmbeq.cn^
 ||aegis.qq.com^
 ||aeventlog.beacon.qq.com^
+||af31f.site^
 ||afablca.cn^
 ||afcav.com^
 ||afd.baidu.com^
@@ -9615,6 +9616,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dp3.qq.com^
 ||dpjzzgw.cn^
 ||dq06u9lt5akr2.cloudfront.net^
+||dqazwsxd.xyz^
 ||dr999.cc^
 ||dreamine.com^$third-party
 ||dreamlikeverse.com^
@@ -11221,6 +11223,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||k618.cn/zbggw/
 ||k8jdwang.com/js/wap_max/wapneiqian.js
 ||k8jdwang.com/js/wap_max/waptop.js
+||k9w4m.xyz^
 ||kagdf.com^
 ||kaicn.com/style/js/js.js$script
 ||kaiguangdou.com^
@@ -14387,6 +14390,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||upload.luckyorange.net^$third-party
 ||uploadlog.p2p.qq.com^
 ||uporods.com^
+||upzabkw.cn^
 ||uqidian.com^
 ||uranus.sogou.com^
 ||uri6.com^
@@ -15477,6 +15481,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||yzpsb.com/js/system.js
 ||z-xiao.xyz^
 ||z2.fakutownee.cn^
+||z6ro5.xyz^
 ||z888.izhufu.net^
 ||za5.net^
 ||zabdybod*.club^

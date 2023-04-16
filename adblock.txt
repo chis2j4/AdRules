@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-16 00:08:29（北京时间） 
-! Total count: 16101
+! Version: 2023-04-16 08:39:35（北京时间） 
+! Total count: 16100
 -960x*0.gif
 -250.js*
 
@@ -1387,7 +1387,6 @@ $removeparam=removedParams
 $removeparam=rep,domain=shein.com
 $removeparam=report_recomm_player
 $removeparam=req_id,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
-$removeparam=response_type,domain=udemy.com
 $removeparam=ret,domain=shein.com
 $removeparam=retailAttributionToken
 $removeparam=returnFromLogin,domain=amazon.*

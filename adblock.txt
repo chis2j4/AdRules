@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-17 08:38:57（北京时间） 
-! Total count: 16109
+! Version: 2023-04-17 16:10:39（北京时间） 
+! Total count: 16110
 -960x*0.gif
 -250.js*
 
@@ -65,9 +65,9 @@
 ##.zozoads
 ##A.toptxt[target='_blank']
 ##ASIDE[id^='custom_html-']
-##A[href*='.com:'][target='_blank'] > IMG[src][width='100%'][height='60px']
 ##A[href*='//v.wanfumei.net']
 ##A[href*='/adjump/?']
+##A[href*='com:'] > IMG[src],A[href*='cc:'] > IMG[src]
 ##A[href='/?'][target='_blank']
 ##A[href='/hth.html']
 ##A[href='/statics/js/ky-a.html']
@@ -4688,6 +4688,7 @@ maodh.com##[width="960"][height="60"]
 map.baidu.com###index-areaEntry-widget
 map.baidu.com##div.index-widget-guidebanner.styleguide.container
 maplestage.com##.nav-left-module__info-wrapper___35CLR
+match.tdping.com##P[style='text-align:left;margin:0;']
 mbd.baidu.com##.commonPadding
 mbd.baidu.com##.default-container
 mbd.baidu.com##DIV[class='commentTitle']

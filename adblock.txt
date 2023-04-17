@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-17 00:08:22（北京时间） 
-! Total count: 16105
+! Version: 2023-04-17 08:38:57（北京时间） 
+! Total count: 16109
 -960x*0.gif
 -250.js*
 
@@ -10222,6 +10222,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||google.$removeparam=gs_ssp
 ||google.$removeparam=prds
 ||google.$removeparam=ved
+||google.*/books$removeparam=source
+||google.*/flights$removeparam=source
 ||google.*/search$removeparam=source
 ||google.*/search$removeparam=sqi
 ||google.*/search?$removeparam=sclient
@@ -14841,6 +14843,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.google.$removeparam=btnG
 ||www.google.$removeparam=iflsig
 ||www.google.$removeparam=uact
+||www.google.*/search?$document,removeparam=client
+||www.google.*/search?$document,removeparam=sclient
 ||www.googletagmanager.com^
 ||www.govchengdu.cn^
 ||www.govguangxi.cn^

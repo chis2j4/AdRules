@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-04-18 08:37:12（北京时间） 
-! Total count: 3070
+! Version: 2023-04-18 16:10:16（北京时间） 
+! Total count: 3071
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -6296,6 +6296,7 @@
 @@||tq121.com.cn/j/ad/caoyu-min.js$domain=products.weather.com.cn
 @@||tra.scds.pmdstatic.net/advertising-core/$domain=voici.fr
 @@||tra.scds.pmdstatic.net/sourcepoint/$domain=businessinsider.fr|capital.fr|voici.fr
+@@||trace.playwright.dev^$popup
 @@||track.adform.net/serving/scripts/trackpoint$script,domain=sky.it
 @@||track.atom-data.io/|$xmlhttprequest,domain=globes.co.il
 @@||track.nzz.ch^$script,~third-party

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-19 08:39:24（北京时间） 
-! Total count: 16110
+! Version: 2023-04-19 16:09:51（北京时间） 
+! Total count: 16120
 -960x*0.gif
 -250.js*
 
@@ -283,6 +283,7 @@
 ##body.active > div.myui-panel > DIV#home_slide
 ##body.bg_xin > A[href*='com:'][target='_blank']
 ##body.chapter > div.container div.slide-baidu *
+##body.conch-hasone section > span > video
 ##body.no_overflow strong
 ##body.page.player > DIV.shortcuts-mobile-overlay
 ##body.page.player > div.popup.popup-tips.popup-icon.open
@@ -2253,9 +2254,11 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /us.js
 /v.php?siteid=&id=
 /v0/amp-addthis-*.js
-/v2/stats/99*
+/v2/stats/1*/1*$third-party
+/v2/stats/9*$third-party
 /v3/resolve?
 /variety.tc.qq.com^*.mp4
+/vh2/$third-party
 /videoAd.
 /video_ad_iframe
 /videoad/*
@@ -2263,7 +2266,8 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /view/*/async*
 /view/*/pop*
 /vip_img/*
-/vj1/
+/vj1/$third-party
+/vj2/$third-party
 /vkp.tc.qq.com/$media
 /vlive.qqvideo.tc.qq.com*.mp4
 /vmindhls.tc.qq.com^
@@ -9001,6 +9005,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||chixingkeji.com^
 ||chlbiz.com^
 ||chmae.com^
+||chnuuee.xyz^
 ||cholo101.cn^
 ||cholo215.cn^
 ||cholor201015.cn^
@@ -11112,6 +11117,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||joannarace.com^
 ||jocelynrace.com^
 ||jointreport-switch.com^
+||joiwnq2.cn^
 ||jojog.com^
 ||jollytestpartying.com^
 ||jomwihn.cn^
@@ -11389,6 +11395,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kyxw9itc.xyz^
 ||kyxw9itv.club^
 ||kyzx.xyZ^
+||kzchyhr.cn^
 ||kzgmpu.com^
 ||kzsha.com^
 ||l.aiseet.atianqi.com/livemsg^
@@ -12703,6 +12710,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pianku.li/ajax/matomo
 ||pianku.tv/ajax/MyJs
 ||pianyuan.la/slade.js
+||piaochong.co^
 ||piaodown.com/other/$script,document
 ||pic*.58cdn.com.cn/brandpic/car^$app=com.ss.android.article.news
 ||pic.ntxfr.cn/banner/*.jpeg$domain=m.shuquge.com
@@ -12783,6 +12791,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||poppyta.com^
 ||popup.*.js*
 ||poqjnkdsou.net^
+||poqwnllkm.com^
 ||poqwua.cn^
 ||pos.baidu.com^
 ||postnord.$removeparam=mobile
@@ -15042,6 +15051,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xchina.co/upload/ad^
 ||xchina.xyz/upload/ad^
 ||xcisleoa.cn^
+||xckyqq.com^
 ||xcmz999.com^
 ||xcwzq.xyz^
 ||xcycm.com^

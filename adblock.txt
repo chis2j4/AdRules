@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-19 16:09:51（北京时间） 
+! Version: 2023-04-20 00:09:34（北京时间） 
 ! Total count: 16120
 -960x*0.gif
 -250.js*
@@ -514,7 +514,7 @@ $removeparam=/^tc_/,domain=bodenusa.com
 $removeparam=/^tracker=affiliatefuture$/i
 $removeparam=/^utm(_[a-z_]*)?=/
 $removeparam=/^utm-/
-$removeparam=/^utm_/i,domain=~redir.tradedoubler.com|~sendgb.com|~allegro.pl|~tix.axs.com|~transfernow.com|~carrefourpl.snrpage.com|~justdial.com
+$removeparam=/^utm_/i,domain=~tradedoubler.com|~sendgb.com|~allegro.pl|~tix.axs.com|~transfernow.com|~carrefourpl.snrpage.com|~justdial.com|~pepper.pl
 $removeparam=/^via=rss$/
 $removeparam=/^vn(_[a-z]*)+=/
 $removeparam=/^web_id\d+/,domain=tiktok.com
@@ -4692,7 +4692,7 @@ maodh.com##[width="960"][height="60"]
 map.baidu.com###index-areaEntry-widget
 map.baidu.com##div.index-widget-guidebanner.styleguide.container
 maplestage.com##.nav-left-module__info-wrapper___35CLR
-match.tdping.com##P[style='text-align:left;margin:0;']
+match.tdping.com##P[style='text-align:left;margin:0;'],td.livetitle > L
 mbd.baidu.com##.commonPadding
 mbd.baidu.com##.default-container
 mbd.baidu.com##DIV[class='commentTitle']

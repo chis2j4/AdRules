@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-20 16:09:48（北京时间） 
-! Total count: 16121
+! Version: 2023-04-21 00:09:21（北京时间） 
+! Total count: 16126
 -960x*0.gif
 -250.js*
 
@@ -3695,6 +3695,8 @@ greenxf.com##.yinsu_xz,.app_fix_wrap,#BZlocationID2,[id^="BZlocationID"]
 greenxiazai.com##[class^="gg"],.list_lg,[class^="yinsu_"]
 gu.qq.com##[boss*="click-ad"]
 guancha.cn##.QR_code,.advertise
+guancha.cn##DIV.g_header44
+guancha.cn##DIV.g_swiper_container
 guba.eastmoney.com##div.indexmhot.redian,iframe[src^="http://cmsjs.eastmoney.com/banner/"],DIV.dh10 + DIV.redian
 gugeys.cc##.a_mu,.a_pt
 gugeys.com##.a_mu,.a_fl,.a_cn,.a_pt,.a_pb
@@ -15559,12 +15561,15 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zdhpen.xyz^
 ||zdhpenn.live^
 ||zdhpenn.shop^
+||zdiwsb.live^
 ||zdjeae.live^
 ||zdkdwk.buzz^
 ||zdkdwk.live^
 ||zdkjr.xyz^
 ||zdlnhv.xyz^
 ||zdmimg.com/collect^
+||zdmybl.xyz^
+||zdobdg.fyi^
 ||zdpeanut.com^
 ||zdx25.site^
 ||zdx30.site^

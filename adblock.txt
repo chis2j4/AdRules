@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-23 16:08:57（北京时间） 
+! Version: 2023-04-24 00:08:23（北京时间） 
 ! Total count: 16132
 -960x*0.gif
 -250.js*
@@ -413,7 +413,7 @@ $removeparam=/^affiliateID=/i
 $removeparam=/^affsrc=/i
 $removeparam=/^amp$/,domain=~eurasiantimes.com
 $removeparam=/^amp;utm_/
-$removeparam=/^amp=1$/,document,domain=~listafriikki.com|~londonjazznews.com
+$removeparam=/^amp=1$/,document,domain=newsweek.com
 $removeparam=/^amp=true$/
 $removeparam=/^bsft_/
 $removeparam=/^cid=DSS-Affiliate/,domain=disneyplus.com|espn.com|hotstar.com|starplus.com

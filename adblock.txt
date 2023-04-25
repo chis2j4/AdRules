@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-25 00:09:23（北京时间） 
+! Version: 2023-04-25 08:38:55（北京时间） 
 ! Total count: 16136
 -960x*0.gif
 -250.js*
@@ -291,6 +291,7 @@
 ##body.page.player > div.popup.popup-tips.popup-icon.open
 ##center > [href^='https://docs.qq.com/doc'][target='_blank']
 ##center > a > IMG[alt$='到期']
+##div > SCRIPT[data-url] ~ div
 ##div#apage.apage > div > ul > li > a
 ##div#beijing.article_content.layui-clear > div.left > div > a
 ##div#content.content div[id] > DIV[style*='z-index: 2147483647']
@@ -2769,7 +2770,6 @@ avsuggest.com##.overlay
 avtb579.com###content > div.col-xs.col-sm-12.col-md-10:last-child > div.panel.panel-default:nth-child(2) > div.panel-body.panel-padding:last-child > a:first-child
 avtb6677.com###menu-main-content > li:nth-child(n+5)
 awaker.cn###bew_10010,.adsbygoogle,div#wp125-2,div#text-31
-awdc6.com
 axutongxue.com##ASIDE[style*='height:58px;overflow:hidden;width:322px;border:dashed .5px']
 axutongxue.com##DIV[style*='px;position:relative;box-shadow:rgb(0 0 0/24%)0px 3px 8px;']
 axutongxue.com##DIV[style*='z-index: 9999999;display: flex;justify-content: center;align-items: center;']
@@ -2951,7 +2951,6 @@ ball365.cn-ce.net##td[id^="idad_"]
 ballbar.cc###top_970x250,#left_300x600_1,.pup_time,#pup_box,.adsbygoogle,#obsbar
 ballbar.cc,mse.360.cn###banner2
 banma.com##.rightad,.guanggao
-banners-cdn77.trafficfactory.biz
 banyungong.org##.ad,.gg,#lnkTB,.xnf
 baofeng.com##DIV.advertise960,DIV.ad-bar-bottom,div.play-ads,div.ad-pop-wrap,div.main-ad-column,div.play-ad-box,div.play-ad-left,div.advertising-box
 baofeng.com##[class|=ad],div.play-top-ad,.play-ad-box,.play-ad-left
@@ -5693,7 +5692,6 @@ vidhub.cc##div.player-info > div.module
 view.inews.qq.com##div[class^="new-hot-comment_subText"]
 view.inews.qq.com##div[class^="normal_buttonWrap"]
 view.inews.qq.com##div[class^="slider-top-bar_sliderWrapper"]
-vijnhyru.xyz
 vikacg.com$$a[href="asnebula.xyz"]
 vikacg.com$$a[onclick="trackOutboundLink"]
 vip-free.com###adpic
@@ -5749,7 +5747,6 @@ warn.chrome.360.cn##.pop-box
 warting.com##.banner_hz,.link_hz,.adsbygoogle,[class^="top_hz"],[class^="love_hz"],[class$="_hz"]
 wasu.cn##div.sp313x262,div.sp640x100.mb15,div.sp640x60.mb15,DIV.item_lsit_ad.mt15,DIV.index_banner1,section.m_sp970x100.mb15,section.information_ad.inner,DIV[class^="play_ads"],.info_ads,[class^="qp"],.ws_more_app,.ad_list,.index_adv,[class^="ads_"]
 wayqq.cn##.ad960,.baiduad
-wcdc5.com
 we5200.com##table[bordercolor="#ffcc66"][width="900"]
 weather.com.cn###di_tan,#zu_dui,#adtop_r,[id^="adpos_"],.ggt
 weather.com.cn##div#ccs,div[class^="ad"]
@@ -6065,7 +6062,6 @@ www.lbldy.com##div.banner
 www.lebo.tv##div#gga,div#ggb
 www.leduwo.com##ins.adsbygoogle
 www.lepan.cc##img[width="960"][height="60"],ins.adsbygoogle,div#r1.box_bd2.box_green.box_shadow,div.widget-main.ad_area
-www.lezhutv.com##DIV[style*='vw; display: block;']
 www.lingoes.cn##img[src^="../adbox/"]
 www.lldm.com##div[class="mt10 tc"],div.fr
 www.longbuluo.com##div.banner,div[id^="cnzz_slot_"]:not(#cnzz_slot_28470)
@@ -8274,6 +8270,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||avgle.*/avideos.js$script
 ||avgle.com/images.php
 ||avmask.com/script/$script
+||awdc6.com^
 ||awempire.com^
 ||aws^$removeparam=did
 ||awyyzx.com^
@@ -8449,6 +8446,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||banhui.xyz^
 ||banmamedia.com^
 ||banmeng.com^
+||banners-cdn77.trafficfactory.biz^
 ||banquansuoyou:banbendalao
 ||banzhu111.xyz/js/51.js
 ||banzhu111.xyz/js/cdn.js
@@ -14498,6 +14496,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||view.news.qq.com/PL_ad$subdocument
 ||viglink.com^
 ||viglink.com^$removeparam=vgref
+||vijnhyru.xyz^
 ||vimeo.com^$removeparam=owner
 ||vip.catcs.cn^
 ||vip.hnywkj.cn/hcplay/hc.js$domain=lsj.tt-hk.cn
@@ -14618,6 +14617,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wbapp.mobile.sina.cn^
 ||wbesryx.cn^
 ||wcaos.com^
+||wcdc5.com^
 ||wcdzw.com^
 ||wcehko.juankh.com^
 ||wd.adcolony.com^$app=com.iwantavnow

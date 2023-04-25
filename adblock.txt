@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-25 08:38:55（北京时间） 
-! Total count: 16136
+! Version: 2023-04-25 16:09:47（北京时间） 
+! Total count: 16146
 -960x*0.gif
 -250.js*
 
@@ -251,6 +251,7 @@
 ##[style$="both;margin: auto;text-align: center;line-height: initial;margin-bottom: 10px;"]
 ##[style$='auto;text-align: center;line-height: initial;margin-bottom: 10px;margin-left: 20px;margin-right: 20px;']
 ##[style*='line-height: 115px; left: 0px; z-index: 0; width: 100vw; background: url']
+##[style*='width: 100% !important; margin: 0px !important; padding: 0px !important; display: flex !']
 ##[style*='width: 100% !important; margin: 0px !important; padding: 0px !important; display: flex !'] *
 ##[style='text-align: center; margin: 40px 0; color: blue; font-size: larger;']
 ##[style='top: 0vw; display: block;']
@@ -6354,6 +6355,8 @@ xw.qq.com##div[data-boss*="modular"]
 xw.qq.com##div[data-boss-expo="&modular=quicknews_m"]
 xw.qq.com##section[style="display: block;"]
 xxroot.com###chs_bannerArea
+xyz/kallss?
+xyz/stimulus?
 y.qq.com###js_mod_dialog
 y.qq.com##.bottom_bar
 y.qq.com##.btn_download
@@ -9889,6 +9892,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||eyouv.cn^
 ||ezu6rd5.houge.in^
 ||f1.lutouwang.net^
+||f23jjd8.xyz^
 ||f77j6t2b.com^
 ||f77xv3.top^
 ||f8272.com^
@@ -11462,6 +11466,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||leads.autohome.com.cn^
 ||learner.org^$removeparam=jwsource
 ||ledaren.cn^
+||ledni.xyz^
 ||lee789.com^
 ||leeyuo.com^
 ||legou361.com^
@@ -11958,6 +11963,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mdevstat.qqlive.qq.com^
 ||mdkjefq.cn^
 ||mdotm.com^
+||mdqhyxe.cn^
 ||mdt.qq.com^
 ||meaqcj.cn^
 ||mechanicalkeyboards.com^$removeparam=creator
@@ -12608,6 +12614,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||oxj8hcfg.xyz^
 ||oyell.net^
 ||oyhurln.cn^
+||oyxp.xyz^
 ||ozon.ru^$removeparam=advert
 ||ozon.ru^$removeparam=partner
 ||p*-ad-sign.byteimg.com^
@@ -13056,6 +13063,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qqqwww987.site^
 ||qqqwww987.space^
 ||qqtz.com/ad$document
+||qqzbabc20.com^
 ||qqzhibo.net/?a=check&*&gg=
 ||qqzmm.com^
 ||qqzu.com^$third-party
@@ -13231,6 +13239,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||rmdown.com^$replace=/var rmJson/var fuck/
 ||rmpad.imtt.qq.com^
 ||rms.meituan.com/diancan/api/queryAdBoard
+||rmws8.com^
 ||rmzbfum.cn^
 ||rndhaunteran.com^
 ||roblox.com^$removeparam=refPageId
@@ -15104,6 +15113,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xiaobao8888.com^
 ||xiaobeier.cn^
 ||xiaodongrui.com^
+||xiaofangtongzhi.xy^
 ||xiaohead.com^
 ||xiaohei.com^
 ||xiaohongshu.com^$removeparam=app_platform,document

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-26 16:09:39（北京时间） 
-! Total count: 16152
+! Version: 2023-04-27 00:09:36（北京时间） 
+! Total count: 16153
 -960x*0.gif
 -250.js*
 
@@ -292,7 +292,6 @@
 ##body.page.player > div.popup.popup-tips.popup-icon.open
 ##center > [href^='https://docs.qq.com/doc'][target='_blank']
 ##center > a > IMG[alt$='到期']
-##div > SCRIPT[data-url] ~ div
 ##div#apage.apage > div > ul > li > a
 ##div#beijing.article_content.layui-clear > div.left > div > a
 ##div#content.content div[id] > DIV[style*='z-index: 2147483647']
@@ -6741,6 +6740,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||1000su.com^
 ||10010.com/mobileService/customer/getTenxuAdvConfig.htm
 ||10086yule.com^
+||10090dfs.com^
 ||100cpc.com^
 ||100ea.com^
 ||100fenlm.cn^
@@ -15030,6 +15030,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wx4.sinaimg.cn/mw690^$app=com.xxx.svideo
 ||wxapp.lvyadx.cn^
 ||wxbgf.top^
+||wxddid.cn^
 ||wxdqgmr.cn^
 ||wxlagame.com^
 ||wxs.qq.com^

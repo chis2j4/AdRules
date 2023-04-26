@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-04-26 16:09:50（北京时间） 
-! Total count: 3072
+! Version: 2023-04-27 00:09:46（北京时间） 
+! Total count: 3071
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4268,7 +4268,6 @@
 @@||bjjhq.com/HttpCombiner.ashx?$script,~third-party
 @@||blackcircles.ca^$script,~third-party
 @@||blackmod.net^$generichide
-@@||blog.logrocket.com^|
 @@||blog.ztjal.info^$generichide
 @@||bloominc.jp/adtool/$~third-party
 @@||bluecare.express/js/tracking/$script,~third-party

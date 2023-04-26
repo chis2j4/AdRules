@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-26 00:09:12（北京时间） 
-! Total count: 16148
+! Version: 2023-04-26 08:38:41（北京时间） 
+! Total count: 16151
 -960x*0.gif
 -250.js*
 
@@ -1804,6 +1804,8 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .userapi.com/impg^$removeparam=type
 .xyz$domain=yinghuacd.com
 .xyz/*0*0*==$third-party
+.xyz/?token=
+.xyz/Kfc_
 .xyz/alpine?$third-party
 .xyz/base*.js?$third-party
 .xyz/foundation?$third-party
@@ -7010,6 +7012,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||3t769up6.com^
 ||3v7c7y.online^
 ||3wtuan.com^
+||3yej.xyz^
 ||402v.com^
 ||40fenzhong.com^
 ||4135.com^

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-28 16:09:37（北京时间） 
-! Total count: 16159
+! Version: 2023-04-29 00:08:55（北京时间） 
+! Total count: 16164
 -960x*0.gif
 -250.js*
 
@@ -299,6 +299,7 @@
 ##div#detail.selector-zero > div > DIV[style]
 ##div#gmright
 ##div#h2_player_prevideo > A[href][target='_blank']
+##div#hengfu_wap_vod_xia > a
 ##div#page-back DIV.container.clearfix div > A > IMG[src]
 ##div#reader-scroll.acgn-reader-chapter.v>div>center>strong>button
 ##div.a_fr.a_cb,div.a_fl.a_cb,div.a_cn,div.wp.a_h
@@ -324,6 +325,7 @@
 ##div.m_avs
 ##div.main div.content div[id].is_mb a[id] img[id]
 ##div.maomi-content > SECTION.section.section-banner
+##div.mobile > div.content IMG[src*='.gif']
 ##div.module-list-right-title-wrap > div.normal-title-wrap > div > a
 ##div.page.player > div.main > div.content > div.module.module-player > div.module-main > div.player-box > div.player-rm.rm-list > a > img
 ##div.page.player > div.main > div.content > div.module.module-player DIV[style='width:100%;height:180px']
@@ -339,6 +341,7 @@
 ##div.row.abs-text
 ##div.row.col5.clearfix:nth-of-type(2) > dl:nth-of-type(1)
 ##div.stui-pannel__bd > #t-img-box
+##div.stui-player.col-pd DIV[style='text-align:center']
 ##div.synopsisArea > a[id*='hudie_']
 ##div.video-box > div.hf > a
 ##div:not([class]):not([id]) > a > [src*='.gif'][style*='width:100%']
@@ -2379,6 +2382,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 @@^mod=djemalertNEWS^$removeparam=mod
 @@_adview_$domain=muzlan.top
 @@guokr.com/apis/flowingboard/item/guokrapp_download_source.json
+@@https://static.ws.126.net/163/frontend/libs/antanalysis.min.js
 @@mailinglist$removeparam=/^utm_/i
 @@|wss://$removeparam
 @@|wss://zoom.us^$removeparam
@@ -9478,6 +9482,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||demizhe.com^
 ||deployads.com^
 ||dermstore.com^$removeparam=URL
+||dertyhsf.xyz^
 ||desk.orsoon.com/so/
 ||despegar.$removeparam=/^clt_/
 ||despegar.$removeparam=mktdata

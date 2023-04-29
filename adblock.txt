@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-29 08:37:23（北京时间） 
-! Total count: 16164
+! Version: 2023-04-29 16:08:45（北京时间） 
+! Total count: 16170
 -960x*0.gif
 -250.js*
 
@@ -1783,12 +1783,14 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 -mobile-default/static/js/app-download-
 -time.js?
 -tongji.
+.cc/o.js$third-party
 .cfd/video/index/index/user_login/
 .club$domain=yinghuacd.com
 .com/ads.
 .com/adv1/?q=
 .com/c.php?s=*=*=$third-party
 .com/gg.js
+.com/o.js$third-party
 .com/sh/to/$third-party
 .com/xz/*?token8=
 .cyou/redbaiduct.com
@@ -1825,6 +1827,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .xyz/xefeliffng_$third-party
 .xyz/xling_*_*_*.js?*
 .xyz/xtub_
+.xyz/xxbbliffng
 /(?::\/\/i1\.hoopchina\.com\.cn\/blogfile\/.+_\d{3}x\d{4})/
 /*/*.add.*.add
 /*AdapterNew.
@@ -10939,6 +10942,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ip.120ask.com^
 ||ip.tianqiapi.com^
 ||ip.ws.126.net^
+||ip1398.com^
 ||ipc08dt.com^
 ||ipinyou.com^$third-party,domain=~www.v1.cn|~ipinyou.com.cn
 ||ipm.atm.youku.com^
@@ -13042,7 +13046,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qling.com^
 ||qm92.com^$third-party
 ||qmfcybwbf12.com^
+||qmfcybwbf16.com^
 ||qmfcybwbf19.com^
+||qmfcybwbf28.com^
 ||qn.bejson.com^
 ||qncye.com/templets/default/js/mb.js
 ||qndown.com^

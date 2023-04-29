@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-29 16:08:45（北京时间） 
-! Total count: 16170
+! Version: 2023-04-30 00:08:01（北京时间） 
+! Total count: 16169
 -960x*0.gif
 -250.js*
 
@@ -1786,6 +1786,8 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .cc/o.js$third-party
 .cfd/video/index/index/user_login/
 .club$domain=yinghuacd.com
+.cn/ack?s=*$third-party
+.cn/bid?url=*$third-party
 .com/ads.
 .com/adv1/?q=
 .com/c.php?s=*=*=$third-party
@@ -6637,7 +6639,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||*.aty.sohu.com^
 ||*.com*.z*.glb.qiniucdn.com/tdata*
 ||*.feipukeplus.com^$domain=m.qqm4.com
-||*.gdt.qq.com^
 ||*.gentags.net^
 ||*.getui.com^
 ||*.gif$domain=6161bb.com
@@ -7997,6 +7998,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||anluyg.net/static/js/channel*.js
 ||annelinterv.fun^
 ||anquanbao.cn/dl/$script
+||antheaceliacd.com^
 ||anti-bot.baidu.com^
 ||antns.com^
 ||anzhuotan.com/Runtime/js/dwg.js
@@ -8543,7 +8545,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bea-s.dinghuoche.com^
 ||beacon-api.aliyuncs.com/beacon/fetch/config/byappkey
 ||beacon-api.aliyuncs.com^
-||beacon.qq.com^
 ||beacon.sina.com.cn^
 ||beacon.tingyun.com^
 ||beap.gemini.yahoo.com^
@@ -8991,7 +8992,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ceztv.com^
 ||cfepws.com^
 ||cfg.imtt.qq.com/tbs^
-||cfg.imtt.qq.com^
 ||cfts1tifqr.com^
 ||cgigc.com.cn^
 ||cgmalight.com^
@@ -9716,6 +9716,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dy2018.com/e/public/ViewClick/?classid=
 ||dybz*/js/html*.js
 ||dycwt.cn^
+||dyhnbgtsl.xyz^
 ||dykeep.com^
 ||dyncdn.me/static/20/js/expla
 ||dyncdn2.com/static/20/js/expla
@@ -10181,7 +10182,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gdmm.com/public/config/couplet/index$script
 ||gdoibwfvjqf.com^
 ||gdsoq.com^
-||gdt.qq.com^
 ||gdtimg.com^
 ||gdzshoes.com^
 ||gearbest.$removeparam=lkid
@@ -12054,7 +12054,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mhhanman.xyz/data/my/myjs.js
 ||mhslbgk.cn^
 ||mhtrt.com^
-||mi.gdt.qq.com^
 ||mi.tvzhe.com^
 ||mi1.cc^
 ||miaobige.com/fw.html/

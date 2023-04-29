@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-04-29 00:09:06（北京时间） 
-! Total count: 3026
+! Version: 2023-04-29 08:37:36（北京时间） 
+! Total count: 3024
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4363,7 +4363,7 @@
 @@||cdn.plyvdo.live/scripts/$script
 @@||cdn.rozetka.com.ua^|
 @@||cdn.segment.com/analytics-next/
-@@||cdn.segment.com/analytics.js/$script,domain=app.cryptotrader.tax|driversed.com|fender.com|finerdesk.com|foxbusiness.com|foxnews.com|givingassistant.org|inxeption.io|reuters.com|squaretrade.com
+@@||cdn.segment.com/analytics.js/$script,domain=abstractapi.com|app.cryptotrader.tax|driversed.com|fender.com|finerdesk.com|foxbusiness.com|foxnews.com|givingassistant.org|inxeption.io|reuters.com|squaretrade.com
 @@||cdn.segment.com/next-integrations/integrations/
 @@||cdn.segment.com/v1/projects/
 @@||cdn.segmentify.com^$script,domain=gratis.com
@@ -5432,8 +5432,6 @@
 @@||mediaworld.it^*/GoogleTagManager.js?
 @@||meduza.io/static/ads/$media,~third-party
 @@||megafon.ru/static/?files=*/tealeaf.js
-@@||megaup.net/*.gif$image,~third-party
-@@||megaup.net^$generichide
 @@||meituan.net/bs/js/*/js/tracker.js
 @@||meizu.com/fileserver/ad/img/
 @@||merlincdn.net^*/common/images/spacer.gif$image,domain=turkcell.com.tr

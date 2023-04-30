@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-04-30 08:41:26（北京时间） 
-! Total count: 16169
+! Version: 2023-04-30 16:08:32（北京时间） 
+! Total count: 16186
 -960x*0.gif
 -250.js*
 
@@ -1810,22 +1810,27 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .shop:*/ack?s=
 .shop:*/bid?url=
 .top/*q=*form=*&*url=http*$third-party
+.top/qby_
 .userapi.com/impg^$removeparam=proxy
 .userapi.com/impg^$removeparam=type
 .xyz$domain=yinghuacd.com
 .xyz/*0*0*==$third-party
 .xyz/?token=
 .xyz/Kfc_
+.xyz/ack?s=
 .xyz/alpine?$third-party
 .xyz/base*.js?$third-party
+.xyz/bid?url=*
 .xyz/foundation?$third-party
 .xyz/gatsby?$third-party
+.xyz/gif
 .xyz/hm.html?s=
 .xyz/hm.js?$third-party
 .xyz/jque*.js?$third-party
 .xyz/mithril?$third-party
 .xyz/stimulus?$third-party
 .xyz/svelte?$third-party
+.xyz/ui_
 .xyz/xefeliffng_$third-party
 .xyz/xling_*_*_*.js?*
 .xyz/xtub_
@@ -2252,9 +2257,14 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /sta.js?debug=
 /stat.asp
 /statIwt_
+/static/ins.js$third-party
 /static/js/bds_
 /static/js/miniyyrtv-config.js
 /static/localStorage.
+/static/mh*.js$third-party
+/static/o0*.js$third-party
+/static/ys*.js$third-party
+/static/zz*.js$third-party
 /statics/js/hth1111.html
 /stats.php?adsid=
 /stats/tj.
@@ -7788,6 +7798,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ajhdf.com^
 ||ajzsa.xyz^
 ||ak-d.tripcdn.com^
+||akcnkancklankl.com^
 ||akmh074.vip^
 ||akmh080.vip^
 ||aktualne.cz^$removeparam=dop_ab_variant
@@ -10558,6 +10569,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hjbqnwb.com^
 ||hjgen.cn^
 ||hkgolden.com/reqwads?s=
+||hkk456.cc^
 ||hladalliance.com^
 ||hlalliances.com^
 ||hlrml.cn^
@@ -11225,6 +11237,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||juhuisuan.com^$third-party
 ||juicyads.com^
 ||julumob.com^
+||junshi8181.com^
 ||junshidao.com/diannao.js
 ||juqingba.cn/templets/Default/css_juqingba/cont.js
 ||jus.198dh.cn:811^
@@ -11622,6 +11635,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lmbsy.qq.com/flv^$domain=v.qq.com,redirect=noopmp4-1s
 ||lmbsy.qq.com^
 ||lmmaoo.com^
+||lmx7.com^
 ||lmxxxz.com^
 ||lndjj.com^
 ||lnfund.org.cn^
@@ -13252,6 +13266,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||rinshy17.xyz^
 ||riverisland.com^$removeparam=sem
 ||rizihao.top^
+||rksnqq.com^
 ||rkzby.cn^
 ||rl.go2yd.com^
 ||rlhn.xyz^
@@ -14662,6 +14677,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||web-track.go2yd.com^
 ||web.kuaiwan.com^
 ||webkaka.com/a/*-1100x50.
+||webnappy.com^
 ||websitequan.com^
 ||webterren.com^
 ||webview.unityads.unity3d.com^$third-party
@@ -15612,6 +15628,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zdlnhv.xyz^
 ||zdmimg.com/collect^
 ||zdmybl.xyz^
+||zdo-bdg.xyz^
 ||zdobdg.fyi^
 ||zdpeanut.com^
 ||zdx25.site^

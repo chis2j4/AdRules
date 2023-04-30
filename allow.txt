@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-04-30 16:08:44（北京时间） 
-! Total count: 2697
+! Version: 2023-05-01 00:08:02（北京时间） 
+! Total count: 2695
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3796,7 +3796,6 @@
 @@||acb.com/javascripts/jv_feeder_stats.js
 @@||accounts.google.com^$popup
 @@||accounts.intuit.com/fe_logger?$~third-party
-@@||accounts.nintendo.com/account/js/pages/$script,~third-party
 @@||accuweather.com/bundles/prebid.$script
 @@||acgbenzi.com//dist/images/top.png
 @@||acgdraw.com/ad$xmlhttprequest
@@ -3854,6 +3853,7 @@
 @@||admin.memberspace.com/sites/*/analytics/views$~third-party
 @@||admin.mgid.com^$popup
 @@||adnet.qq.com^$~third-party
+@@||adnxs.com/ast/ast.js$domain=zone.msn.com
 @@||adnxs.com/ast/static/$domain=outlook.live.com
 @@||adnz.co/dmp/publisher.js$domain=finanzen.ch
 @@||adnz.co/header.js?adTagId=$domain=finanzen.ch
@@ -4068,7 +4068,6 @@
 @@||app.appsflyer.com^|
 @@||app.clarity.so^$~third-party
 @@||app.pangolin.exchange/assets/analytics-$~third-party
-@@||app.sushi.com/_next/static/chunks/pages/analytics$~third-party
 @@||app.veggly.net/plugins/cordova-plugin-admobpro/www/AdMob.js$script,~third-party
 @@||appboycdn.com/web-sdk/$script,domain=magicseaweed.com
 @@||apple.com^$generichide
@@ -4484,7 +4483,6 @@
 @@||daoju.qq.com/time/*/js/ad/
 @@||dashboard.mgid.com^$popup
 @@||dashboard.mgid.com^$~third-party
-@@||dashboard.streetlib.com/_next/static/chunks/pages/$~third-party
 @@||dashboard.unity.com/dist/udash/app/assets/services/analytics/$domain=dashboard.unity.com|dashboard.unity3d.com
 @@||data.adxcel-ec2.com^$image,domain=laguardia.edu
 @@||datadoghq-browser-agent.com/datadog-$script,domain=bbcgoodfood.com|dashboard.getdriven.app|usa.experian.com

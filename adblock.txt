@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-05-01 08:39:44（北京时间） 
+! Version: 2023-05-01 16:09:37（北京时间） 
 ! Total count: 16186
 -960x*0.gif
 -250.js*
@@ -1476,7 +1476,7 @@ $removeparam=site_refer,domain=saksfifthavenue.com|saksoff5th.com
 $removeparam=sk,domain=aliexpress.*|bing.com
 $removeparam=skip,domain=privatehomeclips.com
 $removeparam=sm12
-$removeparam=smid,domain=~opinion.no
+$removeparam=smid,domain=~amazon.*|~opinion.no
 $removeparam=smtyp
 $removeparam=snr,domain=steampowered.com|steamcommunity.com|steamgames.com
 $removeparam=soc_src

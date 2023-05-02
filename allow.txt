@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-05-02 00:09:23（北京时间） 
-! Total count: 2636
+! Version: 2023-05-02 08:38:49（北京时间） 
+! Total count: 2637
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5114,6 +5114,7 @@
 @@||lokopromo.com^*/adsimages/$~third-party
 @@||loltmcheck.com/js/ads.js
 @@||looker.com/api/internal/$~third-party
+@@||lr-ingest.io/LogRocket.min.js$domain=smartcare.com
 @@||lshstream.xyz/hls/$xmlhttprequest
 @@||ltzn.9377.com^
 @@||luminalearning.com/affiliate-content/$image,~third-party

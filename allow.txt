@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-05-04 08:38:35（北京时间） 
-! Total count: 2636
+! Version: 2023-05-04 16:09:56（北京时间） 
+! Total count: 2637
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4242,6 +4242,7 @@
 @@||cbsi.com/dist/optanon.js$script,domain=cbsnews.com|zdnet.com
 @@||cbsi.map.fastly.net^
 @@||cbsinteractive.com^*/lib/tracking/comscore/$script
+@@||cc.zorores.com/ad/*.vtt$domain=rapid-cloud.co
 @@||ccb.com^*^ad
 @@||ccllaa.com^$generichide
 @@||cdc.gov/jscript/metrics/adobe/launch/$script,~third-party

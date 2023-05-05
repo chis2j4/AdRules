@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-05-05 16:08:58（北京时间） 
-! Total count: 16122
+! Version: 2023-05-06 00:09:06（北京时间） 
+! Total count: 16129
 -960x*0.gif
 -250.js*
 
@@ -254,6 +254,7 @@
 ##[style*='line-height: 115px; left: 0px; z-index: 0; width: 100vw; background: url']
 ##[style*='width: 100% !important; margin: 0px !important; padding: 0px !important; display: flex !']
 ##[style*='width: 100% !important; margin: 0px !important; padding: 0px !important; display: flex !'] *
+##[style='box-sizing: border-box; position: relative; left: 0px; z-index: 912944; text-indent: -10em;']
 ##[style='text-align: center; margin: 40px 0; color: blue; font-size: larger;']
 ##[style='top: 0vw; display: block;']
 ##[style='top: 16.4vw; display: block;']
@@ -285,6 +286,7 @@
 ##body#nr_body font > [id]
 ##body#nr_body.nr_all.c_nr > div > div[id][class] > [href]
 ##body#nr_body.nr_all.c_nr > div[class] > DIV[style='height:90px;width:100%;']
+##body#nr_body.nr_all.c_nr > section[id]
 ##body.active > div.myui-panel > DIV#home_slide
 ##body.bg_xin > A[href*='com:'][target='_blank']
 ##body.chapter > div.container div.slide-baidu *
@@ -1818,6 +1820,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .xyz$domain=yinghuacd.com
 .xyz/*0*0*==$third-party
 .xyz/*?16$third-party
+.xyz/*_*_*.js$third-party
 .xyz/?token=
 .xyz/Kfc_
 .xyz/ack?s=
@@ -6698,6 +6701,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||0123kjz.com^
 ||019103.com^
 ||01ws5t.cn^
+||022003xs.com^
 ||025zxcv.com^
 ||0272aa.com^
 ||0272dd.com^
@@ -7401,6 +7405,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||9js6.icu^
 ||9kld.com/g
 ||9mbv.com^
+||9miwo.com^
 ||9odes.ltd^
 ||9tn.cc^
 ||9wad.com^
@@ -7473,6 +7478,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||acgsou.com/js/nu
 ||ackcdn.net^
 ||acoossu.top^
+||acqc9.com^
 ||acs.m.taobao.com/gw/mtop.common.getTimestamp/*$app=com.youku.phone
 ||acs4baichuan.m.taobao.com/gw-open^$app=com.youku.phone
 ||acs4baichuan.m.taobao.com^
@@ -15636,6 +15642,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zhimg.com/v2-*.jpeg
 ||zhipufs.com^
 ||zhisuyunonline.cn^
+||zhixin.host^
 ||zhiyaspa.com^
 ||zhizhunbao.top^
 ||zhizi.qq.com^

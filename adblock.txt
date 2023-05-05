@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-05-05 00:18:39（北京时间） 
-! Total count: 16120
+! Version: 2023-05-05 08:35:36（北京时间） 
+! Total count: 16121
 -960x*0.gif
 -250.js*
 
@@ -490,6 +490,7 @@ $removeparam=/^ref=news.itsfoss.com$/
 $removeparam=/^ref=pricespy/i
 $removeparam=/^ref=prisjakt/i
 $removeparam=/^ref=rss$/
+$removeparam=/^ref=troyhunt\.com/
 $removeparam=/^refID=/i,domain=allmodern.com|calphalon.com|priceline.com|questrade.com|wayfair.*|yankeecandle.com
 $removeparam=/^referer=prisjakt/i
 $removeparam=/^refsource=webgains$/

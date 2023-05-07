@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-05-07 16:08:22（北京时间） 
-! Total count: 16130
+! Version: 2023-05-08 00:08:08（北京时间） 
+! Total count: 16133
 -960x*0.gif
 -250.js*
 
@@ -391,6 +391,8 @@ $document,removeparam=trackid,domain=~nzpost.co.nz
 $document,removeparam=waporef
 $image,third-party,domain=avtb6677.com|lady1.top
 $popup,third-party,domain=downdv.com|rmdown.com|soyunpan.com|youtubeto.com
+$removeparam=%243p,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
+$removeparam=%24deep_link,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
 $removeparam=%2AVersion%2A,domain=amazon.*
 $removeparam=%2Aentries%2A,domain=amazon.*
 $removeparam=/(\$)ja/,domain=argos.co.uk
@@ -610,6 +612,7 @@ $removeparam=__hsfp
 $removeparam=__hssc
 $removeparam=__hstc
 $removeparam=__s
+$removeparam=__s,document
 $removeparam=__twitter_impression
 $removeparam=__vfz,domain=venturebeat.com
 $removeparam=_amp,domain=latimes.com
@@ -1320,6 +1323,7 @@ $removeparam=pm_source
 $removeparam=pool,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 $removeparam=pop,domain=etsy.com
 $removeparam=porc
+$removeparam=post_index,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
 $removeparam=ppid
 $removeparam=ppref,domain=digidip.net
 $removeparam=pr_prod_strat
@@ -1378,7 +1382,7 @@ $removeparam=ref_lp
 $removeparam=ref_medium
 $removeparam=ref_source
 $removeparam=ref_src
-$removeparam=ref_url
+$removeparam=ref_url,domain=~randalls.com
 $removeparam=refclickid
 $removeparam=refd
 $removeparam=refdomain,domain=bestbuy.com
@@ -2517,7 +2521,6 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 @@||imgstat.baidu.com^
 @@||indeed.com/rc/clk$removeparam
 @@||inews.gtimg.com^
-@@||instagram.com/ajax^$xmlhttprequest,removeparam=__s
 @@||invoice-ua.taobao.com/e-invoice/invoice-apply-online.html?source$stealth
 @@||jdfood.com.tw/Upload/ADImages/*Image.jpg
 @@||kaixin001.com/ad/
@@ -11623,6 +11626,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lndjj.com^
 ||lnfund.org.cn^
 ||lnk0.com^
+||lnkd.in^$removeparam=trk
 ||lnymd.com^
 ||lnzangcha.com^
 ||lnzq5.com/js/
@@ -13182,7 +13186,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||reddit.com^$removeparam=/^\x24original_url=/
 ||reddit.com^$removeparam=_branch_match_id
 ||reddit.com^$removeparam=correlation_id
-||reddit.com^$removeparam=post_index
 ||reddit.com^$removeparam=ref_campaign
 ||reddit.com^$removeparam=ref_source
 ||redfin.com^$removeparam=riftinfo

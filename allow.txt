@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-05-08 00:08:20（北京时间） 
-! Total count: 2626
+! Version: 2023-05-08 08:37:34（北京时间） 
+! Total count: 2627
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -6038,6 +6038,7 @@
 @@||where2getit.com/traderjoes/rest/clicktrack?$domain=traderjoes.com
 @@||widget.myrentacar.me^$script,subdocument
 @@||widget.trustpilot.com/bootstrap/$script,domain=amartfurniture.com.au|exodus.co.uk|imyfone.com
+@@||widgets.jobbio.com^*/display.min.js$domain=interestingengineering.com
 @@||widgets.sprinklecontent.com/v2/$script,xmlhttprequest,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi
 @@||widgets.trustedshops.com/reviews/tsSticker/$domain=koziol-shop.de
 @@||wikibooks.org^$generichide

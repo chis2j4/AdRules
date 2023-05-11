@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-05-11 08:38:15（北京时间） 
-! Total count: 16141
+! Version: 2023-05-11 16:09:15（北京时间） 
+! Total count: 16149
 -960x*0.gif
 -250.js*
 
@@ -1819,6 +1819,8 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .shop:*/ack?s=
 .shop:*/bid?url=
 .top/*q=*form=*&*url=http*$third-party
+.top/?token=$third-party
+.top/gluinfo.php?s=$third-party
 .top/qby_
 .userapi.com/impg^$removeparam=proxy
 .userapi.com/impg^$removeparam=type
@@ -8528,6 +8530,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bcfeat2.com^
 ||bcfeedback.taobao.com^
 ||bcglkfu.cn^
+||bcidnfers.live^
 ||bd-js.baixing.net^
 ||bd.hao224.com^
 ||bd.haomagujia.com^
@@ -9366,6 +9369,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cvsheil.com^
 ||cw9twua9.shop^
 ||cw9twuas.xyz^
+||cwandlf.top^
 ||cwc494e.cn^
 ||cwpush.com^
 ||cx.v5cam.com^
@@ -10379,6 +10383,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||guid.tpns.tencent.com^
 ||guide-rank.com/guiderank-tracking^
 ||guiliangtechnology.com^
+||gujkj.cn^
 ||guoad.com^
 ||guodulvyou.xyz^
 ||guohexinxiang.com^
@@ -12427,6 +12432,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nnwm.com^
 ||nochange.ggsafe.com^
 ||node.cdntxt.com^
+||nogff.top^
 ||norma-external-collect.meizu.com^
 ||norma-external-collect.meizu.com^$app=com.xunlei.downloadprovider
 ||norml.org^$removeparam=can_id
@@ -15594,6 +15600,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zdx30.site^
 ||zdznsqb.com^
 ||ze5.com^
+||zebjlt.buzz^
+||zebjlt.xyz^
 ||zedo.com^
 ||zedo.com^$third-party
 ||zerjin.com^

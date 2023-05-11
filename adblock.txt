@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-05-11 16:09:15（北京时间） 
-! Total count: 16149
+! Version: 2023-05-12 00:09:04（北京时间） 
+! Total count: 16152
 -960x*0.gif
 -250.js*
 
@@ -328,6 +328,7 @@
 ##div.m_avs
 ##div.main div.content div[id].is_mb a[id] img[id]
 ##div.maomi-content > SECTION.section.section-banner
+##div.maomi-content A[href='/baidu/index.html']
 ##div.mobile > div.content IMG[src*='.gif']
 ##div.module-list-right-title-wrap > div.normal-title-wrap > div > a
 ##div.page.player > div.main > div.content > div.module.module-player > div.module-main > div.player-box > div.player-rm.rm-list > a > img
@@ -14108,6 +14109,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tj.video.qq.com^
 ||tj.youzanyun.com^
 ||tjj.com^
+||tjjd83.xyz^
 ||tjjs.km.com^
 ||tjmzzk.com^
 ||tjnwfjy.cn^
@@ -14333,6 +14335,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||u.txuesoft.cn^
 ||u1.idongde.com^
 ||u26u.com/$third-party,~font,popup
+||u346zd.top^
 ||u7s546.com^
 ||u8ad.com^
 ||u9yy.com/js/js/$script

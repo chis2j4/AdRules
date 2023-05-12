@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-05-12 00:09:04（北京时间） 
+! Version: 2023-05-12 08:38:09（北京时间） 
 ! Total count: 16152
 -960x*0.gif
 -250.js*
@@ -1449,7 +1449,7 @@ $removeparam=s_kwcid
 $removeparam=sacat
 $removeparam=sap-outbound-id
 $removeparam=sb_referer_host
-$removeparam=sc,domain=bing.com|qvc.com|startpage.com
+$removeparam=sc,document,domain=bing.com|qvc.com|startpage.com
 $removeparam=scd,domain=ashleystewart.com
 $removeparam=scici,domain=shein.com
 $removeparam=scid,domain=~pnc.com

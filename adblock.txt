@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-05-12 16:09:06（北京时间） 
-! Total count: 16152
+! Version: 2023-05-13 00:08:51（北京时间） 
+! Total count: 16153
 -960x*0.gif
 -250.js*
 
@@ -429,6 +429,7 @@ $removeparam=/^amp$/,domain=~eurasiantimes.com
 $removeparam=/^amp;utm_/
 $removeparam=/^amp=1$/,document,domain=newsweek.com
 $removeparam=/^amp=true$/
+$removeparam=/^asc_/,document,domain=amazon.*|aboutamazon.com|amzn.to
 $removeparam=/^bsft_/
 $removeparam=/^cid=DSS-Affiliate/,domain=disneyplus.com|espn.com|hotstar.com|starplus.com
 $removeparam=/^cid=DSS-Search-/,domain=disneyplus.com|espn.com|hotstar.com|starplus.com
@@ -644,6 +645,7 @@ $removeparam=_t,domain=shein.com
 $removeparam=_trkparms
 $removeparam=_trksid
 $removeparam=_vsrefdom
+$removeparam=_x_tr_pto
 $removeparam=_zucks_suid
 $removeparam=a_aid
 $removeparam=a_fid
@@ -1667,7 +1669,6 @@ $removeparam=wx_navbar_hidden
 $removeparam=wx_navbar_transparent
 $removeparam=wx_statusbar_hidden
 $removeparam=x50878,domain=pmctraining.com
-$removeparam=x_tr_pto
 $removeparam=xcust,domain=go.skimresources.com|go.skimlinks.com|go.redirectingat.com
 $removeparam=xid,domain=fortune.com|tcgplayer.com
 $removeparam=xs,domain=go.skimresources.com|go.skimlinks.com|go.redirectingat.com
@@ -7481,7 +7482,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||access.pangolin-sdk-toutiao-b.com^
 ||access1.tpns.tencent.com^
 ||account.wps.cn^$replace=/"has_ad": 1/"has_ad": 0/
-||accounts.google.com^$removeparam=dsh
+||accounts.google.com^$removeparam=dsh,document
 ||acd.op.hicloud.com^$app=com.huawei.hwvplayer.youku
 ||acgshenshicha.cn^
 ||acgsou.com/js/nu

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-05-13 16:08:33（北京时间） 
-! Total count: 16153
+! Version: 2023-05-14 00:07:47（北京时间） 
+! Total count: 16155
 -960x*0.gif
 -250.js*
 
@@ -1853,6 +1853,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /(?::\/\/i1\.hoopchina\.com\.cn\/blogfile\/.+_\d{3}x\d{4})/
 /*/*.add.*.add
 /*AdapterNew.
+/*_*_aubi.js$third-party
 /17mb/script/wap.js|
 /1905/1905.
 /300250/*
@@ -4803,9 +4804,10 @@ mmybt.com##.a_mu,.a_pt
 mnw.cn##.ads,.ad2,.ad1,.left_300_250,iframe[src^="http://g.mnw.cn/"],.mnw_top_ads,.h65,.mnw_265,[style*="height:140px;width:1000px;"]
 mob.iyingdi.com##.down-load-app-container
 mob.iyingdi.com##.reply
-mobi*.*.cam/*_*$third-party
-mobi*.*.cyou/*_*$third-party
-mobi*.*.xyz/*_*$third-party
+mobi*.*.cam/*_$third-party
+mobi*.*.cyou/*_$third-party
+mobi*.*.top/*_$third-party
+mobi*.*.xyz/*_$third-party
 mobile.baidu.com##SECTION.detail-banner.banner-ck
 mobile.zol.com.cn##.tmallmbp,#collection-icon
 moe-acg.cc###text-5,#masthead + .textwidget,.adsense

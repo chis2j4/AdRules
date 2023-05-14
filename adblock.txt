@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-05-14 08:40:29（北京时间） 
-! Total count: 16155
+! Version: 2023-05-14 16:08:41（北京时间） 
+! Total count: 16160
 -960x*0.gif
 -250.js*
 
@@ -17,6 +17,7 @@
 ###avshow
 ###bl_mobile_float[style='height: 152px;']
 ###bottomNavad
+###bottom_ads.hl_bottom_ads
 ###coupletBox
 ###ct > div.mn:last-child > div:nth-child(4) > table
 ###ct > div.mn:last-child > table:nth-child(3)
@@ -68,6 +69,7 @@
 ##A[href*='//v.wanfumei.net']
 ##A[href*='/adjump/?']
 ##A[href*='com:'] > IMG[src],A[href*='cc:'] > IMG[src]
+##A[href*='jialu6699h.vip']
 ##A[href='/?'][target='_blank']
 ##A[href='/hth.html']
 ##A[href='/statics/js/ky-a.html']
@@ -105,6 +107,7 @@
 ##DIV.JS_mid_ad
 ##DIV.ad-area.ad-area-fix-bottom
 ##DIV.ad_js
+##DIV.adj
 ##DIV.advertisingConfiguration
 ##DIV.appdownload_ad
 ##DIV.bot-per-context[data-width='728'][data-height='90']
@@ -1801,6 +1804,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .club$domain=yinghuacd.com
 .cn/ack?s=*$third-party
 .cn/bid?url=*$third-party
+.cn/o.js$third-party
 .com/ads.
 .com/adv1/?q=
 .com/c.php?s=*=*=$third-party
@@ -9898,6 +9902,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||etsy.com^$removeparam=organic_search_click
 ||etui8.cn^
 ||eujxqgh.cn^
+||eulaliadoradl.com^
 ||euronews.com^$removeparam=_ope
 ||europe1.fr^$removeparam=xtor
 ||evbb.xyz^

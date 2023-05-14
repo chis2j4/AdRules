@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-05-14 16:08:53（北京时间） 
-! Total count: 2631
+! Version: 2023-05-15 00:08:02（北京时间） 
+! Total count: 2632
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5531,6 +5531,7 @@
 @@||reastatic.net/150x200-$domain=realestate.com.au
 @@||recaptcha.net/recaptcha/$script
 @@||receiveasms.com^$generichide
+@@||recoco.it^$image,xmlhttprequest,domain=bodysize.org|heavy-r.com|porngo.com|showbiz.cz|tostreamit.com|vumoo.to
 @@||redbull.com/gtm.js$~third-party
 @@||redditinc.com/assets/images/site/*_300x250.$image,~third-party
 @@||redguide.top^*/ad.css?$stylesheet

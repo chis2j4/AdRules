@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-05-15 08:39:53（北京时间） 
-! Total count: 2633
+! Version: 2023-05-15 16:09:57（北京时间） 
+! Total count: 2634
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4387,6 +4387,7 @@
 @@||colatour.com.tw^$generichide
 @@||collect.igodigital.com/collect.js$domain=berkley-fishing.com|goodwillfinds.com|samash.com|vitalsource.com|wilsonparking.com.au
 @@||collect.igodigital.com/collect.js$domain=enoteca.co.jp
+@@||collector.appconsent.io/hello$domain=lachainemeteo.com|lefigaro.fr
 @@||collector.leaddyno.com/shopify.js$script,domain=s4l.us
 @@||collusion.com/static/newrelic.js$script,~third-party
 @@||commons.wikimedia.org/w/api.php?$~third-party,xmlhttprequest

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-05-15 08:39:39（北京时间） 
-! Total count: 16161
+! Version: 2023-05-15 16:09:45（北京时间） 
+! Total count: 16162
 -960x*0.gif
 -250.js*
 
@@ -2742,6 +2742,7 @@ acfun.cn##.download-app
 acg18.me##div.row-fluid.ggggtop,.gggpost-below,.abptext,.gggtop,.ggpost-below
 acgdoge.net,chinalawedu.com,douyu.com,gmgard.com,hggard.com,iqiyi.com,jinti.com,youku.com##a[href*=".tmall.com"]
 acgking.com##.asst
+acglala.me##DIV.topm,div.donghua_info > DIV[style='width:100%;'],div.donghua_info > a
 acgsou.com##[href^="/qxads/ads"]
 acgzone.us##DIV#page > DIV[style^="width:960px;height:"],a[href^="http://www.S99966.com/?aff="]
 actionewz.com,animemojo.com,comicbookmovie.com,fearhq.com,gamefragger.com,mtvuutiset.fi,sffgazette.com,theringreport.com,toonado.com##+js(set, GSvars.addressTracking, false)
@@ -3961,7 +3962,7 @@ ifeng.com##.swiper-bottom
 ifeng.com##.top_carousel
 ifeng.com##.zhenxuan
 ifeng.com##[data-cl]
-ifeng.com##[href^='https://mall.ifeng.com'],IMG[src^='https://x0.ifengimg.com/']
+ifeng.com##[href^='https://mall.ifeng.com'],IMG[class^='picMark-'][src^='https://x0.ifengimg.com/']
 ifeng.com##[id^="cl"]
 ifeng.com##[id^="dl"]
 ifeng.com##[iscl]

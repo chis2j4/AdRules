@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-05-15 00:07:52（北京时间） 
-! Total count: 16160
+! Version: 2023-05-15 08:39:39（北京时间） 
+! Total count: 16161
 -960x*0.gif
 -250.js*
 
@@ -10612,6 +10612,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||holor0804.cn^
 ||holor857.cn^
 ||home.xdf.cn/lee_sq/js/
+||homedepot.com^$removeparam=fromReminder
 ||homepage-gw.jd.com/npromotion^$third-party
 ||hongdouav8.com^$script
 ||hongfachn.com^
@@ -13700,7 +13701,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||somd5.com/tijiao.php^
 ||somewhate.club^
 ||son-video.com^$removeparam=ae
-||sony.^$removeparam=cpint
+||sony.$removeparam=cpint
 ||soshuw.com/ui/bootstrap/base_
 ||sosocili.xyz/assets/js/app.js?v=
 ||soua.com^

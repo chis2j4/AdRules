@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-05-18 00:09:23（北京时间） 
-! Total count: 2635
+! Version: 2023-05-18 08:38:24（北京时间） 
+! Total count: 2636
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4339,7 +4339,7 @@
 @@||cloud.notification-naviextras.com^|
 @@||cloud.talend.com/api/ipaas/services/analytics/$~third-party,xmlhttprequest
 @@||cloudflare.com/ajax/$stylesheet,domain=shink.me|shon.xyz
-@@||cloudflare.com/ajax/libs/fingerprintjs2/$domain=extracttable.com|winnipegfreepress.com
+@@||cloudflare.com/ajax/libs/fingerprintjs2/$domain=extracttable.com|fckrasnodar.ru|winnipegfreepress.com
 @@||cloudflare.com/ajax/libs/fuckadblock/$domain=seselah.com
 @@||cloudflare.com/cdn-cgi/trace$domain=infyspringboard.onwingspan.com|myair2.resmed.com
 @@||cloudflare.com^$script,stylesheet,domain=canyoublockit.com
@@ -4485,6 +4485,7 @@
 @@||dictionary.search.yahoo.com/beacon/sc?&ajaxdd=tabsCard&
 @@||digiland.tw/advert.js
 @@||digit77.com^$generichide
+@@||digitale-sammlungen.gwlb.de^*/pageview.js$script,domain=digitale-sammlungen.gwlb.de
 @@||discord.com^$generichide
 @@||discordapp.com/banners/$image
 @@||discretemath.org/ads/

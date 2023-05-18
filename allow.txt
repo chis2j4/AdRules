@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-05-18 08:38:24（北京时间） 
-! Total count: 2636
+! Version: 2023-05-18 16:09:50（北京时间） 
+! Total count: 2637
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4827,6 +4827,7 @@
 @@||h.imedia.cz/js/cmp2/scmp.js$domain=seznam.cz
 @@||haaretz.co.il/logger/p.gif?$image,xmlhttprequest
 @@||haiwai.com^$generichide
+@@||hakurei.ga/bin2img/wasm_export_bg.wasm$~third-party
 @@||hanjubaike.com^$script,~third-party
 @@||hanjuwang.com^$script,~third-party
 @@||hanjuwang.net^$script,~third-party

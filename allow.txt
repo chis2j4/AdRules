@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-05-20 00:08:59（北京时间） 
-! Total count: 2638
+! Version: 2023-05-20 08:37:05（北京时间） 
+! Total count: 2637
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4274,7 +4274,7 @@
 @@||cdn.segmentify.com^$script,domain=gratis.com
 @@||cdn.smartclip-services.com^$script,domain=cerebriti.com
 @@||cdn.staticfile.org^$script,domain=00ksw.com|147xiaoshuo.com|31xs.org|31xsxs.com|35xs.org|biquge18.com|biququ.info|manhuadui.com|qihaoqihao.com|rijutv.com|tsxsw.net|xbiqugexsw.com|xx31xs.org|ziyouge.com
-@@||cdn.staticfile.org^$script,domain=91zww.com|00ksw.com|147xiaoshuo.com|biququ.info|bookbao.me|bxwx.live|shenzu.org
+@@||cdn.staticfile.org^$script,domain=00ksw.com|147xiaoshuo.com|91zww.com|biququ.info|bookbao.me|bxwx.live|shenzu.org
 @@||cdn.treasuredata.com/sdk/$script,domain=retty.me
 @@||cdn.treasuredata.com/sdk/$script,domain=sso.lg.com
 @@||cdn.vidoza.co/js/$script,domain=vidoza.co|vidoza.net
@@ -5537,7 +5537,6 @@
 @@||reastatic.net/150x200-$domain=realestate.com.au
 @@||recaptcha.net/recaptcha/$script
 @@||receiveasms.com^$generichide
-@@||recoco.it^$image,xmlhttprequest,domain=bodysize.org|heavy-r.com|porngo.com|showbiz.cz|tostreamit.com|vumoo.to
 @@||redbull.com/gtm.js$~third-party
 @@||redditinc.com/assets/images/site/*_300x250.$image,~third-party
 @@||redguide.top^*/ad.css?$stylesheet

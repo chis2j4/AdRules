@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-05-21 00:07:49（北京时间） 
-! Total count: 16179
+! Version: 2023-05-21 08:41:47（北京时间） 
+! Total count: 16180
 -960x*0.gif
 -250.js*
 
@@ -10115,6 +10115,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||freychang.fun^
 ||friendshipmale.com^
 ||frodo.douban.com/api/v2/erebor/feed_ad?
+||fronttoad.com^
 ||frpns.com^
 ||fsgsfaf6.com^
 ||fstats.xyz^

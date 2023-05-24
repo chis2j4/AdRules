@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-05-24 00:09:20（北京时间） 
+! Version: 2023-05-24 08:39:11（北京时间） 
 ! Total count: 16187
 -960x*0.gif
 -250.js*
@@ -1605,6 +1605,7 @@ $removeparam=tracking_type
 $removeparam=tracking_user
 $removeparam=trafficSource
 $removeparam=traffic_id
+$removeparam=traffic_source,domain=aljazeera.com|bleepingcomputer.com
 $removeparam=traffic_type
 $removeparam=trco_id
 $removeparam=trk,domain=linkedin.com
@@ -8774,7 +8775,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bksoup.v.qq.com^
 ||bl.emotionalworld.cn^
 ||bleepingcomputer.com^$removeparam=cx
-||bleepingcomputer.com^$removeparam=traffic_source
 ||blkxszh.com/zj/
 ||bloculus.com^$removeparam=/^tl_[a-z_]+=/
 ||blog.csdn.net/*/phoenix/comment/list/

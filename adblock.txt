@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-05-25 16:09:36（北京时间） 
-! Total count: 16198
+! Version: 2023-05-26 00:09:09（北京时间） 
+! Total count: 16202
 -960x*0.gif
 -250.js*
 
@@ -1827,6 +1827,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .com/qq.js$third-party
 .com/sh/to/$third-party
 .com/xz/*?token8=
+.com:8001/*/*?t=$3p
 .cyou/redbaiduct.com
 .cyou/xling_*_
 .gif$domain=787ck.cc
@@ -9662,6 +9663,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dodhvug.cn^
 ||doglobal.com^
 ||doglobal.net^
+||dohihf.com^
 ||doiney.pandasone.com^
 ||doit.kccqgj.cn^
 ||dollar.com^$removeparam=SourceSystem
@@ -10660,6 +10662,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hqbuoh.com^
 ||hqgjcm.com^
 ||hqnpwzu.cn^
+||hrngmf.com^
 ||hs.fi^$removeparam=share
 ||hsforms.com^
 ||hsforms.net^
@@ -15474,6 +15477,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||youtube.com/ptracking?pltype=adhost
 ||youtube.com^$removeparam=ab_channel
 ||youtube.com^$removeparam=embeds_euri
+||youtube.com^$removeparam=embeds_referring_euri
 ||youtube.com^$removeparam=feature
 ||youtube.com^$removeparam=gclid
 ||youtube.com^$removeparam=kw

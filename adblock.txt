@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-05-27 08:40:22（北京时间） 
-! Total count: 16201
+! Version: 2023-05-27 16:08:36（北京时间） 
+! Total count: 16205
 -960x*0.gif
 -250.js*
 
@@ -53,6 +53,7 @@
 ##.ayx[style="position: fixed;bottom: -10px;right:0;z-index:999;width:250px"]
 ##.bottom-pic,.col-pd.mb10
 ##.clearfix > a > IMG[referrerpolicy='no-referrer'][src]:not([style='display: block;'])
+##.cupfox-content.right,.cupfox-content.left
 ##.div.ps_
 ##.fc_foot
 ##.fed-part-advs.fed-text-center.fed-font-xvi
@@ -1828,6 +1829,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .com/sh/to/$third-party
 .com/xz/*?token8=
 .com:8001/*/*?t=$3p
+.com:8010/cc/
 .cyou/redbaiduct.com
 .cyou/xling_*_
 .gif$domain=787ck.cc
@@ -2876,8 +2878,12 @@ baidu.com##.square-banner-bgicon.index-banner
 baidu.com##.welcome-banner
 baidu.com##.wgt-rel-exp.content-box
 baidu.com##.wgt-related-questions
+baidu.com##DIV#page-copyright.se-page-copyright.se-copyright-zbios[style='margin-bottom: 50px;']
+baidu.com##DIV.barea-ad
 baidu.com##DIV.c-result.result[srcid='mkt_ad_space']
 baidu.com##DIV.navs-bottom-bar
+baidu.com##DIV[data-module='rec:undefined-undefined']
+baidu.com##DIV[data-module='swan-ad-fc-feed'] DIV[sid][posid][prank]
 baidu.com##[class^='ball-wrapper']
 baidu.com##a.ball-wrapper__3BTBO.c-blocka
 baidu.com##div#J-super-layer-promote
@@ -4480,12 +4486,8 @@ m.baidu.com##.square-banner-bgicon.index-banner
 m.baidu.com##.suggest-hot
 m.baidu.com##.water-container.tab-news-content
 m.baidu.com##DIV#page-copyright.se-page-copyright.se-copyrig
-m.baidu.com##DIV#page-copyright.se-page-copyright.se-copyright-zbios[style='margin-bottom: 50px;']
 m.baidu.com##DIV#se-recommend-word-list-container.se-recommend-word-list-container
-m.baidu.com##DIV.barea-ad
 m.baidu.com##DIV.brand-entry
-m.baidu.com##DIV[data-module='rec:undefined-undefined']
-m.baidu.com##DIV[data-module='swan-ad-fc-feed'] DIV[sid][posid][prank]
 m.baidu.com#@#div[class*="ads"]
 m.baidu.com,www.baidu.com###provider,div[class$="fixed"],SECTION#middle_banner,.ec_ad_results,.shopping-item,#bottomOperate
 m.baidu.com,www.baidu.com##ARTICLE[class='c-container aladdin__10uYO']
@@ -11285,6 +11287,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||juzi.cn^
 ||juzi007.com^$third-party
 ||juzilm.com^$third-party
+||jv0rlf.com^
 ||jvpyxve.cn^
 ||jwcsb.com.cn/js/neirong.js
 ||jwddpvu.cn^
@@ -12092,6 +12095,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||metvb.com/js/z.js
 ||mf01.zybang.com^
 ||mfe.paqpq.com^
+||mfoevvy.com^
 ||mfxyqh.cn^
 ||mg.yunchong6.cn^
 ||mg.zgcqxjzny.cn^

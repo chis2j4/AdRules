@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-05-28 00:08:43（北京时间） 
-! Total count: 16205
+! Version: 2023-05-28 08:42:24（北京时间） 
+! Total count: 16208
 -960x*0.gif
 -250.js*
 
@@ -8874,6 +8874,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bubulai.com/js/xv.js
 ||bubulai.com/js/zv.js
 ||bugly.qq.com^
+||bugs.co.kr^$removeparam=wl_ref
 ||bujiangjiu123.com^
 ||bulisite.top^
 ||buschgardens.com^$removeparam=AFS
@@ -10306,6 +10307,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||google-analytics.com$third-party
 ||google-analytics.com/analytics.js
 ||google-analytics.com^
+||google.$removeparam=/^sa=N$/
 ||google.$removeparam=/^sa=X$/
 ||google.$removeparam=gs_ssp
 ||google.$removeparam=prds
@@ -13852,6 +13854,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||stmzzs.com^
 ||store.hbr.org^$removeparam=fromSku
 ||store.hbr.org^$removeparam=fromSkuRelated
+||store.thesims3.com^$removeparam=section
 ||store.tv.api.3g.youku.com^
 ||store.xl.api.3g.youku.com^
 ||storyren.com/images/dl

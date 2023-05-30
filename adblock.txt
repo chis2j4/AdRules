@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-05-30 16:09:43（北京时间） 
-! Total count: 16210
+! Version: 2023-05-31 00:08:55（北京时间） 
+! Total count: 16212
 -960x*0.gif
 -250.js*
 
@@ -5365,6 +5365,7 @@ smzdm.com##a[class^="fixed-logo"]
 smzy.com##.ad_show
 so.360.cn##div#m-spread-left,div#so_kw-ad,DIV.spread
 so.com##DIV#m-google-top,DIV#so_kw-ad,DIV#m-spread-left,#so_bd-ad,#m-spread-bottom,.boxinner-r,div#bnbtm,.e_idea_wenda_spread,#e_idea_wenda_leftBox.result.e_clearfix,.commercialCell.cmcstyle2,.e_idea_list,.top-ads,.cmitem
+so.toutiao.com##DIV[id^='ad_']
 so.toutiao.com##section.commonbox.hasfooter
 sobaidupan.com##.ad_728x90
 sodu.tw##[style^="width:760px;margin:auto;height:91px;"]
@@ -15583,6 +15584,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zabdybod*.club^
 ||zahrvfbd*.xyz^
 ||zailet.com^
+||zaiyuanyqq.com^
 ||zangtui.com^
 ||zanox.com.cn^
 ||zaoyx.jrchiji.cn^

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-05-31 00:08:55（北京时间） 
-! Total count: 16212
+! Version: 2023-05-31 08:43:52（北京时间） 
+! Total count: 16215
 -960x*0.gif
 -250.js*
 
@@ -1175,7 +1175,7 @@ $removeparam=li,domain=msn.com
 $removeparam=li_medium
 $removeparam=li_source
 $removeparam=lid,domain=baidu.com|clickserve.dartsearch.net|flipkart.com
-$removeparam=linkId,domain=amazon.*|cbsnews.*|disneyplus.com
+$removeparam=linkId,domain=amazon.*|cbsnews.*|disneyplus.com|sporza.be
 $removeparam=link_source_user_id,domain=nextdoor.com
 $removeparam=litb_from
 $removeparam=loc,document,domain=bestbuy.*|shopping.google.com
@@ -2714,7 +2714,7 @@ Mplay/kk1.js
 ^t=0^$removeparam=t,domain=bilibili.com
 ^via=futurepedia^$removeparam=via
 ^via=toolbar^$removeparam=via,domain=user.qzone.qq.com
-^z=*&var=$removeparam=var
+^z=*&var=$removeparam=var,document
 _/bigREDcat.css?
 _/bigREDdog.css?
 _/bigREDdog.js
@@ -8660,6 +8660,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bigfishgames.com^$removeparam=npi
 ||bigfishgames.com^$removeparam=pc
 ||bihaipack.com^
+||bild.de^$document,removeparam=t_ref
 ||bilibili.com/audio/au*?$removeparam=type
 ||bilibili.com/audio/mycollection?$removeparam=type
 ||bilibili.com/bangumi$removeparam=theme
@@ -9926,6 +9927,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||etlanaberez.fun^
 ||etsy.com^$removeparam=click_key
 ||etsy.com^$removeparam=click_sum
+||etsy.com^$removeparam=gao
+||etsy.com^$removeparam=gpla
 ||etsy.com^$removeparam=organic_search_click
 ||etui8.cn^
 ||eujxqgh.cn^

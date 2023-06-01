@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-06-01 08:54:29（北京时间） 
-! Total count: 16239
+! Version: 2023-06-01 16:09:22（北京时间） 
+! Total count: 16250
 -960x*0.gif
 -250.js*
 
@@ -274,6 +274,7 @@
 ##[style='width: 100%; height: 123.75px;']
 ##[style='width: 100%; height: auto; position: fixed; left: 0px; top: 0px; z-index: 2147483647;']
 ##[style='width:100%;height:auto;min-height:120px;position:relative;display:block;']
+##[style='z-index: 99999; text-indent: -10em;position: relative; left: 0px;box-sizing: border-box;']
 ##[style^="pointer-events: none;background-image:url('https://33789.qqqwww987.site"],[style^='z-index: 2147483647; height: 123px; ']
 ##[style^='bottom: 0px; width: 100%; height: 50vw; position: fixed; left: 0px; right: 0px; margin: 0px; background: url("https://']
 ##[style^='position: fixed; bottom: 20%; z-index: 19999 !important; ']
@@ -285,6 +286,7 @@
 ##a.gggg[href^="https"]
 ##a.outlink
 ##a[href*=".com?s="]
+##a[href^="/ad.html?url="]
 ##a[href^="https://uds24.com/"]
 ##body > A[ontouchstart='this.click();'][href]
 ##body > DIV[class][style='top: 132px;']
@@ -1824,6 +1826,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .cn/ack?s=*$third-party
 .cn/bid?url=*$third-party
 .cn/o.js$third-party
+.cn:8001/*/*?t=$third-party
 .com/ads.
 .com/adv1/?q=
 .com/c.php?s=*=*=$third-party
@@ -1832,6 +1835,8 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .com/qq.js$third-party
 .com/sh/to/$third-party
 .com/xz/*?token8=
+.com:10446/*/get*.html
+.com:8001/*/*?n=$third-party
 .com:8001/*/*?t=$3p
 .com:8010/cc/
 .cyou/redbaiduct.com
@@ -3814,6 +3819,7 @@ halidown.com##.new_head_ad,#down_emptyids,[id^="movie_show_"]
 hanfan.cc##ins.adsbygoogle,div.widget_ui_ads
 hanhuazu.cc##.ad,[id^="ad"]
 hanime.tv##.smart-banner-content,.golden-saucer
+hanman/static/dist/ppm/js/main.js
 hanyu.baidu.com###J_Suspens
 hanyu.baidu.com###download-wrapper
 hanyu.baidu.com##.app-promotion-icon
@@ -7792,6 +7798,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ae4.ifeng.com^
 ||aefmbeq.cn^
 ||aegis.qq.com^
+||aeletheacd.com^
 ||aeventlog.beacon.qq.com^
 ||af31f.site^
 ||afablca.cn^
@@ -7909,6 +7916,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||als.baidu.com^
 ||alwayzcars.com^
 ||alxsite.com^
+||alyssabelen.com^
 ||am.cupid.iqiyi.com/am
 ||am15.net^
 ||amazon-adsystem.com^
@@ -9871,6 +9879,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ekstrabladet.dk^$removeparam=account
 ||ekstrabladet.dk^$removeparam=ilc
 ||elegant-creator.com^
+||elevatorpartsbuy.com^
 ||elopatchwork.com^
 ||elsmom.xyz^
 ||elsynmlw.fun^
@@ -10055,6 +10064,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ffmehcg.cn^
 ||ffmobi.com^
 ||ffnvhig.cn^
+||ffriedadl.com^
 ||ffyoo.com^
 ||ffzz71.com^
 ||fg.daochengwowo.top^
@@ -15610,6 +15620,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||za5.net^
 ||zabdybod*.club^
 ||zahrvfbd*.xyz^
+||zaiceyjjqq.com^
 ||zailet.com^
 ||zaiyuanyqq.com^
 ||zangtui.com^

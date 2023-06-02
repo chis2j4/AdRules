@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-06-02 00:09:10（北京时间） 
-! Total count: 16251
+! Version: 2023-06-02 08:44:02（北京时间） 
+! Total count: 16256
 -960x*0.gif
 -250.js*
 
@@ -414,6 +414,7 @@ $document,removeparam=source,denyallow=googlevideo.com,domain=1sol.io|ashford.co
 $document,removeparam=trackID
 $document,removeparam=trackid,domain=~nzpost.co.nz
 $document,removeparam=waporef
+$document,removeparam=wp_source,domain=ac24.cz|ambcrypto.com|glispa.com|whitepages.com
 $image,third-party,domain=avtb6677.com|lady1.top
 $popup,third-party,domain=downdv.com|rmdown.com|soyunpan.com|youtubeto.com
 $removeparam=%243p,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
@@ -8308,6 +8309,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||as.com^$removeparam=m4
 ||as.com^$removeparam=m5
 ||as.com^$removeparam=omnil
+||as.com^$removeparam=ssm,document
 ||as.nidongme.com^
 ||as.weixin.qq.com^
 ||as2.wenku.baidu.com/$subdocument
@@ -14793,6 +14795,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||whcrdz.com^
 ||whdafei.com^
 ||whinfo.net.cn/js/fly_right.js
+||whitepages.com^$document,removeparam=wp_content
+||whitepages.com^$document,removeparam=wp_medium
+||whitepages.com^$document,removeparam=wp_term
 ||whoclick.cn^
 ||whwdzgykybnfg.com^
 ||whwxxny.com^

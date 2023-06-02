@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-06-02 16:09:16（北京时间） 
-! Total count: 16250
+! Version: 2023-06-03 00:08:48（北京时间） 
+! Total count: 16254
 -960x*0.gif
 -250.js*
 
@@ -1029,7 +1029,7 @@ $removeparam=fobs
 $removeparam=fr,domain=baidu.com|thegay.com
 $removeparam=fr,domain=hclips.com
 $removeparam=fref
-$removeparam=from,domain=apkpure.com|bandcamp.com|browserling.com|luisaviaroma.com|sogou.com|store.hbr.org|onlinepngtools.com
+$removeparam=from,document,domain=apkpure.com|bandcamp.com|browserling.com|luisaviaroma.com|sogou.com|store.hbr.org|onlinepngtools.com|indiatimes.com
 $removeparam=fromLoggedOutHome,domain=ocado.com
 $removeparam=fromMostRead,domain=bloomberg.com
 $removeparam=fromRankId
@@ -1538,7 +1538,7 @@ $removeparam=spr,domain=media-cdn.costco.ca|media-cdn.costco.com
 $removeparam=sr_id,domain=reddit.app.link
 $removeparam=sr_name,domain=reddit.app.link
 $removeparam=sr_share
-$removeparam=src,domain=3cx.com|adafruit.com|ashford.com|bluejeans.com|bose.*|brave.com|buyzero.de|cytron.io|digikey.*|elastix.org|engadget.com|getpocket.com|hallmark.com|hinta.fi|investors.com|kennethcole.com|kipling-usa.com|kubii.*|melopero.com|mozilla.org|msn.com|neeva.com|newbalance.com|nexo.io|officestationery.co.uk|okdo.com|raspipc.es|reichelt.*|thepihut.com|thunderbird.net|tiendatec.es|tokopedia.com|twitter.com|udemy.com|viking-direct.co.uk|webmd.com|welectron.com|wondershare.*|wuzhuiso.com|yahoo.com
+$removeparam=src,document,domain=3cx.com|adafruit.com|ashford.com|bluejeans.com|bose.*|brave.com|buyzero.de|cytron.io|digikey.*|elastix.org|engadget.com|getpocket.com|hallmark.com|hinta.fi|investors.com|kennethcole.com|kipling-usa.com|kubii.*|melopero.com|mozilla.org|msn.com|neeva.com|newbalance.com|nexo.io|officestationery.co.uk|okdo.com|raspipc.es|reichelt.*|tandfonline.com|thepihut.com|thunderbird.net|tiendatec.es|tokopedia.com|twitter.com|udemy.com|viking-direct.co.uk|webmd.com|welectron.com|wondershare.*|wuzhuiso.com|yahoo.com
 $removeparam=src_campaign,document
 $removeparam=src_content
 $removeparam=src_custom
@@ -8889,6 +8889,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bulisite.top^
 ||buschgardens.com^$removeparam=AFS
 ||business-api.tiktok.com^$third-party
+||businessinsider.com^$document,removeparam=inline-endstory-related-recommendations
 ||butou.cn^
 ||buyihao.com^
 ||buysellads.com^
@@ -11974,6 +11975,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||man7777.com^
 ||manage.wuhancloud.cn^
 ||manage88.com^
+||manchestereveningnews.co.uk^$removeparam=kop,document
 ||mangabz.com/wxh_asy.js
 ||manguan.vip^
 ||manhuabei.com/assets/xiwang.js
@@ -13442,6 +13444,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||scarletcashwi5.com^
 ||scdng.com^
 ||schain.group^
+||sciencedirect.com/*?via%3D$removeparam=/^via%3D/,document
 ||sciencenet.cn/html/js/
 ||sciencenet.cn/images/20180521.jpg
 ||sciillr.cn^
@@ -13703,6 +13706,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||smarttrade.cn^
 ||smetrics.samsung.com^$third-party
 ||smfjfgie.xyz^
+||smh.com.au^$removeparam=btis,document
 ||smtwm61.com^
 ||snailok.com/template/stui_tpl/sdfsdfzxxsa/dxf.js
 ||snailok.com/template/stui_tpl/sdfsdfzxxsa/heade.js

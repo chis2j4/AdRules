@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-06-03 16:08:53（北京时间） 
-! Total count: 16257
+! Version: 2023-06-04 00:08:46（北京时间） 
+! Total count: 16262
 -960x*0.gif
 -250.js*
 
@@ -1183,7 +1183,7 @@ $removeparam=li,domain=msn.com
 $removeparam=li_medium
 $removeparam=li_source
 $removeparam=lid,domain=baidu.com|clickserve.dartsearch.net|flipkart.com
-$removeparam=linkId,domain=amazon.*|cbsnews.*|disneyplus.com|sporza.be
+$removeparam=linkId,domain=amazon.*|cbsnews.*|disneyplus.com||espn.*|sporza.be
 $removeparam=link_source_user_id,domain=nextdoor.com
 $removeparam=litb_from
 $removeparam=loc,document,domain=bestbuy.*|shopping.google.com
@@ -6107,6 +6107,7 @@ www.hi1978.com##div.ad,div#miaov_float_layer
 www.hon3yhd.com##div[id^="MarketGidScriptRootC"],iframe[src^="http://bdfrm.bidvertiser.com/"]
 www.huadongty.com##DIV[id$=' img-containers']
 www.huadongty.com##SECTION
+www.huya.com##A[data-edesc='点击/推荐/左侧导航推荐图']
 www.hxsteel.cn###paihang,.xuanchuan,.baidulianmeng
 www.hxsxw.com##div.tac.mb5
 www.hzw.com.cn##DIV.xfb_close_icon,DIV#xfb_lbox,DIV.xfb_close_btn
@@ -9928,6 +9929,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||err.taobao.com^
 ||errlog.umeng.com^
 ||ert.pengwenli.top^
+||espn.$document,removeparam=platform
 ||espn.com^$removeparam=ex_cid
 ||esptj.com^
 ||estcruden.biz^
@@ -11021,6 +11023,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ipc08dt.com^
 ||ipinyou.com^$third-party,domain=~www.v1.cn|~ipinyou.com.cn
 ||iplm.cc^
+||iplt20.com^$document,removeparam=tagNames
 ||ipm.atm.youku.com^
 ||ipndulsempjgb.bid^
 ||ipqc5ejfe.icu^
@@ -12887,6 +12890,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pmensrl.cn^
 ||pmp.365dmp.com^$app=com.huawei.hwvplayer.youku
 ||pmvlwjy.cn^
+||pnas.org^$document,removeparam=af
 ||po18.in^
 ||poae2klya.icu^
 ||poasotha.com^
@@ -14336,6 +14340,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tsis.jpush.cn^
 ||tslianm.com^
 ||tslomhfys.com^
+||tsn.ca^$document,removeparam=tsn-amp
 ||tsyndicate.com^
 ||tt123.hao0202.com^
 ||ttaj.cn^

@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-06-03 00:08:48（北京时间） 
+! Version: 2023-06-03 08:42:54（北京时间） 
 ! Total count: 16254
 -960x*0.gif
 -250.js*
@@ -919,7 +919,7 @@ $removeparam=coliid
 $removeparam=collection,domain=everlane.com
 $removeparam=compact_view,domain=reddit.app.link
 $removeparam=content,domain=1sol.io|bybit.com|coinpanel.com|docs.google.com|docsend.com|eonline.com|eventbrite.*|forms.gle|gleam.io|goodcrypto.app|instagram.com|kasta.io|runnode.com|t.me|twitter.com|youtube.com
-$removeparam=context,domain=imdb.com|fiverr.com
+$removeparam=context,domain=imdb.com|fiverr.com|spotify.com
 $removeparam=context_referrer
 $removeparam=correlation_id,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
 $removeparam=cotracking

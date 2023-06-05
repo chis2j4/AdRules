@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-06-05 08:44:06（北京时间） 
-! Total count: 16264
+! Version: 2023-06-05 16:09:53（北京时间） 
+! Total count: 16256
 -960x*0.gif
 -250.js*
 
@@ -2144,6 +2144,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /imgs.js*
 /inapi/show/*
 /inc/poster.php
+/index.html?channelCode=$~third-party
 /indexad*
 /iphone.myzaker.com/zaker/cover.php
 /iphone.myzaker.com/zaker/interaction.php
@@ -2206,25 +2207,9 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /n6b7/*.js
 /nav/ad
 /navflash.js*
-/new/21*.html
-/new/27*.html
-/new/50*.html
-/new/51*.html
-/new/52*.html
-/new/53*.html
-/new/54*.html
-/new/55*.html
-/new/56*.html
-/new/57*.html
-/new/81*.html
-/new/82*.html
-/new/83*.html
-/new/84*.html
-/new/85*.html
-/new/86*.html
-/new/87*.html
-/new/88*.html
-/new/89*.html
+/new/2*.html
+/new/5*.html
+/new/8*.html
 /new20*/tlys.
 /newhuagg/*
 /newsPopup/*
@@ -5718,6 +5703,7 @@ udn.com##.ad_mag,#google_ad,#article_bottom_ad,.DisplayVideo,.more_ad,#ec
 ufanw.com##.duilian,.top_11
 ui.cn$$div[class="down-app"]
 uliba.net##.widget_new,.tool_news1,[id^="ad_"],li[style="margin-top:5px; "],div[style],a[href="http://www.zhaoquanle.com/"]
+unpkg.com/aladug/*.js
 uoso.net##DIV.adtopbox.block,H3 + DL.list
 up.woozooo.com##.ves
 up01.cc##.ads,.pagead,#popad,iframe[height="90"],iframe[height="60"]
@@ -9566,6 +9552,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dgdg16.com/js/so/duilian.js^
 ||dgfgflod.com^
 ||dgfggy.com^
+||dghehu.com^
 ||dgstatic.jd.com^
 ||dgxlm.xyz^
 ||dh.xfplay.com/home/home_game_new_*.json
@@ -10564,6 +10551,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hefan365.com^
 ||hefei126.com^
 ||hefei64.com^
+||hefrpv.xyz^
 ||hehuren.cn^
 ||heiad.com^
 ||heidoumedia.com^
@@ -12570,6 +12558,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nvidia.com^$removeparam=jso
 ||nvwlm.com^$third-party
 ||nwxzs.com^
+||nxnjw.com^
 ||nxrxt.com^
 ||nxxyjn.com^
 ||nyaa.fun/static/img/*_refesh.
@@ -15623,6 +15612,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||yywridi.cn^
 ||yyys.shop^
 ||yzc35326.top^
+||yziwujuzq.live^
 ||yznwyng.cn^
 ||yzpsb.com/1.js
 ||yzpsb.com/js/system.js
@@ -15636,6 +15626,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zaiceyjjqq.com^
 ||zailet.com^
 ||zaiyuanyqq.com^
+||zangtankqq.com^
 ||zangtui.com^
 ||zanox.com.cn^
 ||zaoyx.jrchiji.cn^
@@ -15811,6 +15802,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zlnmzc.top^
 ||zmhqhuq.cn^
 ||zmkma.com^
+||znchw.com^
 ||znlgplt.com^
 ||znnodl.xyz^
 ||znsv.baidu.com^

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-06-06 16:09:24（北京时间） 
-! Total count: 16255
+! Version: 2023-06-07 00:09:12（北京时间） 
+! Total count: 16263
 -960x*0.gif
 -250.js*
 
@@ -1821,6 +1821,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 -mobile-default/static/js/app-download-
 -time.js?
 -tongji.
+.buzz/*0*0*0*==$third-party
 .cc/o.js$third-party
 .cfd/video/index/index/user_login/
 .club$domain=yinghuacd.com
@@ -1854,6 +1855,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .openx.
 .shop:*/ack?s=
 .shop:*/bid?url=
+.top/*/*.js?ts=$third-party
 .top/*q=*form=*&*url=http*$third-party
 .top/?token=$third-party
 .top/gluinfo.php?s=$third-party
@@ -7826,6 +7828,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||aiwei365.net^
 ||aiyouji.xyz^
 ||aj4j.icu^
+||ajcode.co^
 ||ajfkwwpo.xyz^
 ||ajhdf.com^
 ||ajzsa.xyz^
@@ -9511,6 +9514,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||de.pandora.xiaomi.com^
 ||dedcrfvdj.xyz^
 ||deepdiscount.com^$removeparam=bid
+||deepl.com/pro$removeparam=pdf
+||deepl.com^$document,removeparam=cta
 ||deeplearning.ai^$removeparam=_hsenc
 ||deeplearning.ai^$removeparam=_hsmi
 ||deeplearning.ai^$removeparam=ecid
@@ -12886,6 +12891,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||poasotha.com^
 ||poereawer.top^
 ||pogwua.cn^
+||pohpll.xyz^
 ||poiqknfl.com^
 ||pojihfnkbllg.net^
 ||pojkhufef.xyz^
@@ -15710,6 +15716,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zerjin.com^
 ||zero.wewakir.top^
 ||zevbzn.xyz^
+||zewfbw.buzz^
 ||zewfbw.xyz^
 ||zfjiu.com^
 ||zg40c.cn^
@@ -15739,6 +15746,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zhenbuka.com/gg/lunbo.js
 ||zhenbuka.com/gg^
 ||zhenghemold.com^
+||zhengliyqq.com^
 ||zhengshaoze.com^
 ||zhengxiaoliu.top^
 ||zhflodsix.cn^

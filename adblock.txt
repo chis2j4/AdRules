@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-06-07 16:09:51（北京时间） 
-! Total count: 16262
+! Version: 2023-06-08 00:09:25（北京时间） 
+! Total count: 16263
 -960x*0.gif
 -250.js*
 
@@ -844,7 +844,7 @@ $removeparam=c3nid
 $removeparam=cId,domain=apple.com|youtube.com
 $removeparam=c[0]
 $removeparam=camp,domain=amazon.*|calvinklein.*|dickssportinggoods.com|dockers.com|dressbarn.com|lanebryant.com|levi.com|maurices.com|worldmarket.com|xg4ken.com
-$removeparam=campaign,domain=1sol.io|bdsmx.tube|blue-tomato.com|bybit.com|coinpanel.com|discord.*|docs.google.com|docsend.com|eventbrite.*|forms.gle|gleam.io|goodcrypto.app|instagram.com|kasta.io|outnorth.fi|peterhahn.*|runnode.com|scmp.com|shopee.*|sitepoint.com|sportler.com|t.me|twitter.com|youtube.com
+$removeparam=campaign,domain=1sol.io|bdsmx.tube|blue-tomato.com|bybit.com|coinpanel.com|discord.*|docs.google.com|docsend.com|eventbrite.*|forms.gle|gleam.io|goodcrypto.app|instagram.com|kasta.io|mrgay.tube|outnorth.fi|peterhahn.*|runnode.com|scmp.com|shopee.*|sitepoint.com|sportler.com|t.me|twitter.com|youtube.com
 $removeparam=campaign,domain=reddit.app.link
 $removeparam=campaign_id,domain=~kochava.com|~unisportstore.*
 $removeparam=cardId,document,domain=alibaba.com
@@ -11344,6 +11344,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||k8jdwang.com/js/wap_max/waptop.js
 ||k9w4m.xyz^
 ||kagdf.com^
+||kahoot.it^$removeparam=refer_method
 ||kaicn.com/style/js/js.js$script
 ||kaiguangdou.com^
 ||kaimaohong20.cn^

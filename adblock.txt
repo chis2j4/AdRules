@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-06-07 08:48:09（北京时间） 
+! Version: 2023-06-07 16:09:51（北京时间） 
 ! Total count: 16262
 -960x*0.gif
 -250.js*
@@ -1113,7 +1113,7 @@ $removeparam=ici,domain=shein.com
 $removeparam=icid2
 $removeparam=iclid
 $removeparam=icn,domain=shein.com
-$removeparam=ico,domain=inews.co.uk|metro.co.uk|thisismoney.co.uk
+$removeparam=ico,domain=dailymail.co.uk|inews.co.uk|metro.co.uk|thisismoney.co.uk
 $removeparam=id,domain=go.redirectingat.com|go.skimlinks.com|go.skimresources.com|karkkainen.com
 $removeparam=ifs,domain=pcgamesn.com|pockettactics.com|thedigitalfix.com|theloadout.com|wargamer.com
 $removeparam=ig_mid

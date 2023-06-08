@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-06-08 08:44:43（北京时间） 
-! Total count: 16263
+! Version: 2023-06-08 16:09:30（北京时间） 
+! Total count: 16269
 -960x*0.gif
 -250.js*
 
@@ -190,6 +190,7 @@
 ##[at*='尼斯人注册送']
 ##[class$="_main_outstream"][style="right: 0px;"]
 ##[class^="chapter_"] > .baiduCenter
+##[data^='/banners/pr_advertising_ads_banner']
 ##[href$='/ads.aspx']
 ##[href*="/?channelCode="] > [referrerpolicy='no-referrer']
 ##[href*="/entry/register/?i_code="]
@@ -253,6 +254,7 @@
 ##[src='https://pnm.hpvitycz.cn/00.jpg']
 ##[src^='/MDassets/images/']
 ##[src^='/Uploads/ad/'][src$='.gif'][alt='广告']
+##[src^='/banners/pr_advertising_ads_banner']
 ##[src^='https://ae01.alicdn.com/'][alt='歪歪漫画']
 ##[src^='https://dingbu.bj.bcebos.com/']
 ##[src^='https://immmg.owowqrf.cn']
@@ -1852,6 +1854,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .net/v2/stats/10*$third-party
 .net/vh1/15*$third-party
 .openx.
+.ru/ads/
 .shop:*/ack?s=
 .shop:*/bid?url=
 .top/*/*.js?ts=$third-party
@@ -2035,6 +2038,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /baidu/189/999.php
 /baidu/tg.js
 /banma.
+/banners/pr_advertising_ads_banner
 /bar/yfdi.js
 /bar/yfgg.js
 /base/plugin/showwin_
@@ -9434,6 +9438,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||d1q4x2p7t0gq14.cloudfront.net^
 ||d20903hof2l33q.cloudfront.net^
 ||d227cncaprzd7y.cloudfront.net^
+||d2wy8f7a9ursnm.cloudfront.net^
 ||d3f3.xyz^
 ||d3g.qq.com^
 ||d3mshiiq22wqhz.cloudfront.net^
@@ -15828,6 +15833,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zq84.com^
 ||zqzxz.com^
 ||zsh-work.com^
+||zsnfdphz.com^
 ||zt-uc-baidu.cc^
 ||ztgame.com^
 ||ztshg.cn^

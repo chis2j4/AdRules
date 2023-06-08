@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-06-08 16:09:30（北京时间） 
-! Total count: 16269
+! Version: 2023-06-09 00:09:24（北京时间） 
+! Total count: 16270
 -960x*0.gif
 -250.js*
 
@@ -454,8 +454,8 @@ $removeparam=/^aff_sub\d?=/
 $removeparam=/^affid=/i,domain=~redir.tradedoubler.com|~affiliate.geekbuying.com
 $removeparam=/^affiliateID=/i
 $removeparam=/^affsrc=/i
-$removeparam=/^amp$/,domain=~eurasiantimes.com
 $removeparam=/^amp;utm_/
+$removeparam=/^amp=$/,domain=~eurasiantimes.com
 $removeparam=/^amp=1$/,document,domain=newsweek.com
 $removeparam=/^amp=true$/
 $removeparam=/^asc_/,document,domain=amazon.*|aboutamazon.com|amzn.to
@@ -3674,6 +3674,7 @@ fmdisk.com##div#dl_tips,div#down_box2,img[width="960"][height="90"],ins.adsbygoo
 fobshanghai.com##.altbg2
 focus.cn##div.tl10[id^="TL0"],div.ad980.area,.aside-bannersm,.news-banner-top,[ads-tag="box"],.ad-xulie1
 foobar2000.bbs.am##[id^="ad"]
+forbes.com##+js(set, trackingService.track, noopFunc)
 forum.51nb.com##img[height="90"][width="728"],TABLE.t_rown[width="875"],TABLE.t_rown[width="98%"],DIV.maintable > DIV.right
 forum.portableappc.com##div.topadsense,div.bottomadsense
 forums.kali.org##ins.adsbygoogle

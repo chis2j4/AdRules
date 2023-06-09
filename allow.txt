@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-06-09 08:47:21（北京时间） 
-! Total count: 2511
+! Version: 2023-06-09 16:09:59（北京时间） 
+! Total count: 2508
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4258,7 +4258,6 @@
 @@||cdn.vidoza.co/js/$script,domain=vidoza.co|vidoza.net
 @@||cdn.viglink.com/api/vglnk.js$domain=9to5mac.com|electrek.co
 @@||cdnb.4strokemedia.com/carousel/v4/comscore-JS-$script
-@@||cdnbc-wup.hsbc.com.hk^|
 @@||cdndm5.com/*/dm5/images/banners/$image
 @@||cdndx.clouddata8g.xyz^$domain=ohmanhua.com
 @@||cdndx.clouddata8g.xyz^$script,domain=www.cocomanhua.com
@@ -4378,7 +4377,6 @@
 @@||content.gap.com/fp/tags.js$script,domain=oldnavy.gap.com
 @@||content.pouet.net/avatars/adx.gif$image,~third-party
 @@||content.s8bbs.com/ad/bbs/*.jpg
-@@||contents*.00110.citi.com^|
 @@||cookielaw.org^*/OtAutoBlock.js$domain=darkreading.com
 @@||coolinet.com^$generichide
 @@||core.windows.net^*/annonser/$image,domain=kmauto.no
@@ -5951,7 +5949,6 @@
 @@||wplogout.com/wp-content/uploads/*Google$image,~third-party
 @@||wrestlinginc.com/wp-content/themes/unified/js/prebid.js$~third-party
 @@||wsj.net/iweb/static_html_files/cxense-candy.js$script,domain=marketwatch.com
-@@||wup-7b4df495.santander.cl^|
 @@||wuyong.fun^$generichide
 @@||wuyou.com.cn/Js/ad.js
 @@||www.avtbf.com/*.css$domain=avtbf.com

@@ -2,8 +2,8 @@
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 12 Hours
-# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2023-06-09 00:47:22
-# Total count: 103901
+# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2023-06-09 08:10:01
+# Total count: 103904
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 0001.best
@@ -5581,6 +5581,7 @@
 0.0.0.0 ad.rarure.com
 0.0.0.0 ad.realist.gen.tr
 0.0.0.0 ad.realmcdn.net
+0.0.0.0 ad.reejax.com
 0.0.0.0 ad.rejichoice.jp
 0.0.0.0 ad.reklam.xyz
 0.0.0.0 ad.reklamport.com
@@ -76275,6 +76276,7 @@
 0.0.0.0 server11.opentracker.net
 0.0.0.0 server2.mediajmp.com
 0.0.0.0 server2034.ru
+0.0.0.0 server44.ne.com
 0.0.0.0 server4ads.com
 0.0.0.0 server821.com
 0.0.0.0 serveraddr.service.kugou.com
@@ -93476,6 +93478,7 @@
 0.0.0.0 turdgasm.com
 0.0.0.0 turdsarnatta.com
 0.0.0.0 turfedtaboret.com
+0.0.0.0 turfomajokeroo.com
 0.0.0.0 turfomani.fr
 0.0.0.0 turifb.xyz
 0.0.0.0 turkey.docsy.cloud

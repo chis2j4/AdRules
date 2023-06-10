@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-06-10 00:08:51（北京时间） 
-! Total count: 16281
+! Version: 2023-06-10 08:41:42（北京时间） 
+! Total count: 16285
 -960x*0.gif
 -250.js*
 
@@ -409,17 +409,17 @@ $$div[id="Couple"]
 $$ins[class="adsbygoogle"]
 $$p[class="ReadAd"]
 $$span[class="dmcenterb"]
-$document,removeparam=/^clickid=/i,domain=~discover.*
-$document,removeparam=_clde
-$document,removeparam=_cldee
-$document,removeparam=l,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
-$document,removeparam=o,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
-$document,removeparam=referrer,domain=~bolt.com|~f4map.com|~deviantart.com|~github.com|~discover.*|~vimeo.*|~123-reg.co.uk
-$document,removeparam=source,denyallow=googlevideo.com,domain=1sol.io|ashford.com|asos.com|att.com|awd-it.*|bankofamerica.com|barenecessities.com|bedbathandbeyond.com|betterprogramming.pub|blavity.com|blog.getadblock.com|blogs.oracle.com|bluemountain.com|boscovs.com|boxboat.com|britishcornershop.co.uk|brownells.*|burkesoutlet.com|bybit.com|choicehotels.com|chollometro.com|coinpanel.com|contabo.com|cyberghostvpn.com|despegar.*|directv.com|discord.*|docs.google.com|docsend.com|drinkhint.com|educba.com|edx.org|eonline.com|escentual.com|eventbrite.*|fiverr.com|fool.com|forms.gle|gethotspotshield.com|gleam.io|goodcrypto.app|googleusercontent.com|greenhouse.io|greenvoice.fr|hammacher.com|hanes.com|hbomax.com|hobbyhall.fi|hotspotshield.com|hottopic.com|housing.com|hp.com|instagram.com|itnext.io|jacquielawson.com|just-eat.co.uk|kasta.io|ladbible.com|learn.microsoft.com|medium.com|microsoftedgewelcome.microsoft.com|monster.fi|nautica.com|netflix.com|nortonsafe.search.ask.com|onehanesplace.com|outnorth.fi|paypal.com|petsupplies.com|phonesoap.com|quizlet.com|riteaid.com|runnode.com|search.brave.com|seekingalpha.com|sonos.com|spiceworks.com|squarespace.com|studio.co.uk|subscribe.gq.com|t.me|theathletic.com|thedailybeast.com|tiktok.com|tokopedia.com|tommybahama.com|torrid.com|tous.com|tradingview.com|trendmicro.com|tumblr.com|twitter.com|user.qzone.qq.com|vimeo.com|webhint.io|wilsonsleather.com|wired.com|ylighting.com|youtube.com|yubo.live
-$document,removeparam=trackID
-$document,removeparam=trackid,domain=~nzpost.co.nz
-$document,removeparam=waporef
-$document,removeparam=wp_source,domain=ac24.cz|ambcrypto.com|glispa.com|whitepages.com
+$doc,removeparam=/^clickid=/i,domain=~discover.*
+$doc,removeparam=_clde
+$doc,removeparam=_cldee
+$doc,removeparam=l,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
+$doc,removeparam=o,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
+$doc,removeparam=referrer,domain=~bolt.com|~f4map.com|~deviantart.com|~github.com|~discover.*|~vimeo.*|~123-reg.co.uk
+$doc,removeparam=source,denyallow=googlevideo.com,domain=1sol.io|ashford.com|asos.com|att.com|awd-it.*|bankofamerica.com|barenecessities.com|bedbathandbeyond.com|betterprogramming.pub|blavity.com|blog.getadblock.com|blogs.oracle.com|bluemountain.com|boscovs.com|boxboat.com|britishcornershop.co.uk|brownells.*|burkesoutlet.com|bybit.com|choicehotels.com|chollometro.com|coinpanel.com|contabo.com|cyberghostvpn.com|despegar.*|directv.com|discord.*|docs.google.com|docsend.com|drinkhint.com|educba.com|edx.org|eonline.com|escentual.com|eventbrite.*|fiverr.com|fool.com|forms.gle|gethotspotshield.com|gleam.io|goodcrypto.app|googleusercontent.com|greenhouse.io|greenvoice.fr|hammacher.com|hanes.com|hbomax.com|hobbyhall.fi|hotspotshield.com|hottopic.com|housing.com|hp.com|instagram.com|itnext.io|jacquielawson.com|just-eat.co.uk|kasta.io|ladbible.com|learn.microsoft.com|medium.com|microsoftedgewelcome.microsoft.com|monster.fi|nautica.com|netflix.com|nortonsafe.search.ask.com|onehanesplace.com|outnorth.fi|paypal.com|petsupplies.com|phonesoap.com|quizlet.com|riteaid.com|runnode.com|search.brave.com|seekingalpha.com|sonos.com|spiceworks.com|squarespace.com|studio.co.uk|subscribe.gq.com|t.me|theathletic.com|thedailybeast.com|tiktok.com|tokopedia.com|tommybahama.com|torrid.com|tous.com|tradingview.com|trendmicro.com|tumblr.com|twitter.com|user.qzone.qq.com|vimeo.com|webhint.io|wilsonsleather.com|wired.com|ylighting.com|youtube.com|yubo.live
+$doc,removeparam=trackID
+$doc,removeparam=trackid,domain=~nzpost.co.nz
+$doc,removeparam=waporef
+$doc,removeparam=wp_source,domain=ac24.cz|ambcrypto.com|glispa.com|whitepages.com
 $image,third-party,domain=avtb6677.com|lady1.top
 $popup,third-party,domain=downdv.com|rmdown.com|soyunpan.com|youtubeto.com
 $removeparam=%243p,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
@@ -456,9 +456,9 @@ $removeparam=/^affiliateID=/i
 $removeparam=/^affsrc=/i
 $removeparam=/^amp;utm_/
 $removeparam=/^amp=$/,domain=~eurasiantimes.com
-$removeparam=/^amp=1$/,document,domain=newsweek.com
+$removeparam=/^amp=1$/,doc,domain=newsweek.com
 $removeparam=/^amp=true$/
-$removeparam=/^asc_/,document,domain=amazon.*|aboutamazon.com|amzn.to
+$removeparam=/^asc_/,doc,domain=amazon.*|aboutamazon.com|amzn.to
 $removeparam=/^bsft_/
 $removeparam=/^cid=DSS-Affiliate/,domain=disneyplus.com|espn.com|hotstar.com|starplus.com
 $removeparam=/^cid=DSS-Search-/,domain=disneyplus.com|espn.com|hotstar.com|starplus.com
@@ -643,7 +643,7 @@ $removeparam=__hsfp
 $removeparam=__hssc
 $removeparam=__hstc
 $removeparam=__s
-$removeparam=__s,document
+$removeparam=__s,doc
 $removeparam=__twitter_impression
 $removeparam=__vfz,domain=venturebeat.com
 $removeparam=_amp,domain=latimes.com
@@ -794,13 +794,13 @@ $removeparam=agentcodeweblink
 $removeparam=aiad_clid
 $removeparam=aid,domain=adguard-dns.com|adguard-vpn.com|adguard.com|brownells.*|cafago.com|get.protonmail.com|get.protonvpn.com|tomtop.com|viator.com|wevpn.com
 $removeparam=akmClientCountry
-$removeparam=algo,document
+$removeparam=algo,doc
 $removeparam=algo_exp_id
 $removeparam=algo_expid
 $removeparam=algo_pvid
 $removeparam=alpha,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 $removeparam=amdata,domain=ebay.*
-$removeparam=amp,document,domain=puma.com|businessinsider.com
+$removeparam=amp,doc,domain=puma.com|businessinsider.com
 $removeparam=amp_device_id
 $removeparam=amp_gsa
 $removeparam=ampcid
@@ -849,7 +849,7 @@ $removeparam=camp,domain=amazon.*|calvinklein.*|dickssportinggoods.com|dockers.c
 $removeparam=campaign,domain=1sol.io|bdsmx.tube|blue-tomato.com|bybit.com|coinpanel.com|discord.*|docs.google.com|docsend.com|eventbrite.*|forms.gle|gleam.io|goodcrypto.app|instagram.com|kasta.io|mrgay.tube|outnorth.fi|peterhahn.*|runnode.com|scmp.com|shopee.*|sitepoint.com|sportler.com|t.me|twitter.com|youtube.com
 $removeparam=campaign,domain=reddit.app.link
 $removeparam=campaign_id,domain=~kochava.com|~unisportstore.*
-$removeparam=cardId,document,domain=alibaba.com
+$removeparam=cardId,doc,domain=alibaba.com
 $removeparam=cbsclick,domain=paramountplus.com|cbs.com
 $removeparam=ceneo_spo
 $removeparam=cf_affiliate_id
@@ -993,7 +993,7 @@ $removeparam=effect_medium
 $removeparam=effect_source
 $removeparam=effi_id
 $removeparam=effi_id2
-$removeparam=eid,document,denyallow=embed.tapkal.fi|myanimelist.net,domain=~activationspot.com|~anidb.net|~howlongtobeat.com|~piwigo.org|~vmware.com|~eventbrite.*|~egift.blackhawknetwork.com|~redeem.giftcards.com|~scopus.com|~stockmann.com|~jugem.jp|~kake.fi|~calendar.google.*
+$removeparam=eid,doc,denyallow=embed.tapkal.fi|myanimelist.net,domain=~activationspot.com|~anidb.net|~howlongtobeat.com|~piwigo.org|~vmware.com|~eventbrite.*|~egift.blackhawknetwork.com|~redeem.giftcards.com|~scopus.com|~stockmann.com|~jugem.jp|~kake.fi|~calendar.google.*
 $removeparam=elq
 $removeparam=elqCampaignId
 $removeparam=elqTrack
@@ -1031,7 +1031,7 @@ $removeparam=fobs
 $removeparam=fr,domain=baidu.com|thegay.com
 $removeparam=fr,domain=hclips.com
 $removeparam=fref
-$removeparam=from,document,domain=apkpure.com|bandcamp.com|browserling.com|luisaviaroma.com|sogou.com|store.hbr.org|onlinepngtools.com|indiatimes.com
+$removeparam=from,doc,domain=apkpure.com|bandcamp.com|browserling.com|luisaviaroma.com|sogou.com|store.hbr.org|onlinepngtools.com|indiatimes.com
 $removeparam=fromLoggedOutHome,domain=ocado.com
 $removeparam=fromMostRead,domain=bloomberg.com
 $removeparam=fromRankId
@@ -1124,7 +1124,7 @@ $removeparam=igshid
 $removeparam=iid,domain=cnn.com
 $removeparam=im_company
 $removeparam=im_edp
-$removeparam=imp_id,document
+$removeparam=imp_id,doc
 $removeparam=impradid
 $removeparam=impradname
 $removeparam=impression_id,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
@@ -1188,10 +1188,10 @@ $removeparam=lid,domain=baidu.com|clickserve.dartsearch.net|flipkart.com
 $removeparam=linkId,domain=amazon.*|cbsnews.*|disneyplus.com|espn.*|sporza.be
 $removeparam=link_source_user_id,domain=nextdoor.com
 $removeparam=litb_from
-$removeparam=loc,document,domain=bestbuy.*|shopping.google.com
+$removeparam=loc,doc,domain=bestbuy.*|shopping.google.com
 $removeparam=locale,domain=udemy.com
 $removeparam=location,domain=media-cdn.costco.ca|media-cdn.costco.com
-$removeparam=logTag,document
+$removeparam=logTag,doc
 $removeparam=loid,domain=reddit.app.link
 $removeparam=loid_created,domain=reddit.app.link
 $removeparam=lst,domain=facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|messenger.com
@@ -1344,7 +1344,7 @@ $removeparam=pk_keyword
 $removeparam=pk_kwd
 $removeparam=pk_medium
 $removeparam=pk_source
-$removeparam=pk_vid,document
+$removeparam=pk_vid,doc
 $removeparam=pldnSite,domain=amazon.*
 $removeparam=plimit,domain=privatehomeclips.com
 $removeparam=plink,domain=audible.*
@@ -1405,7 +1405,7 @@ $removeparam=recurring_goal_id
 $removeparam=reddaid,domain=reddit.app.link
 $removeparam=redirect_log_mongo_id
 $removeparam=redirect_mongo_id
-$removeparam=ref,document,domain=abebooks.com|accounts.binance.com|adobe.com|akuankka.fi|albiononline.com|altcustoms.com|amazon.*|app.blockfi.com|arvopaperi.fi|audible.*|baidu.com|bestbuy.com|bing.com|bitlox.com|bitwarden.com|blogit.fi|bookdepository.com|brave.com|buzzfeed.com|buzzfeednews.com|bybit.com|catch.com.au|codehs.com|comixology.*|coop.no|deal.no|dell.com|digidip.net|domains.ch|droix.net|eset.com|etsy.com|emsisoft.com|expo.io|facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|fig.io|foreca.*|geeksforgeeks.org|github.io|goodreads.com|greenhouse.io|hintaopas.fi|hintaseuranta.fi|hs.fi|idenati.com|ikea.com|iltapulu.fi|imdb.com|is.fi|jasonsavard.com|kauppalehti.fi|kesaduuni.org|kickstarter.com|ku.fi|lex.page|mastermind.ac|mediuutiset.fi|megapornfreehd.com|merrell.com|mikrobitti.fi|motouutiset.fi|oikotie.fi|omataloyhtio.fi|proton.me|protonvpn.com|puutarha.net|rakentaja.fi|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion|remppatori.fi|sahkovertailu.fi|sanoma.fi|scandinavianphoto.fi|schibsted.fi|semrush.com|shein.com|shodan.io|shopping.google.*|sketch.com|spiegel.de|sportskeeda.com|storyhouseegmont.fi|suomi24.fi|talouselama.fi|target.com|tekniikkatalous.fi|telsu.fi|thedailybeast.com|theregister.com|tivi.fi|tokenmetrics.com|twitch.tv|udemy.com|uusisuomi.fi|vultr.com|webhallen.no|woot.com|wormhole.app|yle.fi|zappos.com|zulily.com
+$removeparam=ref,doc,domain=abebooks.com|accounts.binance.com|adobe.com|akuankka.fi|albiononline.com|altcustoms.com|amazon.*|app.blockfi.com|arvopaperi.fi|audible.*|baidu.com|bestbuy.com|bing.com|bitlox.com|bitwarden.com|blogit.fi|bookdepository.com|brave.com|buzzfeed.com|buzzfeednews.com|bybit.com|catch.com.au|codehs.com|comixology.*|coop.no|deal.no|dell.com|digidip.net|domains.ch|droix.net|eset.com|etsy.com|emsisoft.com|expo.io|facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|fig.io|foreca.*|geeksforgeeks.org|github.io|goodreads.com|greenhouse.io|hintaopas.fi|hintaseuranta.fi|hs.fi|idenati.com|ikea.com|iltapulu.fi|imdb.com|is.fi|jasonsavard.com|kauppalehti.fi|kesaduuni.org|kickstarter.com|ku.fi|lex.page|mastermind.ac|mediuutiset.fi|megapornfreehd.com|merrell.com|mikrobitti.fi|motouutiset.fi|oikotie.fi|omataloyhtio.fi|proton.me|protonvpn.com|puutarha.net|rakentaja.fi|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion|remppatori.fi|sahkovertailu.fi|sanoma.fi|scandinavianphoto.fi|schibsted.fi|semrush.com|shein.com|shodan.io|shopping.google.*|sketch.com|spiegel.de|sportskeeda.com|storyhouseegmont.fi|suomi24.fi|talouselama.fi|target.com|tekniikkatalous.fi|telsu.fi|thedailybeast.com|theregister.com|tivi.fi|tokenmetrics.com|twitch.tv|udemy.com|uusisuomi.fi|vultr.com|webhallen.no|woot.com|wormhole.app|yle.fi|zappos.com|zulily.com
 $removeparam=refRID
 $removeparam=ref_campaign
 $removeparam=ref_ctx_id
@@ -1478,7 +1478,7 @@ $removeparam=s_kwcid
 $removeparam=sacat
 $removeparam=sap-outbound-id
 $removeparam=sb_referer_host
-$removeparam=sc,document,domain=bing.com|qvc.com|startpage.com
+$removeparam=sc,doc,domain=bing.com|qvc.com|startpage.com
 $removeparam=scd,domain=ashleystewart.com
 $removeparam=scici,domain=shein.com
 $removeparam=scid,domain=~pnc.com
@@ -1486,7 +1486,7 @@ $removeparam=scm
 $removeparam=scm-url
 $removeparam=scm_id
 $removeparam=scrolla
-$removeparam=sdsrc,document
+$removeparam=sdsrc,doc
 $removeparam=searchClick,domain=shopbop.com
 $removeparam=searchResultClicked,domain=shopbop.com
 $removeparam=searchResultPosition,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
@@ -1539,17 +1539,17 @@ $removeparam=spr,domain=media-cdn.costco.ca|media-cdn.costco.com
 $removeparam=sr_id,domain=reddit.app.link
 $removeparam=sr_name,domain=reddit.app.link
 $removeparam=sr_share
-$removeparam=src,document,domain=3cx.com|adafruit.com|ashford.com|bluejeans.com|bose.*|brave.com|buyzero.de|cytron.io|digikey.*|elastix.org|engadget.com|getpocket.com|hallmark.com|hinta.fi|investors.com|kennethcole.com|kipling-usa.com|kubii.*|melopero.com|mozilla.org|msn.com|neeva.com|newbalance.com|nexo.io|officestationery.co.uk|okdo.com|raspipc.es|reichelt.*|tandfonline.com|thepihut.com|thunderbird.net|tiendatec.es|tokopedia.com|twitter.com|udemy.com|viking-direct.co.uk|webmd.com|welectron.com|wondershare.*|wuzhuiso.com|yahoo.com
-$removeparam=src_campaign,document
+$removeparam=src,doc,domain=3cx.com|adafruit.com|ashford.com|bluejeans.com|bose.*|brave.com|buyzero.de|cytron.io|digikey.*|elastix.org|engadget.com|getpocket.com|hallmark.com|hinta.fi|investors.com|kennethcole.com|kipling-usa.com|kubii.*|melopero.com|mozilla.org|msn.com|neeva.com|newbalance.com|nexo.io|officestationery.co.uk|okdo.com|raspipc.es|reichelt.*|tandfonline.com|thepihut.com|thunderbird.net|tiendatec.es|tokopedia.com|twitter.com|udemy.com|viking-direct.co.uk|webmd.com|welectron.com|wondershare.*|wuzhuiso.com|yahoo.com
+$removeparam=src_campaign,doc
 $removeparam=src_content
 $removeparam=src_custom
-$removeparam=src_medium,document
-$removeparam=src_source,document
-$removeparam=src_term,document
+$removeparam=src_medium,doc
+$removeparam=src_source,doc
+$removeparam=src_term,doc
 $removeparam=srctype,domain=shein.com
 $removeparam=sref,domain=bloomberg.com|go.skimresources.com|go.skimlinks.com|go.redirectingat.com
 $removeparam=srnd
-$removeparam=srsltid,document
+$removeparam=srsltid,doc
 $removeparam=sscid
 $removeparam=store_visit_source,domain=facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
 $removeparam=stpcjid
@@ -1588,7 +1588,7 @@ $removeparam=tcid,domain=~rug.nl
 $removeparam=tck,domain=mongodb.com
 $removeparam=tctx
 $removeparam=tduid,domain=~tradedoubler.com
-$removeparam=te,document,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
+$removeparam=te,doc,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 $removeparam=term,domain=outnorth.fi|bybit.com
 $removeparam=textadID,domain=media-cdn.costco.ca|media-cdn.costco.com
 $removeparam=tg_ref
@@ -1646,7 +1646,7 @@ $removeparam=unicorn_click_id
 $removeparam=unp_tpcid
 $removeparam=unptid
 $removeparam=user_agent,domain=reddit.app.link
-$removeparam=user_id,document,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
+$removeparam=user_id,doc,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 $removeparam=user_ip
 $removeparam=userpath,domain=shein.com
 $removeparam=usg,domain=~translate.googleusercontent.com|~google.*
@@ -2558,6 +2558,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 @@||inews.gtimg.com^
 @@||invoice-ua.taobao.com/e-invoice/invoice-apply-online.html?source$stealth
 @@||jdfood.com.tw/Upload/ADImages/*Image.jpg
+@@||jstatic.3.cn^$domain=m.jd.com
 @@||kaixin001.com/ad/
 @@||kreditkarten-banking.lbb.de^$removeparam
 @@||league-funny.com^$script,~third-party
@@ -2717,7 +2718,7 @@ Mplay/kk1.js
 ^t=0^$removeparam=t,domain=bilibili.com
 ^via=futurepedia^$removeparam=via
 ^via=toolbar^$removeparam=via,domain=user.qzone.qq.com
-^z=*&var=$removeparam=var,document
+^z=*&var=$removeparam=var,doc
 _/bigREDcat.css?
 _/bigREDdog.css?
 _/bigREDdog.js
@@ -7511,7 +7512,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||access.pangolin-sdk-toutiao-b.com^
 ||access1.tpns.tencent.com^
 ||account.wps.cn^$replace=/"has_ad": 1/"has_ad": 0/
-||accounts.google.com^$removeparam=dsh,document
+||accounts.google.com^$removeparam=dsh,doc
 ||acd.op.hicloud.com^$app=com.huawei.hwvplayer.youku
 ||acgshenshicha.cn^
 ||acgsou.com/js/nu
@@ -7956,8 +7957,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||amazon.$removeparam=twitchToken
 ||amazon.$removeparam=visitId
 ||amazon.$~xmlhttprequest,removeparam=qid
-||amazon.*/dp/$removeparam=rps,document
-||amazon.*/dp/$removeparam=s,document
+||amazon.*/dp/$removeparam=rps,doc
+||amazon.*/dp/$removeparam=s,doc
 ||amazon.*/gp/kindle/kfc/SpecialOffer/
 ||amazon.*/s?$removeparam=/^[^a-z%0-9]adId=/
 ||amazon.*/s?$removeparam=/^[a-z%0-9]*ie=/
@@ -8294,7 +8295,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||as.com^$removeparam=m4
 ||as.com^$removeparam=m5
 ||as.com^$removeparam=omnil
-||as.com^$removeparam=ssm,document
+||as.com^$removeparam=ssm,doc
 ||as.nidongme.com^
 ||as.weixin.qq.com^
 ||as2.wenku.baidu.com/$subdocument
@@ -8425,23 +8426,23 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||baidu.com/tc?
 ||baidu.com/tcbox?
 ||baidu.com^$app=com.tencent.qqlive
-||baidu.com^$document,removeparam=/^from/
-||baidu.com^$document,removeparam=/^rsv_/
-||baidu.com^$document,removeparam=category
-||baidu.com^$document,removeparam=cf
-||baidu.com^$document,removeparam=fid
-||baidu.com^$document,removeparam=iid
-||baidu.com^$document,removeparam=jid
-||baidu.com^$document,removeparam=lattr
-||baidu.com^$document,removeparam=miniId
-||baidu.com^$document,removeparam=nc
-||baidu.com^$document,removeparam=pi
-||baidu.com^$document,removeparam=prod_type
-||baidu.com^$document,removeparam=ps
-||baidu.com^$document,removeparam=query
-||baidu.com^$document,removeparam=rn
-||baidu.com^$document,removeparam=tpl_from
-||baidu.com^$document,removeparam=xzhid
+||baidu.com^$doc,removeparam=/^from/
+||baidu.com^$doc,removeparam=/^rsv_/
+||baidu.com^$doc,removeparam=category
+||baidu.com^$doc,removeparam=cf
+||baidu.com^$doc,removeparam=fid
+||baidu.com^$doc,removeparam=iid
+||baidu.com^$doc,removeparam=jid
+||baidu.com^$doc,removeparam=lattr
+||baidu.com^$doc,removeparam=miniId
+||baidu.com^$doc,removeparam=nc
+||baidu.com^$doc,removeparam=pi
+||baidu.com^$doc,removeparam=prod_type
+||baidu.com^$doc,removeparam=ps
+||baidu.com^$doc,removeparam=query
+||baidu.com^$doc,removeparam=rn
+||baidu.com^$doc,removeparam=tpl_from
+||baidu.com^$doc,removeparam=xzhid
 ||baidu.com^$removeparam=/^rsv/
 ||baidu.com^$removeparam=asctag
 ||baidu.com^$removeparam=bsst
@@ -8663,7 +8664,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bigfishgames.com^$removeparam=npi
 ||bigfishgames.com^$removeparam=pc
 ||bihaipack.com^
-||bild.de^$document,removeparam=t_ref
+||bild.de^$doc,removeparam=t_ref
 ||bilibili.com/audio/au*?$removeparam=type
 ||bilibili.com/audio/mycollection?$removeparam=type
 ||bilibili.com/bangumi$removeparam=theme
@@ -8885,7 +8886,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bulisite.top^
 ||buschgardens.com^$removeparam=AFS
 ||business-api.tiktok.com^$third-party
-||businessinsider.com^$document,removeparam=inline-endstory-related-recommendations
+||businessinsider.com^$doc,removeparam=IR
+||businessinsider.com^$doc,removeparam=inline-endstory-related-recommendations
+||businessinsider.com^$doc,removeparam=r
+||businessinsider.com^$removeparam=op,doc
 ||butou.cn^
 ||buyihao.com^
 ||buysellads.com^
@@ -8956,7 +8960,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cards-css.iqiyi.com^
 ||careers.hotjar.com^$third-party
 ||carpcw.com^
-||carsales.com.au^$removeparam=Cr,document
+||carsales.com.au^$removeparam=Cr,doc
 ||carstat.bitauto.com^
 ||casalemedia.com^
 ||casee.cn^
@@ -9184,8 +9188,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cn/show?id=$script,third-party
 ||cn/showpage.asp?u=$script,third-party
 ||cn/vs.php?id=$script,third-party
-||cnbc.com^$document,removeparam=__source
-||cnbc.com^$document,removeparam=par
+||cnbc.com^$doc,removeparam=__source
+||cnbc.com^$doc,removeparam=par
 ||cnbc.com^$removeparam=__source
 ||cncnails.net^
 ||cncrk.com/505/$script,document,image
@@ -9524,7 +9528,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dedcrfvdj.xyz^
 ||deepdiscount.com^$removeparam=bid
 ||deepl.com/pro$removeparam=pdf
-||deepl.com^$document,removeparam=cta
+||deepl.com^$doc,removeparam=cta
 ||deeplearning.ai^$removeparam=_hsenc
 ||deeplearning.ai^$removeparam=_hsmi
 ||deeplearning.ai^$removeparam=ecid
@@ -9879,7 +9883,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||elsmom.xyz^
 ||elsynmlw.fun^
 ||em.baidu.com^
-||emag.ro^$document,removeparam=ref
+||emag.ro^$doc,removeparam=ref
 ||emag.ro^$removeparam=recid
 ||emag.ro^$removeparam=scenario_ID
 ||emarbox.com^
@@ -9929,9 +9933,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||err.taobao.com^
 ||errlog.umeng.com^
 ||ert.pengwenli.top^
-||espn.$document,removeparam=platform
-||espn.$removeparam=RuleNumber,document
-||espn.$removeparam=appsrc,document
+||espn.$doc,removeparam=platform
+||espn.$removeparam=RuleNumber,doc
+||espn.$removeparam=appsrc,doc
 ||espn.com^$removeparam=ex_cid
 ||esptj.com^
 ||estcruden.biz^
@@ -9948,7 +9952,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||etui8.cn^
 ||eujxqgh.cn^
 ||eulaliadoradl.com^
-||euromaidanpress.com^$removeparam=swcfpc,document
+||euromaidanpress.com^$removeparam=swcfpc,doc
 ||euronews.com^$removeparam=_ope
 ||europe1.fr^$removeparam=xtor
 ||evbb.xyz^
@@ -9988,7 +9992,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||f8272.com^
 ||f8ejqxp.cn^
 ||f99.gdsoq.com^
-||facebook.$document,removeparam=hoisted_section_header_type
+||facebook.$doc,removeparam=hoisted_section_header_type
 ||facebook.com/adnw_sync
 ||facebook.com/ads^$removeparam=session_id
 ||facebook.com^$removeparam=/^[a-z]*ref[a-z]*=/
@@ -11027,7 +11031,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ipc08dt.com^
 ||ipinyou.com^$third-party,domain=~www.v1.cn|~ipinyou.com.cn
 ||iplm.cc^
-||iplt20.com^$document,removeparam=tagNames
+||iplt20.com^$doc,removeparam=tagNames
 ||ipm.atm.youku.com^
 ||ipndulsempjgb.bid^
 ||ipqc5ejfe.icu^
@@ -11464,7 +11468,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kohls.com^$removeparam=prdPV
 ||kongbao858.com^
 ||kongjiiee.info^
-||kongregate.com^$document,removeparam=acomplete
+||kongregate.com^$doc,removeparam=acomplete
 ||koowo.com^
 ||kouclo.com^
 ||koudaikeji.info^
@@ -11985,7 +11989,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||man7777.com^
 ||manage.wuhancloud.cn^
 ||manage88.com^
-||manchestereveningnews.co.uk^$removeparam=kop,document
+||manchestereveningnews.co.uk^$removeparam=kop,doc
 ||mangabz.com/wxh_asy.js
 ||manguan.vip^
 ||manhuabei.com/assets/xiwang.js
@@ -12684,7 +12688,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||open.show.qq.com/cgi-bin/qqshow_user_gdt_ad?
 ||open.spotify.com^$removeparam=%243p
 ||open.spotify.com^$removeparam=/advertising_partner_name=/i
-||open.substack.com^$removeparam=r,document
+||open.substack.com^$removeparam=r,doc
 ||openapi-mobile.youku.com/statis^$app=com.huawei.hwvplayer.youku
 ||openapi.youku.com/router^$app=com.huawei.hwvplayer.youku
 ||openinstall.io^
@@ -12897,7 +12901,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pmensrl.cn^
 ||pmp.365dmp.com^$app=com.huawei.hwvplayer.youku
 ||pmvlwjy.cn^
-||pnas.org^$document,removeparam=af
+||pnas.org^$doc,removeparam=af
 ||po18.in^
 ||poae2klya.icu^
 ||poasotha.com^
@@ -13458,7 +13462,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||scarletcashwi5.com^
 ||scdng.com^
 ||schain.group^
-||sciencedirect.com/*?via%3D$removeparam=/^via%3D/,document
+||sciencedirect.com/*?via%3D$removeparam=/^via%3D/,doc
 ||sciencenet.cn/html/js/
 ||sciencenet.cn/images/20180521.jpg
 ||sciillr.cn^
@@ -13636,7 +13640,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||show.worldcrm.cn^
 ||showad*
 ||shproud.com^
-||shrunken.com^$document,removeparam=shortUrlDomain
+||shrunken.com^$doc,removeparam=shortUrlDomain
 ||shspdt.com^
 ||shtatuo.cn^
 ||shufapeixun.shop^
@@ -13720,7 +13724,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||smarttrade.cn^
 ||smetrics.samsung.com^$third-party
 ||smfjfgie.xyz^
-||smh.com.au^$removeparam=btis,document
+||smh.com.au^$removeparam=btis,doc
 ||smtwm61.com^
 ||snailok.com/template/stui_tpl/sdfsdfzxxsa/dxf.js
 ||snailok.com/template/stui_tpl/sdfsdfzxxsa/heade.js
@@ -13911,7 +13915,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sub.ykimg.com^
 ||subhd.com/images/970pujin.gif
 ||subscription.iqiyi.com^
-||substack.com^$removeparam=sd,document
+||substack.com^$removeparam=sd,doc
 ||sugar.zhihu.com/*_adreaper
 ||sugar.zhihu.com/adx-log^
 ||sugar.zhihu.com^
@@ -14169,8 +14173,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tiexue.net/ws_show.js
 ||tiimg.com^*.gif
 ||tikimg.cc^
-||tiktok.com^$document,removeparam=sec_user_id
-||tiktok.com^$document,removeparam=user_id
+||tiktok.com^$doc,removeparam=sec_user_id
+||tiktok.com^$doc,removeparam=user_id
 ||tiktok.com^$removeparam=_d
 ||tiktok.com^$removeparam=_r
 ||tiktok.com^$removeparam=checksum
@@ -14349,7 +14353,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tsis.jpush.cn^
 ||tslianm.com^
 ||tslomhfys.com^
-||tsn.ca^$document,removeparam=tsn-amp
+||tsn.ca^$doc,removeparam=tsn-amp
 ||tsyndicate.com^
 ||tt123.hao0202.com^
 ||ttaj.cn^
@@ -14810,9 +14814,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||whcrdz.com^
 ||whdafei.com^
 ||whinfo.net.cn/js/fly_right.js
-||whitepages.com^$document,removeparam=wp_content
-||whitepages.com^$document,removeparam=wp_medium
-||whitepages.com^$document,removeparam=wp_term
+||whitepages.com^$doc,removeparam=wp_content
+||whitepages.com^$doc,removeparam=wp_medium
+||whitepages.com^$doc,removeparam=wp_term
 ||whoclick.cn^
 ||whwdzgykybnfg.com^
 ||whwxxny.com^
@@ -14990,8 +14994,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.google.$removeparam=btnG
 ||www.google.$removeparam=iflsig
 ||www.google.$removeparam=uact
-||www.google.*/search?$document,removeparam=client
-||www.google.*/search?$document,removeparam=sclient
+||www.google.*/search?$doc,removeparam=client
+||www.google.*/search?$doc,removeparam=sclient
 ||www.googletagmanager.com^
 ||www.govchengdu.cn^
 ||www.govguangxi.cn^
@@ -15233,12 +15237,12 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xiaofangtongzhi.xy^
 ||xiaohead.com^
 ||xiaohei.com^
-||xiaohongshu.com^$removeparam=app_platform,document
-||xiaohongshu.com^$removeparam=app_version,document
-||xiaohongshu.com^$removeparam=apptime,document
-||xiaohongshu.com^$removeparam=appuid,document
-||xiaohongshu.com^$removeparam=share_from_user_hidden,document
-||xiaohongshu.com^$removeparam=xhsshare,document
+||xiaohongshu.com^$removeparam=app_platform,doc
+||xiaohongshu.com^$removeparam=app_version,doc
+||xiaohongshu.com^$removeparam=apptime,doc
+||xiaohongshu.com^$removeparam=appuid,doc
+||xiaohongshu.com^$removeparam=share_from_user_hidden,doc
+||xiaohongshu.com^$removeparam=xhsshare,doc
 ||xiaohuangshu.me^
 ||xiaojifly.cn^
 ||xiaomifood.cn^

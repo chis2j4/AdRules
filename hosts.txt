@@ -2,8 +2,8 @@
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 12 Hours
-# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2023-06-10 00:41:55
-# Total count: 103860
+# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2023-06-10 08:08:49
+# Total count: 103864
 0.0.0.0 0-000.store
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 0001.best
@@ -11527,6 +11527,7 @@
 0.0.0.0 analytics-eu.clickdimensions.com
 0.0.0.0 analytics-eu.tactilews.com
 0.0.0.0 analytics-events.inshorts.com
+0.0.0.0 analytics-gateway.delta.dp.lightricks.com
 0.0.0.0 analytics-gw.games.wanmei.com
 0.0.0.0 analytics-helper.com
 0.0.0.0 analytics-http.mintegral.net
@@ -35749,6 +35750,7 @@
 0.0.0.0 events.audioplace.me
 0.0.0.0 events.avantisvideo.com
 0.0.0.0 events.avaya.com
+0.0.0.0 events.betterhelp.com
 0.0.0.0 events.bgrs.com
 0.0.0.0 events.blackboard.com
 0.0.0.0 events.bouncex.net
@@ -35812,6 +35814,7 @@
 0.0.0.0 events.onet.pl
 0.0.0.0 events.popinfo.jp
 0.0.0.0 events.practo.com
+0.0.0.0 events.prd.api.discomax.com
 0.0.0.0 events.prd.api.max.com
 0.0.0.0 events.privy.com
 0.0.0.0 events.realgravity.com
@@ -52523,6 +52526,7 @@
 0.0.0.0 log.beecost.vn
 0.0.0.0 log.bitauto.com
 0.0.0.0 log.bizlive.vn
+0.0.0.0 log.bloodsugars.live
 0.0.0.0 log.btopenworld.com
 0.0.0.0 log.ca.gov.vn
 0.0.0.0 log.china.cn

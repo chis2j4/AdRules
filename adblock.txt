@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-06-13 08:44:21（北京时间） 
-! Total count: 16291
+! Version: 2023-06-13 16:09:55（北京时间） 
+! Total count: 16299
 -960x*0.gif
 -250.js*
 
@@ -1836,6 +1836,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .cc/o.js$third-party
 .cfd/video/index/index/user_login/
 .club$domain=yinghuacd.com
+.cn/2023/*/*.txt$third-party
 .cn/ack?s=*$third-party
 .cn/bid?url=*$third-party
 .cn/o.js$third-party
@@ -1844,6 +1845,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .com/adv1/?q=
 .com/c.php?s=*=*=$third-party
 .com/gg.js
+.com/js/g.js
 .com/o.js$third-party
 .com/qq.js$third-party
 .com/sh/to/$third-party
@@ -1851,6 +1853,9 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .com:10446/*/get*.html
 .com:8001/*/*?n=$third-party
 .com:8001/*/*?t=$3p
+.com:8007/*/*?c=$third-party
+.com:8007/*/*?n=$third-party
+.com:8007/*/*?t=$third-party
 .com:8010/cc/
 .cyou/redbaiduct.com
 .cyou/xling_*_
@@ -5669,6 +5674,7 @@ toutiao.com##[ad-cursor],[ad_show]
 toutiao.com##[name^="adetail_right*top_"]
 toutiao.com##div.banner-index-bottom,#pagelet-commbox,.feedcomm,#pagelet-iad,#pagelet-btestcommbox,#pagelet-detailadd,[data-tag="ad"],#pagelet-btestad_taobao,#pagelet-adindextop,#detailAd,[data-tag^="ad_"],.J_add,#detailAd2,.adClientFlag,iframe[src^="http://toutiao.com/adsafe/"],.tbanneradd,iframe[src^="http://www.toutiao.com/adsafe/"],[src^="//www.toutiao.com/api/pc/adsafe/"],.carAd,.bonus-wrapper,.icon-container
 touxiang.la##.ad00,.adsbygoogle,.banner
+trafficjunky.com$third-party
 trakt.tv##DIV[id$='-wrapper']
 trakt.tv##div#large-banner-ad,div#small-banner-ad,div#large-banner-bottom-ad,div#small-banner-bottom-ad
 trjcn.com##div.bd
@@ -11617,6 +11623,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lf-hl.snssdk.com/ugc/publish^
 ||lflmdm.com^
 ||lftxali.fancyapi.com^
+||lfzk2cp.icu^
 ||lg.nvlangre.com/js/db^
 ||lganilgll.cyou^
 ||lgecqrb.com^
@@ -13988,6 +13995,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||szltwl.com^
 ||t.ads.sohu.com^$app=com.sohu.sohuvideo
 ||t.atomicfile.cn^
+||t0pan.top^
 ||t157.com^
 ||t1tgame.com^
 ||t23o.cn^

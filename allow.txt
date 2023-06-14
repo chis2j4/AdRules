@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-06-14 00:09:28（北京时间） 
-! Total count: 2509
+! Version: 2023-06-14 08:41:51（北京时间） 
+! Total count: 2510
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3593,6 +3593,7 @@
 @@/cgi-bin/counter_module?action=list_models$subdocument,~third-party
 @@/common/cf/*$domain=66u.com|changhong.com|fei3d.com|oneplusbbs.com|readboy.com
 @@/cpc_cpm_$domain=ygo-sem.cn
+@@/fingerprint.$domain=abchina.com
 @@/fingerprint2.$domain=nfmovies.com
 @@/fingerprint2.js$domain=fangcloud.com|fx678.com|gxpf.cn|hnair.com|pop-fashion.com
 @@/fingerprint2.js$domain=fangcloud.com|fx678.com|pop-fashion.com

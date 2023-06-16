@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-06-16 08:45:21（北京时间） 
+! Version: 2023-06-16 16:09:28（北京时间） 
 ! Total count: 16303
 -960x*0.gif
 -250.js*
@@ -14145,8 +14145,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tgwopez.cn^
 ||tgymhwt.cn^
 ||thallus.net^
+||theathletic.com^$removeparam=checkout_entry_point,doc
 ||theathletic.com^$removeparam=ref_page,doc
-||theathletic.com^$removeparam=theathletic.com,doc
 ||thedailybeast.com^$removeparam=via
 ||thefatherofsalmon.com^
 ||thefifthera.com^$domain=jianshu.com

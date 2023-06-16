@@ -1,5 +1,5 @@
 ! Title: Allowlist
-! Version: 2023-06-16 00:09:19（北京时间） 
+! Version: 2023-06-16 08:45:36（北京时间） 
 ! Total count: 2511
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
@@ -3905,7 +3905,7 @@
 @@||ads.reddit.com^$domain=myqqjd.com
 @@||ads.roblox.com/v1/sponsored-pages$xmlhttprequest,domain=roblox.com
 @@||ads.rogersmedia.com^$subdocument,domain=cbc.ca
-@@||ads.rubiconproject.com/prebid/$script,domain=everydayhealth.com
+@@||ads.rubiconproject.com/prebid/$script,domain=drudgereport.com|everydayhealth.com
 @@||ads.shopee.*/$popup
 @@||ads.spotify.com^$popup
 @@||ads.taboola.com^$popup

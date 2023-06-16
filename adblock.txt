@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-06-16 16:09:28（北京时间） 
-! Total count: 16303
+! Version: 2023-06-17 00:09:01（北京时间） 
+! Total count: 16312
 -960x*0.gif
 -250.js*
 
@@ -378,6 +378,7 @@
 ##div.row.col5.clearfix:nth-of-type(2) > dl:nth-of-type(1)
 ##div.stui-pannel__bd > #t-img-box
 ##div.stui-player.col-pd DIV[style='text-align:center']
+##div.swiper-slide > A[rel='nofollow noopenner']
 ##div.synopsisArea > a[id*='hudie_']
 ##div.video-box > div.hf > a
 ##div:not([class]):not([id]) > a > [src*='.gif'][style*='width:100%']
@@ -2228,6 +2229,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /nav/ad
 /navflash.js*
 /new/2*.html
+/new/4*.html
 /new/5*.html
 /new/8*.html
 /new20*/tlys.
@@ -8788,6 +8790,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||biquyue.com/js/QB
 ||biquyue.com/js/common.js
 ||birjkhm.cn^
+||bis8j.com^
 ||biz.weibo.com^
 ||biz37.net^
 ||biz5.sandai.net^
@@ -9860,6 +9863,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||eclmy.vip/static/js/xf.js
 ||ecmb.bdimg.com^
 ||eco.taobao.com^
+||ecoefh.com^
 ||ecomgxh.kuwo.cn^
 ||ecosia.org^$removeparam=addon
 ||ecudsc.cn^
@@ -11428,6 +11432,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kfejnjs.cn^
 ||kfqdf.com/$script
 ||kfyg.xyz^
+||kgfjrb711.com^
 ||khgj.cn^
 ||khgjfm16.com^
 ||killcovid2021.com/*.mp4
@@ -12409,6 +12414,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nadvideo.baidu.com^
 ||nadvideo2.baidu.com^
 ||naemailom.fun^
+||najnus.com^
 ||namedq.com^
 ||naned.xyz^
 ||naqigs.com^
@@ -12632,6 +12638,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||oghqvffmnt.com^
 ||ognujxj.cn^
 ||ohchehw.cn^
+||ohoyao.com^
 ||oi9rp7.online^
 ||oiewpw.com^
 ||oiknldwlkop.com^
@@ -12741,6 +12748,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ouyhh.xyz^
 ||owlfolk.com^
 ||owlunimmvn.com^
+||owrkwilxbw.com^
 ||oxj8hcfg.xyz^
 ||oyell.net^
 ||oyhurln.cn^
@@ -15478,6 +15486,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||yhzm.cc^$third-party
 ||yhzm.xyz^
 ||yicha.cn^
+||yichengjiajupt.com^
 ||yicpx.com^
 ||yidaweb.com^
 ||yidianzixun.com/home/q/get_activity_girls_progress

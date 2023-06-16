@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-06-16 16:09:39（北京时间） 
-! Total count: 2511
+! Version: 2023-06-17 00:09:16（北京时间） 
+! Total count: 2512
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4458,6 +4458,7 @@
 @@||digiland.tw/advert.js
 @@||digit77.com^$generichide
 @@||digitale-sammlungen.gwlb.de^*/pageview.js$script,domain=digitale-sammlungen.gwlb.de
+@@||digitalo.de/min/?b=*/WebTracking.js$script,~third-party
 @@||digitrend.it/wonder-marketing/assets/wordpress/js/videojs.ga.js?$script,domain=vrsicilia.it
 @@||discord.com^$generichide
 @@||discordapp.com/banners/$image

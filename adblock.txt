@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-06-19 08:43:23（北京时间） 
-! Total count: 16319
+! Version: 2023-06-19 16:10:23（北京时间） 
+! Total count: 16331
 -960x*0.gif
 -250.js*
 
@@ -147,6 +147,7 @@
 ##DIV[style*='display: block; width: 100%; left: 0px; position: fixed; z-index:'][style*='height: 25px; top: 133px;']
 ##DIV[style*='height: 33.25px; top:'][style*='background-size: 400px 133px !important;']
 ##DIV[style*='px; top: 0px; left: 0px; z-index: '][style*='http']
+##DIV[style='clear: both; position: relative; width: 396px; height: 130px;']
 ##DIV[style='position: fixed; bottom: 0px; left: 0px; width: 100%; height: 5.85rem; z-index: 99999;']
 ##DIV[style='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: 288; top: 0px; left: 0px;']
 ##DIV[style='position: fixed; line-height: 100vh; width: 100vw; top: 0px; left: 0px;']
@@ -6804,6 +6805,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||0817tt.com^
 ||085cczz.com^
 ||086186.com^
+||087tqb.cn^
 ||093yuht.com^
 ||096iokj.com^
 ||09jsufg.com^
@@ -8591,6 +8593,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bcglkfu.cn^
 ||bcidnfers.live^
 ||bd-js.baixing.net^
+||bd.ahsrst.cn^
 ||bd.hao224.com^
 ||bd.haomagujia.com^
 ||bd.hd.sohu.com/mobile_stat/stat^$app=com.sohu.sohuvideo
@@ -9135,6 +9138,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||chuzushijian.cn^
 ||chykohija.pro^
 ||ciimg.com^
+||ciislunar.com^
 ||ciliba.org/Public/static/js/common-v2.js^
 ||cis.sohu.com^
 ||city.youpukeji.cn^
@@ -10010,6 +10014,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ezu6rd5.houge.in^
 ||f1.lutouwang.net^
 ||f23jjd8.xyz^
+||f53a.com^
 ||f77j6t2b.com^
 ||f77xv3.top^
 ||f8272.com^
@@ -10350,6 +10355,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gog.com^$removeparam=link_id
 ||gog.com^$removeparam=pp
 ||gog.com^$removeparam=track_click
+||goikbnjksdf.com^
 ||golden1.sogou.com^
 ||golden88.co^
 ||gongxifc.com^
@@ -10593,6 +10599,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hefei126.com^
 ||hefei64.com^
 ||hefrpv.xyz^
+||hegk06a.top^
 ||hehuren.cn^
 ||heiad.com^
 ||heidoumedia.com^
@@ -12750,6 +12757,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||outbrain.com^
 ||outoctillerytor.com^
 ||ouyhh.xyz^
+||owiurjngsd.com^
 ||owlfolk.com^
 ||owlunimmvn.com^
 ||owrkwilxbw.com^
@@ -14998,6 +15006,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.bibilm.com^
 ||www.biquge5200.cc/images/md5.js
 ||www.bjjabc.com^
+||www.bjjxsb.net^
 ||www.bl2030.com^
 ||www.bturl.biz/cdn-cgi/scripts^
 ||www.bturl.biz/static/js/sads.js
@@ -15017,6 +15026,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.diyuxa.com^
 ||www.dknindsl.com^
 ||www.doca182.com^
+||www.dragonib.com^
 ||www.duba.com/static/images/public/20*.png|
 ||www.duowan.com/public/s/market_count.js$script
 ||www.fmad.cc^
@@ -15141,6 +15151,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.xiewje.com^
 ||www.xihufe.com^
 ||www.xingpingmaoyi.cn^
+||www.xiuxiu4.one^
 ||www.xjwrq.com^
 ||www.xpdyqax.cn^
 ||www.xxmh*.com^
@@ -15156,6 +15167,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.yueyuego.com^
 ||www.yuyue008.cn^
 ||www.ywquyq.com^
+||www.yymh1113.com^
 ||www.zbinview.com^
 ||www.zddjq.com/adpos.json
 ||www.zhangjiyi.top^

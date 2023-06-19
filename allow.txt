@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-06-19 08:43:37（北京时间） 
-! Total count: 2448
+! Version: 2023-06-19 16:10:33（北京时间） 
+! Total count: 2446
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4490,7 +4490,6 @@
 @@||dqzsteel.com/Website/Image/guanggao/
 @@||drive.google.com^$generichide
 @@||dropbox.com^$generichide
-@@||dropboxstatic.com/static/metaserver/static/js/ux_analytics/$script,domain=dropbox.com
 @@||duckduckgo.com/?q=$generichide
 @@||duelmeta.com^$generichide
 @@||dushu.ru^$script,domain=bhshu.net
@@ -4999,7 +4998,6 @@
 @@||links.e.theatlantic.com^|
 @@||links.getblueshift.com^|
 @@||linkstars.com/union/
-@@||linksynergy.com/minified_logic.js$third-party,xmlhttprequest
 @@||listrakbi.com^$image,script,stylesheet,domain=sks-bottle.com
 @@||litv.tv/ads/ads.js
 @@||liulanmi.com/wp-content/uploads/*/StatCounter-

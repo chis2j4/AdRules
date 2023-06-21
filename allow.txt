@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-06-21 00:09:22（北京时间） 
-! Total count: 2447
+! Version: 2023-06-21 08:43:51（北京时间） 
+! Total count: 2448
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5796,6 +5796,7 @@
 @@||union.video.qq.com/fcgi-bin/data?$script
 @@||union2.50bang.org^$third-party
 @@||unpkg.com/web-vitals/dist/web-vitals.base.iife.js$script,domain=wpolityce.pl
+@@||unpkg.com^$script,domain=vidsrc.stream
 @@||up-load.io^$generichide
 @@||upaiyun.com^*.js$domain=cilimao.co|cilimao.one
 @@||upload.wikimedia.org/wikipedia/$image,media

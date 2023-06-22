@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-06-22 00:09:04（北京时间） 
-! Total count: 16331
+! Version: 2023-06-22 08:43:56（北京时间） 
+! Total count: 16332
 -960x*0.gif
 -250.js*
 
@@ -1587,7 +1587,7 @@ $removeparam=sv_campaign_id
 $removeparam=sxsrf
 $removeparam=szredirectid
 $removeparam=t,domain=rakuten.com|steamcdn-a.akamaihd.net|duckduckgo.com|npr.org|elprecio.es|adressa.no|tiktok.com|lookmovie211.xyz
-$removeparam=tag,domain=amazon.*|argos.co.uk|habitat.co.uk|tv2.no
+$removeparam=tag,domain=argos.co.uk|habitat.co.uk|tv2.no
 $removeparam=tag_ids,domain=shein.com
 $removeparam=tags,domain=reddit.app.link
 $removeparam=tagtag_uid
@@ -7976,13 +7976,13 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||amazon.$removeparam=sres
 ||amazon.$removeparam=srpt
 ||amazon.$removeparam=store_ref
-||amazon.$removeparam=tag
 ||amazon.$removeparam=th
 ||amazon.$removeparam=twitchToken
 ||amazon.$removeparam=visitId
 ||amazon.$~xmlhttprequest,removeparam=qid
 ||amazon.*/dp/$removeparam=rps,doc
 ||amazon.*/dp/$removeparam=s,doc
+||amazon.*/dp/$removeparam=tag
 ||amazon.*/gp/kindle/kfc/SpecialOffer/
 ||amazon.*/s?$removeparam=/^[^a-z%0-9]adId=/
 ||amazon.*/s?$removeparam=/^[a-z%0-9]*ie=/
@@ -8012,6 +8012,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||amazon.*/s?$removeparam=spIA
 ||amazon.*/s?$removeparam=sprefix
 ||amazon.*/s?$removeparam=th
+||amazon.*/stores/$removeparam=tag
 ||amazon.*^$removeparam=/^[^a-z%0-9]adId=/
 ||amazon.*^$removeparam=/^[a-z%0-9]*ie=/
 ||amazon.*^$removeparam=/^__mk_[a-z]{1,3}_[a-z]{1,3}=/

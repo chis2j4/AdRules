@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-06-23 16:10:58（北京时间） 
-! Total count: 16337
+! Version: 2023-06-24 00:11:07（北京时间） 
+! Total count: 16325
 -960x*0.gif
 -250.js*
 
@@ -1844,8 +1844,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .cn/ack?s=*$third-party
 .cn/bid?url=*$third-party
 .cn/o.js$third-party
-.cn:8001/*/*?t=$third-party
-.com/ads.
+.cn:8001/*/*?*=$third-party
 .com/adv1/?q=
 .com/c.php?s=*=*=$third-party
 .com/gg.js
@@ -1855,14 +1854,11 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .com/sh/to/$third-party
 .com/xz/*?token8=
 .com:10446/*/get*.html
-.com:8001/*/*?n=$third-party
-.com:8001/*/*?t=$3p
-.com:8007/*/*?c=$third-party
-.com:8007/*/*?n=$third-party
-.com:8007/*/*?t=$third-party
-.com:8008/*/*?n=$third-party
-.com:8008/*/*?t=$third-party
-.com:8008/cc/2427?is_not=
+.com:8001/*/*?*=$3p
+.com:8001/*/*?*=$third-party
+.com:8004/*/*?*=$third-party
+.com:8007/*/*?*=$third-party
+.com:8008/*/*?*=$third-party
 .com:8010/cc/
 .cyou/redbaiduct.com
 .cyou/xling_*_
@@ -1875,7 +1871,6 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .live:*/o.js
 .net/v2/stats/10*$third-party
 .net/vh1/15*$third-party
-.openx.
 .ru/ads/
 .shop:*/ack?s=
 .shop:*/bid?url=
@@ -1883,16 +1878,13 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .top/*q=*form=*&*url=http*$third-party
 .top/?token=$third-party
 .top/gluinfo.php?s=$third-party
-.top/qby_
 .userapi.com/impg^$removeparam=proxy
 .userapi.com/impg^$removeparam=type
 .xyz$domain=btsj6.com
 .xyz$domain=yinghuacd.com
 .xyz/*0*0*==$third-party
 .xyz/*?16$third-party
-.xyz/*_*_*.js$third-party
 .xyz/?token=
-.xyz/Kfc_
 .xyz/ack?s=
 .xyz/alpine?$third-party
 .xyz/base*.js?$third-party
@@ -1907,11 +1899,8 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .xyz/o.js$third-party
 .xyz/st?gp=*$third-party
 .xyz/svelte?$third-party
-.xyz/ui_
 .xyz/xefeliffng_$third-party
 .xyz/xling_*_*_*.js?*
-.xyz/xtub_
-.xyz/xxbbliffng
 /(?::\/\/i1\.hoopchina\.com\.cn\/blogfile\/.+_\d{3}x\d{4})/
 /*/*.add.*.add
 /*AdapterNew.
@@ -2040,7 +2029,6 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /adx?
 /adzone*
 /ali213-kx-function.js
-/amp-analytics-
 /android_start.asp?start=
 /api/ad/*
 /api/analytics?_
@@ -2062,8 +2050,6 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /baidu/tg.js
 /banma.
 /banners/pr_advertising_ads_banner
-/bar/yfdi.js
-/bar/yfgg.js
 /base/plugin/showwin_
 /bdcpro/*
 /bg.swf
@@ -2323,14 +2309,9 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 /sta.js?debug=
 /stat.asp
 /statIwt_
-/static/ins.js$third-party
 /static/js/bds_
 /static/js/miniyyrtv-config.js
 /static/localStorage.
-/static/mh*.js$third-party
-/static/o0*.js$third-party
-/static/ys*.js$third-party
-/static/zz*.js$third-party
 /statics/js/hth1111.html
 /stats.php?adsid=
 /stats/tj.
@@ -2409,6 +2390,7 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 ://www.google.*/search^$removeparam=kgs
 ://www.google.*/search^$removeparam=shndl
 :8007/*/*?is_not=
+:8008/*/*?is_not=
 =access&*=thread&ping=
 =ads_
 =adservice$removeparam=coid,domain=~radioreference.com|~finanzonline.bmf.gv.at
@@ -5111,7 +5093,6 @@ private70.ghuws.win$$span[style="display:inline-block;color:RoyalBlue"]
 proewildfire.cn##.a_mu,.a_h,.a_t,.a_pr,.a_pb,[height="90"]
 pron.tv##.nomobile
 ps-xxw.cn##.topmenu2
-pstatp.com/growth/fe_sdk/bannersdk
 pt80.net##.prettyprint + table
 pt80.net##img[src^="http://www.pt80.net/data/attachment/common/cf/"],div.wp.a_f,DIV.a_pt,DIV.a_pb,DIV.bm.a_c,img[src^="http://fj2.pt80.net/data/attachment/common/cf/"],div.wp.a_t,a[href^="https://detail.tmall.com/"] img[src^="http://fj.pt80.net/data/attachment/forum/201"],img[height="100"][width="960"],img[height="100"][width="760"],div.a_p,tr.ad,[href^="https://item.taobao.com/item.htm?"],[style="width:98%;"],table[width="1150"],[height="90"][width="760"]
 ptbus.com##DIV.ad,DIV.ad300_250,DIV.weixin_ad,div.content14
@@ -5897,7 +5878,6 @@ wenyoutai.com##div.a_mu,div.a_pb,div.a_cb,div#bbs_ad1,div.wp.a_h,div.modify_ad,d
 wenzhanghui##[src*="ad"]
 wghai.net##.a_xiu_h,#sc-superman-ad,.a_xiu_t,.a_xiu_pt,.a_xiu_pb,.a_xiu_pr
 whnight.com##DIV.a_mu,DIV.wp.a_t,DIV.a_pb
-widgets.outbrain.com/outbrain.js
 wiki.mbalib.com##.app-ad
 wiki.mbalib.com##.download_app.news-banner-container
 wiley.com##.advert-leaderboard__container,.skyscraper--left
@@ -6352,7 +6332,6 @@ xafc.com###news_detail_onescreen,#sidebar,[class^="float_ad"]
 xanimeporn.com###videoad,[id^="popmake-"],[id^="pum"],[id$="_ad"],.textwidget
 xav11.com###banner,[class="index-info cc"]
 xbqge.com##.mulugg
-xc*.cos.ap-*.myqcloud.com/*.js
 xcar.com.cn##DIV.adbox980.clearfix,DIV[class^="adset_955"],div.ad230,DIV[class^="market_ad mar_"],.ad980,.news_lt_ad,[class="ns_wf_detail bd"],[class^="ad_"]
 xda-developers.com##.purchad,.ad-tag,.leaderboard
 xdcad.net###diy1
@@ -6501,6 +6480,7 @@ yemancomic.com##div > center > strong > button[onclick^="window.location.href"]
 yesky.com##DIV#bdadv.bd_adv,DIV.wth200 > DIV.baidu,DIV.ad190,div.tit_spb
 yeyou.com##div#ad-yeyou-nitifiction,div[class^="ad-box"]
 yeyoubbs.com##DIV.wp> TABLE[width="960"],IMG[src^="http://www.yeyoubbs.com"],div.a_pt,[width="960"][height="66"]
+yhdm*.com/js/wap2-jm-ms.js?ver=
 yhdmp.net##[style^='bottom:'][style$='block;']
 yicai.com##div.ad68570,div.ad257
 yidianzixun.com##.ad-wrapper
@@ -7908,6 +7888,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||aliexpress.*^$removeparam=sk
 ||aliexpress.*^$removeparam=terminal_id
 ||aliexpress.*^$removeparam=ws_ab_test
+||aliexpress.com^$removeparam=afSmartRedirect
 ||alinxc.com^
 ||aliyun.cdn.chengzilte.top^
 ||aliyunapi.org^
@@ -8956,6 +8937,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ca.gtimg.com/client/
 ||ca88b.cn^
 ||caamei.com^
+||caardinal.com^
 ||cache.ip138.com/*banner^
 ||cache.m.iqiyi.com/jp/tmts^$domain=m.iqiyi.com
 ||caclick.baidu.com^
@@ -9973,6 +9955,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ete.cn^
 ||eteun.cn^
 ||etlanaberez.fun^
+||etregh.fun^
 ||etsy.com^$removeparam=click_key
 ||etsy.com^$removeparam=click_sum
 ||etsy.com^$removeparam=gao
@@ -10585,6 +10568,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hcbmq.cn^
 ||hccms.com.cn^
 ||hcdjy.xyz^
+||hciea.xyz^
 ||hczzw.com^
 ||hd.browser.miui.com^
 ||hd126.com/js/$script
@@ -13007,6 +12991,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||prxymecb.cn^
 ||pss.alicdn.com/iku/log^
 ||pstatp.com/*from=ad^
+||pstatp.com/growth/fe_sdk/bannersdk
 ||pstatp.com/inapp^
 ||pstatp.com/site/reads-sdk/
 ||pstatp.com/toutiao/push.js
@@ -13084,6 +13069,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qcmlw.com/js/service.js
 ||qcmm01.com^
 ||qcmm05.com^
+||qctcu.com^
 ||qczcxe.cn^
 ||qd.wanjuanba.com^
 ||qdcode.com^
@@ -13611,6 +13597,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sfp.safe.baidu.com^
 ||sg92.com^
 ||sgbbc.cn^
+||sgegie.fun^
 ||sgftrrs.com^
 ||sglyd.cn^
 ||sgxkm.com^$third-party
@@ -13649,9 +13636,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||shijixinrui.cn^
 ||shijuezhongguo.cdn.bcebos.com^
 ||shillivee.pro^
+||shimo.im/*/ads?
 ||shimo.im/kong-api/ads
 ||shimo.im/lizard-api/ads
-||shimo.im^*/ads?
 ||shise.me^
 ||shixiong.xyz^
 ||shiyanlou.com/img/shiyanlou-
@@ -14865,6 +14852,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||whwdzgykybnfg.com^
 ||whwxxny.com^
 ||whyfate.cn^
+||widgets.outbrain.com/outbrain.js
 ||widgets.pinterest.com^
 ||widow5blackfr.com^
 ||wifi.com^

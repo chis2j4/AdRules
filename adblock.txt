@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-06-23 08:50:24（北京时间） 
-! Total count: 16333
+! Version: 2023-06-23 16:10:58（北京时间） 
+! Total count: 16337
 -960x*0.gif
 -250.js*
 
@@ -6324,8 +6324,10 @@ www.zhaodongde.com##ins.adsbygoogle,div.ad_fixed.ie_fixed
 www.zhcw.com##div.news_blanck,div.ad1
 www.zhiboba.cc##div[class^="xwrgg_"],div[class^="ctgg_"]
 www.zhihu.com##A.MBannerAd
+www.zhihu.com##A.MHotFeedAd,.MRelateFeedAd,.WeiboAd-wrap,.AdvertImg.AdvertImg--isLoaded.MBannerAd-image,.Banner-adTag,[href='https://maimai.cn/']
 www.zhihu.com##A[class='MfeedAd']
 www.zhihu.com##DIV.KfeCollection-VipRecommendCard
+www.zhihu.com##DIV.OpenInAppButton
 www.zhihu.com##DIV[class='Card RelatedReadings']
 www.zhihu.com##DIV[class='RelatedReadingsItem']
 www.zhihu.com##DIV[id^="shameimaru-question-down-noauth-"][class="zm-side-section shameimaru-section"]
@@ -6649,7 +6651,6 @@ zhihu.com##.RelatedReadings.Card
 zhihu.com##.TopstoryItem--advertCard
 zhihu.com##.ViewAllInappButton
 zhihu.com##.ZVideo-sideColumn
-zhihu.com##A.MHotFeedAd,.MRelateFeedAd,.WeiboAd-wrap,.AdvertImg.AdvertImg--isLoaded.MBannerAd-image,.Banner-adTag,[href='https://maimai.cn/']
 zhihu.com##OpenInAppButton OpenInApp is-shown
 zhihu.com##div.ModalWrap-item:nth-of-type(2)
 zhihu.com#?#button:-abp-contains(App)
@@ -15413,6 +15414,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xxdy8.cn/template/Datll/aaaa/
 ||xxgslt.com^
 ||xxguan.cn^
+||xxhp2iz.icu^
 ||xxlargepop.com^
 ||xxmh456.com^
 ||xxmh645.com^
@@ -15787,6 +15789,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zfehvv.xyz^
 ||zfenuq.buzz^
 ||zfjiu.com^
+||zfmqfh.xyz^
+||zfmtyv.buzz^
 ||zfnclk.buzz^
 ||zg40c.cn^
 ||zgc66.com^$third-party

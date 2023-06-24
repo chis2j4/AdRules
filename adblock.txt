@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-06-24 16:09:52（北京时间） 
-! Total count: 16330
+! Version: 2023-06-25 00:09:28（北京时间） 
+! Total count: 16337
 -960x*0.gif
 -250.js*
 
@@ -141,6 +141,7 @@
 ##DIV[class^='ads_border_']
 ##DIV[data-text-ad]
 ##DIV[id*="BAIDU_SSP__wrapper_"]
+##DIV[onclick='if (!window.__cfRLUnblockHandlers) return false; window.location.href=\'https://a.biquge-app.com/apps/\''],[onclick='if (!window.__cfRLUnblockHandlers) return false; window.location.href=\'https://a.biquge-app.com/apps/\''] + div
 ##DIV[style*='!important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important; line-height: 0px !important; height: 150px !important;']
 ##DIV[style*='.xyz/gif/']
 ##DIV[style*='animation: 1s ease 0.2s infinite normal none running shakegwegs; z-index:'][style*='background: url']
@@ -1844,6 +1845,9 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .cn/ack?s=*$third-party
 .cn/bid?url=*$third-party
 .cn/o.js$third-party
+.cn:*/*/*?c=$third-party
+.cn:*/*/*?n=$third-party
+.cn:*/*/*?t=$third-party
 .cn:8001/*/*?*=$third-party
 .com/adv1/?q=
 .com/c.php?s=*=*=$third-party
@@ -1853,6 +1857,9 @@ $~xmlhttprequest,removeparam=ref_,domain=facebook.*|facebookwkhpilnemxj7asaniu7v
 .com/qq.js$third-party
 .com/sh/to/$third-party
 .com/xz/*?token8=
+.com:*/*/*?c=$third-party
+.com:*/*/*?n=$third-party
+.com:*/*/*?t=$third-party
 .com:10446/*/get*.html
 .com:8001/*/*?*=$3p
 .com:8001/*/*?*=$third-party

@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-06-24 00:11:17（北京时间） 
-! Total count: 2448
+! Version: 2023-06-24 08:48:58（北京时间） 
+! Total count: 2449
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5002,6 +5002,7 @@
 @@||liulanmi.com/wp-content/uploads/*/StatCounter-
 @@||liumingye.cn^$generichide
 @@||live.lequipe.fr/thirdparty/prebid.js$~third-party
+@@||live.primis.tech/live/$script,domain=eurogamer.net|vg247.com
 @@||live.rezync.com^$script,domain=batteriesplus.com
 @@||live.streamtheworld.com/partnerIds$domain=iheart.com
 @@||livesicilia.it/wp-content/plugins/digistream/digiplayer/js/videojs.ga.js?$script,third-party

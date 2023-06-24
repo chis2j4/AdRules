@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-06-24 00:11:07（北京时间） 
-! Total count: 16325
+! Version: 2023-06-24 08:48:47（北京时间） 
+! Total count: 16326
 -960x*0.gif
 -250.js*
 
@@ -1043,7 +1043,7 @@ $removeparam=fobs
 $removeparam=fr,domain=baidu.com|thegay.com
 $removeparam=fr,domain=hclips.com
 $removeparam=fref
-$removeparam=from,doc,domain=apkpure.com|bandcamp.com|browserling.com|luisaviaroma.com|sogou.com|store.hbr.org|onlinepngtools.com|indiatimes.com|jetbrains.com
+$removeparam=from,doc,domain=apkpure.com|bandcamp.com|browserling.com|luisaviaroma.com|sogou.com|store.hbr.org|app.snyk.io|onlinepngtools.com|indiatimes.com|jetbrains.com
 $removeparam=fromLoggedOutHome,domain=ocado.com
 $removeparam=fromMostRead,domain=bloomberg.com
 $removeparam=fromRankId
@@ -8209,6 +8209,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||app.market.xiaomi.com/apm/secondfloor?
 ||app.market.xiaomi.com/apm/zone/myPage
 ||app.slack.com^$removeparam=entry_point
+||app.snyk.io^$removeparam=page,doc
 ||app.video.baidu.com/adapp_static^
 ||app.video.baidu.com/bootimg^
 ||appadhoc.com^

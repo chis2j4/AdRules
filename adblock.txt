@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-06-28 16:10:51（北京时间） 
-! Total count: 16351
+! Version: 2023-06-29 00:10:24（北京时间） 
+! Total count: 16354
 -960x*0.gif
 -250.js*
 
@@ -1457,6 +1457,7 @@ $removeparam=relatedposts_position
 $removeparam=removedParams
 $removeparam=rep,domain=shein.com
 $removeparam=report_recomm_player
+$removeparam=repost,domain=nbcnews.com|sacurrent.com
 $removeparam=req_id,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 $removeparam=ret,domain=shein.com
 $removeparam=retailAttributionToken
@@ -14604,6 +14605,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ursegreatm.fun^
 ||urtr4hrq.com^
 ||usingde.com^
+||uslecce.it^$removeparam=et
 ||usn.cc^
 ||uttlinediv.top^
 ||uty.micocc.com/api/ad^
@@ -14955,6 +14957,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wshlcgj.com^
 ||wsj.com^$removeparam=inttrackingcode
 ||wsj.com^$removeparam=reflink
+||wsj.com^$removeparam=st
 ||wsnew.cn^
 ||wtbtop.cn^
 ||wtiaw.top^

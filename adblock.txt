@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-06-28 08:51:23（北京时间） 
-! Total count: 16341
+! Version: 2023-06-28 16:10:51（北京时间） 
+! Total count: 16351
 -960x*0.gif
 -250.js*
 
@@ -401,6 +401,7 @@
 ##secion#ly LI[role='group'],secion#ly > H2
 ##section > SPAN[style='display: block; clear: both; overflow: hidden;']
 ##section.global_video_bottom_dbtc
+##section.wrap > section.f0
 ##span > A[href='###']
 ##ul > li > A[href$='_list.html']
 ##ul#page-list.layui-clear.page-wz > ul > li:not([class])
@@ -1871,6 +1872,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 .cyou/xling_*_
 .gif$domain=787ck.cc
 .icu/*_*_*.js$third-party
+.icu/pssbk?$third-party
 .live/hm.js$third-party
 .live/o.js
 .live/r/*/*_r=*
@@ -1904,10 +1906,11 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 .xyz/jque*.js?$third-party
 .xyz/mithril?$third-party
 .xyz/o.js$third-party
+.xyz/qby_*.js?$third-party
 .xyz/st?gp=*$third-party
 .xyz/svelte?$third-party
 .xyz/xefeliffng_$third-party
-.xyz/xling_*_*_*.js?*
+.xyz/xling_*_*_*.js?
 /(?::\/\/i1\.hoopchina\.com\.cn\/blogfile\/.+_\d{3}x\d{4})/
 /*/*.add.*.add
 /*AdapterNew.
@@ -2037,6 +2040,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 /adzone*
 /ali213-kx-function.js
 /android_start.asp?start=
+/api/LM/Report?placeUUID=$third-party
 /api/ad/*
 /api/analytics?_
 /api/getPos?jspath=/videos/view//*
@@ -2321,6 +2325,8 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 /static/js/bds_
 /static/js/miniyyrtv-config.js
 /static/localStorage.
+/statics/js/dddd.js
+/statics/js/guding.js
 /statics/js/hth1111.html
 /stats.php?adsid=
 /stats/tj.
@@ -2354,6 +2360,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 /v3/resolve?
 /variety.tc.qq.com^*.mp4
 /vh2/*$third-party
+/vhyoydie_*_*.js$third-party
 /videoAd.
 /video_ad_iframe
 /videoad/*
@@ -9571,6 +9578,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||desk.orsoon.com/so/
 ||despegar.$removeparam=/^clt_/
 ||despegar.$removeparam=mktdata
+||destc10.icu^
 ||detail.taobao.com^
 ||detect.mb.qq.com^
 ||dev.rubaoo.com/TimeDiaryV2^$app=idm.internet.download.manager.plus
@@ -11604,6 +11612,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||leadboltads.net^
 ||leadboltapps.net^
 ||leadboltmobile.net^
+||leadc6.icu^
 ||leads.api.autohome.com.cn^
 ||leads.autohome.com.cn^
 ||learner.org^$removeparam=jwsource
@@ -13979,6 +13988,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||support.github.com^$removeparam=tag
 ||support.google.com^$removeparam=ref_topic
 ||support.google.com^$removeparam=sjid
+||surface361.com^
 ||surfshark.com^$removeparam=transaction_id
 ||surveys.hotjar.com^
 ||suwoj.com^

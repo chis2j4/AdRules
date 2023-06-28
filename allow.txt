@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-06-28 00:10:24（北京时间） 
-! Total count: 2450
+! Version: 2023-06-28 08:51:36（北京时间） 
+! Total count: 2452
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4575,6 +4575,8 @@
 @@||feilusw.com/search.html$genericblock,generichide
 @@||fengkongcloud.com/fpv2.js
 @@||fharr.com^$generichide
+@@||fichub.com/plugins/adobe/lib/AppMeasurement.js$domain=natgeotv.com
+@@||fichub.com/plugins/adobe/lib/VisitorAPI.js$domain=natgeotv.com
 @@||figma.com^$generichide
 @@||files.slack.com^$image,~third-party
 @@||fingerprintjs.com^$generichide

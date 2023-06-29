@@ -1,5 +1,5 @@
 ! Title: Allowlist
-! Version: 2023-06-29 08:48:13（北京时间） 
+! Version: 2023-06-29 16:11:00（北京时间） 
 ! Total count: 2454
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
@@ -4271,7 +4271,6 @@
 @@||chasecdn.com^*/@ccb-blueanalytics/$script,domain=chase.com
 @@||chat.d-id.com/assets/mixpanel.$~third-party
 @@||check.ddos-guard.net/check.js$script
-@@||checkout.tito.io/dynatrace/$xmlhttprequest,domain=ti.to
 @@||cheshi-img.com/ad/csad_2019.js
 @@||china.com/dianbo/adv1.xml
 @@||chinacourt.gov.cn/share/jquery/plugins/adbox/
@@ -4559,6 +4558,7 @@
 @@||extreme-ip-lookup.com^$script,domain=bulkbarn.ca
 @@||ez3c.tw/js/adblockDetector.js
 @@||ez3c.tw^$generichide
+@@||ezodn.com/cmp/gvl.json$xmlhttprequest
 @@||ezoic.net/detroitchicago/cmb.js$script,domain=gerweck.net
 @@||ezsoftwarestorage.com^$image,media,domain=ezfunnels.com
 @@||f-droid.org/assets/Ads_$~third-party

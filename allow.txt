@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-07-01 00:09:57（北京时间） 
-! Total count: 2454
+! Version: 2023-07-01 08:54:10（北京时间） 
+! Total count: 2456
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4980,6 +4980,7 @@
 @@||leadpages.io/analytics/v1/observations/capture?$xmlhttprequest
 @@||league-funny.com^$script,~third-party
 @@||leanplum.com^$domain=arkadium.com
+@@||leechers-paradise.org^|
 @@||leffatykki.com/media/banners/tykkibanneri-728x90.png$image,~third-party
 @@||lefile.cn/??*,
 @@||legendstracking.com/js/legends-tracking.js$~third-party
@@ -5002,6 +5003,7 @@
 @@||links.e.theatlantic.com^|
 @@||links.getblueshift.com^|
 @@||linkstars.com/union/
+@@||linksynergy.com/minified_logic.js$xmlhttprequest
 @@||listrakbi.com^$image,script,stylesheet,domain=sks-bottle.com
 @@||litv.tv/ads/ads.js
 @@||liulanmi.com/wp-content/uploads/*/StatCounter-

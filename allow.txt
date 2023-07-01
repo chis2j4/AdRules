@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-07-01 16:09:46（北京时间） 
-! Total count: 2456
+! Version: 2023-07-02 00:09:29（北京时间） 
+! Total count: 2453
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3922,10 +3922,8 @@
 @@||adservice.google.com/adsid/integrator.js$domain=logi.im
 @@||adswizz.com/adswizz/js/SynchroClient*.js$script,third-party,domain=jjazz.net
 @@||adswizz.com/sca_newenco/$xmlhttprequest,domain=triplem.com.au
-@@||adt.redventures.io^$stylesheet,xmlhttprequest,domain=security.adt.com
 @@||adtng.com/get/$subdocument,domain=hanime.tv
 @@||adv.asahi.com^$popup
-@@||adv.cr^$popup
 @@||adv.gg^$popup
 @@||adv.welaika.com^$popup
 @@||advert.kf5.com^
@@ -5970,7 +5968,6 @@
 @@||yygsz.com^$generichide
 @@||z.moatads.com^$script,domain=standard.co.uk
 @@||zbj.com^
-@@||zergnet.com^$image,script,stylesheet,domain=ci.craveonline.com|ci.gamerevolution.com|ci.momtastic.com|ci.thefashionspot.com|ci.totallyher.com
 @@||zhaiyd5.com^$script,domain=louzhong8.com|miwens.com
 @@||zinro.net/m/log.php
 @@||zjjcxy.cn^*/ad.css?$stylesheet

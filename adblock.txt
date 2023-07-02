@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-07-02 08:52:16（北京时间） 
-! Total count: 16361
+! Version: 2023-07-02 16:09:58（北京时间） 
+! Total count: 16373
 -960x*0.gif
 -250.js*
 
@@ -275,6 +275,7 @@
 ##[style*='width: 100% !important; margin: 0px !important; padding: 0px !important; display: flex !']
 ##[style*='width: 100% !important; margin: 0px !important; padding: 0px !important; display: flex !'] *
 ##[style*='width: 100vw; background: url'][style$='no-repeat; position: fixed;'][style*='0px 0px / 100vw ']
+##[style*='width:9.6vw;height:8.5vw;background:#000;opacity:0.01;']
 ##[style='box-sizing: border-box; position: relative; left: 0px; z-index: 912944; text-indent: -10em;']
 ##[style='display: block; width: 100%; left: 0px; position: fixed; z-index: 2147483646; height: 49px; bottom: 132px;']
 ##[style='text-align: center; margin: 40px 0; color: blue; font-size: larger;']
@@ -297,6 +298,7 @@
 ##a.gggg[href^="https"]
 ##a.outlink
 ##a[href*=".com?s="]
+##a[href*="/?utm_source="]
 ##a[href^="/ad.html?url="]
 ##a[href^="https://91keep.tv"]
 ##a[href^="https://uds24.com/"]
@@ -2327,6 +2329,8 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 /sta.js?debug=
 /stat.asp
 /statIwt_
+/static/*/KdLmbuThM.js?v=
+/static/*/Lqho7OKcg.js?v=
 /static/js/bds_
 /static/js/miniyyrtv-config.js
 /static/localStorage.
@@ -8930,6 +8934,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||buzzads.com^
 ||buzzfeednews.com^$removeparam=bfsource
 ||bvakl.ifeng.com^
+||bvvb9.com^
 ||bwdhuanbao.com^
 ||bwin2808.com^
 ||bx0635.com/tx/$image
@@ -9709,6 +9714,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dmrtb.com^
 ||dmsz.win7sky.com^
 ||dmtrck.com^
+||dmxfdp.xyz^
 ||dmyrza.com^
 ||dncvj.cn^
 ||dnrf0215.com^
@@ -10203,6 +10209,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fstats.xyz^
 ||ft8e.top^
 ||fthqzxq.cn^
+||ftiodfqk.com^
 ||ftp2.verypsp.com/*.gif|$image
 ||ftp2.verypsp.com/55qp.jpg$image
 ||fublue.com^
@@ -11486,6 +11493,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kmbopoie.com^
 ||kmgfjc.cn^
 ||kmhmyaj.cn^
+||kmihknj.cn^
 ||kminker.xyz^
 ||kmn1sk.com^
 ||kmnhbr.xyz^
@@ -11868,6 +11876,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lwdown.com/user08/index_top
 ||lwdown.com/user08/user_*_
 ||lwhsdfc.cn^
+||lwksxs.com^
 ||lwlqsgr.cn^
 ||lwmbc.cn^
 ||lwtxt.net/gaogao/
@@ -13066,6 +13075,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pxene.com^
 ||pxl2015x1.com^
 ||pyeditingpro.biz^
+||pygokay.cn^
 ||pyk.in-neo.cn^
 ||pythontab.com/statics/images/*abc
 ||pythontab.com/statics/images/*ads
@@ -14544,6 +14554,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ujian.cc^
 ||uk529u0.cn^
 ||ulink.cc^
+||ulkoxbra.com^
 ||ulmdb.cn^
 ||ulogs.umeng
 ||ulogs.umengcloud.com^
@@ -15271,6 +15282,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xddzshop.com^
 ||xdrig.com^
 ||xe2c.com^
+||xegneils.com^
 ||xerhibx.cn^
 ||xfgctg.com^
 ||xfile.a.88cdn.com/file^$third-party

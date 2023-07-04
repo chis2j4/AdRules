@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-07-04 08:50:27（北京时间） 
-! Total count: 16373
+! Version: 2023-07-04 16:11:06（北京时间） 
+! Total count: 16380
 -960x*0.gif
 -250.js*
 
@@ -80,6 +80,7 @@
 ##A[href='http://k023055.com']
 ##A[href='http://kkyty29.cc/']
 ##A[href='http://x5123.cc/']
+##A[href='https://icrwt696.com']
 ##A[href^='http'][style^='display:block;left:0;right:0;position:fixed;border-left:']
 ##A[href^='http://cszb420.tinawd81.com/']
 ##A[href^='http://h5.shangjinssp.com/sjprom'][style='display:block;']
@@ -8944,6 +8945,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bxwx8.org/wap/qijixs/afoot.js
 ||bytecdn.cn/article/content^
 ||bzclk.baidu.com^
+||bzhn9y.icu^
 ||bzyunding.com^
 ||c-gtc.getui.net^
 ||c.booksir.com.cn^
@@ -10750,6 +10752,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hqnpwzu.cn^
 ||hrngmf.com^
 ||hs.fi^$removeparam=share
+||hsdawz.com^
 ||hsforms.com^
 ||hsforms.net^
 ||hsrgnac.cn^
@@ -11286,6 +11289,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jnmascx.xyz^
 ||jnsz.net.cn^
 ||jntmwrm.com^
+||jnwpzq.com^
 ||jnyayk.xyz^
 ||jnyngg.cn^$third-party
 ||joannarace.com^
@@ -14194,6 +14198,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tg.loclog.cn^
 ||tg.tebiezhuan.com^
 ||tg33.cn^
+||tgbevv.xyz^
 ||tgcfmh.com^
 ||tgfyq.cn^
 ||tgwopez.cn^
@@ -15195,6 +15200,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.ydgaopinlu.com^
 ||www.yidianzixun.com/home/q/getrelatednewsall
 ||www.yingshidvd.com/js/common.js
+||www.ykjyyy.com/8888/
 ||www.ynxjf.com^
 ||www.you1ad.com^
 ||www.youjiq.club/js^
@@ -15828,6 +15834,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zfmqfh.xyz^
 ||zfmtyv.buzz^
 ||zfnclk.buzz^
+||zfotrq.xyz^
 ||zg40c.cn^
 ||zgc66.com^$third-party
 ||zgclmw.cn^

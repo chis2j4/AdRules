@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-07-05 00:10:47（北京时间） 
+! Version: 2023-07-05 08:50:25（北京时间） 
 ! Total count: 16380
 -960x*0.gif
 -250.js*
@@ -1737,7 +1737,7 @@ $~xmlhttprequest,removeparam=/^refsrc=/i
 $~xmlhttprequest,removeparam=LID
 $~xmlhttprequest,removeparam=mbid
 $~xmlhttprequest,removeparam=mcid,domain=~miguvideo.*
-$~xmlhttprequest,removeparam=msid
+$~xmlhttprequest,removeparam=msid,domain=~rsc.org
 $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odysee.com
 $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxofficemojo.com|facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|imdb.com|primevideo.com|shopbop.com
 &ad*&puid=*&uid=*=show

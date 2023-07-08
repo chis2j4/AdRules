@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-07-08 08:49:25（北京时间） 
-! Total count: 16384
+! Version: 2023-07-08 16:09:35（北京时间） 
+! Total count: 16396
 -960x*0.gif
 -250.js*
 
@@ -1865,8 +1865,10 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 .com/js/g.js
 .com/o.js$third-party
 .com/qq.js$third-party
+.com/sh/*.js$third-party
 .com/sh/to/$third-party
 .com/xz/*?token8=
+.com/z-*-*?123$third-party
 .com:*/*/*?c=$third-party
 .com:*/*/*?n=$third-party
 .com:*/*/*?t=$third-party
@@ -1893,6 +1895,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 .shop:*/ack?s=
 .shop:*/bid?url=
 .top/*/*.js?ts=$third-party
+.top/*/2022*/.js$third-party
 .top/*q=*form=*&*url=http*$third-party
 .top/?token=$third-party
 .top/gluinfo.php?s=$third-party
@@ -2231,6 +2234,8 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 /log/*_time
 /logo/*_mark_
 /lolmp4-ggdz/*
+/m.html?rmid=*&yd=$~third-party
+/m.html?shareName=*&proxyAccount=$~third-party
 /main.app.e081f97c6d9521b4b613.js
 /merge.swf
 /mgkojt.
@@ -4985,6 +4990,7 @@ normteam.com##[href$=".taobao.com/"]
 northnews.cn##.sponsor02
 northnews.cn##[class^="sponsor"],[class^="ad-"]
 note.youdao.com##.top-btns
+novret.com/?clickid=
 nowfeed2all.eu###fanback,[src^="http://c4.zedo.com/jsc/"]
 nownews.com##.ads,.ads-fullscreen,[id^="div-gpt-ad-"],[data-crowdynews-widget="Nownews/nownews-mobile"],.ads-block,[calss="ads-block"],[href^="http://ad1.nownews.com/adclick.php"]
 nuoqiu.com##SPAN.baidu,DIV.parttop[style="height:90px;"]
@@ -7151,6 +7157,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||4sexmail.com^
 ||4wad.com^
 ||504pk.com^
+||50aqzb.com^
 ||50bang.org^
 ||51-tour.net^
 ||51.la^
@@ -7535,6 +7542,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ab.pincai.com^
 ||ab11s.com^
 ||ab44.pw^
+||abalado.com^
 ||abb.lxiaoxin.com^
 ||abenshishabi.com^
 ||abovede6.com^
@@ -9621,6 +9629,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dhapp.qianhaitech.cn/api/ad^
 ||dhgate.com^$removeparam=f
 ||dhgdp.cn^
+||dhkipdsc.xyz^
 ||dhlh.org^
 ||dhqp68.com^
 ||dhtdig.xyz/static/js/dht_default.js
@@ -13892,6 +13901,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ssjpx.com^
 ||ssjy.shop^
 ||ssl.linyiccic.com^
+||ssnnn.net^
 ||ssp.lionmobo.com^
 ||ssp.qq.com^
 ||ssp.tencentmusic.com^
@@ -14676,6 +14686,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||vaxgyly.cn^
 ||vbnmjjda.xyz^
 ||vchiy.com^
+||vcvbnmto.xyz^
 ||vel7.xyz^
 ||velocitycdn.com^
 ||venator.link^
@@ -16042,6 +16053,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 3lc.com##.sort_list dl[class="clearfix"]
 3sjt.com##div.a_mu,div.a_pb,div.wp.a_h,div.a_pr,div.a_fl.a_cb,div.a_fr.a_cb,div[class="portal_block_summary"]
 3xgd.com###video_left_adv
+3zmmm.net/ggxx/
 4k123.com##.comeing_wad,.a_pb
 4kzw.com,quanxiong.org,dijiuzww.com##[style="width:770px;height:260px"]
 05sun.com##.xzq,[src="/images/ydxz.gif"]

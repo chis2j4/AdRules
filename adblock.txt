@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-07-12 16:11:03（北京时间） 
-! Total count: 16396
+! Version: 2023-07-13 00:10:10（北京时间） 
+! Total count: 16399
 -960x*0.gif
 -250.js*
 
@@ -428,6 +428,7 @@ $$span[class="dmcenterb"]
 $doc,removeparam=/^clickid=/i,domain=~discover.*
 $doc,removeparam=_clde
 $doc,removeparam=_cldee
+$doc,removeparam=af,domain=pnas.org|science.org|scitation.org|wiley.com|worldscientific.com
 $doc,removeparam=channel,domain=1sol.io|amazon.*|bybit.com|coinpanel.com|docs.google.com|docsend.com|eventbrite.*|forms.gle|gleam.io|goodcrypto.app|instagram.com|kasta.io|ngx.me|privateinternetaccess.com|reddit.app.link|rei.com|runnode.com|squarespace.com|t.me|twitter.com|xd.wayin.com|youtube.com
 $doc,removeparam=l,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
 $doc,removeparam=o,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
@@ -437,7 +438,6 @@ $doc,removeparam=trackID
 $doc,removeparam=trackid,domain=~nzpost.co.nz
 $doc,removeparam=waporef
 $doc,removeparam=wp_source,domain=ac24.cz|ambcrypto.com|glispa.com|whitepages.com
-$document,removeparam=af,domain=pnas.org|science.org|scitation.org|wiley.com|worldscientific.com
 $image,third-party,domain=avtb6677.com|lady1.top
 $popup,third-party,domain=downdv.com|rmdown.com|soyunpan.com|youtubeto.com
 $removeparam=%243p,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
@@ -546,6 +546,7 @@ $removeparam=/^ref=prisjakt/i
 $removeparam=/^ref=rss$/
 $removeparam=/^ref=spreadprivacy.com$/
 $removeparam=/^ref=troyhunt\.com/
+$removeparam=/^ref=workingsoftware\.dev$/,doc
 $removeparam=/^refID=/i,domain=allmodern.com|calphalon.com|priceline.com|questrade.com|wayfair.*|yankeecandle.com
 $removeparam=/^referer=prisjakt/i
 $removeparam=/^refsource=webgains$/
@@ -8007,6 +8008,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||amazon.*/dp/$removeparam=s,doc
 ||amazon.*/dp/$removeparam=tag
 ||amazon.*/gp/kindle/kfc/SpecialOffer/
+||amazon.*/primeday/$removeparam=mfadid
+||amazon.*/primeday/$removeparam=tag
 ||amazon.*/s?$removeparam=/^[^a-z%0-9]adId=/
 ||amazon.*/s?$removeparam=/^[a-z%0-9]*ie=/
 ||amazon.*/s?$removeparam=/^__mk_[a-z]{1,3}_[a-z]{1,3}=/

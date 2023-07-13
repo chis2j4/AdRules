@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-07-13 08:50:46（北京时间） 
-! Total count: 16399
+! Version: 2023-07-13 16:10:43（北京时间） 
+! Total count: 16404
 -960x*0.gif
 -250.js*
 
@@ -65,6 +65,7 @@
 ##.theme-dark > .ayx > a
 ##.width.imgs_1
 ##.zozoads
+##A > IMG[alt][src*='resources/images/']
 ##A#floating-banner
 ##A.toptxt[target='_blank']
 ##ASIDE[id^='custom_html-']
@@ -93,6 +94,7 @@
 ##A[href^='https://www.nonstopclub.xyz']
 ##A[href^='https://yongle008.com']
 ##A[onclick$='()'][target='_top'][style*='.gif) no-repeat;background-size:100% 100%;']
+##A[rel='nofollow noopener'][href*='/game/xr/?attributionId=']
 ##A[style='width: 100%;height: 150px;z-index:1000;position: absolute;display:block;top: 0px;'][onclick$=';this.style.display="none";']
 ##A[target='_blank'] > IMG[width='100%'][src*='.gif']
 ##A[target='_blank'][href*='/auth/register?code=']
@@ -119,6 +121,7 @@
 ##DIV.advertisingConfiguration
 ##DIV.appdownload_ad
 ##DIV.bot-per-context[data-width='728'][data-height='90']
+##DIV.bot-per.visible-xs.visible-sm *
 ##DIV.box-width.ec-ad
 ##DIV.code-block[style='margin: 8px 0; clear: both;']
 ##DIV.col-4.col-sm-2.col-xl-2.px-1.px-sm-2.pb-3.pt-3.pt-sm-0.d-block.d-sm-none
@@ -370,6 +373,7 @@
 ##div.maomi-content A[href='/baidu/index.html']
 ##div.mobile > div.content IMG[src*='.gif']
 ##div.module-list-right-title-wrap > div.normal-title-wrap > div > a
+##div.my-ad > a
 ##div.page.player > div.main > div.content > div.module.module-player > div.module-main > div.player-box > div.player-rm.rm-list > a > img
 ##div.page.player > div.main > div.content > div.module.module-player DIV[style='width:100%;height:180px']
 ##div.page.view > div.main > div.content > DIV[style='width:100%;height:100px']
@@ -2184,7 +2188,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 /imgs.js*
 /inapi/show/*
 /inc/poster.php
-/index.html?channelCode=$~third-party
+/index.html?channelCode=
 /indexad*
 /iphone.myzaker.com/zaker/cover.php
 /iphone.myzaker.com/zaker/interaction.php
@@ -2236,8 +2240,8 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 /log/*_time
 /logo/*_mark_
 /lolmp4-ggdz/*
-/m.html?rmid=*&yd=$~third-party
-/m.html?shareName=*&proxyAccount=$~third-party
+/m.html?rmid=*&yd=
+/m.html?shareName=*&proxyAccount=
 /main.app.e081f97c6d9521b4b613.js
 /merge.swf
 /mgkojt.
@@ -2408,6 +2412,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 /x/api/*
 /xitongxiaoxi.
 /xpgod/*
+/xxgg/e13dj113a.js
 /yinghuacd/bottom.js
 /yoqooads_
 /youku.js$third-party
@@ -3931,7 +3936,6 @@ hkpic-forum.com##.portal_block_summary,.a_pb
 hkwb.net##[class^="guanggao"]
 hljtv.com##div.listAd1
 hlyy.cc##[src^="http://s1.limeishang.com:8081"],[width="960"],.ui-sponsor,[id$="_couplet"]
-hm.js/
 hmqg.net##DIV#bottommob.bottommob
 hn.ifeng.com##.couplet,.fixed_ad
 hold168.com##.news_ggimg
@@ -8680,6 +8684,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bestbuy.com^$removeparam=irgwc
 ||bestbuy.com^$removeparam=loc
 ||bestbuy.com^$removeparam=mpid
+||betcss.site^
 ||betgorebysson.club^
 ||betshun.org^
 ||betway787.com^

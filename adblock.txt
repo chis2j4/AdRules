@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-07-15 00:10:04（北京时间） 
+! Version: 2023-07-15 08:48:10（北京时间） 
 ! Total count: 16404
 -960x*0.gif
 -250.js*
@@ -2928,6 +2928,7 @@ baidu.com##.square-banner-bgicon.index-banner
 baidu.com##.welcome-banner
 baidu.com##.wgt-rel-exp.content-box
 baidu.com##.wgt-related-questions
+baidu.com##DIV#bdrainrwDragButton
 baidu.com##DIV#page-copyright.se-page-copyright.se-copyright-zbios[style='margin-bottom: 50px;']
 baidu.com##DIV.barea-ad
 baidu.com##DIV.c-result.result[srcid='mkt_ad_space']
@@ -3029,7 +3030,6 @@ baijiahao.baidu.com##.headDeflectorContainer
 baijiahao.baidu.com##.openImg
 baijiahao.baidu.com##.related-news
 baijiahao.baidu.com##.wxUnfoldText
-baijiahao.baidu.com##DIV#bdrainrwDragButton
 baijiahao.baidu.com##DIV[class='_1T6TbV3IOYsTyKUDLU3h5K']
 baijiahao.baidu.com##DIV[class='_23jxxPi62SsDrI4gDqqvlk onepxT']
 baijiahao.baidu.com##DIV[class='_2zYa3D96DKBK80Jm2RnKgv commonPadding']

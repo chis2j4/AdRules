@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-07-17 08:52:59（北京时间） 
-! Total count: 2448
+! Version: 2023-07-17 16:11:54（北京时间） 
+! Total count: 2439
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3945,7 +3945,6 @@
 @@||aixifan.com/static/css/advertisement_
 @@||aixifan.com/static/home/widget/basic/advertisement/advertisement.$stylesheet
 @@||aixifan.com^*/sensorsdata.min.js?$domain=acfun.cn
-@@||ajax.googleapis.com/ajax/libs/$script,domain=flashx.to|flashx.tv
 @@||ajax.googleapis.com/ajax/libs/$script,domain=govid.co
 @@||ajax.googleapis.com/ajax/libs/$script,domain=shink.me|shon.xyz
 @@||ajax.googleapis.com/ajax/libs/$script,domain=vidoza.co|vidoza.net
@@ -4570,7 +4569,6 @@
 @@||fang.com/stats/clickm2011.js
 @@||fangcloud.com^$generichide
 @@||fast.fonts.net/jsapi/core/mt.js$script,domain=eclecticbars.co.uk|gables.com|itsolutions-inc.com|senate.gov
-@@||fastcontentdelivery.com^$script,domain=flashx.to|flashx.tv
 @@||fastmail.com^$generichide
 @@||fdyn.pubwise.io^$script,domain=urbanglasgow.co.uk
 @@||feed.adrelayer.com^|
@@ -4585,13 +4583,6 @@
 @@||fingerprintjs.com^$generichide
 @@||firebase.google.com/docs/analytics/$~third-party
 @@||firefox.com.cn/media/img/mozcn/spread/468-60-
-@@||flashx.tv/js/jquery.cookie.js
-@@||flashx.tv/js/jquery.min.js|
-@@||flashx.tv/js/light.min.js|
-@@||flashx.tv/js/showad$script
-@@||flashx.tv/js/xfs.js
-@@||flashx.tv/js/xupload.js
-@@||flashx.tv/player6/jwplayer.js
 @@||fltaradio.com/js/ads.js
 @@||fluidplayer.com^$script,stylesheet,domain=canyoublockit.com
 @@||flyert.com/plug/socialShare/js/social-share.

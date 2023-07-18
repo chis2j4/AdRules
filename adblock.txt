@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-07-18 16:10:24（北京时间） 
-! Total count: 16408
+! Version: 2023-07-19 00:10:14（北京时间） 
+! Total count: 16409
 -960x*0.gif
 -250.js*
 
@@ -6565,6 +6565,7 @@ youku.com##div[class^="clip"]
 youporn.com##[id^="adblock"],[class^="eight-column"],.underplayer,[class^="ad-"]
 yoursupin.com##div[class^="zzs"]
 youth.cn##div.edu-a_dds,div.hd_banner,div.r_huandeng,div.article_d,div[class^="ad00"],iframe[width="200px"][height="200px"],div[id^="myads"][class^="ad0"],div.ad,div[class^="banner"],DIV#sky.fdiv,DIV#identifier-pannel,DIV#sky.div,DIV.pic_banner,DIV.hd_pic,DIV.cj-ggw,div.download,.header
+youtube.com##AD-SLOT-RENDERER
 youtube.com##iframe[width="640"][height="360"],iframe[width="300"][height="250"],.img_ad,#video-masthead,.ad-div,#masthead-ad,#ad-iframe
 youwuyun.com##[src="/libs/img/ad.gif"]
 youxi.com##div#left_mid,div#right_mid,div#banner

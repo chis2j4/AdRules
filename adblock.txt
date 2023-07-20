@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-07-20 08:43:17（北京时间） 
-! Total count: 16412
+! Version: 2023-07-20 16:09:50（北京时间） 
+! Total count: 16415
 -960x*0.gif
 -250.js*
 
@@ -8406,6 +8406,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||avmask.com/script/$script
 ||awdc6.com^
 ||awempire.com^
+||awiudbyqbpo.com^
 ||aws^$removeparam=did
 ||awyyzx.com^
 ||ax1x.com^$domain=caibaojian.com|htcui.com|nutgeek.com
@@ -9437,6 +9438,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||crashlytics.com^
 ||cre-dp.sina.cn^
 ||cre.dp.sina.cn/api/v3/get?cateid=F&cre=tianyi&mod=wmil&merge=
+||creamaroc.com^
 ||createssque.club^
 ||creepingbrings.com^
 ||criteo.com^
@@ -12659,6 +12661,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nvidia.com^$removeparam=jso
 ||nvwlm.com^$third-party
 ||nwxzs.com^
+||nxhwvt.xyz^
 ||nxnjw.com^
 ||nxrxt.com^
 ||nxxyjn.com^

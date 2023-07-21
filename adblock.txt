@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-07-21 16:09:34（北京时间） 
-! Total count: 16418
+! Version: 2023-07-22 00:09:07（北京时间） 
+! Total count: 16417
 -960x*0.gif
 -250.js*
 
@@ -301,7 +301,6 @@
 ##a.gggg[href^="https"]
 ##a.outlink
 ##a[href*=".com?s="]
-##a[href*="/?utm_source="]
 ##a[href^="/ad.html?url="]
 ##a[href^="https://91keep.tv"]
 ##a[href^="https://uds24.com/"]

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-07-22 16:08:28（北京时间） 
-! Total count: 16417
+! Version: 2023-07-23 00:08:07（北京时间） 
+! Total count: 16423
 -960x*0.gif
 -250.js*
 
@@ -315,6 +315,7 @@
 ##body > [id][style*='width:100%'][style*='min-height:120px']
 ##body > a[id*='hudie_']
 ##body > h1 > strong > title > a
+##body#nr_body a[href*="/?utm_source="]
 ##body#nr_body div.fixed ~ *
 ##body#nr_body font > [id]
 ##body#nr_body.nr_all.c_nr > div > div[id][class] > [href]
@@ -9875,6 +9876,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||e719.net^$domain=~www.flv.tv
 ||eabids.com^
 ||eamob.com^
+||easyfundraising.org.uk^$doc,removeparam=efr_campaign
+||easyfundraising.org.uk^$doc,removeparam=efr_medium
+||easyfundraising.org.uk^$doc,removeparam=efr_source
 ||easytomessage.com^
 ||ebay.$removeparam=abcId
 ||ebay.$removeparam=bu
@@ -13432,6 +13436,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||riceck.cn^
 ||ricewaterhou.xyz^
 ||richshredinger.com^
+||rifyeldz.top^
 ||rightmove.co.uk^$removeparam=csg
 ||rijutv.com/statics/ajs/alltj.js
 ||rijutv.com/statics/alljs^
@@ -15870,6 +15875,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zfotrq.xyz^
 ||zfteiv.xyz^
 ||zfticz.buzz^
+||zfticz.xyz^
 ||zfvltd.xyz^
 ||zg40c.cn^
 ||zgc66.com^$third-party

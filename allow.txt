@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-07-22 16:08:41（北京时间） 
-! Total count: 2438
+! Version: 2023-07-23 00:08:16（北京时间） 
+! Total count: 2439
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5416,6 +5416,7 @@
 @@||redbull.com/gtm.js$~third-party
 @@||redditinc.com/assets/images/site/*_300x250.$image,~third-party
 @@||redguide.top^*/ad.css?$stylesheet
+@@||redian.news^$generichide
 @@||redir.tradedoubler.com^|
 @@||redirect.appmetrica.yandex.com^|
 @@||redventures.io/lib/dist/prod/bidbarrel-$script,domain=cnet.com|techrepublic.com|zdnet.com

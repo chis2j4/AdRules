@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-07-23 16:08:49（北京时间） 
-! Total count: 16429
+! Version: 2023-07-24 00:08:11（北京时间） 
+! Total count: 16430
 -960x*0.gif
 -250.js*
 
@@ -11672,6 +11672,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ledni.xyz^
 ||lee789.com^
 ||leeyuo.com^
+||lego.com^$removeparam=icmp
 ||legou361.com^
 ||legozu.com^$third-party
 ||leiphone.com/uploads/new/article/880_880/201807/5b5687fef17a5.jpg

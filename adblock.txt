@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-07-23 08:45:36（北京时间） 
-! Total count: 16423
+! Version: 2023-07-23 16:08:49（北京时间） 
+! Total count: 16429
 -960x*0.gif
 -250.js*
 
@@ -2322,6 +2322,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 /show_ads_
 /showad*
 /showframe/*
+/sinaads/release/sinaads.js
 /site/mov*$third-party
 /sitead*
 /sitejs/clys.js
@@ -5347,6 +5348,7 @@ siluke.cc##[href^="https://item.taobao.com/"]
 silver.org.cn##[class^="adv"]
 simply-hentai.com###rufous-sandbox,.sticked,.facebook-background,[src^="//data.iridiumsergeiprogenitor.info"],div[style*="height:4428px;"]
 simuwang.com##div.new_adv_div,div.myadv
+sina.cn###float-btn.callApp_fl_btn
 sina.cn###j_card_miniVideo
 sina.cn###j_card_searchHotwords > section.s_card > a:last-child > ins.most
 sina.cn##.an.cm_art_push
@@ -5366,7 +5368,9 @@ sina.cn##.sw_c2
 sina.cn##.topLogoBar
 sina.cn##.z_c2.j_article_relevent_news.s_card
 sina.cn##.zhidi.sw_c0
+sina.cn##SECTION.sw_c0.sina_sliders_pos
 sina.cn##[data-sudaclick^="one_pic_conf_"],[href^="https://render.m.taobao.com/shop/"],[class="m_f_a show "],[data-info^="ad_none"],[href^="http://saxn.sina.com.cn/dsp/click"]
+sina.cn##[sax-type='proxy'][data-pos][data-saxname][loaded='loaded']
 sina.cn##a.j_callST.appOnly_card
 sina.cn##div.ad_baner.j_imgdelay,section > div.article_push,div.advertise,[class^="j_sax sina_tj_"],div.pic-wrap.j_article_cutpic,a[id^="jdAdplace"],[id^="_145595"],.sina_tj_banner,[data-id^="PDPS0000000"],.sax_banner_bottom,section[id^="_148751"],[class="extend-module j_hotpic_box"],.tj-list_md,[class^="article article-sax"],[class^="module-ads"],.s_card.z_c3,[data-adid]
 sina.cn##div[class^=m-client-call]
@@ -5377,6 +5381,7 @@ sina.cn#?#article.single-pic.article:-abp-contains(APP专享)
 sina.com.cn##.part-a-l > .mod-02
 sina.com.cn##.tn-nav > div.tn-title:nth-of-type(4) > .tn-tab > i
 sina.com.cn##.top-banner,.M18_ad,[data-sudaclick^="one_pic_conf_"],[data-info^="ad_none"]
+sina.com.cn##[id^="fake_div_"].xxl-card
 sina.com.cn##div.ad-banner,div#ad_top,div.top-ads,div.adNone,div.adSpace,div#divMilBottom,div.zhaoshang-block,span#CoupletMediaWrap,div.bannerF1,div#flashcontent_96FFB521078A,DIV#baidu.article_baidu,DIV#topbar.topAd950,DIV.sa_w.top_ads,div#HP_IDX_BANNER_UN_01,div#AD_Background_Wall_Banner,div.ad_article_top,div.taier_pfp,iframe[src*=".sina.com.cn/iframe/76/"],DIV#blk_xlzttltop_01.blk_xlzt,UL#blk_sxad_2,DIV[class^="ATopTxt"],div.tit01.clearfix,div.palm01-ad,div#SI_EDU_AD,div.part-l.clearfix,span.adNone,div.bsjie_ad,div.wrap.topAD,div.mod_ad,div.clearAd,div#ad_blk_fixed,div#sinaLoginReward2014_w,iframe[src^="http://www.baidu.com/ur/scun?di="],div.article-video,div.article-ad.ad_07,div.sinaad-toolkit-box,div#bgAdWrap,div.gg,div#left_focus_ad,div[class="right-module ad"],div[data-sudaclick="blk_right_gg"],[id^="PublicRelation"],.a-ad,.sinaads,#SI_Comment_DA,[data-ad-pdps],#nav-hover_ad,.ny-link-r
 sina.com.hk##.sbAds,.adsbygoogle,[id^="div-gpt-ad-"]
 sinadaxue.cn##.fixed-tips.app-tips
@@ -13769,6 +13774,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||simiyue2.com^
 ||simplelogin.io^$removeparam=slref
 ||simplewebanalysis.com^
+||sina.cn/cm/sinaads_
 ||sina.com.cn/iframe/76/$document
 ||sina.com.cn/js/iframe/gj_content_tb.js$script
 ||sinaimg.cn/bmiddle/$image,domain=dapenti.com

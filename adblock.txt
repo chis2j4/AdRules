@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-07-24 08:42:50（北京时间） 
+! Version: 2023-07-24 16:10:36（北京时间） 
 ! Total count: 16430
 -960x*0.gif
 -250.js*
@@ -5979,6 +5979,7 @@ wmzhe.com##[class="overflow"],div[class="mt10"],.downgs
 wobuka2.com##.c-r
 wofl86.com##.themeauthor,.HtmlMoKua
 wolepan.com##.gg-down-line
+woozooo.com##.ves
 woquge.com###adt1
 wordlm.com##div.ad.mt1
 woshipm.com##.post-ads,div.ad870,div.R-ad.mar-b20
@@ -6175,6 +6176,7 @@ www.jc35.com###luxury,.ad_position,.adPosition,.adRight
 www.jdon.com##ins.adsbygoogle
 www.jdunion.com##div.wp.a_t,div.wp.a_f,div.a_h,div.bm.a_c
 www.jgzj.net##table.adcss,div#ad_headerbanner,div#ad_text.ad_text,div.ad_column
+www.jianshu.com##[aria-label='lwa-ad-one']
 www.jiaosm.net##div#weizhi-a,div.viewt_cc,div#xinxi
 www.jisilu.cn##A[href^="http://www.nffund.com/upfiles/eb/home"],A[href^="http://www.yhfund.com.cn/activezone"]
 www.jisuxia.com##div.ads960,div.ads700,div.downads,div.ads250
@@ -6595,7 +6597,6 @@ yxdown.com##.banner,a#adbg,div.ad_pic,div#ads460,a[class^="lad_"],a[href="http:/
 yxlady.com##div.ot.leftgg_up,.leftgg2top,div.tab.rightgg01,div.ot.left_bottom_gg3,DIV[id^="f21ac82b21eeb7322631b6aa94e17f"],.adPostion,.m_w_1_right_1
 yxtvg.com##.adv1,.adsbygoogle
 yy6080.org###adArea
-yydstxt234.com##IMG[src^='/images/'][width='100%']
 yyets.com##div#yyets_slide_ad,DIV.AreaLL > DIV > IFRAME + DIV.box_4,DIV.AreaLL > DIV > IFRAME[height="90"],DIV.games-rec-list,UL.joke,DIV.adBox,DIV.box_1.ads_partner_list,IFRAME[style="width:260px;height:250px;"],ins.adsbygoogle,div.topAd,div#floatAD_r,div#floatAD_l,ul.room,DIV.day_resource > div.box_4,DIV.blank.clearfix + DIV.block > DIV.box_4,DIV#tabs.box_4 + DIV + DIV > DIV.box_4,DIV#bbs_area + DIV.blank + DIV + DIV,DIV.box_4 + DIV.blank + DIV[style] + DIV[style]
 yyfensi.com##[href="http://app.woolcashmeresystem.net:81/yy/"],[href="http://m.369nv.com:81/3/suiji.php"]
 yypps.com##[href*="/?Intr"],[href*="/?intr"],[href*="/?aff"],[href*="/?Extend="],[href*="/?f="],[href*="/?p="],[height="90"]
@@ -8917,7 +8918,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||br.bendan.shop^
 ||brandadsstatic.vivo.com.cn^
 ||brownfox.top^
-||browser.sentry-cdn.com^
 ||browserkernel.baidu.com^
 ||bs.baidu.com/adcoup-mat/$script
 ||bsdgjmy.com^
@@ -10774,6 +10774,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hoteles.com^$removeparam=PSRC
 ||hoteles.com^$removeparam=tmid
 ||hoteles.com^$removeparam=wapa6
+||hotjar.com$third-party
 ||hotjar.com^
 ||hp.com^$removeparam=jumpid
 ||hp.smiler-ad.com^
@@ -13575,7 +13576,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sclick.baidu.com^
 ||scorecardresearch.com^
 ||scrippsnetworks.com^
-||script.hotjar.com^
 ||scrvw3.com^
 ||scupio.com/js/ad.js
 ||scws.120ask.com^

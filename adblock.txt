@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-07-25 16:10:04（北京时间） 
-! Total count: 16442
+! Version: 2023-07-26 00:09:20（北京时间） 
+! Total count: 16445
 -960x*0.gif
 -250.js*
 
@@ -11758,6 +11758,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lingpaocar.com^
 ||lingting.xin^
 ||link.jzzxapp.cn^
+||linkedin.com/feed/update$removeparam=origin
 ||linkedin.com/learning$removeparam=u
 ||linkedin.com^$removeparam=/^li[a-z]{2}=/
 ||linkedin.com^$removeparam=original_referer
@@ -15129,10 +15130,12 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.ft.com/__origami/service/image/v2/images/raw/*.jpg?source=ftchinese&width=720&*=180*$domain=m.ftchinese.com
 ||www.ganbi66.com/js^
 ||www.geodeep.org^
+||www.google.$doc,removeparam=gs_lp
 ||www.google.$removeparam=aqs
 ||www.google.$removeparam=btnG
 ||www.google.$removeparam=iflsig
 ||www.google.$removeparam=uact
+||www.google.*/search$removeparam=oq,doc
 ||www.google.*/search?$doc,removeparam=client
 ||www.google.*/search?$doc,removeparam=sclient
 ||www.googletagmanager.com^

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-07-26 16:09:38（北京时间） 
-! Total count: 16441
+! Version: 2023-07-27 00:08:59（北京时间） 
+! Total count: 16435
 -960x*0.gif
 -250.js*
 
@@ -341,7 +341,7 @@
 ##div#content.content div[id] > DIV[style*='z-index: 2147483647']
 ##div#detail.selector-zero > div > DIV[style]
 ##div#gmright
-##div#h2_player_prevideo > A[href][target='_blank']! Title: ClearURLs for uBo (unofficial)
+##div#h2_player_prevideo > A[href][target='_blank']
 ##div#header-wrapper.header_b > div#header
 ##div#hengfu_wap_vod_xia > a
 ##div#liveline > l,div#liveline > ll
@@ -3531,9 +3531,6 @@ dm456.com,dm456.iqiyi.com##DIV[style*="height:90px;"],IFRAME[width="978"][height
 dm5.com##div#float_tc_pop_299,div[adgroupid="0"],div.beitouc,div.cl760,div.cl970,.yddiv,.adCon,.adform_2,.adform_1,#nAd
 dm530.net,it168.com###adv
 dm530p.net##DIV[style$='; display: block;']
-dmh8.me,dm88.me##DIV[style='display: flex;']
-dmh8.me,dm88.me##DIV[style^='background: url("http']
-dmh8.me,dm88.me##H2[style='display: block;']
 dmhy.org###pkpk
 dmhy.org##div[id*="_ad"]
 dmhy.org$$a[href="taobao.com"]
@@ -4616,6 +4613,7 @@ m.douban.com##.write-review
 m.douban.com##[href^="https://erebor.douban.com/monitor/"]
 m.douban.com##div.center
 m.douban.com##div.center > div
+m.douban.com##div.center [style*='padding: 4px;']
 m.douban.com##h2 > [href^="https://www.douban.com/doubanapp/card/get_app"]
 m.douban.com#?#a:-abp-contains(用App看更多)
 m.douban.com#?#div:matches-css(width:68px)
@@ -4809,7 +4807,6 @@ m.yuedu.163.com##.m-dl-tip
 m.zhanqi.tv##.h5-foot-area
 m.zhanqi.tv##.topbarOpenApp.btn-1
 m.zol.com.cn##SECTION[class="download-top"],A[href^="zolapp"]
-m.zzzfun.com###show-2415689770463175004-8179
 ma4r.com##div.fot3.w3.cen3.cl3,div.ia3
 macd.cn##div#hbad,div.wp.a_t
 macwk.com,poedb.tw#@#.adBanner
@@ -6110,8 +6107,6 @@ www.dbbqb.com##.MuiPaper-root
 www.ddooo.com##div.ddooo_ad
 www.dilidili.com##div.ad,a[href$=".005.tv/"],IMG#imgs
 www.dj97.com##div.g300x2,div.g250,#J_A_B
-www.dmh8.me,dm88.me##CENTER
-www.dmh8.me,dm88.me##DIV[style^='position: fixed; bottom: 0px; display: block; opacity:']
 www.dnpz.net##[id^="dnpz_ad"]
 www.dodo8.com##td[height="82"]
 www.down.cc##div.article_ad,div.test-240,div.search-test,div.test-60,div#ad_phone1,div#ad_phone2,div.img-220.md10,.dl-test,.test_80_href
@@ -6537,7 +6532,6 @@ yesky.com##DIV#bdadv.bd_adv,DIV.wth200 > DIV.baidu,DIV.ad190,div.tit_spb
 yeyou.com##div#ad-yeyou-nitifiction,div[class^="ad-box"]
 yeyoubbs.com##DIV.wp> TABLE[width="960"],IMG[src^="http://www.yeyoubbs.com"],div.a_pt,[width="960"][height="66"]
 yhdm*.com/js/wap2-jm-ms.js?ver=
-yhdmp.net##[style^='bottom:'][style$='block;']
 yicai.com##div.ad68570,div.ad257
 yidianzixun.com##.ad-wrapper
 yidianzixun.com##[class^="banner "],[data-adtype]

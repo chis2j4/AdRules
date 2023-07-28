@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-07-28 08:39:32（北京时间） 
-! Total count: 2442
+! Version: 2023-07-28 16:09:39（北京时间） 
+! Total count: 2443
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4290,6 +4290,7 @@
 @@||clerk.io/clerk.js$script,domain=trony.it
 @@||cleverpush.com/channel/$script,domain=bsdex.de
 @@||click.appcast.io^|
+@@||click.cptrack.de^|
 @@||click.simba.taobao.com^|
 @@||click.trafficguard.ai^|
 @@||click.virt.exacttarget.com^|

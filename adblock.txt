@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-07-29 16:08:05（北京时间） 
-! Total count: 16438
+! Version: 2023-07-30 00:07:50（北京时间） 
+! Total count: 16440
 -960x*0.gif
 -250.js*
 
@@ -8212,6 +8212,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||api.weibo.com/oauth2^
 ||api.wolong.tv/wolong/ad^
 ||api.wolong.tv/wolong/app/appConfig?
+||api.xn--zw0autp42d.cn^
 ||api.xyhx.cc^
 ||api.xyhx.org^
 ||api.youtu.qq.com^
@@ -13567,6 +13568,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sb4you1.com^
 ||sb6k.top^
 ||sbdebcz.cn^
+||sbeaje.com^
 ||sbldw.cn^
 ||sc-gov-cn.website^
 ||sc.shayugg.com/esolc.png$domain=m.biquge.com.tw

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-07-31 08:43:37（北京时间） 
-! Total count: 16440
+! Version: 2023-07-31 16:10:31（北京时间） 
+! Total count: 16442
 -960x*0.gif
 -250.js*
 
@@ -6201,6 +6201,7 @@ www.lbldy.com##div.banner
 www.lebo.tv##div#gga,div#ggb
 www.leduwo.com##ins.adsbygoogle
 www.lepan.cc##img[width="960"][height="60"],ins.adsbygoogle,div#r1.box_bd2.box_green.box_shadow,div.widget-main.ad_area
+www.lezhutv.com##[style='bottom: 132px;']
 www.lingoes.cn##img[src^="../adbox/"]
 www.lldm.com##div[class="mt10 tc"],div.fr
 www.longbuluo.com##div.banner,div[id^="cnzz_slot_"]:not(#cnzz_slot_28470)
@@ -10644,6 +10645,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hccms.com.cn^
 ||hcdjy.xyz^
 ||hciea.xyz^
+||hcvegu.com^
 ||hczzw.com^
 ||hd.browser.miui.com^
 ||hd126.com/js/$script

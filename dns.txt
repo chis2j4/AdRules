@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! 該規則合併自AdGuardDNS，someonewhocares，disconnect-simple-ad，1hosts-Lite，adgk，hblock，adaway，oisd-basic，Spam404，urlhaus-filter-agh-online，pgl.yoyo.org
-! Version: 2023-08-03 08:41:31（台北時間） 
-! Total count: 56042
+! Version: 2023-08-03 16:09:28（台北時間） 
+! Total count: 56044
 @@||ad.10010.com^
 @@||ad.abchina.com^
 @@||ad.kazakinfo.com^
@@ -34031,6 +34031,7 @@
 ||p3tt.com^
 ||p4p.sina.com.cn^
 ||p4pd.cn^
+||p52q.cn^
 ||p543.inquirer.com^
 ||p593.seattlepi.com^
 ||p59othersq.com^
@@ -53508,6 +53509,7 @@
 ||||ads.exoclick.com^^
 ||||ads.linkedin.com^^
 ||||ads.pinterest.com^^
+||||ads.pubmatic.com^^
 ||||ads.service.kugou.com^^
 ||||ads.superad.cc^^
 ||||ads.tiktok.com^^

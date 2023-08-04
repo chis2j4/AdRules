@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-08-04 16:09:23（北京时间） 
-! Total count: 16444
+! Version: 2023-08-05 00:08:54（北京时间） 
+! Total count: 16448
 -960x*0.gif
 -250.js*
 
@@ -344,6 +344,7 @@
 ##div#header-wrapper.header_b > div#header
 ##div#hengfu_wap_vod_xia > a
 ##div#liveline > l,div#liveline > ll
+##div#main.main.read_page [id^="set_adds"]
 ##div#nr_body.nr_all.c_nr div.show-app2
 ##div#page-back DIV.container.clearfix div > A > IMG[src]
 ##div#playlistbtn > A[href='/ht.html']
@@ -365,6 +366,7 @@
 ##div.container > DIV.t-img-box
 ##div.container > IFRAME[align][width][src][border][height]
 ##div.container > div.row div.yalayi_box
+##div.container.ff-bg > div.row.ff-row.slide
 ##div.flex-1.order-first > DIV.under_player
 ##div.homepage > div.main > div.content > DIV[style='width:100%;height:180px']
 ##div.inn-content-reseter > a > IMG[decoding='async'][loading='lazy']
@@ -1864,6 +1866,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 .cn:*/*/*?c=$third-party
 .cn:*/*/*?n=$third-party
 .cn:*/*/*?t=$third-party
+.cn:*/vh5$third-party
 .cn:8001/*/*?*=$third-party
 .com/adv1/?q=
 .com/c.php?s=*=*=$third-party
@@ -15524,6 +15527,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xxxviijmp.com^
 ||xxxvjmp.com^
 ||xyadtlyy.com^
+||xyizgh.cn^
 ||xyly2016.com^
 ||xywy.com/display/display_load.js
 ||xywy.com/mobile_$script

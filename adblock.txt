@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-08-05 16:08:15（北京时间） 
-! Total count: 16448
+! Version: 2023-08-06 00:07:50（北京时间） 
+! Total count: 16453
 -960x*0.gif
 -250.js*
 
@@ -89,6 +89,7 @@
 ##A[href^='https://js.iconiclee.com']
 ##A[href^='https://js.pico4pro.com']
 ##A[href^='https://tv2356.cc']
+##A[href^='https://v.frthv.com']
 ##A[href^='https://www.nonstopclub.xyz']
 ##A[href^='https://yongle008.com']
 ##A[onclick$='()'][target='_top'][style*='.gif) no-repeat;background-size:100% 100%;']
@@ -9958,6 +9959,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||egou.com^
 ||egrent.cn^
 ||egsxdp.cn^
+||ehfjup.xyz^
 ||ehk.trenhdg.com^
 ||eignky.xyz^
 ||eileenjaney.com^
@@ -10152,6 +10154,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||feng.com/adg.js
 ||fenghuaju.cc/3744tj
 ||fengying5.com^
+||fengyukun03.cn^
 ||fengyx.com^
 ||feqii.com^
 ||ffgpol.com^
@@ -10362,6 +10365,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gentags.com^
 ||gentags.net^
 ||geo.yahoo.com^
+||geoguessr.com/join/$doc,domain=geoguessr.com,removeparam=s
 ||geoparker.net^
 ||gepush.com^
 ||getclicky.com^
@@ -13425,6 +13429,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||rengbali.fun^
 ||renhadmasandbab.info^
 ||renren*.maoyun.tv/apptu/
+||renzhen8.cn^
 ||reply.lomark.cn^
 ||report.cms.qq.com^
 ||reportlog.dftoutiao.com^

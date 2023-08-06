@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-08-06 08:37:05（北京时间） 
-! Total count: 16455
+! Version: 2023-08-06 16:08:15（北京时间） 
+! Total count: 16456
 -960x*0.gif
 -250.js*
 
@@ -5898,6 +5898,7 @@ weathercn.com###download,[id^="topaddiv"]
 webhd.co##.J_advert
 webkaka.com###tdMidPic
 webkaka.com##a[href^="http://www.webkaka.com/click/a_d_s.asp?id="],TABLE#Table1,DIV[style="float:left;width:336px;height:280px;padding:0px 10px 10px 0px;"]
+webtor.io##DIV.ad
 wei2008.com##[id^="topbanner"],#sadall1,#downintro2,.ad3
 weibo.com##DIV#pl_content_biztips,div#v6_pl_content_biztips,div[class^="WB_ad_"],div#v6_pl_rightmod_ads35,div.menberdy,div[ad-data^="id=ads_"],.vd_ads,[feedtype="ad"]
 weiphone.com##[class^="wea_d_"]

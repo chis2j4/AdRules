@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-08-06 00:07:50（北京时间） 
-! Total count: 16453
+! Version: 2023-08-06 08:37:05（北京时间） 
+! Total count: 16455
 -960x*0.gif
 -250.js*
 
@@ -79,15 +79,16 @@
 ##A[href='http://k023055.com']
 ##A[href='http://kkyty29.cc/']
 ##A[href='http://x5123.cc/']
-##A[href='https://icrwt696.com']
 ##A[href^='http'][style^='display:block;left:0;right:0;position:fixed;border-left:']
 ##A[href^='http://cszb420.tinawd81.com/']
 ##A[href^='http://h5.shangjinssp.com/sjprom'][style='display:block;']
 ##A[href^='http://www.kyty1119.com']
 ##A[href^='https://chmjmff.com/']
 ##A[href^='https://d1-dm.online/go/']
+##A[href^='https://icrwt696.com']
 ##A[href^='https://js.iconiclee.com']
 ##A[href^='https://js.pico4pro.com']
+##A[href^='https://k.izret.com']
 ##A[href^='https://tv2356.cc']
 ##A[href^='https://v.frthv.com']
 ##A[href^='https://www.nonstopclub.xyz']
@@ -2903,6 +2904,7 @@ awaker.cn###bew_10010,.adsbygoogle,div#wp125-2,div#text-31
 axutongxue.com##ASIDE[style*='height:58px;overflow:hidden;width:322px;border:dashed .5px']
 axutongxue.com##DIV[style*='px;position:relative;box-shadow:rgb(0 0 0/24%)0px 3px 8px;']
 axutongxue.com##DIV[style*='z-index: 9999999;display: flex;justify-content: center;align-items: center;']
+axutongxue.com##DIV[style='text-align:center']
 azhibo.tv##.fill-content,[width="680"][height="60"],[href^="http://www.00880808.com/go/"],[src="/images/leisu.png"]
 b2b.hc360.com##[class="maincont-one-main"],div#cu_channel,div#leftsuspend,div[class^="line"],div.wechactLi
 b2bname.com##.block-ad

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-08-10 08:42:40（北京时间） 
-! Total count: 16458
+! Version: 2023-08-10 16:09:59（北京时间） 
+! Total count: 16457
 -960x*0.gif
 -250.js*
 
@@ -5620,7 +5620,6 @@ tieba.baidu.com###pb_cut_hot_recommend
 tieba.baidu.com###plat_recom_carousel,.head_banner{height:75px;}
 tieba.baidu.com##.banner-wrapper
 tieba.baidu.com##.bottom-guide-box
-tieba.baidu.com##.clearfix.thread_item_box
 tieba.baidu.com##.client_ghost_icon
 tieba.baidu.com##.comment-box
 tieba.baidu.com##.daoliu_sign_in_show

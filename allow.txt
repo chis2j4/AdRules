@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-08-11 08:32:19（北京时间） 
-! Total count: 2449
+! Version: 2023-08-11 16:09:13（北京时间） 
+! Total count: 2450
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3710,6 +3710,7 @@
 @@||199it.com^$generichide
 @@||19iiii.info/js/logo$script
 @@||1gr.cz/js/dtm/cache/satelliteLib-$domain=idnes.cz
+@@||1keydata.com^$generichide
 @@||1trackapp.com/static/tracking/$script,stylesheet,~third-party
 @@||2018x.bid/adview.js
 @@||210.40.130.91^*/ad.css?$stylesheet

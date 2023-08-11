@@ -41,7 +41,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 
 <tr>
 <td>total entries:</td>
-<td><b class=blue>3717 / 3717</b></td>
+<td><b class=blue>3710 / 3710</b></td>
 </tr>
 
 </table>
@@ -78,7 +78,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Thu, 10 Aug 2023 21:58:27 GMT
-# entries:        3717
+# entries:        3710
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts
@@ -644,6 +644,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ads.paymonex.net
 127.0.0.1 ads.pexi.nl
 127.0.0.1 ads.pfl.ua
+127.0.0.1 ads.phpclasses.org
 127.0.0.1 ads.pinterest.com
 127.0.0.1 ads.planet.nl
 127.0.0.1 ads.pni.com
@@ -1084,7 +1085,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 anstrex.com
 127.0.0.1 anuncios.edicaoms.com.br
 127.0.0.1 anxiousapples.com
-127.0.0.1 apathetictheory.com
 127.0.0.1 api.amplitude.com
 127.0.0.1 api.eu.amplitude.com
 127.0.0.1 api.intensifier.de
@@ -1536,7 +1536,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 complextoad.com
 127.0.0.1 comprabanner.it
 127.0.0.1 concernedcondition.com
-127.0.0.1 concerneddrink.com
 127.0.0.1 conditionchange.com
 127.0.0.1 conductrics.com
 127.0.0.1 connatix.com
@@ -1558,7 +1557,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 conversionruler.com
 127.0.0.1 convertingtraffic.com
 127.0.0.1 convrse.media
-127.0.0.1 cookchalk.com
 127.0.0.1 cookies.cmpnet.com
 127.0.0.1 coordinatedcub.com
 127.0.0.1 cootlogix.com
@@ -1650,7 +1648,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 de17a.com
 127.0.0.1 deadpangate.com
 127.0.0.1 deadpanmarble.com
-127.0.0.1 deadpantruck.com
 127.0.0.1 dealdotcom.com
 127.0.0.1 debonairway.com
 127.0.0.1 debtbusterloans.com
@@ -1661,7 +1658,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 decknetwork.net
 127.0.0.1 decoycreation.com
 127.0.0.1 deepintent.com
-127.0.0.1 defectivesun.com
 127.0.0.1 delegatediscussion.com
 127.0.0.1 deloo.de
 127.0.0.1 deloplen.com
@@ -1749,7 +1745,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 ecoupons.com
 127.0.0.1 edaa.eu
 127.0.0.1 edgexads.com
-127.0.0.1 effectivemeasure.com
 127.0.0.1 efficaciouscactus.com
 127.0.0.1 eiv.baidu.com
 127.0.0.1 ejyymghi.com
@@ -2773,7 +2768,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 postrelease.com
 127.0.0.1 ppc.adhere.marchex.com
 127.0.0.1 pr-star.de
-127.0.0.1 praddpro.de
 127.0.0.1 prchecker.info
 127.0.0.1 prebid.org
 127.0.0.1 predictad.com
@@ -3177,7 +3171,6 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 spezialreporte.de
 127.0.0.1 spidersboats.com
 127.0.0.1 spiffymachine.com
-127.0.0.1 spikyslave.com
 127.0.0.1 spinbox.techtracker.com
 127.0.0.1 spinbox.versiontracker.com
 127.0.0.1 spinnaker-js.com

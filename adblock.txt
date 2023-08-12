@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-08-12 08:31:30（北京时间） 
-! Total count: 16463
+! Version: 2023-08-12 16:08:29（北京时间） 
+! Total count: 16469
 -960x*0.gif
 -250.js*
 
@@ -91,6 +91,7 @@
 ##A[href^='https://k.izret.com']
 ##A[href^='https://tv2356.cc']
 ##A[href^='https://v.frthv.com']
+##A[href^='https://www.ids20.co']
 ##A[href^='https://www.nonstopclub.xyz']
 ##A[href^='https://yongle008.com']
 ##A[onclick$='()'][target='_top'][style*='.gif) no-repeat;background-size:100% 100%;']
@@ -9573,6 +9574,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||daoyoudao.com^
 ||daqiangolf.com^
 ||dashubao.cc/gaogao/$script
+||dasv10rewq.xyz^
 ||dat.yl-zipper.com^
 ||dat8.cc^
 ||data.ads.oppomobile.com^
@@ -9633,6 +9635,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||demeiguoji.com^
 ||demizhe.com^
 ||deployads.com^
+||derew6xbsc.xyz^
 ||dermstore.com^$removeparam=URL
 ||dertyhsf.xyz^
 ||desk.orsoon.com/so/
@@ -11811,6 +11814,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ljarfvg.cn^
 ||ljrtb.cn^
 ||lkancklanklcav.com^
+||lknhrnd.com^
 ||lknlkndasda.top^
 ||lkpmprksau.com^
 ||llaxl.com^
@@ -14286,6 +14290,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||thekat.se^$script
 ||thepiratebay.org/sw.js
 ||theregister.com^$removeparam=td
+||thesac3.top^
 ||thetestpage.39.net^$script
 ||thewindrun.com^
 ||thezbpe5*.xyz^
@@ -14834,6 +14839,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||vvocm.com^
 ||vwhi.gou.sogou.com^
 ||vxhsj.cn^
+||vxinzheng.xyz^
 ||vzuu.com/SD/*adbidding&
 ||w.bnlg.fun^
 ||w.cnzz.com^

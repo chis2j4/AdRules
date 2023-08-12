@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-08-12 00:08:28（北京时间） 
-! Total count: 16462
+! Version: 2023-08-12 08:31:30（北京时间） 
+! Total count: 16463
 -960x*0.gif
 -250.js*
 
@@ -2764,7 +2764,8 @@ Mplay/kk1.js
 ^advertisement^
 ^ad|
 ^deal=futurepedia^$removeparam=deal
-^fs=e$doc,removeparam=fs
+^fs=e&s=cl$doc,removeparam=fs
+^fs=e&s=cl$doc,removeparam=s
 ^getappmsgad^
 ^interfaceAdMonitor^
 ^interfaceAd^
@@ -2773,7 +2774,6 @@ Mplay/kk1.js
 ^ref=futurepedia^$removeparam=ref
 ^ref=hackernoon.com^$removeparam=ref
 ^ref=workingsoftware.dev^$doc,removeparam=ref
-^s=cl$doc,removeparam=s
 ^t=0^$removeparam=t,domain=bilibili.com
 ^via=futurepedia^$removeparam=via
 ^via=toolbar^$removeparam=via,domain=user.qzone.qq.com
@@ -14549,6 +14549,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||twh5.com^
 ||twitch.com^$removeparam=tt_content
 ||twitch.com^$removeparam=tt_medium
+||twitter.com^$doc,removeparam=cn
 ||twitter.com^$removeparam=/^(ref_?)?src=/
 ||twitter.com^$removeparam=cn
 ||twitter.com^$removeparam=cxt

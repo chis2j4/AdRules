@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-08-14 00:07:53（北京时间） 
-! Total count: 2450
+! Version: 2023-08-14 08:33:39（北京时间） 
+! Total count: 2451
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4812,6 +4812,7 @@
 @@||hoy.tv/wp-content/themes/vodi-child/videojs-event-tracking.js
 @@||hp.com/in/*/ads/$script,stylesheet,~third-party
 @@||href.li^|
+@@||htlbid.com^*/htlbid.js$domain=hodinkee.com
 @@||hudong.pl.youku.com/n/setplugins/id_
 @@||huhupan.com/e/extend/down/$generichide
 @@||huke88.com^*-tracking.js

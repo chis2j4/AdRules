@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-08-14 16:09:55（北京时间） 
-! Total count: 2451
+! Version: 2023-08-15 00:08:27（北京时间） 
+! Total count: 2452
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5729,6 +5729,7 @@
 @@||tm.r-ad.ne.jp/128/ra346756.js$script,domain=hpdsp.net
 @@||tmall.com/add?
 @@||tmall.com/go/*/banner.php
+@@||tms.oracle.com/main/prod/utag.sync.js$~third-party
 @@||tmx.bestbuy.com/z3nsvo31pnlmt3tw.js$domain=bestbuy.com
 @@||toggo.de/static/js/sourcepoint.js$domain=toggo.de
 @@||tokbox.com/prod/logging/ClientEvent$domain=examroom.ai

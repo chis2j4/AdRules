@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-08-15 00:08:15（北京时间） 
-! Total count: 16803
+! Version: 2023-08-15 08:32:38（北京时间） 
+! Total count: 16804
 -960x*0.gif
 -250.js*
 
@@ -437,6 +437,7 @@ $$div[id="Couple"]
 $$ins[class="adsbygoogle"]
 $$p[class="ReadAd"]
 $$span[class="dmcenterb"]
+$doc,domain=bilibili.com|querie.me,removeparam=timestamp
 $doc,removeparam=/^ICID=/i,domain=~api.mapbox.com|~microsoft.com
 $doc,removeparam=/^OCID=/i,domain=~youtube.com|~reiseauskunft.bahn.de|~msn.com
 $doc,removeparam=/^WT\./i

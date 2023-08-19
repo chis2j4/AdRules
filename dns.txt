@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! 該規則合併自AdGuardDNS，someonewhocares，disconnect-simple-ad，1hosts-Lite，adgk，hblock，adaway，oisd-basic，Spam404，urlhaus-filter-agh-online，pgl.yoyo.org
-! Version: 2023-08-19 08:31:10（台北時間） 
-! Total count: 56547
+! Version: 2023-08-19 16:08:24（台北時間） 
+! Total count: 56552
 @@||ad.10010.com^
 @@||ad.abchina.com^
 @@||ad.kazakinfo.com^
@@ -1518,9 +1518,6 @@
 ||a1.aichagu.com^
 ||a1.bajiu.cn^
 ||a1.bestopview.com^
-||a1.bookapka.com^
-||a1.firefoxchina.cn^
-||a1.gexing.me^
 ||a11k.com^
 ||a14refresh.com^
 ||a14tdsa.com^
@@ -4610,6 +4607,7 @@
 ||ajozrjh.com^
 ||ajpxs.xyz^
 ||ajrkm1.com^
+||ajtdumo.cn^
 ||ajucem.xyz^
 ||ajur.info^
 ||ajx130.online^
@@ -9498,6 +9496,7 @@
 ||breedtagask.com^
 ||brekdok.com^
 ||brend.hdkinoshka.net^
+||brendanbc.com^
 ||brevandolius.com^
 ||brewedprovost.digital^
 ||brews.marketale.com^
@@ -30199,6 +30198,7 @@
 ||mms.syracuse.com^
 ||mms.theroot.com^
 ||mmstat.com^
+||mmtnat.com^
 ||mmtro.com^
 ||mmwebhandler.888.com^
 ||mn1nm.com^
@@ -55607,6 +55607,7 @@
 ||||saviourketonic.com^^
 ||||sb4you1.com^^
 ||||sb6k.top^^
+||||sbcjahdc.com^^
 ||||sbdebcz.cn^^
 ||||sbeaje.com^^
 ||||sbldw.cn^^
@@ -56097,6 +56098,7 @@
 ||||www.abcdlm.com^^
 ||||www.ad5lm.net^^
 ||||www.afmykaa.com^^
+||||www.anbdd19.xyz^^
 ||||www.antailianmeng.com^^
 ||||www.baidumanager.club^^
 ||||www.bibilm.com^^
@@ -56373,6 +56375,7 @@
 ||||yt800h.com^^
 ||||ytelc.com^^
 ||||ytvwhbejc.com^^
+||||yuanlin15.cn^^
 ||||yuanmengbi.com^^
 ||||yuanxiang19.fun^^
 ||||yubingyuan.top^^
@@ -56492,7 +56495,9 @@
 ||||zgfshoes.com^^
 ||||zggrxf.life^^
 ||||zghsfh.xyz^^
+||||zglghr.xyz^^
 ||||zgm1.com^^
+||||zguqxf.xyz^^
 ||||zgystsd.com^^
 ||||zhangchi.work^^
 ||||zhangfeiyijuepifa.com^^

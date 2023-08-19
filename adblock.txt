@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-08-19 08:31:01（北京时间） 
-! Total count: 16806
+! Version: 2023-08-19 16:08:15（北京时间） 
+! Total count: 16811
 -960x*0.gif
 -250.js*
 
@@ -13841,6 +13841,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||saviourketonic.com^
 ||sb4you1.com^
 ||sb6k.top^
+||sbcjahdc.com^
 ||sbdebcz.cn^
 ||sbeaje.com^
 ||sbldw.cn^
@@ -15416,6 +15417,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.adm668.com^
 ||www.afmykaa.com^
 ||www.aizhigu.com.cn^
+||www.anbdd19.xyz^
 ||www.antailianmeng.com^
 ||www.assoc-amazon.cn^$third-party
 ||www.avtb135.com/templates/defboot/js/scripts.js
@@ -16076,6 +16078,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ytvwhbejc.com^
 ||ytybl.com^
 ||yu0123456.com^
+||yuanlin15.cn^
 ||yuanmengbi.com^
 ||yuanxiang19.fun^
 ||yubingyuan.top^
@@ -16262,7 +16265,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zgfshoes.com^
 ||zggrxf.life^
 ||zghsfh.xyz^
+||zglghr.xyz^
 ||zgm1.com^
+||zguqxf.xyz^
 ||zgystsd.com^
 ||zgzxs.weathercn.com^
 ||zhads.com^

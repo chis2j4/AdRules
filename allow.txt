@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-08-20 00:07:37（北京时间） 
-! Total count: 2458
+! Version: 2023-08-20 08:34:51（北京时间） 
+! Total count: 2459
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4765,6 +4765,7 @@
 @@||h-cast.jp^$script,domain=bookoffonline.co.jp
 @@||h.imedia.cz/js/cmp2/scmp.js$domain=seznam.cz
 @@||haaretz.co.il/logger/p.gif?$image,xmlhttprequest
+@@||haichaobiao.com^$generichide
 @@||haiwai.com^$generichide
 @@||hakurei.ga/bin2img/wasm_export_bg.wasm$~third-party
 @@||hanjubaike.com^$script,~third-party

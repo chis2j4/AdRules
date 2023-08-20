@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-08-20 16:08:11（北京时间） 
+! Version: 2023-08-21 00:07:32（北京时间） 
 ! Total count: 16812
 -960x*0.gif
 -250.js*
@@ -1861,7 +1861,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 -mobile-default/static/js/app-download-
 -time.js?
 -tongji.
-.buzz$domain=btsj6.com|yinghuavideo.com|dm99.me
+.buzz$domain=btsj6.com|yinghua8.tv|yinghuavideo.com|dm99.me
 .buzz/*0*0*0*==$third-party
 .cc/o.js$third-party
 .cn/2022/*/*.txt$third-party
@@ -1920,7 +1920,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 .top/gluinfo.php?s=$third-party
 .userapi.com/impg^$removeparam=proxy
 .userapi.com/impg^$removeparam=type
-.xyz$domain=btsj6.com|yinghuavideo.com|dm99.me
+.xyz$domain=btsj6.com|yinghua8.tv|yinghuavideo.com|dm99.me
 .xyz/*0*0*==$third-party
 .xyz/*?16$third-party
 .xyz/*_*_1_*.js?$third-party
@@ -2093,6 +2093,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 /baidu/tg.js
 /banma.
 /banners/pr_advertising_ads_banner
+/bar/*.js$domain=yinghuavideo.com|yinghua8.tv
 /base/plugin/showwin_
 /bdcpro/*
 /bg.swf
@@ -2575,7 +2576,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 @@||cs-op.douyucdn.cn/dycatr^
 @@||cs-op.douyucdn.cn/vod-cover^
 @@||cs-op.douyucdn.cn/vod-index^
-@@||css.yhdmtu.xyz^$domain=yinghuavideo.com
+@@||css.yhdmtu.xyz^$domain=yinghuavideo.com|yinghua8.tv
 @@||dash.cloudflare.com^$domain=dash.cloudflare.com,important
 @@||developer.apple.com$generichide
 @@||dlkoo.com/down/Copydown1
@@ -15978,7 +15979,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||yijiayi07.top^
 ||yijifen.com^
 ||yin1.zgpingshu.com^
-||yinghuavideo.com/bar/*.js
 ||yingnanyqq.com^
 ||yingshidaquan.cc/Templet/js/
 ||yini8.com^

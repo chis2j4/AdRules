@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-08-24 08:32:46（北京时间） 
-! Total count: 16822
+! Version: 2023-08-24 16:09:33（北京时间） 
+! Total count: 16823
 -960x*0.gif
 -250.js*
 
@@ -5482,6 +5482,7 @@ soso.com##div#promotion_adv_container.sponsored,div#leftbottomleadContainer.spon
 souluo.net##.rowlist,.rowlista,.left_gg,.col1
 south-plus.net###header > div:last-child
 south-plus.net###header > table:first-child > tbody > tr:first-child > td.banner:first-child > a:last-child
+soutubot.moe##.bg-gray-800.overflow-hidden
 soyunpan.com##.header-right,.adsbygoogle
 sozi.cn##DIV[id^="Javascript"]
 spade7.com##DIV.banner.banner-post,DIV.widget.d_textbanner

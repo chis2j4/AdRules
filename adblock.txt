@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-08-26 00:08:55（北京时间） 
-! Total count: 16828
+! Version: 2023-08-26 08:31:45（北京时间） 
+! Total count: 16829
 -960x*0.gif
 -250.js*
 
@@ -3437,6 +3437,7 @@ cpu.baidu.com##A[href*='cpro.baidu.com']
 cq.house.163.com##div.area,A[href="http://m.jiu.163.com/"],SPAN[class="blank9"]
 cq.qq.com##DIV.main_bg.pt0,DIV#CQ12_Full.l_qq_com,DIV[style^="width:960px;"],DIV.dayuw_maintext,DIV.clearfix[style^="width:1000px;"],DIV[style^="width:1000px;height:60px;"],DIV[style^="width:1000px; height:60px;"],DIV.sourch.fl
 cqjschungao.com##[style*='px no-repeat; position: relative;']
+cqjschungao.com##[style='bottom: 132px;']
 cqmmgo.com##.ad650-60,div.float-ad-wrap,div.pop-ad,div.ad-980x90,div.ad-980x60,div.head-ad,div.J_pm
 cqsq.com###read_0 + a[target="_blank"]
 cqsq.com##.mumucms_index_tlad

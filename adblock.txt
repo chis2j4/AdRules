@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-08-28 08:34:07（北京时间） 
-! Total count: 16829
+! Version: 2023-08-28 16:09:54（北京时间） 
+! Total count: 16837
 -960x*0.gif
 -250.js*
 
@@ -120,6 +120,7 @@
 ##DIV.ad-content
 ##DIV.ad_js
 ##DIV.adj
+##DIV.ads.ads_w
 ##DIV.advertisingConfiguration
 ##DIV.appdownload_ad
 ##DIV.bot-per-context[data-width='728'][data-height='90']
@@ -3424,6 +3425,7 @@ codejie.net##.h-gg,.h-ad-banner,.my_tips,[src^="/wp-content/uploads/gg/"],.gg_ba
 codes51.com##div[id^="f21ac82b21eeb7322631b6aa94e17f"],div.imageplus-append-single-txt-big
 cokemine.com,eveaz.com,jubuzz.com,tianfateng.cn#@#.category-share
 com/js/lp365.js
+com:8891/c.php?s=*$third-party
 comic.qq.com##.ad-mid,#nqsnqsad02
 comicbus.com##[src^="../images/ads/"]
 coolapk.com##.mobile-header-content
@@ -9823,6 +9825,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dlfvgndsdfsn.com^
 ||dlili.tv/ufile/22222.js
 ||dlkoo.com/down/js/index_top
+||dlrtz.com^
 ||dlswbr.baidu.com^
 ||dlxxjsh.top^
 ||dm-*.toutiao.com^
@@ -11526,6 +11529,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jq159.com^$third-party
 ||jqmt.qq.com^
 ||jrdkc.com^
+||jrds.net.cn^
 ||jrj.com/static/js/cms_ad/
 ||jrjimg.cn/focus/newrenNb.png
 ||jrjimg.cn/zqt-red-1000/js/v3/itg-widget.
@@ -12539,6 +12543,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mmead.xyz^
 ||mmevt.icu^
 ||mmfcezwqaz.com^
+||mmftdt.com^
 ||mmgg62.com^
 ||mmkkhhnn.cn^
 ||mmkkiivv.com^
@@ -12860,6 +12865,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nmm9i.xyz^
 ||nmrdnqn.cn^
 ||nmssdbgmf.xyz^
+||nndzsw.com^
 ||nnfyxd.xyz^
 ||nnocsin.cn^
 ||nnqwe.xyz^
@@ -13452,6 +13458,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qhimgs4.com/*.gif$domain=hdmoli.com
 ||qhimgs4.com/*.gif$domain=www.jiaozi.me
 ||qhjm600.com^
+||qhkxs.cn^
 ||qhmsg.com^$domain=1024li.com
 ||qhonzpl.cn^
 ||qhres2.com^
@@ -14061,6 +14068,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||shuquge.com/bookclick^
 ||shuqw.com^$third-party
 ||shutterstock.com^$removeparam=src
+||shuyu2001.cn^
 ||shuzilm.cn^
 ||si1.go2yd.com^
 ||sifa.aak7.cn^

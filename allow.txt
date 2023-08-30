@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-08-30 08:33:41（北京时间） 
-! Total count: 2461
+! Version: 2023-08-30 16:10:02（北京时间） 
+! Total count: 2463
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3588,6 +3588,8 @@
 @@/analytics.php?$domain=xcar.com.cn
 @@/api/ad/*$domain=pinduoduo.com
 @@/api/ads?$domain=nmkjxy.com
+@@/api/models?$domain=tik.porn
+@@/api/v2/models-online?$domain=tik.porn
 @@/bag2?r[]=*&r[]=$domain=free.com.tw
 @@/banner/ad/*$image,domain=achaloto.com
 @@/cgi-bin/counter_module?action=list_models$subdocument,~third-party

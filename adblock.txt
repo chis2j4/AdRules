@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-08-30 00:09:04（北京时间） 
+! Version: 2023-08-30 08:33:31（北京时间） 
 ! Total count: 16838
 -960x*0.gif
 -250.js*
@@ -1020,6 +1020,7 @@ $removeparam=dt_dapp
 $removeparam=dt_platform
 $removeparam=dti
 $removeparam=dtpid
+$removeparam=dyn,domain=clink2.com|dlink2.com,doc
 $removeparam=e,domain=clockks.com|tellywebnews.com
 $removeparam=ebisAdID
 $removeparam=eblink
@@ -1460,7 +1461,7 @@ $removeparam=refd
 $removeparam=refdomain,domain=bestbuy.com
 $removeparam=refer_code
 $removeparam=referaldomain,domain=microcenter.com
-$removeparam=referer,domain=bodykind.com
+$removeparam=referer,domain=bodykind.com|clink2.com|dlink2.com
 $removeparam=referral,domain=tv2.no|spotify.com|yubo.live
 $removeparam=referralCode
 $removeparam=referralInfo,domain=wix.com
@@ -1549,7 +1550,7 @@ $removeparam=share_time,domain=etsy.com
 $removeparam=shortlink
 $removeparam=shrsl_analytics_sscid
 $removeparam=shrsl_analytics_sstid
-$removeparam=si,domain=open.spotify.com|zappos.com
+$removeparam=si,doc,domain=open.spotify.com|soundcloud.com|youtube.com|youtu.be|zappos.com
 $removeparam=sid,domain=anrdoezrs.net|dpbolvw.net|gopjn.com|jdoqocy.com|kqzyfj.com|pepperjamnetwork.com|tkqlhce.com|gamereactor.*
 $removeparam=site,domain=alina.se
 $removeparam=site_id,domain=taskrabbit.com|kochava.com
@@ -14212,7 +14213,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||soua.com^$third-party
 ||souacode.com^
 ||soulsoul.xyz^
-||soundcloud.com^$removeparam=si
 ||soup.v.qq.com^
 ||spartoo.$removeparam=sx
 ||spartoo.$removeparam=track_id

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-09-01 08:36:14（北京时间） 
-! Total count: 16838
+! Version: 2023-09-01 16:09:45（北京时间） 
+! Total count: 16842
 -960x*0.gif
 -250.js*
 
@@ -2101,6 +2101,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 /bg.swf
 /bigREDcat.js?$third-party
 /bilibili/okretro/GeneralResponse
+/biyys*hh.js$third-party
 /blog/*.php?z=
 /blxn_*_*_*?*$third-party
 /bugsnag.min.js$third-party
@@ -2412,6 +2413,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 /vip_img/*
 /vj1/*$third-party
 /vj2/*$third-party
+/vj3/*$third-party
 /vkp.tc.qq.com/$media
 /vlive.qqvideo.tc.qq.com*.mp4
 /vmindhls.tc.qq.com^
@@ -11908,6 +11910,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lenovo.com^$removeparam=orgRef
 ||lenzmx.com^
 ||leshu.com^
+||lestv1.icu^
 ||letao.com^
 ||letaotaojishi.com^
 ||letv.com/*ark=
@@ -16291,6 +16294,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zgm1.com^
 ||zgtwzq.xyz^
 ||zguqxf.xyz^
+||zgwsnw.xyz^
 ||zgystsd.com^
 ||zgzxs.weathercn.com^
 ||zhads.com^

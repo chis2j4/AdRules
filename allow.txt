@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-09-03 16:08:26（北京时间） 
-! Total count: 2467
+! Version: 2023-09-04 00:08:04（北京时间） 
+! Total count: 2468
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4297,6 +4297,7 @@
 @@||click.virt.exacttarget.com^|
 @@||click.virt.s*.exacttarget.com^|
 @@||clickattr.wayup.com^|
+@@||clients.plex.tv/api/v2/ads/$~third-party
 @@||clj.valuecommerce.com/*/vcushion.min.js
 @@||clk*.tradedoubler.com^|
 @@||cloud.google.com^$generichide

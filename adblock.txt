@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-09-03 08:35:36（北京时间） 
-! Total count: 16842
+! Version: 2023-09-03 16:08:16（北京时间） 
+! Total count: 16840
 -960x*0.gif
 -250.js*
 
@@ -182,6 +182,7 @@
 ##IMG[src*='qmfcybwbf']
 ##IMG[src='/js/imgs/taote.jpg']
 ##IMG[src^='http://socos.gitee.io/ss/poster'][alt][style='width: 100%;']
+##IMG[style='height:120px;width:100%;'][src*='/sucai/']
 ##IMG[style='width: 100%;'][src^='https://ad.']
 ##IMG[url][onclick='window.open(this.url)'][src$='.gif'][width='100%']
 ##INS.adsbygoogle
@@ -2100,6 +2101,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 /bdcpro/*
 /bg.swf
 /bigREDcat.js?$third-party
+/bigREDdog.css?
 /bilibili/okretro/GeneralResponse
 /biyys*hh.js$third-party
 /blog/*.php?z=
@@ -2272,10 +2274,6 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 /n6b7/*.js
 /nav/ad
 /navflash.js*
-/new/2*.html
-/new/4*.html
-/new/5*.html
-/new/8*.html
 /new20*/tlys.
 /newhuagg/*
 /newsPopup/*
@@ -2789,7 +2787,6 @@ Mplay/kk1.js
 ^via=toolbar^$removeparam=via,domain=user.qzone.qq.com
 ^z=*&var=$removeparam=var,doc
 _/bigREDcat.css?
-_/bigREDdog.css?
 _/bigREDdog.js
 _ad&callback=
 _ad.htm
@@ -7519,6 +7516,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||9800.com^
 ||9823df.com^
 ||9868.online^
+||986qka.cn^
 ||9876.cc^$third-party
 ||98765432100.online^
 ||98765432100.site^

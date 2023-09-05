@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-09-05 16:10:23（北京时间） 
-! Total count: 2468
+! Version: 2023-09-06 00:09:28（北京时间） 
+! Total count: 2469
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5598,6 +5598,7 @@
 @@||speedtest.net^
 @@||spiegel.de/layout/js/http/netmind-$script
 @@||spiegel.de^$genericblock,generichide
+@@||sponsor.nitropay.com^|
 @@||sportsnet.ca/wp-content/plugins/bwp-minify/$domain=sportsnet.ca
 @@||spxl.socy.es^$script,xmlhttprequest,domain=3djuegosguias.com|3djuegospc.com|applesfera.com|compradiccion.com|directoalpaladar.com|espinof.com|genbeta.com|poprosa.com|trendencias.com|trendenciashombre.com|vidaextra.com|vitonica.com|xatakamovil.com
 @@||src.fedoraproject.org/static/issues_stats.js?$~third-party

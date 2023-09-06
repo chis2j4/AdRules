@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-09-06 00:09:14（北京时间） 
-! Total count: 16847
+! Version: 2023-09-06 08:33:41（北京时间） 
+! Total count: 16848
 -960x*0.gif
 -250.js*
 
@@ -458,7 +458,7 @@ $doc,removeparam=/^affSource/i
 $doc,removeparam=/^aff_id\d?=/i,domain=~affiliate.salestring.com
 $doc,removeparam=/^affid=/i,domain=~redir.tradedoubler.com|~affiliate.geekbuying.com
 $doc,removeparam=/^affiliateID=/i
-$doc,removeparam=/^amp=$/,domain=~eurasiantimes.com
+$doc,removeparam=/^amp=$/,domain=~eurasiantimes.com|~cybersecuritynews.com
 $doc,removeparam=/^amp=1$/,domain=newsweek.com
 $doc,removeparam=/^amp=true$/
 $doc,removeparam=/^bsft_/
@@ -9819,8 +9819,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||djv99sxoqpv11.cloudfront.net^
 ||dklwddl.cn^
 ||dkqapp.cn^
-||dl-protect.net^$removeparam=fn
-||dl-protect.net^$removeparam=rl
+||dl-protect.$removeparam=fn
+||dl-protect.$removeparam=rl
 ||dl.ops.baidu.com^$third-party
 ||dl.weshineapp.com^
 ||dl12349.net^
@@ -10523,6 +10523,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||github.com^$removeparam=ref_loc
 ||github.com^$removeparam=ref_page
 ||github.com^$removeparam=reference_location
+||gitlab.$doc,removeparam=glm_content
 ||gitlab.$doc,removeparam=glm_source
 ||gitlab.$removeparam=ref_type
 ||gitlab.$removeparam=referrer_action,doc

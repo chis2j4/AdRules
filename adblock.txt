@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-09-07 08:33:10（北京时间） 
+! Version: 2023-09-07 16:09:57（北京时间） 
 ! Total count: 16848
 -960x*0.gif
 -250.js*
@@ -1464,7 +1464,7 @@ $removeparam=refd
 $removeparam=refdomain,domain=bestbuy.com
 $removeparam=refer_code
 $removeparam=referaldomain,domain=microcenter.com
-$removeparam=referer,domain=bodykind.com|clink2.com|dlink2.com
+$removeparam=referer,doc,domain=bodykind.com|clink2.com|dlink2.com|nitter.net
 $removeparam=referral,domain=tv2.no|spotify.com|yubo.live
 $removeparam=referralCode
 $removeparam=referralInfo,domain=wix.com

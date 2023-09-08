@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-09-08 16:09:44（北京时间） 
-! Total count: 2470
+! Version: 2023-09-09 00:09:07（北京时间） 
+! Total count: 2471
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3530,8 +3530,8 @@
 @@.adserver.$domain=litv.tv
 @@.com/ad.aspx|$domain=xdingdian.cc
 @@.com/adv/$domain=my.ctrip.com
-@@.com/js/a_d/$domain=colamanhua.com
-@@.com/logo/ad.$domain=colamanhua.com
+@@.com/js/a_d/$domain=colamanga.com
+@@.com/logo/ad.$domain=colamanga.com
 @@.gif#$domain=b168.net|cnprint.org|huhupan.com|tgfcer.com|wgun.net
 @@.google-analytics.com%2Fanalytics.js$domain=free.com.tw
 @@.jpg#$domain=huhupan.com
@@ -4310,7 +4310,7 @@
 @@||cloudflare.com/cdn-cgi/trace$domain=infyspringboard.onwingspan.com|myair.resmed.com
 @@||cloudflare.com^$script,stylesheet,domain=canyoublockit.com
 @@||cloudflare.com^*/videojs-contrib-ads.js$domain=wtk.pl
-@@||cloudflare.net^$script,domain=colamanhua.com
+@@||cloudflare.net^$script,domain=colamanga.com
 @@||cloudflareinsights.com/beacon.min.js$script,domain=app.uniswap.org
 @@||cloudfront.net/atrk.js$domain=luxuryrealestate.com
 @@||cloudfront.net/js/common/invoke.js
@@ -5821,6 +5821,7 @@
 @@||unpkg.com/web-vitals/dist/web-vitals.base.iife.js$script,domain=wpolityce.pl
 @@||unpkg.com^$script,domain=vidsrc.stream
 @@||up-load.io^$generichide
+@@||up4ever.download^$domain=up-4ever.net
 @@||upaiyun.com^*.js$domain=cilimao.co|cilimao.one
 @@||upload.wikimedia.org/wikipedia/$image,media
 @@||upxin.net/advertisement.js

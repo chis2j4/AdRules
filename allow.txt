@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-09-08 08:33:29（北京时间） 
-! Total count: 2469
+! Version: 2023-09-08 16:09:44（北京时间） 
+! Total count: 2470
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5325,6 +5325,7 @@
 @@||player.letvcdn.com/*/letvPlayer.swf
 @@||player.mgtv.com/mgtv_*/ad.swf
 @@||player.odycdn.com/api/$xmlhttprequest,domain=odysee.com
+@@||player.smotrim.ru/js/piwik.js$~third-party
 @@||player.vgtrk.com/js/stat.js?
 @@||players.fichub.com/plugins/adobe/$domain=24kitchen.pt
 @@||playwire.com/bolt/js/zeus/embed.js$script,third-party

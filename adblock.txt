@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-09-10 08:35:59（北京时间） 
-! Total count: 16856
+! Version: 2023-09-10 16:08:23（北京时间） 
+! Total count: 16862
 -960x*0.gif
 -250.js*
 
@@ -93,6 +93,7 @@
 ##A[href^='https://v.frthv.com']
 ##A[href^='https://www.ids20.co']
 ##A[href^='https://www.nonstopclub.xyz']
+##A[href^='https://www.pcjx365.com']
 ##A[href^='https://yongle008.com']
 ##A[onclick$='()'][target='_top'][style*='.gif) no-repeat;background-size:100% 100%;']
 ##A[rel='nofollow noopener'][href*='/game/xr/?attributionId=']
@@ -2514,7 +2515,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 @@|wss://$removeparam
 @@|wss://zoom.us^$removeparam
 @@||*/assets/js/common/juqery/
-@@||/template/conch/asset/js/hlhtml.js$domain=www.gqdm.net|1anime.me
+@@||/template/conch/asset/js/hlhtml.js$domain=www.lldm.net|1anime.me
 @@||114la.com/|
 @@||17173im.allyes.com^
 @@||19iiii.info/js/logo$script
@@ -6348,6 +6349,11 @@ www.wjx.top$$div[id="divAward"]
 www.wy96.com##img[src^="/wy96ad/"]
 www.xbiquge.com,www.xbquge.com,www.biquge.tw,biquge.com.tw##.con_ad,[width="960"][height="90"],.dahengfu,[src^="http://img.xa9t.com/html/click/"],[src^="http://img.fd7c.com/html/click/"]
 www.xda-developers.com##.adzone-above-latest
+www.xhfz2.com##A[href^='https://www.xhfz2.com/ad.php']
+www.xhfz2.com##DIV#topcont
+www.xhfz2.com##DIV.HomeTuList
+www.xhfz2.com##DIV.pctext
+www.xhfz2.com##span.lileft > A[style^='float:left;color:']
 www.xhgszy.com##A[href*='www.agg668.com']
 www.xhgszy.com##A[href*='www.g22688.com']
 www.xhgszy.com##IMG[style='width:100%']

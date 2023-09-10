@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-09-10 00:07:52（北京时间） 
-! Total count: 2472
+! Version: 2023-09-10 08:36:11（北京时间） 
+! Total count: 2473
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4166,6 +4166,7 @@
 @@||bootcss.com^$script,domain=bimibimi.tv|kan-tv.com|wnacg.com
 @@||bootcss.com^$script,domain=kan-tv.com
 @@||borneobulletin.com.bn/wp-content/banners/bblogo.jpg$~third-party
+@@||bostonglobe.com/login/js/lib/AppMeasurement.js$~third-party
 @@||brave.com/static-assets/$image,~third-party
 @@||brighteon.com^$generichide
 @@||briian.com/advert.

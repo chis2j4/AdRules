@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-09-10 00:07:41（北京时间） 
+! Version: 2023-09-10 08:35:59（北京时间） 
 ! Total count: 16856
 -960x*0.gif
 -250.js*
@@ -1712,7 +1712,7 @@ $removeparam=vh,domain=hotspotshield.com|gethotspotshield.com
 $removeparam=via,domain=sincode.ai|skillshare.com
 $removeparam=vifAdCount
 $removeparam=vifNav
-$removeparam=visit_id,domain=bilibili.com|google.*
+$removeparam=visit_id,doc,domain=bilibili.com|google.*
 $removeparam=vndid,domain=paramountplus.com|cbs.com
 $removeparam=w,domain=files.wordpress.com|store.playstation.com|s-microsoft.com|store-images.microsoft.com
 $removeparam=waad
@@ -14375,8 +14375,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||supersonicads.com^
 ||supfast.net^
 ||support.github.com^$removeparam=tag
+||support.google.com^$doc,removeparam=sjid
 ||support.google.com^$removeparam=ref_topic
-||support.google.com^$removeparam=sjid
 ||surface361.com^
 ||surfshark.com^$removeparam=transaction_id
 ||surveys.hotjar.com^

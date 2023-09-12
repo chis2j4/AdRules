@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-09-12 08:32:30（北京时间） 
-! Total count: 16864
+! Version: 2023-09-12 16:09:53（北京时间） 
+! Total count: 16866
 -960x*0.gif
 -250.js*
 
@@ -312,6 +312,7 @@
 ##a.gggg[href^="https"]
 ##a.outlink
 ##a[href*=".com?s="]
+##a[href*='html?channelCode'] > IMG[src*='.gif'][width='100%']
 ##a[href^="/ad.html?url="]
 ##a[href^="https://91keep.tv"]
 ##a[href^="https://uds24.com/"]
@@ -6067,6 +6068,7 @@ www.5uks.com##ins.adsbygoogle
 www.61ef.cn##.banner,[class^="banner"]
 www.666pan.com##ins.adsbygoogle
 www.66ys.tv##div#gd,div#gg300
+www.67tool.com##.footer-banner
 www.6873.com##div#qqhhy2
 www.6vhao.com##div#a960
 www.7010.com##DIV#ad,DIV.gg,DIV.list_gg

@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-09-16 08:33:11（北京时间） 
-! Total count: 2478
+! Version: 2023-09-16 16:08:43（北京时间） 
+! Total count: 2479
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4549,6 +4549,7 @@
 @@||epubit.com/static/epubit/share/js/share.min.js
 @@||eslite.com^*/ad
 @@||etsy.com/api/v3/ajax/bespoke/*log_performance_metrics=$~third-party
+@@||ettoday.net^$generichide
 @@||eu4cn.com^$generichide
 @@||eum-blue-saas.instana.io^|
 @@||ev.tpocdm.com^$xmlhttprequest,domain=wowma.jp

@@ -1,5 +1,5 @@
 ! Title: Allowlist
-! Version: 2023-09-16 00:09:10（北京时间） 
+! Version: 2023-09-16 08:33:11（北京时间） 
 ! Total count: 2478
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
@@ -4854,7 +4854,7 @@
 @@||iis1.deliver.ifeng.com/showcode?$domain=v.ifeng.com
 @@||ik123.com/js/a.js
 @@||ikea.cn^*/img/ads/
-@@||ikea.com^*/assets/analyticsEvent.component-$script,~third-party
+@@||ikea.com^*/analyticsEvent.$script,~third-party
 @@||image.coolapk.com^
 @@||image.shutterstock.com^$image,domain=icons8.com
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-09-17 08:36:19（北京时间） 
-! Total count: 17724
+! Version: 2023-09-17 16:08:24（北京时间） 
+! Total count: 17732
 -960x*0.gif
 -250.js*
 
@@ -181,6 +181,7 @@
 ##IMG[src$='.dl'][style='width:100% !important;height:90px'][onclick]
 ##IMG[src*='.xyz/tupian/'][src$='/h5.gif']
 ##IMG[src*='/gg/'][src$='180.gif'][src*='800']
+##IMG[src*='qimanwu_wap/static/adimages/']
 ##IMG[src*='qmfcybwbf']
 ##IMG[src='/js/imgs/taote.jpg']
 ##IMG[src^='http://socos.gitee.io/ss/poster'][alt][style='width: 100%;']
@@ -282,6 +283,7 @@
 ##[src^='https://play.cdn6.buzz/js/']
 ##[src^='https://qwe0231141.bj.bcebos.com/']
 ##[style$="both;margin: auto;text-align: center;line-height: initial;margin-bottom: 10px;"]
+##[style$=' 0% 0% / 100% no-repeat; height: 130px; width: 100%; position: relative;']
 ##[style$='auto;text-align: center;line-height: initial;margin-bottom: 10px;margin-left: 20px;margin-right: 20px;']
 ##[style$='display:block;width:9.6vw;height:8.5vw;background: #000;opacity:0.01;']
 ##[style*='display: block; width: 100%; left: 0px; position: fixed; z-index: 2147'][style*='bottom: 132px;']
@@ -334,6 +336,7 @@
 ##body#nr_body.nr_all.c_nr > div > div[id][class] > [href]
 ##body#nr_body.nr_all.c_nr > div[class] > DIV[style='height:90px;width:100%;']
 ##body#nr_body.nr_all.c_nr > section[id]
+##body#reader-m-fix IMG[src*='.gif'][style='width:100%;height:100%']
 ##body#wrapper A[ontouchstart='this.click();']
 ##body.active > div.myui-panel > DIV#home_slide
 ##body.bg_xin > A[href*='com:'][target='_blank']
@@ -2966,12 +2969,14 @@ baidu.com##.square-banner-bgicon.index-banner
 baidu.com##.welcome-banner
 baidu.com##.wgt-rel-exp.content-box
 baidu.com##.wgt-related-questions
+baidu.com##DIV.c-container.ec-container
 baidu.com##DIV.navs-bottom-bar
 baidu.com##DIV[class='qrcode call']
 baidu.com##DIV[data-module='rec:undefined-undefined']
 baidu.com##DIV[data-module='swan-ad-fc-feed'] DIV[sid][posid][prank]
 baidu.com##[class*='index_godCard'][class*='index_noGuaranteeTag'][class*='index_adTextPosition'],[class^='index_brandEntry__'],[data-show*='swan-ad-fc-swiper-banner']
 baidu.com##[class^='ball-wrapper']
+baidu.com##[data-tpl='adv_wenku_fc']
 baidu.com##a.ball-wrapper__3BTBO.c-blocka
 baidu.com##div.FYB_RD
 baidu.com##div.egg-bubble
@@ -4573,6 +4578,7 @@ m.baidu.com##.square-banner-bgicon.index-banner
 m.baidu.com##.suggest-hot
 m.baidu.com##.water-container.tab-news-content
 m.baidu.com##DIV#se-recommend-word-list-container.se-recommend-word-list-container
+m.baidu.com#@##results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar):not(.s-group-result):not(.hint-unsafe)
 m.baidu.com,www.baidu.com###provider,div[class$="fixed"],SECTION#middle_banner,.ec_ad_results,.shopping-item,#bottomOperate
 m.baidu.com,www.baidu.com##ARTICLE[class='c-container aladdin__10uYO']
 m.baidu.com,www.baidu.com##A[class='hint-qnaire-bar']
@@ -5920,6 +5926,8 @@ webhd.co##.J_advert
 webkaka.com###tdMidPic
 webkaka.com##a[href^="http://www.webkaka.com/click/a_d_s.asp?id="],TABLE#Table1,DIV[style="float:left;width:336px;height:280px;padding:0px 10px 10px 0px;"]
 webtor.io##DIV.ad
+webtor.io##IFRAME[scrolling='no']
+webtor.io##[data-element='empty']
 wei2008.com##[id^="topbanner"],#sadall1,#downintro2,.ad3
 weibo.com##DIV#pl_content_biztips,div#v6_pl_content_biztips,div[class^="WB_ad_"],div#v6_pl_rightmod_ads35,div.menberdy,div[ad-data^="id=ads_"],.vd_ads,[feedtype="ad"]
 weiphone.com##[class^="wea_d_"]

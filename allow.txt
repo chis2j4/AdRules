@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-09-20 16:10:04（北京时间） 
-! Total count: 2471
+! Version: 2023-09-21 00:09:24（北京时间） 
+! Total count: 2473
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3896,6 +3896,7 @@
 @@||ads.pinterest.com^$popup
 @@||ads.privacy.qq.com^$domain=privacy.qq.com
 @@||ads.pubmatic.com/AdServer/js/pwtSync/$subdocument,domain=independent.co.uk
+@@||ads.pubmatic.com/adserver/js/$script,domain=zeebiz.com
 @@||ads.reddit.com^$domain=myqqjd.com
 @@||ads.roblox.com/v1/sponsored-pages$xmlhttprequest,domain=roblox.com
 @@||ads.rogersmedia.com^$subdocument,domain=cbc.ca
@@ -5986,6 +5987,7 @@
 @@||yygsz.com^$generichide
 @@||z.moatads.com^$script,domain=standard.co.uk
 @@||zbj.com^
+@@||zeebiz.com/ads/$image,~third-party
 @@||zhaiyd5.com^$script,domain=louzhong8.com|miwens.com
 @@||zinro.net/m/log.php
 @@||zjjcxy.cn^*/ad.css?$stylesheet

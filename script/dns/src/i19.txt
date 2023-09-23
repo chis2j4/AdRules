@@ -24,7 +24,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 
 <tr>
 <td>blocklist last updated:</td>
-<td><b class=blue>Fri, 22 Sep 2023 13:45:05 GMT</b></td>
+<td><b class=blue>Fri, 22 Sep 2023 19:16:51 GMT</b></td>
 </tr>
 
 
@@ -41,7 +41,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 
 <tr>
 <td>total entries:</td>
-<td><b class=blue>3718 / 3718</b></td>
+<td><b class=blue>3719 / 3719</b></td>
 </tr>
 
 </table>
@@ -77,8 +77,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 22 Sep 2023 13:45:05 GMT
-# entries:        3718
+# last updated:   Fri, 22 Sep 2023 19:16:51 GMT
+# entries:        3719
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts
@@ -3449,6 +3449,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 track.mailerlite.com
 127.0.0.1 track.miro.com
 127.0.0.1 track.nationalgunrights.org
+127.0.0.1 track.privacyatclearbit.com
 127.0.0.1 track.segmetrics.io
 127.0.0.1 track.software-codes.com
 127.0.0.1 track.spe.schoolmessenger.com

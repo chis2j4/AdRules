@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-09-26 08:34:50（北京时间） 
-! Total count: 17752
+! Version: 2023-09-26 16:09:58（北京时间） 
+! Total count: 17756
 -960x*0.gif
 -250.js*
 
@@ -2481,6 +2481,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 ?adid=
 ?adspot_
 ?local_ga_js=
+@#div[class$="_0"]@www.jianshu.com
 @@$removeparam=/^OCID=/i,app=Microsoft.Msn.News.exe
 @@.png#$domain=9zvip.net|club.tgfcer.com|coolinet.com|d1-dm.com
 @@/^https?:\/\/([a-z0-9-\.])*(chat|drive)\.google\.com\/videoplayback/$removeparam
@@ -4978,7 +4979,7 @@ my0832.com##.fixediv,[class="wrap s_clear"]
 mydigit.cn##div.radio.mb10,[id^="ads_"],[class="tac mb5"],.adsbygoogle,.txtMes,.radi.mb10,[channelid="smzdm"]
 mydrivers.com##div#code_lb.code_lb,TABLE[width="998"][height="90"],TABLE[width="1000"][height="90"],DIV.menu + DIV.baidu_box,#hsb_go,#dangbei_down,[id^="a_showhotnews_list"],[style^="width:1100px; height:90px;"],[class^="ad"],[style^="width:468px; height:60px;"],#recommend.news_xg
 myhktv.com###sponsorAdDiv
-myqqjd.com##.adsbygoogle
+myqqjd.com##.adsbygoogl
 myqqjd.com$$script[tag-content="mdpDeBlocker"]
 myt1.cc##div.wp.a_t,div.a_cn,div.a_pt
 myxav.gq##[height="60"],[height="90"],.a_pt
@@ -5085,6 +5086,8 @@ pageMediaControl*$script
 paipai.fm###sideForum + div
 paipai.fm###the-logo + .fr
 paipai.fm##.wrapbg
+pan.baidu.com##A.active-msg
+pan.baidu.com##div.content DIV.photo-banner
 pan.baidu.com,music.baidu.com,yun.baidu.com##[class|=ad]
 pan.baidu.com,yun.baidu.com##[id^="share-ad-"],A#share_ad_info_panl,div[id^="cpro_"],img.share-center,.ad-platform-tips,.banner-active
 panc.cc##iframe[height="148"]
@@ -6224,6 +6227,7 @@ www.jdon.com##ins.adsbygoogle
 www.jdunion.com##div.wp.a_t,div.wp.a_f,div.a_h,div.bm.a_c
 www.jgzj.net##table.adcss,div#ad_headerbanner,div#ad_text.ad_text,div.ad_column
 www.jianshu.com##[aria-label='lwa-ad-one']
+www.jianshu.com#@#div[class$="_0"]
 www.jiaosm.net##div#weizhi-a,div.viewt_cc,div#xinxi
 www.jisilu.cn##A[href^="http://www.nffund.com/upfiles/eb/home"],A[href^="http://www.yhfund.com.cn/activezone"]
 www.jisuxia.com##div.ads960,div.ads700,div.downads,div.ads250

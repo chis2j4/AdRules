@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-09-27 00:09:32（北京时间） 
-! Total count: 2477
+! Version: 2023-09-27 08:35:04（北京时间） 
+! Total count: 2480
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4742,6 +4742,9 @@
 @@||googletagservices.com/tag/js/gpt.js$domain=chegg.com|chelseafc.com|epaper.timesgroup.com|farfeshplus.com|k2radio.com|koel.com|kowb1290.com|nationalreview.com|nationalworld.com|nbcsports.com|scotsman.com|tv-asahi.co.jp|uefa.com|vimeo.com|vlive.tv|voici.fr|windalert.com
 @@||googletagservices.com/tag/js/gpt.js$domain=fukuishimbun.co.jp
 @@||googletagservices.com/tag/js/gpt.js$domain=tvb.com|www.gamer.com.tw
+@@||googlevideo.com/videoplayback?*&pfa=$xmlhttprequest,domain=m.youtube.com|music.youtube.com|www.youtube.com
+@@||googlevideo.com/videoplayback?*yt_live_broadcast&$xmlhttprequest,domain=m.youtube.com|music.youtube.com|www.youtube.com
+@@||googlevideo.com/videoplayback?*yt_premiere_broadcast&$xmlhttprequest,domain=m.youtube.com|music.youtube.com|www.youtube.com
 @@||gooogle.how^$generichide
 @@||goto.target.com^|
 @@||goto.walmart.com^|
@@ -5879,7 +5882,7 @@
 @@||warpwire.com/AD/
 @@||warpwire.net/AD/
 @@||wavepc.pl/wp-content/*-500x100.png$image,~third-party
-@@||web-ads.pulse.weatherbug.net/api/ads/targeting/$domain=weatherbug.net
+@@||web-ads.pulse.weatherbug.net/api/ads/targeting/$domain=weatherbug.com
 @@||web.archive.org^$generichide
 @@||web.dev/patterns/web-vitals-$~third-party
 @@||web.telegram.org^$generichide

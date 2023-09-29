@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-09-29 16:09:48（北京时间） 
-! Total count: 17759
+! Version: 2023-09-30 00:09:08（北京时间） 
+! Total count: 17762
 -960x*0.gif
 -250.js*
 
@@ -7767,6 +7767,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||adglare.net^
 ||adglare.org^$third-party
 ||adgomob.com^
+||adguard.info^$removeparam=nc
 ||adhai.com^
 ||adhdsb.cn^
 ||adim.pinduoduo.com^
@@ -9346,6 +9347,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cdn93d99x0e.23bei.com^
 ||cdnads.com^
 ||cdncloud.asia^
+||cdninstagram.com^$removeparam=_nc_sid
 ||cdninstagram.com^$removeparam=ccb
 ||cdninstagram.com^$removeparam=efg
 ||cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.1/clipboard.min.js
@@ -11679,6 +11681,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||insenz.com^
 ||insights.hotjar.com^
 ||instagram.*.fna.fbcdn.net^$removeparam=ccb,domain=~instagram.com
+||instagram.com^$removeparam=ig_rid
 ||instagram.com^$removeparam=igshid
 ||install.yzapi.top^
 ||instreet.cn^

@@ -2,8 +2,8 @@
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 12 Hours
-# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2023-09-29 00:34:50
-# Total count: 106635
+# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2023-09-29 08:10:04
+# Total count: 106659
 0.0.0.0 0-000.store
 0.0.0.0 0.101tubeporn.com
 0.0.0.0 0.code.cotsta.ru
@@ -4267,6 +4267,7 @@
 0.0.0.0 aanetwork.vn
 0.0.0.0 aanqylta.com
 0.0.0.0 aans.athome.com
+0.0.0.0 aaoffice.cn
 0.0.0.0 aaojcdihr.com
 0.0.0.0 aapeople.cn
 0.0.0.0 aappgaxtvybn.com
@@ -6950,6 +6951,8 @@
 0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 0.0.0.0 ads-gdl.imovideo.ru
 0.0.0.0 ads-im-netz.de
+0.0.0.0 ads-img-al.xhscdn.com
+0.0.0.0 ads-img-qc.xhscdn.com
 0.0.0.0 ads-interfaces.sc-cdn.net
 0.0.0.0 ads-ios-sdk.ogury.co
 0.0.0.0 ads-leaseweb.appsgeyser.com
@@ -6976,6 +6979,8 @@
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 ads-twitter.com
 0.0.0.0 ads-union.jd.com
+0.0.0.0 ads-video-al.xhscdn.com
+0.0.0.0 ads-video-qc.xhscdn.com
 0.0.0.0 ads-wordego.azureedge.net
 0.0.0.0 ads-yallo-production.imgix.net
 0.0.0.0 ads.123net.jp
@@ -7272,6 +7277,7 @@
 0.0.0.0 ads.mrgreen.com
 0.0.0.0 ads.msn.com
 0.0.0.0 ads.museum.or.jp
+0.0.0.0 ads.music.126.net
 0.0.0.0 ads.ndtv1.com
 0.0.0.0 ads.networksolutions.com
 0.0.0.0 ads.newgrounds.com
@@ -8321,6 +8327,7 @@
 0.0.0.0 advertiseireland.com
 0.0.0.0 advertisement.glb.qnniu.com
 0.0.0.0 advertisementafterthought.com
+0.0.0.0 advertiseonbing.azureedge.net
 0.0.0.0 advertisercommunity.com
 0.0.0.0 advertiserscommunity.com
 0.0.0.0 advertiseru.net
@@ -9425,6 +9432,7 @@
 0.0.0.0 ah-ha.com
 0.0.0.0 ah-qichen.com
 0.0.0.0 ah-v1.presage.io
+0.0.0.0 ah.5l59k.com
 0.0.0.0 ah.pricegrabber.com
 0.0.0.0 ah.tabskeawe.com
 0.0.0.0 ahabcaca.com
@@ -9723,7 +9731,6 @@
 0.0.0.0 akamaihd.site
 0.0.0.0 akanoo.com
 0.0.0.0 akarosi.com
-0.0.0.0 akatee.com
 0.0.0.0 akatracking.esearchvision.com
 0.0.0.0 akavita.com
 0.0.0.0 akazginhapping.com
@@ -10657,6 +10664,7 @@
 0.0.0.0 analytics-union.xunlei.com
 0.0.0.0 analytics-wcms.joins.net
 0.0.0.0 analytics-zone-1.api.leadfamly.com
+0.0.0.0 analytics.126.com
 0.0.0.0 analytics.126.net
 0.0.0.0 analytics.163.com
 0.0.0.0 analytics.21cn.com
@@ -15751,6 +15759,7 @@
 0.0.0.0 bbnfcfrvjs.com
 0.0.0.0 bbphonix.xyz
 0.0.0.0 bbqckhmgboal.xyz
+0.0.0.0 bbrdbr.com
 0.0.0.0 bbs.kiiqnnx.cn
 0.0.0.0 bbs.theacademyforconsciousleadership.com
 0.0.0.0 bbuni.com
@@ -19268,6 +19277,7 @@
 0.0.0.0 c6s.bionestraff.pro
 0.0.0.0 c71f427117.com
 0.0.0.0 c71genemobile.com
+0.0.0.0 c72w6.com
 0.0.0.0 c7d263f5d8.com
 0.0.0.0 c7ee346412.com
 0.0.0.0 c8.net.ua
@@ -21578,6 +21588,7 @@
 0.0.0.0 cjcvd6.com
 0.0.0.0 cjewz.com
 0.0.0.0 cjf25jklrwqt.com
+0.0.0.0 cjgdch.com
 0.0.0.0 cjhd.mediav.com
 0.0.0.0 cjhq.baidu.cn
 0.0.0.0 cjhq.baidu.com
@@ -24757,6 +24768,7 @@
 0.0.0.0 crashchance.com
 0.0.0.0 crashexecute.com
 0.0.0.0 crasheye.cn
+0.0.0.0 crashlytics.163.com
 0.0.0.0 crashlytics.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 cratchcfi.com
@@ -37697,6 +37709,7 @@
 0.0.0.0 freecouponbiz.com
 0.0.0.0 freedatinghookup.com
 0.0.0.0 freedhikedungeon.com
+0.0.0.0 freedommobile.syncreturn.ca
 0.0.0.0 freeevpn.info
 0.0.0.0 freeexchange.ru
 0.0.0.0 freegeoip.app
@@ -41116,6 +41129,7 @@
 0.0.0.0 grooveoperate.com
 0.0.0.0 grooveworship.space
 0.0.0.0 groovinads.com
+0.0.0.0 groovy-manul.pikapod.net
 0.0.0.0 groovyornament.com
 0.0.0.0 grortalt.xyz
 0.0.0.0 grosetgnaw.life
@@ -48301,7 +48315,6 @@
 0.0.0.0 jn060.xyz
 0.0.0.0 jn23.madeindesign.it
 0.0.0.0 jnbasajikmd.xyz
-0.0.0.0 jne-express.my.id
 0.0.0.0 jngdg.top
 0.0.0.0 jnhdmksj.top
 0.0.0.0 jnhfex.diezauberscheren.de
@@ -58854,6 +58867,7 @@
 0.0.0.0 minderalasselfemployed.com
 0.0.0.0 mindless-series.pro
 0.0.0.0 mindlessmark.com
+0.0.0.0 mindlessslogan.com
 0.0.0.0 mindlytix.com
 0.0.0.0 mindmemobile.com
 0.0.0.0 mindopu.com
@@ -59343,6 +59357,7 @@
 0.0.0.0 mobadme.jp
 0.0.0.0 mobads-logs.baidu.cn
 0.0.0.0 mobads-logs.baidu.com
+0.0.0.0 mobads-pre-config.cdn.bcebos.com
 0.0.0.0 mobads.baidu.cn
 0.0.0.0 mobads.baidu.com
 0.0.0.0 mobads4app.com
@@ -61154,7 +61169,6 @@
 0.0.0.0 navi12.com
 0.0.0.0 navi13.com
 0.0.0.0 navi18.com
-0.0.0.0 navi19.ru
 0.0.0.0 navi2.com
 0.0.0.0 navi20.ru
 0.0.0.0 navi21.com
@@ -61166,7 +61180,6 @@
 0.0.0.0 navi25.ru
 0.0.0.0 navi26.com
 0.0.0.0 navi3.com
-0.0.0.0 navi3.ru
 0.0.0.0 navi30.ru
 0.0.0.0 navi32.com
 0.0.0.0 navi35.com
@@ -61176,11 +61189,12 @@
 0.0.0.0 navi38.ru
 0.0.0.0 navi39.ru
 0.0.0.0 navi4.com
+0.0.0.0 navi4.ru
+0.0.0.0 navi41.ru
 0.0.0.0 navi42.ru
 0.0.0.0 navi43.com
 0.0.0.0 navi44.ru
 0.0.0.0 navi45.ru
-0.0.0.0 navi46.com
 0.0.0.0 navi47.com
 0.0.0.0 navi47.ru
 0.0.0.0 navi5.com
@@ -61205,6 +61219,7 @@
 0.0.0.0 navi72.ru
 0.0.0.0 navi73.com
 0.0.0.0 navi74.com
+0.0.0.0 navi74.ru
 0.0.0.0 navi75.com
 0.0.0.0 navi76.com
 0.0.0.0 navi77.com
@@ -61213,7 +61228,6 @@
 0.0.0.0 navi8.com
 0.0.0.0 navi81.com
 0.0.0.0 navi82.com
-0.0.0.0 navi82.ru
 0.0.0.0 navi84.com
 0.0.0.0 navi85.com
 0.0.0.0 navi85.ru
@@ -61230,6 +61244,7 @@
 0.0.0.0 navi92.ru
 0.0.0.0 navi94.com
 0.0.0.0 navi96.com
+0.0.0.0 navi96.ru
 0.0.0.0 navi98.com
 0.0.0.0 navi99.com
 0.0.0.0 navigablepiercing.com
@@ -64126,6 +64141,7 @@
 0.0.0.0 onboardhairy.com
 0.0.0.0 oncahh.boxlunch.com
 0.0.0.0 onccahdawa.com
+0.0.0.0 oncgqzu.cn
 0.0.0.0 oncgtaramla.com
 0.0.0.0 oncinu.com
 0.0.0.0 onclarck.com
@@ -65570,6 +65586,8 @@
 0.0.0.0 p0y.cn
 0.0.0.0 p1-feedback.byteimg.com
 0.0.0.0 p1-lm.adukwai.com
+0.0.0.0 p1-play.edge4k.com
+0.0.0.0 p1-play.kgslb.com
 0.0.0.0 p1.chinakaoyan.com
 0.0.0.0 p1.danskebank.dk
 0.0.0.0 p1.danskebank.ie
@@ -65586,6 +65604,7 @@
 0.0.0.0 p1corn.com
 0.0.0.0 p1k688fnm5nb.kvest.ee
 0.0.0.0 p1t.clipnuke.com
+0.0.0.0 p2-play.edge4k.com
 0.0.0.0 p2.danskebank.co.uk
 0.0.0.0 p2.danskebank.dk
 0.0.0.0 p2.danskebank.fi
@@ -68388,6 +68407,7 @@
 0.0.0.0 play.aniview.com
 0.0.0.0 play.fanslide.com
 0.0.0.0 play.freeplayvideo.com
+0.0.0.0 play.kakao.com
 0.0.0.0 play.rayjump.com
 0.0.0.0 play.rheo.tv
 0.0.0.0 play.scavos.com
@@ -83788,6 +83808,7 @@
 0.0.0.0 sportswearforfans.com
 0.0.0.0 sportsyndicator.com
 0.0.0.0 sporttv.today
+0.0.0.0 sportzflix.xyz
 0.0.0.0 spot.fitness.com
 0.0.0.0 spotdimesulky.com
 0.0.0.0 spotlessstamp.com
@@ -86688,6 +86709,7 @@
 0.0.0.0 steamdespicable.com
 0.0.0.0 steamgateways.com
 0.0.0.0 steamlargelyjustified.com
+0.0.0.0 steammcommunuty.ru
 0.0.0.0 steamsorrowabbey.com
 0.0.0.0 steamunlock.com
 0.0.0.0 steamunlock.gifts
@@ -89749,7 +89771,6 @@
 0.0.0.0 teenytinytongue.com
 0.0.0.0 teenyvolcano.com
 0.0.0.0 teeponuy.com
-0.0.0.0 teesspeed.com
 0.0.0.0 teethaur.com
 0.0.0.0 teethbatchevy.com
 0.0.0.0 teethfan.com
@@ -89967,6 +89988,7 @@
 0.0.0.0 territoria-remonta.ru
 0.0.0.0 tertmateruse.ru
 0.0.0.0 terttalkinhitin.pro
+0.0.0.0 tesla-openai.com
 0.0.0.0 teslaamg.obs.cn-east-3.myhuaweicloud.com
 0.0.0.0 teslabrc.com
 0.0.0.0 teslacar.io
@@ -94751,6 +94773,7 @@
 0.0.0.0 tracking.sfitrucks.com
 0.0.0.0 tracking.shaadi.com
 0.0.0.0 tracking.sharplink.us
+0.0.0.0 tracking.shinycolors.enza.fun
 0.0.0.0 tracking.shl.com
 0.0.0.0 tracking.shop.verymobile.it
 0.0.0.0 tracking.shopback.com
@@ -106571,6 +106594,7 @@
 0.0.0.0 zxdcxwpxheu.com
 0.0.0.0 zxfas56.com
 0.0.0.0 zxgko.cn
+0.0.0.0 zxid-m.mobileservice.cn
 0.0.0.0 zxjrbz.xyz
 0.0.0.0 zxpgfl.xyz
 0.0.0.0 zxptw.cn

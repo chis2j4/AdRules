@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-09-29 08:34:34（北京时间） 
-! Total count: 17757
+! Version: 2023-09-29 16:09:48（北京时间） 
+! Total count: 17759
 -960x*0.gif
 -250.js*
 
@@ -418,7 +418,6 @@
 ##div.swiper-slide > A[rel='nofollow noopenner']
 ##div.synopsisArea > a[id*='hudie_']
 ##div.video-box > div.hf > a
-##div:not([class]):not([id]) > a > [src*='.gif'][style*='width:100%']
 ##div[class*='bookid_ads']
 ##div[class^="is_"] > a > img[referrerpolicy="no-referrer"][src*="hdslb.com"]
 ##div[id$='ad1'][class^='text'],div[id$='ad2'][class^='text'],div[id$='ad3'][class^='text'],div[id$='ad4'][class^='text'],div[id$='ad5'][class^='text'],div[id$='ad6'][class^='text']
@@ -1895,9 +1894,6 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 .cn/bid?url=*$third-party
 .cn/o.js$third-party
 .cn/redbaiduct.com?s=$third-party
-.cn:*/*/*?c=$third-party
-.cn:*/*/*?n=$third-party
-.cn:*/*/*?t=$third-party
 .cn:*/vh5$third-party
 .cn:8001/*/*?*=$third-party
 .com/adv1/?q=
@@ -1911,9 +1907,6 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 .com/sh/to/$third-party
 .com/xz/*?token8=
 .com/z-*-*?123$third-party
-.com:*/*/*?c=$third-party
-.com:*/*/*?n=$third-party
-.com:*/*/*?t=$third-party
 .com:10446/*/get*.html
 .com:8001/*/*?*=$third-party
 .com:8004/*/*?*=$third-party
@@ -7672,6 +7665,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||aac.kegood.com^
 ||aaenv48847h.com^
 ||aaid.umeng.com^
+||aaoffice.cn^
 ||ab.pincai.com^
 ||ab11s.com^
 ||ab44.pw^
@@ -7995,6 +7989,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||agrantsem.com^
 ||agstat.html5.qq.com^
 ||ah-qichen.com^
+||ah.5l59k.com^
 ||ah2.zhangyue.com/zybk/api/pop/index?
 ||ahcyzs8888.com^
 ||ahm.jiankang123.net^
@@ -9111,6 +9106,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||boowang.com^
 ||boredpanda.com^$removeparam=h
 ||boroboromi.com/js/tbclick.js
+||boshishuwu.com/js/middlestyle.js
+||boshishuwu.com/js/zhuanhua.js
 ||botnrr.xyz^
 ||botonmetaverse.com^
 ||bottegaveneta.com^$removeparam=tp
@@ -9455,6 +9452,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cizion.com^
 ||cj.qidian.com^$document
 ||cj0968.com/mmad_cn18.js?var=
+||cjgdch.com^
 ||cjmob.com^
 ||ck.ads.oppomobile.com^
 ||ck1997.com/js/lunbo.js
@@ -10875,6 +10873,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gog.com^$removeparam=pp
 ||gog.com^$removeparam=track_click
 ||goikbnjksdf.com^
+||goingsranchange.com^
 ||golden1.sogou.com^
 ||golden88.co^
 ||gongxifc.com^
@@ -15694,6 +15693,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ujian.cc^
 ||ujnkn.com^
 ||uk529u0.cn^
+||ukpsal.icu^
 ||ulink.cc^
 ||ulkoxbra.com^
 ||ulmdb.cn^
@@ -16221,6 +16221,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.16m.cc^
 ||www.200ps.com^
 ||www.2345.com/images/activity/20161111/skin_normal.jpg
+||www.288txt.com/da/*.js
 ||www.32414.com^
 ||www.3alian.net^
 ||www.3aym.cn^
@@ -17050,6 +17051,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||z888.izhufu.net^
 ||za5.net^
 ||zabdybod*.club^
+||zacff.com^
 ||zahrvfbd*.xyz^
 ||zaiceyjjqq.com^
 ||zailet.com^

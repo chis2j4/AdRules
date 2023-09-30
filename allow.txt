@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-09-30 00:09:17（北京时间） 
-! Total count: 2480
+! Version: 2023-09-30 08:33:41（北京时间） 
+! Total count: 2481
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5361,6 +5361,7 @@
 @@||pptv.com/webdelivery/webafp?cb=loadAdStatus&*sports.pp
 @@||prebid.adnxs.com^$xmlhttprequest,domain=go.cnn.com
 @@||preromanbritain.com/maxymiser/$~third-party
+@@||privatbank.ua/content/*/fp2.min.js$~third-party
 @@||pro-foto.jp/ads/img/$~third-party
 @@||pro.gooooal.com/ad/ad_2.js
 @@||promo.com/embed/$subdocument,third-party

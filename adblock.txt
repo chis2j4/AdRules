@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-10-02 16:10:53（北京时间） 
-! Total count: 17767
+! Version: 2023-10-03 00:09:19（北京时间） 
+! Total count: 17769
 -960x*0.gif
 -250.js*
 
@@ -2986,6 +2986,7 @@ baidu.com##DIV[data-module='swan-ad-fc-feed'] DIV[sid][posid][prank]
 baidu.com##[class*='index_godCard'][class*='index_noGuaranteeTag'][class*='index_adTextPosition'],[class^='index_brandEntry__'],[data-show*='swan-ad-fc-swiper-banner']
 baidu.com##[class^='ball-wrapper']
 baidu.com##[data-tpl='adv_wenku_fc']
+baidu.com##[data-video-player='true']
 baidu.com##a.ball-wrapper__3BTBO.c-blocka
 baidu.com##div.FYB_RD
 baidu.com##div.egg-bubble
@@ -5470,6 +5471,7 @@ smzdm.com##a[class^="fixed-logo"]
 smzy.com##.ad_show
 so.360.cn##div#m-spread-left,div#so_kw-ad,DIV.spread
 so.com##DIV#m-google-top,DIV#so_kw-ad,DIV#m-spread-left,#so_bd-ad,#m-spread-bottom,.boxinner-r,div#bnbtm,.e_idea_wenda_spread,#e_idea_wenda_leftBox.result.e_clearfix,.commercialCell.cmcstyle2,.e_idea_list,.top-ads,.cmitem
+so.toutiao.com##.relative.pointer-events-none
 so.toutiao.com##DIV[id^='ad_']
 so.toutiao.com##section.commonbox.hasfooter
 sobaidupan.com##.ad_728x90

@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-10-05 00:09:56（北京时间） 
-! Total count: 2486
+! Version: 2023-10-05 08:34:47（北京时间） 
+! Total count: 2487
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4020,6 +4020,7 @@
 @@||api.friends.ponta.jp/api/$~third-party
 @@||api.getmakerlog.com/discussions/$~third-party,websocket,xmlhttprequest
 @@||api.ipinfodb.com^$xmlhttprequest,domain=management30.com
+@@||api.karte.io^|
 @@||api.paymentwall.com^$domain=adguard.com
 @@||api.perfops.net^$script,xmlhttprequest,domain=cdnperf.com|dnsperf.com
 @@||api.touchnote.io^$xmlhttprequest,domain=app.touchnote.com

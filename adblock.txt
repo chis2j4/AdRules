@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-10-05 00:09:43（北京时间） 
-! Total count: 17772
+! Version: 2023-10-05 08:34:35（北京时间） 
+! Total count: 17773
 -960x*0.gif
 -250.js*
 
@@ -518,6 +518,7 @@ $doc,removeparam=channel,domain=1sol.io|amazon.*|bybit.com|coinpanel.com|docs.go
 $doc,removeparam=cn,domain=twitter.com|x.com
 $doc,removeparam=feature,domain=reddit.app.link|youtube.com|youtu.be
 $doc,removeparam=helpref,domain=whatsapp.com|facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
+$doc,removeparam=jp_cmp,domain=chase.com
 $doc,removeparam=l,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
 $doc,removeparam=o,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
 $doc,removeparam=plcmt,domain=grafana.com

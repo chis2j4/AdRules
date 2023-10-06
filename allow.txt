@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-10-06 00:10:14（北京时间） 
-! Total count: 2487
+! Version: 2023-10-06 08:34:45（北京时间） 
+! Total count: 2489
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4293,7 +4293,8 @@
 @@||classic.comunio.de/clubImg.phtml/$image,~third-party
 @@||classliving.lpages.co^|
 @@||clerk.io/clerk.js$script,domain=trony.it
-@@||cleverpush.com/channel/$script,domain=bsdex.de
+@@||cleverpush.com/channel/$script,domain=bsdex.de|heise.de
+@@||cleverpush.com/sdk/$script,domain=heise.de
 @@||click.appcast.io^|
 @@||click.cptrack.de^|
 @@||click.simba.taobao.com^|
@@ -5025,6 +5026,7 @@
 @@||live.primis.tech/live/$script,domain=eurogamer.net|vg247.com
 @@||live.rezync.com^$script,domain=batteriesplus.com
 @@||live.streamtheworld.com/partnerIds$domain=iheart.com|player.amperwave.net
+@@||liveapi.cleverpush.com/websocket$websocket,domain=heise.de
 @@||livesicilia.it/wp-content/plugins/digistream/digiplayer/js/videojs.ga.js?$script,third-party
 @@||livew.l.qq.com/crossdomain.xml
 @@||livew.l.qq.com/livemsg?pf=H5&ad$domain=m.v.qq.com

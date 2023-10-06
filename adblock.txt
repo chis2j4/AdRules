@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-10-06 16:09:49（北京时间） 
-! Total count: 17775
+! Version: 2023-10-07 00:09:17（北京时间） 
+! Total count: 17777
 -960x*0.gif
 -250.js*
 
@@ -9284,6 +9284,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||carpcw.com^
 ||carsales.com.au^$removeparam=Cr,doc
 ||carstat.bitauto.com^
+||cartoonbrew.com^$removeparam=cbtr
 ||casalemedia.com^
 ||casee.cn^
 ||casisi118.vip^
@@ -14392,6 +14393,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||res.mgtv.com/video/$object-subrequest
 ||res.qhupdate.com^
 ||res.wx.qq.com/mmbizwap/zh_CN/htmledition/style/page/page_mp_vote_new
+||researchgate.net^$doc,removeparam=_tp
 ||resolver.msg.xiaomi.net^
 ||resource.tompda.com/static/img/$object
 ||respekt.cz^$removeparam=dop_ab_variant

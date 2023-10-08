@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-10-08 00:08:01（北京时间） 
-! Total count: 18009
+! Version: 2023-10-08 08:37:08（北京时间） 
+! Total count: 18007
 -960x*0.gif
 -250.js*
 
@@ -5656,8 +5656,6 @@ sina.cn##section.xc_conpoment
 sina.cn##span[class*=callApp]
 sina.cn#?#.m_f_a_r:-abp-contains(打开APP)
 sina.cn#?#article.single-pic.article:-abp-contains(APP专享)
-sina.cn#@#.j_callST
-sina.cn#@#.look_more_a, .j_callST
 sina.com.cn##.part-a-l > .mod-02
 sina.com.cn##.tn-nav > div.tn-title:nth-of-type(4) > .tn-tab > i
 sina.com.cn##.top-banner,.M18_ad,[data-sudaclick^="one_pic_conf_"],[data-info^="ad_none"]

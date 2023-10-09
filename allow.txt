@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-10-09 08:35:15（北京时间） 
-! Total count: 2491
+! Version: 2023-10-09 16:10:52（北京时间） 
+! Total count: 2492
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4695,6 +4695,7 @@
 @@||glookup.info/api/json/$domain=grabify.link
 @@||gn-web-assets.api.bbc.com/bbcdotcom/assets/$script,domain=bbc.co.uk
 @@||go.adjust.com^|
+@@||go.ezodn.com/tardisrocinante/lazy_load.js?$script,domain=raiderramble.com
 @@||go.scorptec.com.au^|
 @@||gocomics.com/assets/ad-dependencies-$script,~third-party
 @@||gogoplay5.com^$subdocument

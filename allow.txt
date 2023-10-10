@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-10-10 16:10:24（北京时间） 
-! Total count: 2493
+! Version: 2023-10-11 00:09:38（北京时间） 
+! Total count: 2495
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4427,6 +4427,8 @@
 @@||dashboard.mgid.com^$popup
 @@||data-*.herz-fuer-tiere.de^|
 @@||data.adxcel-ec2.com^$image,domain=laguardia.edu
+@@||data.digital.costco.ca^|
+@@||data.digital.costco.com^|
 @@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|dashboard.getdriven.app|hungryroot.com|usa.experian.com
 @@||daumcdn.net/adfit/static/ad-native.min.js$domain=daum.net
 @@||daumcdn.net/adfit/static/ad.min.js$script,domain=daum.net

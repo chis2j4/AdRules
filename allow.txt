@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-10-11 16:10:11（北京时间） 
-! Total count: 2495
+! Version: 2023-10-12 00:09:49（北京时间） 
+! Total count: 2497
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3676,6 +3676,7 @@
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|partners.adsterra.com^|
 @@|publishers.adsterra.com^|
+@@|statcounter.com^|
 @@||*/assets/js/common/juqery/
 @@||060s.com/images_ad/*.png
 @@||073img.com/*,*,
@@ -5952,6 +5953,7 @@
 @@||www.nfmovies.com/pic/tu/banner03.jpg
 @@||www.nfmovies.com/static/side.jpg
 @@||www.statcounter.com/images/$image,third-party
+@@||www.statcounter.com^|
 @@||www.ticketmaster.$popup,domain=adclick.g.doubleclick.net
 @@||www.ups.com/WebTracking/processInputRequest
 @@||wwwimage-tve.cbsstatic.com^

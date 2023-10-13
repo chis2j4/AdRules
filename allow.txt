@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-10-13 16:10:35（北京时间） 
-! Total count: 2502
+! Version: 2023-10-14 00:09:11（北京时间） 
+! Total count: 2503
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5182,6 +5182,7 @@
 @@||myssl.com/scripts/analyze.js
 @@||n8s.jp^$script,domain=nikkei.com
 @@||nakanohito.jp^*/bi.js$domain=kenko-tokina.co.jp|myna.go.jp
+@@||nationwide.com/myaccount/includes/images/x.gif$~third-party
 @@||natureetdecouvertes.com^*/pixel.png$~third-party
 @@||naver.net/wcslog.js$domain=m.tv.naver.com
 @@||nbe.com.eg/NBEeChannelManager/CallMW.aspx$~third-party

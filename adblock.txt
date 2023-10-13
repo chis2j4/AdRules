@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-10-13 08:35:34（北京时间） 
-! Total count: 18014
+! Version: 2023-10-13 16:10:22（北京时间） 
+! Total count: 18017
 -960x*0.gif
 -250.js*
 
@@ -78,6 +78,7 @@
 ##A[href*='youqu.buzz']
 ##A[href='/?'][target='_blank']
 ##A[href='/hth.html']
+##A[href='/iwagbwfiwehaeyh/']
 ##A[href='/statics/js/ky-a.html']
 ##A[href='http://8hgpro.vip/']
 ##A[href='http://95710.vip']
@@ -193,6 +194,7 @@
 ##IMG[src*='/gg/'][src$='180.gif'][src*='800']
 ##IMG[src*='qimanwu_wap/static/adimages/']
 ##IMG[src*='qmfcybwbf']
+##IMG[src*='tupian.guanggao']
 ##IMG[src='/adBanner']
 ##IMG[src='/js/imgs/taote.jpg']
 ##IMG[src^='http://socos.gitee.io/ss/poster'][alt][style='width: 100%;']
@@ -10969,6 +10971,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||g.rain8.com^
 ||g.yccdn.com^
 ||g.youshishop.com^
+||g13eyx.com^
 ||g1kb9u.xyz^
 ||g3.letv.com^
 ||g4u71y.cn^$domain=lurenshu.net|m.630shu.com

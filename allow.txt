@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-10-13 00:09:53（北京时间） 
-! Total count: 2501
+! Version: 2023-10-13 08:35:43（北京时间） 
+! Total count: 2502
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5544,6 +5544,7 @@
 @@||service-public.fr^*/assets/js/eulerian/eulerian.js$~third-party
 @@||service.apport.net/apport-spa-common/src/tracking/tracking.js$~third-party
 @@||serviceads.co.uk/api/ad/$~third-party,xmlhttprequest
+@@||services.chipotle.com/__imp_apg__/$~third-party
 @@||serving-sys.com/Serving/adServer.bs?$popup,domain=spaargids.be
 @@||serving-sys.com/serving/adServer.bs?$popup,domain=hongkongcard.com
 @@||seselah.com^$generichide

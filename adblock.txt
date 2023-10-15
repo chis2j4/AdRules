@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-10-15 08:37:27（北京时间） 
-! Total count: 18019
+! Version: 2023-10-15 16:08:52（北京时间） 
+! Total count: 18020
 -960x*0.gif
 -250.js*
 
@@ -11728,6 +11728,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||idaima.com/ycz/ajax/get_items_for_bejson/
 ||idawziv.cn^
 ||idc9pk.com^
+||idd1.com^
 ||idealo.de^$removeparam=cancelUrl
 ||idealo.de^$removeparam=disc
 ||idealo.de^$removeparam=lcb

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-10-15 16:08:52（北京时间） 
-! Total count: 18020
+! Version: 2023-10-16 00:08:00（北京时间） 
+! Total count: 18021
 -960x*0.gif
 -250.js*
 
@@ -509,6 +509,7 @@ $doc,removeparam=/^sharedid=/i
 $doc,removeparam=/^source=awin$/i
 $doc,removeparam=/^source=cj$/
 $doc,removeparam=/^source=pepperjam$/
+$doc,removeparam=/^src=Linkfire$/,domain=apple.com|youtube.com
 $doc,removeparam=/^stm_/,domain=~redir.tradedoubler.com
 $doc,removeparam=/^sv_tax/
 $doc,removeparam=/^utm-/
@@ -522,18 +523,22 @@ $doc,removeparam=LID
 $doc,removeparam=_clde
 $doc,removeparam=_cldee
 $doc,removeparam=af,domain=pnas.org|science.org|scitation.org|wiley.com|worldscientific.com
+$doc,removeparam=cId,domain=apple.com|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion|youtube.com
 $doc,removeparam=channel,domain=1sol.io|amazon.*|bybit.com|coinpanel.com|docs.google.com|docsend.com|eventbrite.*|forms.gle|gleam.io|goodcrypto.app|instagram.com|kasta.io|ngx.me|privateinternetaccess.com|reddit.app.link|rei.com|runnode.com|squarespace.com|t.me|twitter.com|xd.wayin.com|x.com|youtube.com
 $doc,removeparam=cn,domain=twitter.com|x.com
+$doc,removeparam=ct,domain=apple.com|bumble.com|newsroom.co.nz
 $doc,removeparam=feature,domain=reddit.app.link|youtube.com|youtu.be
 $doc,removeparam=helpref,domain=whatsapp.com|facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
+$doc,removeparam=iId,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
 $doc,removeparam=jp_cmp,domain=chase.com
 $doc,removeparam=l,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
+$doc,removeparam=lId,domain=apple.com|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion|youtube.com
 $doc,removeparam=method,domain=peacocktv.com
 $doc,removeparam=o,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
 $doc,removeparam=orig_ref,domain=peacocktv.com
 $doc,removeparam=plcmt,domain=grafana.com
 $doc,removeparam=referrer,domain=~bolt.com|~f4map.com|~deviantart.com|~github.com|~discover.*|~vimeo.*|~123-reg.co.uk
-$doc,removeparam=share_id,domain=reddit.com
+$doc,removeparam=share_id,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
 $doc,removeparam=shortlink
 $doc,removeparam=source,denyallow=googlevideo.com,domain=1sol.io|ashford.com|asos.com|att.com|awd-it.*|bankofamerica.com|barenecessities.com|bedbathandbeyond.com|betterprogramming.pub|blavity.com|blog.getadblock.com|blogs.oracle.com|bluemountain.com|boscovs.com|boxboat.com|britishcornershop.co.uk|brownells.*|burkesoutlet.com|bybit.com|choicehotels.com|chollometro.com|coinpanel.com|contabo.com|cyberghostvpn.com|despegar.*|directv.com|discord.*|docs.google.com|docsend.com|drinkhint.com|educba.com|edx.org|eonline.com|escentual.com|eventbrite.*|fiverr.com|fool.com|forms.gle|gethotspotshield.com|gleam.io|goodcrypto.app|googleusercontent.com|greenhouse.io|greenvoice.fr|hammacher.com|hanes.com|hbomax.com|hobbyhall.fi|hotspotshield.com|hottopic.com|housing.com|hp.com|instagram.com|itnext.io|jacquielawson.com|jobs.deepl.com|just-eat.co.uk|kasta.io|ladbible.com|learn.microsoft.com|medium.com|microsoftedgewelcome.microsoft.com|monster.fi|nautica.com|netflix.com|nortonsafe.search.ask.com|ngx.me|onehanesplace.com|outnorth.fi|paypal.com|petsupplies.com|phonesoap.com|quizlet.com|remppatori.fi|riteaid.com|runnode.com|search.brave.com|seekingalpha.com|sonos.com|spiceworks.com|squarespace.com|studio.co.uk|subscribe.gq.com|t.me|theathletic.com|thedailybeast.com|tiktok.com|tokopedia.com|tommybahama.com|torrid.com|tous.com|tradingview.com|trendmicro.com|tumblr.com|twitter.com|user.qzone.qq.com|vimeo.com|webhint.io|wilsonsleather.com|wired.com|xd.wayin.com|x.com|ylighting.com|youtube.com|yubo.live
 $doc,removeparam=sspUserID
@@ -625,7 +630,6 @@ $removeparam=/^source=partnerads$/
 $removeparam=/^source=rss$/
 $removeparam=/^source=tradedoubler$/
 $removeparam=/^source=webgains$/
-$removeparam=/^src=Linkfire$/,domain=apple.com|youtube.com
 $removeparam=/^src=aff$/
 $removeparam=/^src=rss$/
 $removeparam=/^srcCode=/i,domain=jcrew.com|magellans.com|teleflora.com|tigerdirect.com
@@ -994,7 +998,6 @@ $removeparam=byp455
 $removeparam=c,domain=appsflyer.com|farfetch.com|hepsiburada.com|norton.com|onelink.me|shopee.*|tiktok.com
 $removeparam=c3ch
 $removeparam=c3nid
-$removeparam=cId,domain=apple.com|youtube.com
 $removeparam=c[0]
 $removeparam=c_gua_cid
 $removeparam=camp,domain=amazon.*|calvinklein.*|dickssportinggoods.com|dockers.com|dressbarn.com|lanebryant.com|levi.com|maurices.com|worldmarket.com|xg4ken.com
@@ -1099,7 +1102,6 @@ $removeparam=cs_xi
 $removeparam=cshid
 $removeparam=csrc,domain=mcafee.com|vitacost.com
 $removeparam=cstrackid
-$removeparam=ct,domain=apple.com|bumble.com|newsroom.co.nz
 $removeparam=ct,domain=nextdoor.com
 $removeparam=ctc,domain=avantlink.com
 $removeparam=cuid
@@ -1381,7 +1383,6 @@ $removeparam=ko_click_id
 $removeparam=kpartnerid
 $removeparam=kw,domain=hotels.com
 $removeparam=l,domain=change.org
-$removeparam=lId,domain=apple.com|youtube.com
 $removeparam=language,domain=reddit.app.link
 $removeparam=lctid
 $removeparam=ldtag_cl
@@ -1639,6 +1640,7 @@ $removeparam=rbx_campaign
 $removeparam=rbx_medium
 $removeparam=rbx_source
 $removeparam=rcode,domain=kucoin.com
+$removeparam=rdt,doc,dpmain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
 $removeparam=rec,domain=argos.co.uk
 $removeparam=recs_page_type,domain=nordstrom.com
 $removeparam=recs_placement,domain=nordstrom.com
@@ -14608,7 +14610,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||reddit.com^$removeparam=/^\x24original_url=/
 ||reddit.com^$removeparam=_branch_match_id
 ||reddit.com^$removeparam=correlation_id
-||reddit.com^$removeparam=rdt,doc
 ||reddit.com^$removeparam=ref_campaign
 ||reddit.com^$removeparam=ref_source
 ||redfin.com^$removeparam=riftinfo

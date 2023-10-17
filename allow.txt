@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-10-17 16:10:38（北京时间） 
-! Total count: 2502
+! Version: 2023-10-18 00:10:05（北京时间） 
+! Total count: 2503
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4774,6 +4774,7 @@
 @@||gstatic.com/recaptcha/
 @@||gstatic.com^$domain=mixdrop.co
 @@||gstatic.com^*/firebase-performance-standalone.js$script,domain=flightradar24.com
+@@||gsuite.tools/js/gtag.js$script,~third-party
 @@||gtimg.cn/images/nz/cp/*/adimg.png$domain=qq.com
 @@||gtimg.cn/qz-proj/wy-pc-v3/static/img/svg/icon-share-
 @@||gtimg.com/qqcdn/*/beacon.min.js$script,domain=qq.com

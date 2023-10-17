@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-10-17 08:35:05（北京时间） 
-! Total count: 18021
+! Version: 2023-10-17 16:10:28（北京时间） 
+! Total count: 18026
 -960x*0.gif
 -250.js*
 
@@ -6105,7 +6105,11 @@ vfe3.com##div#swtleft
 vgugu.com##div#bn_ad,div[id^="test"],div.in_br
 vhiphop.com##.slides
 vidhub.cc##div.player-info > div.module
+view.inews.qq.com##div[class^="infinite-comment-list_subText"]
+view.inews.qq.com##div[class^="interaction-bottom_interaction"]
+view.inews.qq.com##div[class^="main-video_"]
 view.inews.qq.com##div[class^="new-hot-comment_subText"]
+view.inews.qq.com##div[class^="new-recommend_wrapper"]
 view.inews.qq.com##div[class^="normal_buttonWrap"]
 view.inews.qq.com##div[class^="slider-top-bar_sliderWrapper"]
 vikacg.com$$a[href="asnebula.xyz"]
@@ -6769,6 +6773,7 @@ xunleiyy.com##.p_view_intro
 xunyugong.me##.item-ul-wrap,.bottom-banner,.right-banner,[height="80"]
 xunzai.com##DIV#\32 345float
 xvideos.com###video-ad
+xw.qq.com###opeApp
 xw.qq.com###recommend-modules
 xw.qq.com###taskTips
 xw.qq.com##.btn-ok

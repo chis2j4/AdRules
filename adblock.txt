@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-10-18 08:35:00（北京时间） 
-! Total count: 18026
+! Version: 2023-10-18 16:09:55（北京时间） 
+! Total count: 18034
 -960x*0.gif
 -250.js*
 
@@ -4460,12 +4460,14 @@ jianshu.com##._13lIbp
 jianshu.com##._27yofX
 jianshu.com##.app-open
 jianshu.com##.border.item
+jianshu.com##.call-app-Ad-bottom
 jianshu.com##.call-app-btn
 jianshu.com##.comment-open-app-btn-wrap
 jianshu.com##.download
 jianshu.com##.header-download
 jianshu.com##.index_call-app-btn
 jianshu.com##.note-graceful-button
+jianshu.com##.note__flow__download
 jianshu.com##a[href*="/apps?utm_medium=desktop&utm_source=navbar-apps"]
 jianshu.com##button.call-app-btn
 jianshu.com##button.open-app-btn
@@ -5004,6 +5006,7 @@ m.sohu.com##.art-rec-news
 m.sohu.com##.art-sogou-hotw
 m.sohu.com##.article-main > div:nth-of-type(3)
 m.sohu.com##.brandAd,div#bdhl,.tj_sg_graphicMixe,[id^="ceans_"],.f_rec
+m.sohu.com##.cbd-backtop
 m.sohu.com##.cbd-top-bar
 m.sohu.com##.fr
 m.sohu.com##.index.new.fixed.fixed-setto-desktop
@@ -5020,6 +5023,7 @@ m.speedtest.cn##p.please-down
 m.suning.com##.common-right-d
 m.suning.com##.hide.f-l-o-a-t-s-a-l-e
 m.suning.com##.to-login
+m.taobao.com###tcodeSideBar
 m.thepaper.cn###bottomBanner
 m.thepaper.cn###moblink_moreread
 m.thepaper.cn###newDetailHotRecommend
@@ -5028,6 +5032,8 @@ m.thepaper.cn##.btn_app
 m.thepaper.cn##.header_moblink
 m.thepaper.cn##.listen_btn
 m.thepaper.cn##.moblink_btn-650-white
+m.thepaper.cn##a[data-statclick="downloadApp"]
+m.thepaper.cn##div[class^="index_footer_banner"]
 m.thepaper.cn##li.icon_openapp
 m.tianya.cn##a[href^="http://dol.tianya.cn/c?z=tianya"]
 m.toutiao.com###root > div > div.bgwhite.android:nth-child(2) > div.article-container:nth-child(2) > div.fold-btn-container > div.fold-btn:last-child > div.fold-btn-btn:last-child
@@ -5628,8 +5634,10 @@ sina.cn###float-btn.callApp_fl_btn
 sina.cn###j_card_miniVideo
 sina.cn###j_card_searchHotwords > section.s_card > a:last-child > ins.most
 sina.cn##.an.cm_art_push
-sina.cn##.an.j_callST.callApp_fl_btn
+sina.cn##.appOnly_card
+sina.cn##.art_img_callUp
 sina.cn##.btn_follow.j_article_wbreco
+sina.cn##.callApp_fl_btn
 sina.cn##.callup-component
 sina.cn##.client-down
 sina.cn##.cm_index_popup
@@ -5649,7 +5657,6 @@ sina.cn##.zhidi.sw_c0
 sina.cn##SECTION.sw_c0.sina_sliders_pos
 sina.cn##[data-sudaclick^="one_pic_conf_"],[href^="https://render.m.taobao.com/shop/"],[class="m_f_a show "],[data-info^="ad_none"],[href^="http://saxn.sina.com.cn/dsp/click"]
 sina.cn##[sax-type='proxy'][data-pos][data-saxname][loaded='loaded']
-sina.cn##a.j_callST.appOnly_card
 sina.cn##div.ad_baner.j_imgdelay,section > div.article_push,div.advertise,[class^="j_sax sina_tj_"],div.pic-wrap.j_article_cutpic,a[id^="jdAdplace"],[id^="_145595"],.sina_tj_banner,[data-id^="PDPS0000000"],.sax_banner_bottom,section[id^="_148751"],[class="extend-module j_hotpic_box"],.tj-list_md,[class^="article article-sax"],[class^="module-ads"],.s_card.z_c3,[data-adid]
 sina.cn##div[class^=m-client-call]
 sina.cn##section.xc_conpoment
@@ -6107,6 +6114,7 @@ vhiphop.com##.slides
 vidhub.cc##div.player-info > div.module
 view.inews.qq.com##div[class^="infinite-comment-list_subText"]
 view.inews.qq.com##div[class^="interaction-bottom_interaction"]
+view.inews.qq.com##div[class^="justify-text_showMore"]
 view.inews.qq.com##div[class^="main-video_"]
 view.inews.qq.com##div[class^="new-hot-comment_subText"]
 view.inews.qq.com##div[class^="new-recommend_wrapper"]

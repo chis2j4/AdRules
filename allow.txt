@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-10-18 16:10:08（北京时间） 
-! Total count: 2503
+! Version: 2023-10-19 00:09:55（北京时间） 
+! Total count: 2504
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4038,6 +4038,7 @@
 @@||app-cdn.minepi.com^|
 @@||app.appsflyer.com^|
 @@||app.clarity.so^$~third-party
+@@||app.hubspot.com/api/ads/$~third-party
 @@||app.veggly.net/plugins/cordova-plugin-admobpro/www/AdMob.js$script,~third-party
 @@||appboycdn.com/web-sdk/$script,domain=magicseaweed.com
 @@||apple.com^$generichide

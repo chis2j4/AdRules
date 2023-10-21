@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-10-21 16:08:52（北京时间） 
-! Total count: 18010
+! Version: 2023-10-22 00:08:16（北京时间） 
+! Total count: 18020
 -960x*0.gif
 -250.js*
 
@@ -525,14 +525,17 @@ $doc,removeparam=/affcid/i
 $doc,removeparam=LID
 $doc,removeparam=_clde
 $doc,removeparam=_cldee
+$doc,removeparam=_ft_
 $doc,removeparam=af,domain=pnas.org|science.org|scitation.org|wiley.com|worldscientific.com
+$doc,removeparam=aoOfferParams,domain=citi.com
 $doc,removeparam=cId,domain=apple.com|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion|youtube.com
 $doc,removeparam=channel,domain=1sol.io|amazon.*|bybit.com|coinpanel.com|docs.google.com|docsend.com|eventbrite.*|forms.gle|gleam.io|goodcrypto.app|instagram.com|kasta.io|ngx.me|privateinternetaccess.com|reddit.app.link|rei.com|runnode.com|squarespace.com|t.me|twitter.com|xd.wayin.com|x.com|youtube.com
 $doc,removeparam=cn,domain=twitter.com|x.com
 $doc,removeparam=ct,domain=apple.com|bumble.com|newsroom.co.nz
-$doc,removeparam=feature,domain=reddit.app.link|youtube.com|youtu.be
+$doc,removeparam=feature,domain=reddit.app.link
 $doc,removeparam=helpref,domain=whatsapp.com|facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
 $doc,removeparam=iId,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
+$doc,removeparam=intc,domain=citi.com
 $doc,removeparam=jp_cmp,domain=chase.com
 $doc,removeparam=l,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
 $doc,removeparam=lId,domain=apple.com|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion|youtube.com
@@ -541,9 +544,11 @@ $doc,removeparam=o,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|
 $doc,removeparam=orig_ref,domain=peacocktv.com
 $doc,removeparam=plcmt,domain=grafana.com
 $doc,removeparam=referrer,domain=~bolt.com|~f4map.com|~deviantart.com|~github.com|~discover.*|~vimeo.*|~123-reg.co.uk
+$doc,removeparam=selectedCCIndex,domain=citi.com
 $doc,removeparam=share_id,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
 $doc,removeparam=shortlink
 $doc,removeparam=source,denyallow=googlevideo.com,domain=1sol.io|ashford.com|asos.com|att.com|awd-it.*|bankofamerica.com|barenecessities.com|bedbathandbeyond.com|betterprogramming.pub|blavity.com|blog.getadblock.com|blogs.oracle.com|bluemountain.com|boscovs.com|boxboat.com|britishcornershop.co.uk|brownells.*|burkesoutlet.com|bybit.com|choicehotels.com|chollometro.com|coinpanel.com|contabo.com|cmswire.com|cyberghostvpn.com|despegar.*|directv.com|discord.*|docs.google.com|docsend.com|drinkhint.com|educba.com|edx.org|eonline.com|escentual.com|eventbrite.*|fiverr.com|fool.com|forms.gle|gethotspotshield.com|gleam.io|goodcrypto.app|googleusercontent.com|greenhouse.io|greenvoice.fr|hammacher.com|hanes.com|hbomax.com|hobbyhall.fi|hotspotshield.com|hottopic.com|housing.com|hp.com|instagram.com|itnext.io|jacquielawson.com|jobs.deepl.com|just-eat.co.uk|kasta.io|ladbible.com|learn.microsoft.com|medium.com|microsoftedgewelcome.microsoft.com|monster.fi|nautica.com|netflix.com|nortonsafe.search.ask.com|ngx.me|onehanesplace.com|outnorth.fi|paypal.com|petsupplies.com|phonesoap.com|quizlet.com|remppatori.fi|riteaid.com|runnode.com|search.brave.com|seekingalpha.com|sonos.com|spiceworks.com|squarespace.com|studio.co.uk|subscribe.gq.com|t.me|theathletic.com|thedailybeast.com|tiktok.com|tokopedia.com|tommybahama.com|torrid.com|tous.com|tradingview.com|trendmicro.com|tumblr.com|twitter.com|user.qzone.qq.com|vimeo.com|webhint.io|wilsonsleather.com|wired.com|xd.wayin.com|x.com|ylighting.com|youtube.com|yubo.live
+$doc,removeparam=src,domain=citi.com
 $doc,removeparam=sspUserID
 $doc,removeparam=traceId
 $doc,removeparam=trackID
@@ -666,6 +671,7 @@ $removeparam=Adposition
 $removeparam=Affiliate_id
 $removeparam=AgencyNbr
 $removeparam=AgentCode
+$removeparam=BT_VanityDomain,domain=citi.com
 $removeparam=BVBRANDID
 $removeparam=BVBRANDSID
 $removeparam=Bibblio_source,domain=macrumors.com
@@ -704,10 +710,12 @@ $removeparam=LSNSID,domain=jwanderson.com
 $removeparam=LSNSUBSITE
 $removeparam=MID,domain=~media-cdn.costco.*|~community.arubanetworks.com
 $removeparam=MT_ID,domain=ebay.*
-$removeparam=Medium,domain=facebook.com|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|messenger.com
+$removeparam=Medium,domain=facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|messenger.com
 $removeparam=Osocial
 $removeparam=PID,domain=1800getlens.com|ae.com|allmodern.com|applevacations.com|ashford.com|autoanything.com|autodesk.com|bedbathandbeyond.com|booksamillion.com|boscovs.com|buschgardens.com|cheapcaribbean.com|chicos.com|choicehotels.com|dermstore.com|ecampus.com|expedia.com|express.com|factoryoutletstore.com|farmandfleet.com|hammacher.com|hawaiianairlines.com|intuit.com|jockey.com|kennethcole.com|landsend.com|lenovo.com|lens.com|mcafee.com|overstock.com|perfumania.com|samsung.com|sears.com|sierra.com|soma.com|staples.com|teleflora.com|ulta.com|verizon.com|virginatlantic.com|vistaprint.com|walgreens.com|wayfair.com|whitehouseblackmarket.com|wwe.com|yahoo.com|zchocolat.com|media-cdn.costco.ca|media-cdn.costco.com
 $removeparam=PostType,domain=cnet.*|gamespot.com
+$removeparam=Promo_ID,domain=citi.com
+$removeparam=ProspectID,domain=citi.com
 $removeparam=PublisherSID,domain=gucci.com
 $removeparam=Publisher_Name,domain=shudders.com|virginatlantic.com
 $removeparam=Q_BRANDID
@@ -717,7 +725,7 @@ $removeparam=SID,domain=ae.com|anntaylor.com|applevacations.com|ashford.com|auto
 $removeparam=SRC
 $removeparam=SSAID
 $removeparam=ServiceType,domain=cnet.*|gamespot.com
-$removeparam=Source,domain=facebook.com|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|messenger.com|evga.com
+$removeparam=Source,domain=facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|messenger.com|evga.com
 $removeparam=TheTime,domain=cnet.*|gamespot.com
 $removeparam=TripleLiftID
 $removeparam=UniqueID,domain=cnet.*|gamespot.com
@@ -753,7 +761,6 @@ $removeparam=_cid,domain=addnature.*|bikester.*
 $removeparam=_cls_s
 $removeparam=_cls_v
 $removeparam=_from
-$removeparam=_ft_
 $removeparam=_ga
 $removeparam=_ga,domain=~login.aliexpress.*
 $removeparam=_gac
@@ -2717,7 +2724,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 =ga|
 =show_poster&id=
 =vip_skip_ad*
-?*__$~xmlhttprequest,removeparam=/^__[bce-z]/,domain=facebook.com|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|messenger.com
+?*__$~xmlhttprequest,removeparam=/^__[bce-z]/,domain=facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|messenger.com
 ?adid=
 ?adspot_
 ?local_ga_js=
@@ -9727,6 +9734,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ck33.top^
 ||ckerw.xyz^
 ||clarins.com.cn^
+||clcmdie.com^
 ||click.fanyi.baidu.com^
 ||click.googleanalytics.com^
 ||click.hd.sohu.com.cn^
@@ -14511,6 +14519,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qumi.com^
 ||qumi.com^$third-party
 ||qurl.f.360.cn^
+||quspga.xyz^
 ||qutyan8848.com^
 ||quyaoya.com^$third-party
 ||quzmtpxw.xyz^
@@ -15182,6 +15191,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||spplamt.xyz^
 ||sq59.cn^
 ||sqdd.myapp.com^
+||sqevnrb.com^
 ||sqszs.top^
 ||squarespace.com^$removeparam=subchannel
 ||sqxst.com^$third-party

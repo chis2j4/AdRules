@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-10-24 16:10:23（北京时间） 
-! Total count: 18022
+! Version: 2023-10-25 00:09:44（北京时间） 
+! Total count: 18027
 -960x*0.gif
 -250.js*
 
@@ -2160,6 +2160,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 .com:10446/*/get*.html
 .com:8001/*/*?*=$third-party
 .com:8004/*/*?*=$third-party
+.com:8005/*/2483?
 .com:8007/*/*?*=$third-party
 .com:8008/*/*?*=$third-party
 .com:8010/cc/
@@ -7389,6 +7390,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||25ku.com^
 ||268mob.com^
 ||27.221.89.12/qpdxv/other/*.mp4*$app=com.qiyi.video
+||277txt.com/da/*.js
 ||27admin.com^
 ||27fys.xyz^
 ||27k.cc/js/zztt/fmt.js
@@ -9281,7 +9283,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bing.*^$removeparam=sk
 ||bing.*^$removeparam=sp
 ||bing.com/search?$removeparam=/^form=/i
+||bing.com/search?$removeparam=FPIG
 ||bing.com/search?$removeparam=cvid
+||bing.com/search?$removeparam=gs_lcrp
 ||bing.com/search?$removeparam=pc
 ||bing.com^$removeparam=/^sh[b-np-z0-9]/
 ||biqqc.com/ps/data.js
@@ -17308,6 +17312,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||yzpsb.com/js/system.js
 ||yzykttcy.com^
 ||z-xiao.xyz^
+||z0a1b2c3d4.com^
 ||z2.fakutownee.cn^
 ||z3yfkdjd.icu^
 ||z6ro5.xyz^

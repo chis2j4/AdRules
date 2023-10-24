@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-10-24 00:09:38（北京时间） 
-! Total count: 18020
+! Version: 2023-10-24 08:34:45（北京时间） 
+! Total count: 18022
 -960x*0.gif
 -250.js*
 
@@ -532,6 +532,7 @@ $doc,removeparam=cId,domain=apple.com|reddit.com|reddittorjg6rue252oqsxryoxengaw
 $doc,removeparam=channel,domain=1sol.io|amazon.*|bybit.com|coinpanel.com|docs.google.com|docsend.com|eventbrite.*|forms.gle|gleam.io|goodcrypto.app|instagram.com|kasta.io|ngx.me|privateinternetaccess.com|reddit.app.link|rei.com|runnode.com|squarespace.com|t.me|twitter.com|xd.wayin.com|x.com|youtube.com
 $doc,removeparam=cn,domain=twitter.com|x.com
 $doc,removeparam=ct,domain=apple.com|bumble.com|newsroom.co.nz
+$doc,removeparam=deliveryName,domain=abp.nl
 $doc,removeparam=feature,domain=reddit.app.link
 $doc,removeparam=helpref,domain=whatsapp.com|facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
 $doc,removeparam=iId,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
@@ -14020,6 +14021,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||parnett55.xyz^
 ||partnerads.ysm.yahoo.com^
 ||path.qidian.com^
+||patreon.com/posts/$doc,removeparam=token
 ||payoneok.com^
 ||paypal.$removeparam=ppid
 ||paypal.com^$removeparam=calc

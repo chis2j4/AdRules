@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-10-25 00:09:59（北京时间） 
-! Total count: 2500
+! Version: 2023-10-25 08:34:41（北京时间） 
+! Total count: 2501
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4900,6 +4900,7 @@
 @@||inpad.com.tw/data/adv/
 @@||inskinmedia.com^*/js/base/api/$domain=appledaily.com|nextmedia.com
 @@||instagram.com/api/v1/ads/$~third-party,xmlhttprequest
+@@||instapundit.com^$generichide
 @@||intersport.peerius.com^|
 @@||ipapi.co/json/$xmlhttprequest,domain=168.dailymaverick.co.za|audius.co
 @@||ipfs-lab.com^$generichide

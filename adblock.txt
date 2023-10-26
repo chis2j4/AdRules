@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-10-26 08:33:56（北京时间） 
-! Total count: 18027
+! Version: 2023-10-26 16:09:28（北京时间） 
+! Total count: 18035
 -960x*0.gif
 -250.js*
 
@@ -2159,10 +2159,12 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 .com/z-*-*?123$third-party
 .com:10446/*/get*.html
 .com:8001/*/*?*=$third-party
+.com:8003/d/*&n=$third-party
 .com:8004/*/*?*=$third-party
 .com:8005/*/2483?
 .com:8007/*/*?*=$third-party
 .com:8008/*/*?*=$third-party
+.com:8008/sc/*?n=$third-party
 .com:8010/cc/
 .cyou/redbaiduct.com
 .cyou/xling_*_
@@ -7403,6 +7405,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||2pogg4c.cn^
 ||2te.com^
 ||2te.com^$third-party
+||2u3v4w5x6y.com^
 ||2vv.cc^
 ||2yt.cn^
 ||3.cjcp.cn^
@@ -10798,6 +10801,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fastapi.net^$domain=~ku6.com
 ||fastclick.com^
 ||fastclick.net^
+||faxffjo.com^
 ||fbmjc.39yst.com^
 ||fc-feed.cdn.bcebos.com^
 ||fc.gaizong.cn^
@@ -10934,6 +10938,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fpb1.gxfin.com^
 ||fpbbdx2.bmcx.com^
 ||fpbcode.onlinedown.net^
+||fptdxkm.com^
 ||fqceyqo.com^
 ||fqpxzr.xyz^
 ||fqxkj.cn^
@@ -11838,6 +11843,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||igame2steam.com^
 ||igetnaughty.com^
 ||igexin.com^
+||ignulsniy.com^
 ||igscn.com^
 ||ihclam.cn^
 ||ihero.pub
@@ -12779,6 +12785,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||liugaohao.com^
 ||liuliguo.com^
 ||liuyimin5.cn^
+||liuyingtv.com/common/api_getAcode.php
 ||live-trace.bilibili.com^
 ||live.bilibili.com^$removeparam=broadcast_type
 ||live.bilibili.com^$removeparam=is_room_feed
@@ -16192,6 +16199,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||voiceads.cn^
 ||vokmhydy.xyz^
 ||vokwlch.xyz^
+||volgreal.com^
 ||vorluic.cn^
 ||vp.html5.qq.com^
 ||vpic.video.qq.com^

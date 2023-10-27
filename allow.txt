@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-10-27 08:34:15（北京时间） 
-! Total count: 2502
+! Version: 2023-10-27 16:09:59（北京时间） 
+! Total count: 2503
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4491,6 +4491,7 @@
 @@||doda.jp/cmn_web/img/brand/ad/ad_text_
 @@||doda.jp/cmn_web/img/brand/ad/ad_top_3.mp4
 @@||dodo.ac/np/images/$image,domain=nookipedia.com
+@@||doodcdn.co^$domain=dood.la|dood.pm|dood.to|dood.ws
 @@||douban.com/popup/login?
 @@||doubibackup.com^$generichide
 @@||doubleclick.net/clk;$popup,domain=3g.co.uk|4g.co.uk|hotukdeals.com|jobamatic.com|play.google.com|santander.co.uk|techrepublic.com

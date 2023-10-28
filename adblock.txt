@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-10-28 00:09:00（北京时间） 
-! Total count: 18035
+! Version: 2023-10-28 08:33:21（北京时间） 
+! Total count: 18036
 -960x*0.gif
 -250.js*
 
@@ -544,6 +544,7 @@ $doc,removeparam=method,domain=peacocktv.com
 $doc,removeparam=o,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
 $doc,removeparam=orig_ref,domain=peacocktv.com
 $doc,removeparam=plcmt,domain=grafana.com
+$doc,removeparam=refId,domain=aebn.com|linkedin.com
 $doc,removeparam=referrer,domain=~bolt.com|~f4map.com|~deviantart.com|~github.com|~discover.*|~vimeo.*|~123-reg.co.uk
 $doc,removeparam=selectedCCIndex,domain=citi.com
 $doc,removeparam=share_id,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion

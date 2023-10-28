@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-10-28 16:08:27（北京时间） 
-! Total count: 18036
+! Version: 2023-10-29 00:07:57（北京时间） 
+! Total count: 18038
 -960x*0.gif
 -250.js*
 
@@ -559,6 +559,8 @@ $doc,removeparam=uid_bam
 $doc,removeparam=user_email_address
 $doc,removeparam=waporef
 $doc,removeparam=wp_source,domain=ac24.cz|ambcrypto.com|glispa.com|whitepages.com
+$doc,removeparam=wt_mc
+$doc,removeparam=wt_zmc
 $image,third-party,domain=avtb6677.com|lady1.top
 $popup,third-party,domain=downdv.com|rmdown.com|soyunpan.com|youtubeto.com
 $removeparam=%243p,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
@@ -2162,13 +2164,12 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 .com:8001/*/*?*=$third-party
 .com:8003/d/*&n=$third-party
 .com:8004/*/*?*=$third-party
-.com:8005/*/2483?
 .com:8007/*/*?*=$third-party
 .com:8008/*/*?*=$third-party
 .com:8008/sc/*?n=$third-party
 .com:8010/cc/
 .cyou/redbaiduct.com
-.cyou/xling_*_
+.cyou/xling_*_$third-party
 .gif$domain=787ck.cc
 .icu/*_*_*.js$third-party
 .icu/?token=$third-party
@@ -2178,7 +2179,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 .live/hm.js$third-party
 .live/o.js
 .live/r/*/*_r=*
-.live/ty/*-*-*
+.live/ty/*-*-*$third-party
 .live:*/o.js
 .net/v2/stats/1*$third-party
 .net/vh1/1*$third-party
@@ -2720,6 +2721,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 ://www.google.*/search^$removeparam=shndl
 :8007/*/*?is_not=
 :8008/*/*?is_not=
+:8891/v*$third-party
 =access&*=thread&ping=
 =ads_
 =adservice$removeparam=coid,domain=~radioreference.com|~finanzonline.bmf.gv.at
@@ -5305,7 +5307,6 @@ normteam.com##[href$=".taobao.com/"]
 northnews.cn##.sponsor02
 northnews.cn##[class^="sponsor"],[class^="ad-"]
 note.youdao.com##.top-btns
-novret.com/?clickid=
 nowfeed2all.eu###fanback,[src^="http://c4.zedo.com/jsc/"]
 nownews.com##.ads,.ads-fullscreen,[id^="div-gpt-ad-"],[data-crowdynews-widget="Nownews/nownews-mobile"],.ads-block,[calss="ads-block"],[href^="http://ad1.nownews.com/adclick.php"]
 nuoqiu.com##SPAN.baidu,DIV.parttop[style="height:90px;"]
@@ -7492,6 +7493,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||3v7c7y.online^
 ||3wtuan.com^
 ||3yej.xyz^
+||3zmmm.net/ggxx/
 ||402v.com^
 ||40fenzhong.com^
 ||4135.com^
@@ -13767,6 +13769,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||novinky.cz^$removeparam=dop_source_zone_name
 ||novinky.cz^$removeparam=seq_no
 ||novinky.cz^$removeparam=source
+||novret.com/?clickid=
 ||npftmqv.cn^
 ||nphoto.net/media/
 ||nphqw.cn^
@@ -17690,7 +17693,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 3lc.com##.sort_list dl[class="clearfix"]
 3sjt.com##div.a_mu,div.a_pb,div.wp.a_h,div.a_pr,div.a_fl.a_cb,div.a_fr.a_cb,div[class="portal_block_summary"]
 3xgd.com###video_left_adv
-3zmmm.net/ggxx/
 4k123.com##.comeing_wad,.a_pb
 4kzw.com,quanxiong.org,dijiuzww.com##[style="width:770px;height:260px"]
 05sun.com##.xzq,[src="/images/ydxz.gif"]

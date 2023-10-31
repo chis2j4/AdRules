@@ -1,5 +1,5 @@
 ! Title: Allowlist
-! Version: 2023-10-31 00:09:46（北京时间） 
+! Version: 2023-10-31 08:35:27（北京时间） 
 ! Total count: 2502
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
@@ -5363,8 +5363,8 @@
 @@||pngimg.com/distr/$image,~third-party
 @@||pntrac.com/b/$image,domain=extrarebates.com
 @@||pntrs.com/b/$image,domain=extrarebates.com
-@@||poedb.tw/js/
 @@||poedb.tw^$generichide
+@@||poedb.tw^*ad$script,~third-party
 @@||point.rakuten.co.jp/img/crossuse/top_ad/$~third-party
 @@||polfan.pl/app/vendor/fingerprint2.min.js$~third-party
 @@||politiken.dk/static/$script

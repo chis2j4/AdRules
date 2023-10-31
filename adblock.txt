@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-10-31 08:35:11（北京时间） 
-! Total count: 18038
+! Version: 2023-10-31 16:09:52（北京时间） 
+! Total count: 18048
 -960x*0.gif
 -250.js*
 
@@ -2161,6 +2161,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 .com/xz/*?token8=
 .com/z-*-*?123$third-party
 .com:10446/*/get*.html
+.com:7891/stats$third-party
 .com:8001/*/*?*=$third-party
 .com:8003/d/*&n=$third-party
 .com:8004/*/*?*=$third-party
@@ -3108,6 +3109,8 @@ acgking.com##.asst
 acglala.me##.topm,.donghua_info > DIV[style='width:100%;'],.donghua_info > a
 acgsou.com##[href^="/qxads/ads"]
 acgzone.us##DIV#page > DIV[style^="width:960px;height:"],a[href^="http://www.S99966.com/?aff="]
+achaec.cc##[style*='px; bottom: 0px; left: 0px; z-index: ']
+achaec.cc##[style*='px; top: 0px; left: 0px; z-index:']
 actionewz.com,animemojo.com,comicbookmovie.com,fearhq.com,gamefragger.com,mtvuutiset.fi,sffgazette.com,theringreport.com,toonado.com##+js(set, GSvars.addressTracking, false)
 acwifi.net##.ads-content
 addic7ed.com##.mcimg
@@ -7789,8 +7792,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||88cpc.com^
 ||88eg.cn^
 ||88hs.net^
+||88la.la^
 ||88lajs1.com^
 ||88lajs2.com^
+||88lajs4.com^
 ||88ng.com^
 ||88shu.cn^
 ||88tzpf.com^
@@ -9371,6 +9376,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bngpt.com^
 ||bnhxxj.xyz^
 ||bnl2bii.icu^
+||bnnfvd.xyz^
 ||bnrdnx.xyz^
 ||bnuni.com^
 ||bny9.cn^
@@ -9474,6 +9480,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||buzzads.com^
 ||buzzfeednews.com^$removeparam=bfsource
 ||bvakl.ifeng.com^
+||bvsfv6.com^
 ||bvvb9.com^
 ||bwdhuanbao.com^
 ||bwin2808.com^
@@ -10841,6 +10848,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fengying5.com^
 ||fengyukun03.cn^
 ||fengyx.com^
+||feq853.com^
 ||feqii.com^
 ||ffgpol.com^
 ||ffmehcg.cn^
@@ -11857,6 +11865,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ii.joqtfa.cn^
 ||iiad.com^
 ||iifyeldo.top^
+||iikrmw.xyz^
 ||ijfksdwe.xyz^
 ||ijgbuj.xyz^
 ||ijgocb.cn^
@@ -13806,6 +13815,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nyhpyq.com^$third-party
 ||nypost.com^$removeparam=__twitter_impression
 ||nytimes.com^$removeparam=smid
+||nyvgbt.xyz^
 ||nyzda.top^
 ||nz04com.com^
 ||nzrlx6wc.icu^

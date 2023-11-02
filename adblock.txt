@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-11-02 08:34:49（北京时间） 
-! Total count: 18053
+! Version: 2023-11-02 16:09:45（北京时间） 
+! Total count: 18055
 -960x*0.gif
 -250.js*
 
@@ -6003,6 +6003,8 @@ tieba.com##.carousel_item_img,[class="l_post l_post_bright j_l_post clearfix "],
 tielu.cn##[class^="ad"]
 tiexue.net##.big-img-ads
 tigtag.com##[id^="Show1000x70_"],[id^="Home1000x70_"]
+tiku.baidu.com##.to-app
+tiku.baidu.com##.wap-bottom-op
 timedate.cn##.addiv
 ting55.com##[class^="ad"],.had,[height="83"]
 ting56.com##div.h1000,div#banner,div.h_p_0,div.w300

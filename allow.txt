@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-11-02 08:35:03（北京时间） 
-! Total count: 2500
+! Version: 2023-11-02 16:10:46（北京时间） 
+! Total count: 2501
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4201,6 +4201,7 @@
 @@||caf.fr^*/smarttag.js$script,~third-party
 @@||calendar.google.com^$generichide
 @@||camerabay.tv/ads/entry/camerabay/fullbk/bg.jpg
+@@||canadacomputers.com/templates/ccnew/assets/js/jquery.browser-fingerprint-$~third-party
 @@||canadianlisted.com^*/ad/index.css$stylesheet,~third-party
 @@||candidate.hr-manager.net/Advertisement/PreviewAdvertisement.aspx$subdocument,~third-party
 @@||capitolbroadcasting.blueconic.net^$image,script,xmlhttprequest,domain=wral.com

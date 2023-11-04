@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-11-04 08:34:29（北京时间） 
-! Total count: 18058
+! Version: 2023-11-04 16:08:48（北京时间） 
+! Total count: 18059
 -960x*0.gif
 -250.js*
 
@@ -1881,6 +1881,7 @@ $removeparam=tealium_vid
 $removeparam=term,domain=outnorth.fi|bybit.com
 $removeparam=textadID,domain=media-cdn.costco.ca|media-cdn.costco.com
 $removeparam=tg_ref
+$removeparam=tgclid
 $removeparam=thg_ppc_campaign
 $removeparam=tid,domain=clickbank.net|comixology.*|gap.com|gapcanada.ca|mintmobile.com|nhl.com|zulily.com
 $removeparam=tid1

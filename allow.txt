@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-11-04 08:34:40（北京时间） 
-! Total count: 2503
+! Version: 2023-11-04 16:08:59（北京时间） 
+! Total count: 2504
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4935,6 +4935,7 @@
 @@||jlthjy.com^$generichide
 @@||jmedj.co.jp/files/$image,~third-party
 @@||jobs.bg/front_job_search.php$~third-party
+@@||join.southerncross.co.nz/quote/_assets/js/sx/app/helpers/gtm.js
 @@||jokerly.com/Okidak/adSelectorDirect.htm?id=$document,subdocument
 @@||jokerly.com/Okidak/vastChecker.htm$document,subdocument
 @@||joyk.com^$generichide

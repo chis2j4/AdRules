@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-11-04 00:09:40（北京时间） 
-! Total count: 18056
+! Version: 2023-11-04 08:34:29（北京时间） 
+! Total count: 18058
 -960x*0.gif
 -250.js*
 
@@ -528,13 +528,14 @@ $doc,removeparam=_cldee
 $doc,removeparam=_ft_
 $doc,removeparam=af,domain=pnas.org|science.org|scitation.org|wiley.com|worldscientific.com
 $doc,removeparam=aoOfferParams,domain=citi.com
+$doc,removeparam=bpli,domain=blogger.com
 $doc,removeparam=cId,domain=apple.com|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion|youtube.com
 $doc,removeparam=channel,domain=1sol.io|amazon.*|bybit.com|coinpanel.com|docs.google.com|docsend.com|eventbrite.*|forms.gle|gleam.io|goodcrypto.app|instagram.com|kasta.io|ngx.me|privateinternetaccess.com|reddit.app.link|rei.com|runnode.com|squarespace.com|t.me|twitter.com|xd.wayin.com|x.com|youtube.com
 $doc,removeparam=cn,domain=twitter.com|x.com
 $doc,removeparam=ct,domain=apple.com|bumble.com|newsroom.co.nz
 $doc,removeparam=deliveryName,domain=abp.nl
 $doc,removeparam=feature,domain=reddit.app.link
-$doc,removeparam=helpref,domain=whatsapp.com|facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
+$doc,removeparam=helpref,domain=whatsapp.com|facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|instagram.com
 $doc,removeparam=iId,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
 $doc,removeparam=intc,domain=citi.com
 $doc,removeparam=jp_cmp,domain=chase.com
@@ -2114,6 +2115,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 *pushad/
 *ref=404media.co*$doc,removeparam=/^ref=404media.co$/
 *ref=easywithai*$doc,removeparam=/^ref=easywithai$/
+*ref=exploit.media*$doc,removeparam=/^ref=exploit.media$/
 *right_ad*
 *rightad/
 *show?id=*&static=*_url=

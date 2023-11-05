@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-11-05 16:09:17（北京时间） 
-! Total count: 2503
+! Version: 2023-11-06 00:08:26（北京时间） 
+! Total count: 2504
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5938,6 +5938,7 @@
 @@||wordpress.org/plugins/$domain=wordpress.org
 @@||wordpress.org/stats/plugin/$domain=wordpress.org
 @@||worldgravity.com^$script,domain=hotstar.com
+@@||wpfc.ml/b.gif$image,domain=holybooks.com
 @@||wrestlinginc.com/wp-content/themes/unified/js/prebid.js$~third-party
 @@||wsj.net/iweb/static_html_files/cxense-candy.js$script,domain=marketwatch.com
 @@||wuyong.fun^$generichide

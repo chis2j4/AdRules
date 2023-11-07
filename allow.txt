@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-11-07 08:35:55（北京时间） 
-! Total count: 2504
+! Version: 2023-11-07 16:10:27（北京时间） 
+! Total count: 2505
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5265,6 +5265,7 @@
 @@||open.spotify.com^$generichide
 @@||open.spotifycdn.com/cdn/build/embed/overture.$script,domain=open.spotify.com
 @@||openapi.youku.com/router^$app=com.huawei.hwvplayer.youku
+@@||openfpcdn.io/fingerprintjs/v3/iife.min.js$script,domain=mos03education.ru
 @@||optimatic.com/iframe.html$subdocument,domain=pch.com
 @@||optimatic.com/redux/optiplayer-$domain=pch.com
 @@||optimatic.com/shell.js$domain=pch.com

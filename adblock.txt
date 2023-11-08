@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-11-08 00:09:42（北京时间） 
-! Total count: 18059
+! Version: 2023-11-08 08:35:05（北京时间） 
+! Total count: 18063
 -960x*0.gif
 -250.js*
 
@@ -1227,6 +1227,7 @@ $removeparam=fbclid
 $removeparam=fbid,domain=festo-didactic.com
 $removeparam=fcref
 $removeparam=feat,domain=hobbyhall.fi
+$removeparam=feature,domain=youtube.com|youtu.be
 $removeparam=fellback,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 $removeparam=fetch_unseen
 $removeparam=fir
@@ -1260,6 +1261,7 @@ $removeparam=gaa_sig
 $removeparam=gaa_ts
 $removeparam=gbraid
 $removeparam=gclid
+$removeparam=gclid,domain=youtube.com|youtu.be
 $removeparam=gclsrc,doc
 $removeparam=gdffi
 $removeparam=gdfms
@@ -1401,6 +1403,7 @@ $removeparam=kltstamp
 $removeparam=ko_click_id
 $removeparam=kpartnerid
 $removeparam=kw,domain=udemy.com|hotels.com
+$removeparam=kw,domain=youtube.com|youtu.be
 $removeparam=l,domain=change.org
 $removeparam=language,domain=reddit.app.link
 $removeparam=lctid
@@ -1781,6 +1784,7 @@ $removeparam=share_time,domain=etsy.com
 $removeparam=shrsl_analytics_sscid
 $removeparam=shrsl_analytics_sstid
 $removeparam=si,doc,domain=open.spotify.com|soundcloud.com|youtube.com|youtu.be|zappos.com
+$removeparam=si,domain=youtube.com|youtu.be
 $removeparam=sid,domain=anrdoezrs.net|dpbolvw.net|gopjn.com|jdoqocy.com|kqzyfj.com|pepperjamnetwork.com|tkqlhce.com|gamereactor.*
 $removeparam=sifi_uid
 $removeparam=site,domain=alina.se
@@ -2753,6 +2757,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 @@/^https?:\/\/([a-z0-9-]+\.)*?google(\.[a-z]{2,}){1,}\/(appsactivity|aclk\?)/$removeparam
 @@/^https?:\/\/([a-z0-9-]+\.)*?google(\.[a-z]{2,}){1,}\/(complete\/search|setprefs|searchbyimage)/$removeparam
 @@/^https?:\/\/([a-z0-9-]+\.)*?google(\.[a-z]{2,}){1,}\/s\?tbm=map.*?gs_[a-z]*=./$removeparam
+@@/^https?:\/\/([a-z0-9-]+\.)*?google(\.[a-z]{2,}){1,}\/safe[-]?browsing\/([^&]+)/$removeparam
 @@/^https?:\/\/([a-z0-9-]+\.)*?tweakers\.net\/ext\/lt\.dsp\?.*?(%3F)?&?ref_?=./$removeparam
 @@/^https?:\/\/(docs|accounts)\.google(\.[a-z]{2,}){1,}/$removeparam
 @@/^https?:\/\/[^/]+/[^/]+/[^/]+\/-\/refs\/switch[^?]*\?.*?&?ref_?=./$removeparam
@@ -2777,6 +2782,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 @@=mm_12852562_1778064_$domain=alimarket.tmall.com|www.taobao.com|www.tmall.com
 @@=mm_12852562_1778064_$domain=taojinbi.taobao.com
 @@=mm_33231655_8000000_$domain=www.taobao.com
+@@^https?:/cu.bankid.com$removeparam
 @@^mkt_unsubscribe=$removeparam=mkt_tok
 @@^mod=djemalertNEWS^$removeparam=mod
 @@_adview_$domain=muzlan.top
@@ -8305,10 +8311,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||aimg.shangdu.com/$script,image
 ||aiode.cn^
 ||aipai.com/rsd/
-||airbnb.(com|ae|ca|co.in|co.nz|co.uk|co.za|com.au|com.mt|com.sg|de|gy|ie)^$removeparam=federated_search_id
-||airbnb.(com|ae|ca|co.in|co.nz|co.uk|co.za|com.au|com.mt|com.sg|de|gy|ie)^$removeparam=search_type
-||airbnb.(com|ae|ca|co.in|co.nz|co.uk|co.za|com.au|com.mt|com.sg|de|gy|ie)^$removeparam=source
-||airbnb.(com|ae|ca|co.in|co.nz|co.uk|co.za|com.au|com.mt|com.sg|de|gy|ie)^$removeparam=source_impression_id
+||airbnb.*^$removeparam=federated_search_id
+||airbnb.*^$removeparam=search_type
+||airbnb.*^$removeparam=source
+||airbnb.*^$removeparam=source_impression_id
 ||airpush.com^
 ||aise9738.com^
 ||aiseet.aa.atianqi.com^
@@ -11222,6 +11228,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||google.*^$removeparam=oq
 ||google.*^$removeparam=pcampaignid
 ||google.*^$removeparam=rlz
+||google.*^$removeparam=sca_esv
 ||google.*^$removeparam=sei
 ||google.*^$removeparam=sourceid
 ||google.*^$removeparam=sxsrf
@@ -17238,9 +17245,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||youtube.com/ptracking?pltype=adhost
 ||youtube.com^$removeparam=ab_channel
 ||youtube.com^$removeparam=embeds_euri
-||youtube.com^$removeparam=feature
-||youtube.com^$removeparam=gclid
-||youtube.com^$removeparam=kw
 ||youtube.com^$removeparam=source_ve_path
 ||youtui.net^
 ||youxi.com/$third-party

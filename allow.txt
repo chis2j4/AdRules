@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-11-08 16:10:14（北京时间） 
-! Total count: 2505
+! Version: 2023-11-09 00:09:49（北京时间） 
+! Total count: 2506
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4767,6 +4767,7 @@
 @@||government-and-constitution.org/images/presidential-seal-300-250.gif$image,~third-party
 @@||gpt-worldwide.com/js/gpt.js$~third-party
 @@||grapeshot.co.uk/main/channels.cgi$script,domain=telegraph.co.uk
+@@||groupbycloud.com/gb-tracker-client-3.min.js$domain=officedepot.co.cr
 @@||grp07.ias.rakuten.co.jp^|
 @@||gs.statcounter.com/chart.php$script,third-party
 @@||gs.statcounter.com^|

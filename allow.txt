@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-11-10 16:09:44（北京时间） 
-! Total count: 2506
+! Version: 2023-11-11 00:09:34（北京时间） 
+! Total count: 2507
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4254,6 +4254,7 @@
 @@||cdn.staticfile.org^$script,domain=movieffm.net
 @@||cdn.treasuredata.com/sdk/$script,domain=retty.me
 @@||cdn.treasuredata.com/sdk/$script,domain=sso.lg.com
+@@||cdn.us*.exponea.com^|
 @@||cdn.usefathom.com/script.js$domain=sharpen-free-design-generator.netlify.app
 @@||cdn.vidoza.co/js/$script,domain=vidoza.co|vidoza.net
 @@||cdn.viglink.com/api/vglnk.js$domain=9to5mac.com|electrek.co

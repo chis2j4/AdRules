@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-11-10 00:09:26（北京时间） 
-! Total count: 18081
+! Version: 2023-11-10 08:35:25（北京时间） 
+! Total count: 18083
 -960x*0.gif
 -250.js*
 
@@ -140,6 +140,7 @@
 ##DIV.col-4.col-sm-2.col-xl-2.px-1.px-sm-2.pb-3.pt-3.pt-sm-0.d-block.d-sm-none
 ##DIV.col-lg-3.col-md-3.col-sm-4.col-12.item.p-0.px-1
 ##DIV.div_adhost
+##DIV.div_sticky2.hidden-lg
 ##DIV.duilian[style*='z-index: 9999; top: 0px; ']
 ##DIV.ec-ad.tim-box
 ##DIV.fixed-bottom.d-block.d-sm-none.movies_ad
@@ -267,6 +268,7 @@
 ##[href^='https://mtyshi.com/']
 ##[href^='https://tz.jingjiezhenkong.com']
 ##[href^='https://tz.kefuyuming.vip/']
+##[href^='https://uod217.com/']
 ##[href^='https://w5979.com:']
 ##[href^='https://www.00285164.com']
 ##[href^='https://www.00426740.com']

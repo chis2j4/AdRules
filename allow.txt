@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-11-12 00:08:25（北京时间） 
-! Total count: 2507
+! Version: 2023-11-12 08:38:32（北京时间） 
+! Total count: 2508
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5663,6 +5663,7 @@
 @@||static.doubleclick.net/instream/ad_status.js$script,domain=ignboards.com
 @@||static.foxnews.com^*/VisitorAPI.js$domain=foxbusiness.com|foxnews.com
 @@||static.hdslb.com/ad-images/$image
+@@||static.knowledgehub.com/global/images/ping.gif?$~third-party
 @@||static.leaddyno.com/js$script,domain=s4l.us
 @@||static.vrv.co^$media,domain=crunchyroll.com
 @@||stats.g.doubleclick.net/dc.js$script,domain=chintaistyle.jp|gyutoro.com

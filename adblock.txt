@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-11-12 00:08:13（北京时间） 
-! Total count: 18083
+! Version: 2023-11-12 08:38:17（北京时间） 
+! Total count: 18084
 -960x*0.gif
 -250.js*
 
@@ -15571,6 +15571,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||teddync.net^
 ||teletrader.com^$removeparam=internal
 ||templates_pc/default/scripts/chapter_bottom.js
+||tempo.co^$doc,removeparam=tracking_page_direct
 ||tencent.xn--io0a7i^
 ||tencentmind.com^
 ||tenddata.com^

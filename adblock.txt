@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-11-17 08:36:41（北京时间） 
-! Total count: 18086
+! Version: 2023-11-17 16:10:16（北京时间） 
+! Total count: 18095
 -960x*0.gif
 -250.js*
 
@@ -2178,6 +2178,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 .com:7891/stats$third-party
 .com:8001/*/*?*=$third-party
 .com:8003/d/*&n=$third-party
+.com:8003/sc/*?n=$third-party
 .com:8004/*/*?*=$third-party
 .com:8005/*&n=$third-party
 .com:8007/*/*?*=$third-party
@@ -9672,6 +9673,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cdon.$removeparam=g
 ||cdrhjt.com^
 ||cdu.cc^
+||cdvsd9.com^
 ||ce3e75d5.jpush.cn^
 ||ceh.cehbh.com^
 ||cell.com^$removeparam=_returnURL
@@ -12504,6 +12506,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||khgj.cn^
 ||khgjfm16.com^
 ||kifyeldd.top^
+||kiitsl.icu^
 ||killcovid2021.com/*.mp4
 ||kingsoft-office-service.com/ad?
 ||kinhincauking.website^
@@ -12655,6 +12658,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||l23jhjfasd.xyz^
 ||l3r6p0d5.com^
 ||l4efwdtg.icu^
+||l80ays.com^
 ||la/style/vue.js?v=
 ||laawmmy.cn^
 ||ladymetro.com^
@@ -14944,6 +14948,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sdqoi2d.com^
 ||sdtieta.com^
 ||sdvfvgj.cn^
+||sdvsv.com^
 ||sdzhongke.cn^
 ||se.360.cn^
 ||se967.com^
@@ -16965,6 +16970,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xlviiirdr.com^
 ||xlviirdr.com^
 ||xlvqhx.xyz^
+||xman.asia^
 ||xmangoculture.com^
 ||xmaterial.tu.qq.com^
 ||xmawwbz.icu^
@@ -17269,6 +17275,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||youtube.com^$removeparam=ab_channel
 ||youtube.com^$removeparam=embeds_euri
 ||youtube.com^$removeparam=source_ve_path
+||youtubee.top^
 ||youtui.net^
 ||youxi.com/$third-party
 ||youxiaoad.com^
@@ -17583,6 +17590,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zhujiwiki.com/ad^
 ||zhuozhongfangshui.cn^
 ||zhushicm.com^
+||ziccattws.com^
 ||zichenit.com^$third-party
 ||zifyeldq.top^
 ||zihuiguochao.top^
@@ -17685,6 +17693,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zzisnvb.cn^
 ||zzlxs.net/apd/index
 ||zzm.cn^
+||zzmyrz.com^
 ||zzpzero.com^
 ||zzqrr.com^
 ||zzrjdp.xyz^

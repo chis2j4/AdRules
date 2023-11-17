@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-11-17 00:10:30（北京时间） 
-! Total count: 2514
+! Version: 2023-11-17 08:36:50（北京时间） 
+! Total count: 2516
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4792,6 +4792,7 @@
 @@||gymnasedeburier.ch/themes/segment/js/$~third-party
 @@||h-cast.jp^$script,domain=bookoffonline.co.jp
 @@||h.imedia.cz/js/cmp2/scmp.js$domain=seznam.cz
+@@||h1g.jp/img/ad/ad_heigu.html$~third-party
 @@||haaretz.co.il/logger/p.gif?$image,xmlhttprequest
 @@||haichaobiao.com^$generichide
 @@||haiwai.com^$generichide
@@ -5249,6 +5250,7 @@
 @@||official.paymaya.com^|
 @@||oiihk.com^$generichide
 @@||oisd.nl^$generichide
+@@||oishi-kenko.com/kenko/assets/v2/ads/$~third-party
 @@||olcdn.com/net/v1/gb2312/$script
 @@||olgame.tw^$generichide
 @@||omniture.walmart.com^|

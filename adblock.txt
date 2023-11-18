@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-11-18 08:35:51（北京时间） 
-! Total count: 18095
+! Version: 2023-11-18 16:09:12（北京时间） 
+! Total count: 18098
 -960x*0.gif
 -250.js*
 
@@ -4364,6 +4364,9 @@ ifeng.com##.slide_popo_modal
 ifeng.com##.swiper-bottom
 ifeng.com##.top_carousel
 ifeng.com##.zhenxuan
+ifeng.com##[class^='index_bottom_box']
+ifeng.com##[class^='index_pageBottomBrand']
+ifeng.com##[class^='index_wutong']
 ifeng.com##[data-cl]
 ifeng.com##[href^='https://mall.ifeng.com'],IMG[class^='picMark-'][src^='https://x0.ifengimg.com/']
 ifeng.com##[id^="cl"]

@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-11-21 00:10:21（北京时间） 
-! Total count: 2517
+! Version: 2023-11-21 08:37:25（北京时间） 
+! Total count: 2519
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4010,6 +4010,7 @@
 @@||aone-soft.com/style/images/ad2.jpg
 @@||api-analytics.magstimconnect.net^$~third-party
 @@||api-js.datadome.co/js/$domain=sso.garena.com
+@@||api-mg2.db-ip.com^$xmlhttprequest,domain=journal-news.com
 @@||api-v*.trbo.com^|
 @@||api-v4.trbo.com/r.php?$script,domain=blau.de
 @@||api.adinplay.com/libs/aiptag/$script
@@ -4260,6 +4261,7 @@
 @@||cdn.usefathom.com/script.js$domain=sharpen-free-design-generator.netlify.app
 @@||cdn.vidoza.co/js/$script,domain=vidoza.co|vidoza.net
 @@||cdn.viglink.com/api/vglnk.js$domain=9to5mac.com|electrek.co
+@@||cdn.wgchrrammzv.com/prod/ajc/loader.min.js$domain=journal-news.com
 @@||cdnb.4strokemedia.com/carousel/v4/comscore-JS-$script
 @@||cdndm5.com/*/dm5/images/banners/$image
 @@||cdndx.clouddata8g.xyz^$domain=ohmanhua.com

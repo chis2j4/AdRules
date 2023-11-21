@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-11-21 16:10:35（北京时间） 
-! Total count: 18100
+! Version: 2023-11-22 00:10:25（北京时间） 
+! Total count: 18115
 -960x*0.gif
 -250.js*
 
@@ -2753,6 +2753,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 ?adspot_
 ?local_ga_js=
 @@$removeparam=/^OCID=/i,app=Microsoft.Msn.News.exe
+@@.com/o.js$domain=2biqu.com
 @@.png#$domain=9zvip.net|club.tgfcer.com|coolinet.com|d1-dm.com
 @@/^https?:\/\/([a-z0-9-\.])*(chat|drive)\.google\.com\/videoplayback/$removeparam
 @@/^https?:\/\/([a-z0-9-]+\.)*?(cloudflare\.com|prismic\.io|tangerine\.ca|gitlab\.com)/$removeparam
@@ -9769,6 +9770,13 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ciimg.com^
 ||ciislunar.com^
 ||ciliba.org/Public/static/js/common-v2.js^
+||cimri.com^$doc,removeparam=commentCount
+||cimri.com^$doc,removeparam=hasFavorite
+||cimri.com^$doc,removeparam=offerCount
+||cimri.com^$doc,removeparam=offerFiltered
+||cimri.com^$doc,removeparam=offerSponsored
+||cimri.com^$doc,removeparam=photoCount
+||cimri.com^$doc,removeparam=platformName
 ||cis.sohu.com^
 ||city.youpukeji.cn^
 ||cix0wk.com^
@@ -13615,6 +13623,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mzybirdnest.com^
 ||n.mark.letv.com^
 ||n.sapxg.cn^$domain=m.630shu.com
+||n11.com^$doc,removeparam=adj_adnomia_click_id
+||n11.com^$doc,removeparam=adj_t
+||n11.com^$doc,removeparam=pfx
 ||n5m5.com/static/js/playcon.js
 ||n5ta9.site^
 ||na7.cc^
@@ -15581,6 +15592,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||techspecndt.com^
 ||ted-club.com^
 ||teddync.net^
+||teknosa.com^$doc,removeparam=adp_cid
+||teknosa.com^$doc,removeparam=adp_oid
 ||teletrader.com^$removeparam=internal
 ||templates_pc/default/scripts/chapter_bottom.js
 ||tempo.co^$doc,removeparam=tracking_page_direct
@@ -15852,6 +15865,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||trc.taboola.com^
 ||treezip.baofeng.net/iteminfo_xml
 ||trektinyreproduce.com^
+||trendyol.com^$doc,removeparam=link_contentid
+||trendyol.com^$doc,removeparam=link_userID
 ||trendyol.com^$removeparam=/^tyutm_/
 ||trfmxf.xyz^
 ||tribalfusion.com^

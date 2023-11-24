@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-11-24 16:10:34（北京时间） 
-! Total count: 18122
+! Version: 2023-11-25 00:09:22（北京时间） 
+! Total count: 18124
 -960x*0.gif
 -250.js*
 
@@ -2130,6 +2130,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 *pushad/
 *ref=404media.co*$doc,removeparam=/^ref=404media.co$/
 *ref=beep.blog*$doc,removeparam=/^ref=beep.blog$/
+*ref=blog.roboflow.com*$doc,removeparam=/^ref=blog.roboflow.com$/
 *ref=easywithai*$doc,removeparam=/^ref=easywithai$/
 *ref=exploit.media*$doc,removeparam=/^ref=exploit.media$/
 *right_ad*
@@ -2895,6 +2896,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 @@||facebook.com/privacy/specific_audience_selector_dialog/$removeparam
 @@||facebook.com^$removeparam=__s
 @@||feed.mix.sina.com.cn^
+@@||flagpedia.net^$ping,xhr,removeparam=gtm
 @@||front-go.lemall.com^
 @@||g.tbcdn.cn^
 @@||gamediad.com:7990

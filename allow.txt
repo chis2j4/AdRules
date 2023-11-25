@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-11-25 00:09:30（北京时间） 
-! Total count: 2520
+! Version: 2023-11-25 08:35:03（北京时间） 
+! Total count: 2522
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4923,6 +4923,7 @@
 @@||itv.com/itv/hserver/*/site=itv/$xmlhttprequest
 @@||itv.com/itv/tserver/$~third-party
 @@||iwa.iplsc.com/iwa.js$script
+@@||iwrite.unipus.cn/js/main/GPT.js$~third-party
 @@||ixueshu.com/ad-server/
 @@||izo.tw/wp-content/advert1.js
 @@||j.wit.qq.com/sc/crystal_ad.js?$domain=888.sports.qq.com
@@ -5797,6 +5798,7 @@
 @@||toggo.de/static/js/sourcepoint.js$domain=toggo.de
 @@||tokbox.com/prod/logging/ClientEvent$domain=examroom.ai
 @@||toolfk.com/tools/js/share/js/jquery.share.min.js
+@@||toolfk.com^$generichide
 @@||toplay.biz/log_event$~third-party,xmlhttprequest
 @@||torimochi.line-apps.com^|
 @@||torrindex.net^$image,script,stylesheet,domain=thepiratebay.org

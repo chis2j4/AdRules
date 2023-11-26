@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-11-26 00:08:24（北京时间） 
-! Total count: 2522
+! Version: 2023-11-26 08:39:23（北京时间） 
+! Total count: 2523
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5653,6 +5653,7 @@
 @@||spxl.socy.es^$script,xmlhttprequest,domain=3djuegosguias.com|3djuegospc.com|applesfera.com|compradiccion.com|directoalpaladar.com|espinof.com|genbeta.com|poprosa.com|trendencias.com|trendenciashombre.com|vidaextra.com|vitonica.com|xatakamovil.com
 @@||src.fedoraproject.org/static/issues_stats.js?$~third-party
 @@||src.litix.io/shakaplayer/*/shakaplayer-mux.js
+@@||src.litix.io/videojs/*/videojs-mux.js$domain=plus.nasa.gov
 @@||ssl-images-amazon.com^*/satelliteLib-$script,domain=audible.com
 @@||ssl.pstatic.net/sstatic/sdyn.js$script,domain=search.naver.com
 @@||ssports.com/images/resources/web/live/js/LiveAds.js

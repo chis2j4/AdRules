@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-11-29 16:10:54（北京时间） 
-! Total count: 2527
+! Version: 2023-11-30 00:10:03（北京时间） 
+! Total count: 2529
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3628,7 +3628,7 @@
 @@/needsharebutton.min.js$domain=leetcode-cn.com
 @@/pub/ad/*$domain=ruten.com.tw
 @@/pub1/??$domain=banggo.com
-@@/sensorsdata-$domain=zkh.com
+@@/sensorsdata-$domain=aixiaoyuan.cn|zkh.com
 @@/sensorsdata.$domain=36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|fenbi.com|imooc.com|kuque.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|ttcdw.cn|xinrenxinshi.com|zzjiasuqi.com
 @@/setCookie?$domain=ctrip.com|ctrip.com.hk|pinyin.cn
 @@/share/js/*$domain=yunpanjingling.com
@@ -4341,6 +4341,7 @@
 @@||cmn.gyro-n.com/js/gyr.min.js$domain=benesse-style-care.co.jp
 @@||cmoney.tw/finance/js/googleanalytics.js
 @@||cmoney.tw/vt/js/google_analytics.js
+@@||cmp.inmobi.com^|
 @@||cmp.telerama.fr/js/telerama.min.js$~third-party
 @@||cnbeta.com.tw^$generichide
 @@||cnet.com/a/video-player/uvpjs-rv/$script,~third-party
@@ -5984,6 +5985,7 @@
 @@||www.statcounter.com^|
 @@||www.ticketmaster.$popup,domain=adclick.g.doubleclick.net
 @@||www.ups.com/WebTracking/processInputRequest
+@@||wwwcache.wral.com/presentation/v3/scripts/providers/analytics/ga.js$~third-party
 @@||wwwimage-tve.cbsstatic.com^
 @@||wx.qq.com/c/=/mpres/*/video_ad_
 @@||wx.qq.com/mmbizwap/*/framead.

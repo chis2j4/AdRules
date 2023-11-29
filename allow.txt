@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-11-29 00:10:26（北京时间） 
-! Total count: 2526
+! Version: 2023-11-29 08:37:18（北京时间） 
+! Total count: 2527
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5884,6 +5884,7 @@
 @@||userapi.com^*.gif?extra=$image,domain=vk.com
 @@||userload.co/adpopup.js$script
 @@||uu.res.netease.com/pc/zt/*/img/ad_
+@@||uukanshu.com^$generichide
 @@||uwufufu.com/_nuxt/mixpanel.$~third-party
 @@||uze-ads.com/ads/$~third-party
 @@||v.17173.com/advideo/*.mp4

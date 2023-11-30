@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-11-30 16:10:11（北京时间） 
-! Total count: 18141
+! Version: 2023-12-01 00:10:09（北京时间） 
+! Total count: 18139
 -960x*0.gif
 -250.js*
 
@@ -541,6 +541,7 @@ $doc,removeparam=channel,domain=1sol.io|amazon.*|bybit.com|coinpanel.com|docs.go
 $doc,removeparam=cn,domain=twitter.com|x.com
 $doc,removeparam=ct,domain=apple.com|bumble.com|newsroom.co.nz
 $doc,removeparam=deliveryName,domain=abp.nl
+$doc,removeparam=dtpid
 $doc,removeparam=feature,domain=reddit.app.link
 $doc,removeparam=helpref,domain=whatsapp.com|facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|instagram.com
 $doc,removeparam=iId,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
@@ -1021,7 +1022,7 @@ $removeparam=btsid
 $removeparam=bx_uid
 $removeparam=bxid
 $removeparam=byp455
-$removeparam=c,domain=appsflyer.com|farfetch.com|hepsiburada.com|norton.com|onelink.me|shopee.*|tiktok.com
+$removeparam=c,doc,domain=announcements.bybit.com|appsflyer.com|farfetch.com|hepsiburada.com|norton.com|onelink.me|shopee.*|tiktok.com
 $removeparam=c3ch
 $removeparam=c3nid
 $removeparam=c[0]
@@ -1181,7 +1182,6 @@ $removeparam=dsp_uid
 $removeparam=dt_dapp
 $removeparam=dt_platform
 $removeparam=dti
-$removeparam=dtpid
 $removeparam=dummy_vsid
 $removeparam=dvp_idcerr
 $removeparam=dvp_psfts
@@ -1599,7 +1599,7 @@ $removeparam=pdpClick
 $removeparam=pfr,domain=msn.com
 $removeparam=pgrp
 $removeparam=pgtype,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion|scmp.com
-$removeparam=pid,domain=123inkjets.com|appsflyer.com|bergfreunde.*|farfetch.com|hepsiburada.com|neeva.com|onelink.me|play.google.com|samsclub.com|shopee.*|th.bing.com|tiktok.com
+$removeparam=pid,doc,domain=123inkjets.com|appsflyer.com|bergfreunde.*|bybit.com|farfetch.com|hepsiburada.com|neeva.com|onelink.me|play.google.com|samsclub.com|shopee.*|th.bing.com|tiktok.com
 $removeparam=piggybackCookie
 $removeparam=pj_creativeid
 $removeparam=pj_publisherid
@@ -2197,10 +2197,8 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 .icu/pssbk?$third-party
 .js?*&ssid=$third-party
 .live/hm.js$third-party
-.live/o.js
 .live/r/*/*_r=*
 .live/ty/*-*-*$third-party
-.live:*/o.js
 .net/v2/stats/1*$third-party
 .net/vh1/1*$third-party
 .ru/ads/
@@ -2230,7 +2228,6 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 .xyz/hm.js?$third-party
 .xyz/jque*.js?$third-party
 .xyz/mithril?$third-party
-.xyz/o.js$third-party
 .xyz/qby_*.js?$third-party
 .xyz/st?gp=*$third-party
 .xyz/svelte?$third-party
@@ -9532,6 +9529,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bxwx8.org/wap/qijixs/afoot.js
 ||bxzm9a.icu^
 ||by8428.com^
+||bybit.com^$doc,removeparam=/^sa_utm_/i
 ||byjykj.xyz^
 ||bytecdn.cn/article/content^
 ||byvlph.xyz^

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-11-30 08:36:52（北京时间） 
-! Total count: 18143
+! Version: 2023-11-30 16:10:11（北京时间） 
+! Total count: 18141
 -960x*0.gif
 -250.js*
 
@@ -2160,12 +2160,10 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 -tongji.
 .buzz$domain=btsj6.com|yinghua8.tv|yinghuavideo.com|dm99.me
 .buzz/*0*0*0*==$third-party
-.cc/o.js$third-party
 .cn/2022/*/*.txt$third-party
 .cn/2023/*/*.txt$third-party
 .cn/ack?s=*$third-party
 .cn/bid?url=*$third-party
-.cn/o.js$third-party
 .cn/redbaiduct.com?s=$third-party
 .cn:*/vh5$third-party
 .cn:8001/*/*?*=$third-party

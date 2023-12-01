@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-12-01 08:40:18（北京时间） 
-! Total count: 18139
+! Version: 2023-12-01 16:10:20（北京时间） 
+! Total count: 18150
 -960x*0.gif
 -250.js*
 
@@ -74,7 +74,9 @@
 ##A[href*='//v.wanfumei.net']
 ##A[href*='/adjump/?']
 ##A[href*='com:'] > IMG[src],A[href*='cc:'] > IMG[src]
+##A[href*='exuvu.com']
 ##A[href*='jialu6699h.vip']
+##A[href*='xzzkx.com']
 ##A[href*='youqu.buzz']
 ##A[href='/?'][target='_blank']
 ##A[href='/hth.html']
@@ -3590,6 +3592,11 @@ byfen.com##.fixed-bottom
 byhh.org##DIV#ad_tool
 bywl6.com###topblock,[height="70"],[src^="/_uploadfile/image"],[style*="width:"]
 bz.moe.pm##.ad
+c.m.163.com##.commentBar
+c.m.163.com##.fixedOpenNewsapp
+c.m.163.com##.js-open-newsapp.s-top > .s-btn
+c.m.163.com##.openNewsapp
+c.m.163.com##.qr
 c114.com.cn,chddh.com,china.com.cn,qingdaonews.com,sj998.com##.ad2
 c114.net##img[src^="images_a/"],embed[src^="images_a/"],img[src^="http://www.c114.net/ftth/images_a/"],embed[src^="images/c114/ad_"],[src^="http://bbs.c114.net/data/attachment/common/cf/"],div[class^="a_cu_"],.barrage_ad,.tab.ad2
 c8yy.com##[height="90px"]
@@ -7521,6 +7528,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||3gmimo.com^
 ||3gu.com^$third-party
 ||3hgui.com^
+||3i2i.com^
 ||3munion.net^
 ||3p-link.com^
 ||3q3l.cn^
@@ -9555,6 +9563,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||c0.ifengimg.com^
 ||c07.xyz^
 ||c1313.f28014.cn^
+||c1d8i3p6.com^
 ||c4d4.cn^
 ||c9r05q.com^
 ||ca.bxwx3.org^
@@ -12038,6 +12047,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||intimidatepropel.com^
 ||intl.iqiyi.com/control/feature_switch?
 ||inveno.com^
+||iobvmtx.xyz^
 ||ioiksw.cn^
 ||iojnask.com^
 ||ionemanhua.com/js/xvideo.js
@@ -17112,6 +17122,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xxmh456.com^
 ||xxmh645.com^
 ||xxniln.xyz^
+||xxsmcps.com^
 ||xxsywxj.com^
 ||xxtalp.xyz^
 ||xxx839.com/*/ads^

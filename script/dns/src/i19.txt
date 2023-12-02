@@ -24,7 +24,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 
 <tr>
 <td>blocklist last updated:</td>
-<td><b class=blue>Thu, 30 Nov 2023 13:25:31 GMT</b></td>
+<td><b class=blue>Fri, 01 Dec 2023 17:02:27 GMT</b></td>
 </tr>
 
 
@@ -41,7 +41,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 
 <tr>
 <td>total entries:</td>
-<td><b class=blue>3778 / 3778</b></td>
+<td><b class=blue>3779 / 3779</b></td>
 </tr>
 
 </table>
@@ -77,8 +77,8 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 30 Nov 2023 13:25:31 GMT
-# entries:        3778
+# last updated:   Fri, 01 Dec 2023 17:02:27 GMT
+# entries:        3779
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts
@@ -3682,6 +3682,7 @@ Blocklist of hostnames and domains for blocking ads, trackers and others (format
 127.0.0.1 verticalmass.com
 127.0.0.1 vervewireless.com
 127.0.0.1 vibrantmedia.com
+127.0.0.1 vibrantsundown.com
 127.0.0.1 vid.pubmatic.com
 127.0.0.1 vidcpm.com
 127.0.0.1 video-stats.video.google.com

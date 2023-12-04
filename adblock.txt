@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-12-04 00:08:24（北京时间） 
-! Total count: 18150
+! Version: 2023-12-04 08:37:27（北京时间） 
+! Total count: 18151
 -960x*0.gif
 -250.js*
 
@@ -1162,6 +1162,7 @@ $removeparam=device,domain=ebay.*
 $removeparam=dfw_tracker
 $removeparam=dgcid
 $removeparam=did,domain=columbiasportswear.*|aws
+$removeparam=dlsi
 $removeparam=dm_i
 $removeparam=dmm_ogerpm
 $removeparam=dnt,domain=reddit.app.link

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-12-04 08:37:27（北京时间） 
-! Total count: 18151
+! Version: 2023-12-04 16:10:49（北京时间） 
+! Total count: 18153
 -960x*0.gif
 -250.js*
 
@@ -3196,6 +3196,7 @@ auto.ifeng.com##div.w1000.c-ad,.top-tg
 autofan.com.cn##div.ad_banner,.xf_ad,[class="add width"],[src^="ad/"]
 autohome.com.cn##.game-full-169,[class^="adv0"]
 autohome.com.cn##div#ad_990_tm,div#ad_fbanner_00,div#ad_fbutton_00,div#ad_ic_video,div#advarticles.advarticle,DIV.advbox,div.pop-autoapp,div[id^="ad_960_"],a[href^="http://qr.net/bvJfs"],[class="grid-14 column"],[class="grid-6 column"],[id^="ad_tuwen"],[id^="adBtmBanner"],[id^="ad_fk_"],[class="monkey monkey_box"],.mall-advbar-tab,.ad-top-1111,.hotcar-mall,.monkey_box_big,.monkey__iconmini,.serve-sm,#mall_960_90,[data-adparent=".monkey"],[id^="tmadv"],[class^="advbox"],.article-content__ad,[height="60px"],.union-ad-placeholder,.monkey-row,.monkeyicon-br,.ad-common
+autohome.com.cn##ol > li,.evade-operate
 autohome.com.cn,loveshang.com##.advbox
 autonet.com.tw##[src^="http://www.autonet.com.tw/90/"],[name="ntwad2"]
 av.xxyywo.com###\32 yujiazai
@@ -4871,7 +4872,6 @@ m.acfun.cn##.shown.open-app-btn
 m.aliyun.com###guid-1351324
 m.appchina.com##div[class^="yyh"]
 m.autohome.com.cn##A[href^="http://t.cn"],section.fn-mt.fn-mlr,li.jmp-promote,[class^="adv03"],#s2205,#s1748
-m.autohome.com.cn##ol > li,.evade-operate
 m.baidi.com,www.baidu.com##DIV[class='voice call']
 m.baidu.com###bottom
 m.baidu.com###navs
@@ -5032,7 +5032,6 @@ m.lianjia.com##div.mod_download:nth-of-type(1)
 m.meilishuo.com##a[href^="/goto/open/?bg"]
 m.mi.com##.download-app-go
 m.mi.com##div.download-app-go
-m.nxnba.com##.bootom-fixed
 m.pcpop.com##div#android_fu,div#apple_fu,div.logo
 m.qidian.com###bookDetailWrapper > div.book-detail-info:last-child > div.book-detail-btn:last-child
 m.qidian.com###footerApp
@@ -5047,7 +5046,6 @@ m.qidian.com##P.text-content
 m.qidian.com##div.app_download
 m.qidian.com##div.book-detail-btn:nth-of-type(3)
 m.qidian.com##div[id*="chapterEndModule_"]
-m.qilishusong.cn##[style*='display: block'],[style*='position: absolute; width: 100%;'],[style*='height:120px;']
 m.qu.la###chaptercontent > p
 m.qu.la###chaptercontent > span
 m.qu.la##dfn.MjAxNQ
@@ -5347,6 +5345,7 @@ nowfeed2all.eu###fanback,[src^="http://c4.zedo.com/jsc/"]
 nownews.com##.ads,.ads-fullscreen,[id^="div-gpt-ad-"],[data-crowdynews-widget="Nownews/nownews-mobile"],.ads-block,[calss="ads-block"],[href^="http://ad1.nownews.com/adclick.php"]
 nuoqiu.com##SPAN.baidu,DIV.parttop[style="height:90px;"]
 nutgeek.com##[src^="https://img.nutgeek.com/ad-"],.widget_cjtz
+nxnba.com##.bootom-fixed
 nyhx.com##div.adv_box
 oHead6205.appendChild( oScript6205);
 oScript6205.type = 'text/javascript';
@@ -5382,6 +5381,7 @@ ouyaoxiazai.com##.ad_show,.qzhengfu,[href^="http://12808.url.tudown.com/down/"]
 oyksoft.com##.h-speed,#down-one,#down-two,.h-spd
 p*-dy.bytecdn.cn/large/*.jpeg
 p4vip.com##.leaveNavInfo
+pabopa.com##DIV[style='width: 100%;'],DIV[carousel-item],#slide.layui-carousel,.closeable
 pageMediaControl*$script
 paipai.fm###sideForum + div
 paipai.fm###the-logo + .fr
@@ -5519,6 +5519,7 @@ qihoo.com##.car-ercode
 qihoo.com##.newsitem[data-rawurl*=".youcai8888.com/"]
 qihoo.com##[id^="detail_aside_gg"]
 qilindao.com###diynavtop,.a_pb,.a_pt,#jeavi_adtop,#jeavi_forum,.tonglanAd
+qilishusong.cn##[style*='display: block'],[style*='position: absolute; width: 100%;'],[style*='height:120px;']
 qimila.net##ins.adsbygoogle,#p_btn
 qingdaonews.com##div#codex,div.wrapfix.pb10,div.wrapfix.pt10,div[class^="ad"],OBJECT#founderflashobject,.zhqd
 qinghe.me###banner300-top-right,#head-banner468
@@ -5944,6 +5945,7 @@ thegreatdaily.com##[id^="ads"],#fbbox,.adsbygoogle,#rightAds
 thegreatdaily.com/cat##.col-lg-8.col-md-8{width:1190px;}
 thepaper.cn##.download
 thepaper.cn##.news_imgad,.rt_ad
+thepaper.cn##[class^='index_footer_banner']
 thepiratebay.org##.ads,#sky-right
 thepiratebay.se##a#image,iframe[src^="//cdn1.adexprt.com/"],iframe[src^="//cdn2.adexprt.com/"]
 thzx.cc###fwin_content_imc_attachad > .f_c > div > div:first-child
@@ -6594,7 +6596,6 @@ www.news.cn##[id^="adBody"],#topAdv,.guanggao
 www.newsmth.net##div#sogou_banner
 www.nuxue.com##DIV[id^="f21ac82b21eeb7322631b6aa94e17f"]
 www.olevod.com##.B1Lss,.B1Rss
-www.pabopa.com##DIV[style='width: 100%;'],DIV[carousel-item],#slide.layui-carousel,.closeable
 www.paipai.fm##a#picleft,a#picright,div.wrapbg
 www.pbhz.com##.agoogled,#text-html-widget-2
 www.pc0359.cn##DIV#\32 345float
@@ -11167,6 +11168,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||getui.com^
 ||getwil.com^
 ||geziyd.com^
+||gfbdb1.com^
 ||gfrzzzx.cn^
 ||gfvip09at.com^
 ||gg*.miguvideo.com^

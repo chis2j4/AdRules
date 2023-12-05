@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-12-05 00:09:59（北京时间） 
-! Total count: 18153
+! Version: 2023-12-05 08:37:30（北京时间） 
+! Total count: 18155
 -960x*0.gif
 -250.js*
 
@@ -536,6 +536,7 @@ $doc,removeparam=_clde
 $doc,removeparam=_cldee
 $doc,removeparam=_ft_
 $doc,removeparam=af,domain=pnas.org|science.org|scitation.org|wiley.com|worldscientific.com
+$doc,removeparam=af_reengagement_window
 $doc,removeparam=aoOfferParams,domain=citi.com
 $doc,removeparam=bpli,domain=blogger.com
 $doc,removeparam=cId,domain=apple.com|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion|youtube.com
@@ -545,6 +546,7 @@ $doc,removeparam=ct,domain=apple.com|bumble.com|newsroom.co.nz
 $doc,removeparam=deliveryName,domain=abp.nl
 $doc,removeparam=dtpid
 $doc,removeparam=feature,domain=reddit.app.link
+$doc,removeparam=gci
 $doc,removeparam=helpref,domain=whatsapp.com|facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|instagram.com
 $doc,removeparam=iId,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
 $doc,removeparam=intc,domain=citi.com
@@ -1024,7 +1026,7 @@ $removeparam=btsid
 $removeparam=bx_uid
 $removeparam=bxid
 $removeparam=byp455
-$removeparam=c,doc,domain=announcements.bybit.com|appsflyer.com|farfetch.com|hepsiburada.com|norton.com|onelink.me|shopee.*|tiktok.com
+$removeparam=c,doc,domain=announcements.bybit.com|appsflyer.com|farfetch.com|glami.cz|hepsiburada.com|norton.com|onelink.me|shopee.*|tiktok.com
 $removeparam=c3ch
 $removeparam=c3nid
 $removeparam=c[0]
@@ -1602,7 +1604,7 @@ $removeparam=pdpClick
 $removeparam=pfr,domain=msn.com
 $removeparam=pgrp
 $removeparam=pgtype,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion|scmp.com
-$removeparam=pid,doc,domain=123inkjets.com|appsflyer.com|bergfreunde.*|bybit.com|farfetch.com|hepsiburada.com|neeva.com|onelink.me|play.google.com|samsclub.com|shopee.*|th.bing.com|tiktok.com
+$removeparam=pid,doc,domain=123inkjets.com|appsflyer.com|bergfreunde.*|bybit.com|dobrytextil.cz|farfetch.com|glami.cz|hepsiburada.com|neeva.com|onelink.me|play.google.com|samsclub.com|shopee.*|th.bing.com|tiktok.com
 $removeparam=piggybackCookie
 $removeparam=pj_creativeid
 $removeparam=pj_publisherid

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-12-06 00:10:35（北京时间） 
-! Total count: 18161
+! Version: 2023-12-06 08:37:30（北京时间） 
+! Total count: 18160
 -960x*0.gif
 -250.js*
 
@@ -9316,6 +9316,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bimiacg*.net/template/JOELEO/asset/js/jquery.leeleo.js
 ||bimiacg4.net/template/JOELEO/asset/js/jquery.common.js
 ||bindright.com^$removeparam=camp_id
+||bing.$doc,removeparam=mkt
 ||bing.$removeparam=CREA
 ||bing.$removeparam=PC
 ||bing.$removeparam=PTAG
@@ -9326,7 +9327,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bing.$removeparam=ecount
 ||bing.$removeparam=efirst
 ||bing.$removeparam=go
-||bing.$removeparam=mkt
 ||bing.$removeparam=nclid
 ||bing.$removeparam=pglt
 ||bing.$removeparam=pq
@@ -9342,7 +9342,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bing.$removeparam=ts
 ||bing.$removeparam=wlexpsignin
 ||bing.$removeparam=wsso
-||bing.*^$removeparam=cvid
 ||bing.*^$removeparam=form
 ||bing.*^$removeparam=qp
 ||bing.*^$removeparam=qs

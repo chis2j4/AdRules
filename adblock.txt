@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-12-07 08:36:55（北京时间） 
-! Total count: 18160
+! Version: 2023-12-07 16:10:14（北京时间） 
+! Total count: 18164
 -960x*0.gif
 -250.js*
 
@@ -11246,6 +11246,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||goingsranchange.com^
 ||golden1.sogou.com^
 ||golden88.co^
+||golengmen.com/assets/publish/
 ||gongxifc.com^
 ||gongyong002.xyz^
 ||gonpc.com^
@@ -11451,6 +11452,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||haffo70.com^
 ||haha.9ku.com/public/home/js/baidu
 ||haihongzg.com^
+||hailfi.top^
 ||haili-spitzer.com^
 ||hailiao520.com^
 ||hainei.org/union/
@@ -12064,6 +12066,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ionemanhua.com/js/xvideo.js
 ||ionksfefe.xyz^
 ||iosppk.com^
+||ioswhi.com^
 ||iot-eu-logser.realme.com^
 ||iot-logser.realme.com^
 ||ip.120ask.com^
@@ -16504,6 +16507,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||whwdzgykybnfg.com^
 ||whwxxny.com^
 ||whyfate.cn^
+||wiczcu.xyz^
 ||widgets.outbrain.com/outbrain.js
 ||widgets.pinterest.com^
 ||widow5blackfr.com^

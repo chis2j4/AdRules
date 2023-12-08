@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-12-08 16:10:23（北京时间） 
-! Total count: 18164
+! Version: 2023-12-09 00:09:44（北京时间） 
+! Total count: 18165
 -960x*0.gif
 -250.js*
 
@@ -12051,6 +12051,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||insfengdata.com^
 ||insights.hotjar.com^
 ||instagram.*.fna.fbcdn.net^$removeparam=ccb,domain=~instagram.com
+||instagram.com^$doc,removeparam=short_redirect
 ||instagram.com^$removeparam=ig_rid
 ||instagram.com^$removeparam=igshid
 ||install.yzapi.top^

@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-12-10 00:08:34（北京时间） 
-! Total count: 2529
+! Version: 2023-12-10 08:40:12（北京时间） 
+! Total count: 2530
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5944,6 +5944,7 @@
 @@||wgun.net^$elemhide
 @@||whatsapp.com^$generichide
 @@||where2getit.com/traderjoes/rest/clicktrack?$domain=traderjoes.com
+@@||widget.fitanalytics.com/widget.js$script,domain=pullandbear.com
 @@||widget.myrentacar.me^$script,subdocument
 @@||widget.trustpilot.com/bootstrap/$script,domain=amartfurniture.com.au|exodus.co.uk|imyfone.com
 @@||widgets.jobbio.com^*/display.min.js$domain=interestingengineering.com

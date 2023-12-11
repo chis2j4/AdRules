@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-12-11 08:37:58（北京时间） 
-! Total count: 18166
+! Version: 2023-12-11 16:11:15（北京时间） 
+! Total count: 18170
 -960x*0.gif
 -250.js*
 
@@ -5848,6 +5848,8 @@ ssports.com##.member_layer
 stackoverflow.com##di#SE20-ad-container
 startos.com##div.test-240
 static/pull/qwe1021.js
+stbemucode.com##DIV.header-ads
+stbemucode.com##IFRAME[frameborder='0'][marginheight='0']
 steachs.com##.adsense,[id^="div-gpt-ad-"],.adsbygoogle
 steamcn.com##.qingyyu_f,[class^="stcn_a_"],.stcn_a_hh,.stcn_a_f,.gou_li_guo_jia_mu,.gou_li_guo_jia_h,.gou_li_guo_jia_f,.gou_li_guo_jia_pr,[class^="qy821_ai_"],.qy821_ai_h,[class$="_ai_f"],[class$="_ai_h"],[class$="_ai_pr"]
 stheadline.com##[class^="ad_"]
@@ -14199,6 +14201,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pghwwjd.com^
 ||pglstatp-toutiao.com/obj^
 ||pglstatp-toutiao.com^
+||phfqumvi.xyz^
 ||philips.$removeparam=linkname
 ||philips.$removeparam=uuid
 ||phoorned.com^
@@ -14401,6 +14404,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pv.quw1234.icu^
 ||pv.sohu.com/cityjson
 ||pv.zhiding.cn^
+||pvajlmhjjq.xyz^
 ||pvnapp.zol.com.cn^
 ||pvnwap.zol.com.cn^
 ||pvtest.zol.com.cn^

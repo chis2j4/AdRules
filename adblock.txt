@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-12-12 08:37:32（北京时间） 
+! Version: 2023-12-12 16:10:51（北京时间） 
 ! Total count: 18172
 -960x*0.gif
 -250.js*
@@ -374,8 +374,6 @@
 ##center > [href^='https://docs.qq.com/doc'][target='_blank']
 ##center > a > IMG[alt$='到期']
 ##center > div.hengfu
-##div#ad > div#gotoPlay
-##div#ad > div[align='center']
 ##div#apage.apage > div > ul > li > a
 ##div#beijing.article_content.layui-clear > div.left > div > a
 ##div#content.content div[id] > DIV[style*='z-index: 2147483647']
@@ -3366,6 +3364,7 @@ baidu.com$$section[class="hint-fold-results-wrapper hint-no-fold"]
 baidu.com,ifeng.com##.ad-list
 baidu.com,youdao.com#@#.share-content
 baiduyunso.com##.rcode
+baifumeiba.com##DIV#ad
 baihe.com##div.carousel
 baihei.cc##.a_f,.a_mu,.a_cb,.a_cn,.it618_firstad_flex,td[colspan="5"],.a_pt,.bm.a_c
 baihei.net##.a_h
@@ -3837,6 +3836,7 @@ ddooo.com##.gsbtn
 ddooo.com##.gsbtn1
 ddooo.com##[onclick*="soft.ddooo."]
 ddrk.me##div[id^="zmda"]
+ddzzxs.com###inglestore.inglestore
 debulu.org##.banner,.sidead
 dedejs.com##[class^="gg"]
 deepvps.com###headads,[href^="http://www.deepvps.com/go/"]

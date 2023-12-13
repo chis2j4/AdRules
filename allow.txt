@@ -1,5 +1,5 @@
 ! Title: Allowlist
-! Version: 2023-12-13 16:10:35（北京时间） 
+! Version: 2023-12-14 00:09:14（北京时间） 
 ! Total count: 2530
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
@@ -5182,7 +5182,7 @@
 @@||msubload.com/sub/$xmlhttprequest
 @@||mtouch.facebook.com/ads/api/preview/$domain=business.facebook.com
 @@||mui.com^$generichide
-@@||munchkin.marketo.net/munchkin.js$domain=telus.com
+@@||munchkin.marketo.net/munchkin.js$domain=st.com|telus.com
 @@||musictrack.jp/a/ad/banner_member.jpg
 @@||muzlan.top/ads/banner.png
 @@||muzlan.top^$generichide

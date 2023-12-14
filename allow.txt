@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-12-14 16:10:30（北京时间） 
-! Total count: 2532
+! Version: 2023-12-15 00:08:35（北京时间） 
+! Total count: 2533
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3840,6 +3840,7 @@
 @@||addicted.es^*/ad728-$image,~third-party
 @@||addon.dismall.com/resource/*/ad
 @@||addthis.com/*-angularjs.min.js$script,domain=ead.senac.br|missingkids.com|missingkids.org
+@@||addthis.com/js/*/addthis_widget.js$script,domain=stagecoachbus.com
 @@||adfurikun.jp/adfurikun/images/$~third-party
 @@||adidasoriginals-lookbook.com.tw/js/adtracking.js
 @@||adjs.8591.com.tw^$script

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-12-14 16:10:20（北京时间） 
-! Total count: 18184
+! Version: 2023-12-15 00:08:25（北京时间） 
+! Total count: 18183
 -960x*0.gif
 -250.js*
 
@@ -552,6 +552,7 @@ $doc,removeparam=feature,domain=reddit.app.link
 $doc,removeparam=gci
 $doc,removeparam=helpref,domain=whatsapp.com|facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|instagram.com
 $doc,removeparam=iId,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
+$doc,removeparam=icmp,domain=fortnite.com|lego.com
 $doc,removeparam=intc,domain=citi.com
 $doc,removeparam=jp_cmp,domain=chase.com
 $doc,removeparam=l,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
@@ -570,6 +571,7 @@ $doc,removeparam=source,denyallow=googlevideo.com,domain=1sol.io|ashford.com|aso
 $doc,removeparam=src,domain=citi.com
 $doc,removeparam=sspUserID
 $doc,removeparam=st,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
+$doc,removeparam=t,domain=rakuten.com|steamcdn-a.akamaihd.net|duckduckgo.com|npr.org|elprecio.es|adressa.no|tiktok.com|lookmovie211.xyz
 $doc,removeparam=traceId
 $doc,removeparam=trackID
 $doc,removeparam=trackid,domain=~nzpost.co.nz
@@ -1882,7 +1884,6 @@ $removeparam=sv_session
 $removeparam=svisitor
 $removeparam=sxsrf
 $removeparam=szredirectid
-$removeparam=t,domain=rakuten.com|steamcdn-a.akamaihd.net|duckduckgo.com|npr.org|elprecio.es|adressa.no|tiktok.com|lookmovie211.xyz
 $removeparam=ta_partner_did
 $removeparam=taboola_hm
 $removeparam=taboola_id
@@ -2894,7 +2895,6 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 @@||developer.apple.com$generichide
 @@||dlkoo.com/down/Copydown1
 @@||download.jumpw.com^
-@@||duckduckgo.com/tty^$removeparam=t
 @@||dwstatic.com/b=amkit
 @@||e.crashlytics.com/spi/v2/events$app=com.gedoor.monkeybook
 @@||ecitic.com^
@@ -12781,7 +12781,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lee789.com^
 ||leeyuo.com^
 ||legdeh.fun^
-||lego.com^$removeparam=icmp
 ||legopq.site^
 ||legou361.com^
 ||legozu.com^$third-party

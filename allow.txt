@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-12-15 16:10:21（北京时间） 
-! Total count: 2533
+! Version: 2023-12-16 00:09:52（北京时间） 
+! Total count: 2532
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4909,8 +4909,7 @@
 @@||indeed.com/rpc/log/myjobs/$~third-party
 @@||infotel.ca/images/ads/$image,~third-party
 @@||infoworld.com/www/js/ads/gpt_includes.js$~third-party
-@@||ingest.sentry.io/api/$xmlhttprequest,domain=orionprotocol.io|tesco.com
-@@||ingest.sentry.io/api/$xmlhttprequest,domain=tesco.hu
+@@||ingest.sentry.io/api/$xmlhttprequest,domain=orionprotocol.io|play.tv3.lv|tesco.com|tesco.hu
 @@||inoreader.com^$genericblock,generichide
 @@||inpad.com.tw/data/adv/
 @@||inskinmedia.com^*/js/base/api/$domain=appledaily.com|nextmedia.com

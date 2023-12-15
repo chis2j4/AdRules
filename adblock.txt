@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-12-15 00:08:25（北京时间） 
-! Total count: 18183
+! Version: 2023-12-15 08:37:31（北京时间） 
+! Total count: 18186
 -960x*0.gif
 -250.js*
 
@@ -9874,6 +9874,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cmbkgmx.cn^
 ||cmgjqqu.cn^
 ||cmh2pw.com^
+||cmp.inmobi.com/tcfv2/cmp2.js$removeparam=referer
 ||cmp288.com^
 ||cmpxaup.cn^
 ||cms-image.cdn.bcebos.com^
@@ -14350,6 +14351,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||prdohgp.cn^
 ||prelandappslab.com^
 ||prispresseren.dk^$removeparam=/^amp;/
+||privatbank.ua^$removeparam=visit_id
 ||privateadx.com^
 ||prjslxhtx005.top^
 ||prlioxb.cn^
@@ -17188,6 +17190,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||yandex.$removeparam=clid
 ||yandex.*^$removeparam=lr
 ||yandex.*^$removeparam=redircnt
+||yandex.com/portal/set/any$removeparam=sk
 ||yangjie.asia^
 ||yangliu.ink^
 ||yangniupiju.com^

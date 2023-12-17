@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-12-17 16:09:26（北京时间） 
-! Total count: 18190
+! Version: 2023-12-18 00:08:46（北京时间） 
+! Total count: 18192
 -960x*0.gif
 -250.js*
 
@@ -1257,7 +1257,7 @@ $removeparam=fobs
 $removeparam=fpestid
 $removeparam=fr,domain=baidu.com|thegay.com|todayonline.com|hclips.com|search.yahoo.com
 $removeparam=fref
-$removeparam=from,doc,domain=apkpure.com|bandcamp.com|browserling.com|ettoday.net|luisaviaroma.com|sogou.com|store.hbr.org|app.snyk.io|onlinepngtools.com|indiatimes.com|jetbrains.com|nextdns.io
+$removeparam=from,doc,domain=apkpure.com|bandcamp.com|browserling.com|ettoday.net|luisaviaroma.com|sogou.com|store.hbr.org|app.snyk.io|onlinepngtools.com|indiatimes.com|jetbrains.com|nextdns.io|tvtropes.org
 $removeparam=from,domain=indeed.com
 $removeparam=fromLoggedOutHome,domain=ocado.com
 $removeparam=fromMostRead,domain=bloomberg.com
@@ -3027,6 +3027,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 @@||startpage.com/suggestions$removeparam=segment
 @@||stat.pc.music.qq.com/fcgi-bin/player_
 @@||stat.v-56.com/player
+@@||stripe.com$domain=pay.openai.com
 @@||stripe.com/*?*referrer=$removeparam
 @@||sug.browser.miui.com^$important
 @@||support.steampowered.com^$removeparam
@@ -10956,6 +10957,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fhrl2018.com^
 ||fhsmtrnsfnt.com^
 ||fhvbhx.xyz^
+||fifa.com^$doc,removeparam=entryPoint
 ||fiktvlnc.icu^
 ||file-yuedu.iqiyi.com/book^$app=com.qiyi.video
 ||file.market.xiaomi.com/download/AppStore/

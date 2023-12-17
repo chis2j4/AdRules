@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-12-17 08:40:08（北京时间） 
-! Total count: 18186
+! Version: 2023-12-17 16:09:26（北京时间） 
+! Total count: 18190
 -960x*0.gif
 -250.js*
 
@@ -294,6 +294,7 @@
 ##[src$='/dibu.adadadad']
 ##[src*='zdmbl.xyz']
 ##[src='/images/c_l.png']
+##[src='/static/ads.png']
 ##[src='http://m.guangzhoubingqing.com/88888.jpg']
 ##[src='https://pnm.hpvitycz.cn/00.jpg']
 ##[src^="https://img.sobot.com/chatres/"][title="sb"]
@@ -7467,10 +7468,12 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||2cnjuh34jbpoint.com^
 ||2g9x9uf.cn^
 ||2pogg4c.cn^
+||2qpqwkx.cn^
 ||2te.com^
 ||2te.com^$third-party
 ||2u3v4w5x6y.com^
 ||2vv.cc^
+||2xmzazd.cn^
 ||2yt.cn^
 ||3.cjcp.cn^
 ||301pk.com^
@@ -8946,6 +8949,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||b4g7k9d2.com^
 ||b59.xyz^
 ||b5h7.com^
+||b5v0m3q8.com^
 ||b9b2oe8720j.xyz^
 ||babbel.com^$removeparam=bsc
 ||babbel.com^$removeparam=btp

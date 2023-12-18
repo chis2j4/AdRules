@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-12-18 08:38:02（北京时间） 
-! Total count: 18192
+! Version: 2023-12-18 16:11:00（北京时间） 
+! Total count: 18197
 -960x*0.gif
 -250.js*
 
@@ -7216,6 +7216,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||0593info.com^
 ||0594003.com^
 ||0594529.com^
+||05pg9z.com^
 ||05sun.com/js/$script
 ||06362.com^
 ||063tutu.com^
@@ -8277,6 +8278,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||adtng.com^
 ||adtoll.com^
 ||adttt.com^
+||adtx2.cn^
 ||adultfriendfinder.com^
 ||aduu.cn^
 ||adv-
@@ -9549,6 +9551,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||buzzads.com^
 ||buzzfeednews.com^$removeparam=bfsource
 ||bvakl.ifeng.com^
+||bvpqrydt.xyz^
 ||bvsfv6.com^
 ||bvvb9.com^
 ||bwdhuanbao.com^
@@ -12594,6 +12597,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kk99.co^
 ||kkbiqu2.com/js/one.js
 ||kkbiqu2.com/js/yuedu.js
+||kkisoo.com^
 ||kklpe.xyz^
 ||kkmbbvz.xyz^
 ||kkpgv2.xunlei.com^
@@ -15428,7 +15432,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||statics.woozooo.com^
 ||statics88.vip^
 ||statis1.mama.cn^
-||statisfile.com^
 ||stats.gc.apple.com^
 ||stats.jpush.cn^
 ||stats.v.duowan.com^
@@ -16591,6 +16594,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||woodpecker.uc.cn^
 ||woot.com^$removeparam=/^ref_?=/
 ||worjeklmq.com^
+||worlderva.com^
 ||worldssl.net^
 ||worldwide.sogou.com^
 ||wosoni.com/tuku^
@@ -17726,6 +17730,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zongzuhulian.com^
 ||zonst.com^
 ||zonyff.xyz^
+||zotcjeig.xyz^
 ||zouqiuyyds.com^
 ||zowralr.cn^
 ||zp0573.cn^

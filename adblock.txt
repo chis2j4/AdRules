@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-12-19 08:37:10（北京时间） 
-! Total count: 18197
+! Version: 2023-12-19 16:10:42（北京时间） 
+! Total count: 18204
 -960x*0.gif
 -250.js*
 
@@ -239,7 +239,10 @@
 ##[href*='.lookxmh3']
 ##[href*='.top/?token=']
 ##[href*='.xacg.info/']
+##[href*='anrvl.com']
+##[href*='snnrb.com']
 ##[href*='sohu.com/hy-op']
+##[href*='zthbe.com']
 ##[href="/ad/007.html"]
 ##[href='/ad.html']
 ##[href='/ad/bfy.html']
@@ -10670,6 +10673,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ecoefh.com^
 ||ecomgxh.kuwo.cn^
 ||ecosia.org^$removeparam=addon
+||ectyet.top^
 ||ecudsc.cn^
 ||ecwmvlhy.com^
 ||ed.gumoda.top^
@@ -11893,6 +11897,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||iee5.com^
 ||ieeod0.com^
 ||iemwbu.cn^
+||iephrenhq.com^
 ||iface2.iqiyi.com/control/3.0^
 ||iface2.iqiyi.com/views_pop/3.0^
 ||ifacelog.iqiyi.com^
@@ -15332,6 +15337,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||souacode.com^
 ||soulsoul.xyz^
 ||soup.v.qq.com^
+||sovelswpq.com^
 ||spartoo.$removeparam=sx
 ||spartoo.$removeparam=track_id
 ||spiegel.de^$removeparam=b
@@ -16075,6 +16081,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||uc610.com^$third-party
 ||uca6.com^
 ||uchat6.com^
+||uckgqa.xyz^
 ||ucoz.com^
 ||uctrac.com^
 ||ucweb.com^

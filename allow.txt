@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-12-20 16:08:41（北京时间） 
-! Total count: 2534
+! Version: 2023-12-21 00:08:02（北京时间） 
+! Total count: 2535
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5929,6 +5929,7 @@
 @@||warpwire.com/AD/
 @@||warpwire.net/AD/
 @@||wavepc.pl/wp-content/*-500x100.png$image,~third-party
+@@||wavse.com^$generichide
 @@||web-ads.pulse.weatherbug.net/api/ads/targeting/$domain=weatherbug.com
 @@||web.archive.org^$generichide
 @@||web.dev/patterns/web-vitals-$~third-party

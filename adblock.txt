@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-12-21 00:07:50（北京时间） 
-! Total count: 18206
+! Version: 2023-12-21 08:36:30（北京时间） 
+! Total count: 18211
 -960x*0.gif
 -250.js*
 
@@ -568,10 +568,12 @@ $doc,removeparam=orig_ref,domain=peacocktv.com
 $doc,removeparam=plcmt,domain=grafana.com
 $doc,removeparam=refId,domain=aebn.com|linkedin.com
 $doc,removeparam=referrer,domain=~bolt.com|~f4map.com|~deviantart.com|~github.com|~discover.*|~vimeo.*|~123-reg.co.uk
+$doc,removeparam=refresh,domain=cnn.com|startribune.com
 $doc,removeparam=selectedCCIndex,domain=citi.com
 $doc,removeparam=sh,domain=forbes.com|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
 $doc,removeparam=share_id,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
 $doc,removeparam=shortlink
+$doc,removeparam=site,domain=affiliate.insider.com|alina.se
 $doc,removeparam=source,denyallow=googlevideo.com,domain=1sol.io|ashford.com|asos.com|att.com|awd-it.*|bankofamerica.com|barenecessities.com|bedbathandbeyond.com|betterprogramming.pub|blavity.com|blog.getadblock.com|blogs.oracle.com|bluemountain.com|boscovs.com|boxboat.com|britishcornershop.co.uk|brownells.*|burkesoutlet.com|bybit.com|choicehotels.com|chollometro.com|coinpanel.com|contabo.com|cmswire.com|cyberghostvpn.com|despegar.*|directv.com|discord.*|docs.google.com|docsend.com|drinkhint.com|educba.com|edx.org|eonline.com|escentual.com|eventbrite.*|fiverr.com|fool.com|forms.gle|gethotspotshield.com|gleam.io|goodcrypto.app|googleusercontent.com|greenhouse.io|greenvoice.fr|about.gitlab.com|hammacher.com|hanes.com|hbomax.com|hobbyhall.fi|hotspotshield.com|hottopic.com|housing.com|hp.com|instagram.com|itnext.io|jacquielawson.com|jobs.deepl.com|just-eat.co.uk|kasta.io|ladbible.com|learn.microsoft.com|medium.com|microsoftedgewelcome.microsoft.com|monster.fi|nautica.com|netflix.com|nortonsafe.search.ask.com|ngx.me|onehanesplace.com|outnorth.fi|paypal.com|petsupplies.com|phonesoap.com|propublica.org|quizlet.com|remppatori.fi|riteaid.com|runnode.com|search.brave.com|seekingalpha.com|sonos.com|spiceworks.com|squarespace.com|studio.co.uk|subscribe.gq.com|t.me|theathletic.com|thedailybeast.com|tiktok.com|tokopedia.com|tommybahama.com|torrid.com|tous.com|tradingview.com|trendmicro.com|tumblr.com|twitter.com|user.qzone.qq.com|vimeo.com|webhint.io|wilsonsleather.com|wired.com|xd.wayin.com|x.com|ylighting.com|youtube.com|yubo.live
 $doc,removeparam=src,domain=citi.com
 $doc,removeparam=sspUserID
@@ -1729,7 +1731,6 @@ $removeparam=referrer_id,domain=autoblog.com
 $removeparam=referrer_url,domain=reddit.app.link
 $removeparam=referringSource
 $removeparam=reflink,domain=marketwatch.com|mansionglobal.com|wsj.com
-$removeparam=refresh,domain=cnn.com|startribune.com
 $removeparam=refsec,domain=barrons.com
 $removeparam=regi_id,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 $removeparam=region,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
@@ -1813,7 +1814,6 @@ $removeparam=si,doc,domain=open.spotify.com|soundcloud.com|youtube.com|youtu.be|
 $removeparam=si,domain=youtube.com|youtu.be
 $removeparam=sid,domain=anrdoezrs.net|dpbolvw.net|gopjn.com|jdoqocy.com|kqzyfj.com|pepperjamnetwork.com|tkqlhce.com|gamereactor.*
 $removeparam=sifi_uid
-$removeparam=site,domain=alina.se
 $removeparam=site_id,domain=taskrabbit.com|kochava.com
 $removeparam=site_refer,domain=saksfifthavenue.com|saksoff5th.com
 $removeparam=sjdu,domain=indeed.com
@@ -8335,6 +8335,11 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||afd.baidu.com^
 ||afdunaui.com^
 ||afenx.top^
+||affiliate.insider.com^$doc,removeparam=amazonTrackingID
+||affiliate.insider.com^$doc,removeparam=h
+||affiliate.insider.com^$doc,removeparam=platform
+||affiliate.insider.com^$doc,removeparam=postID
+||affiliate.insider.com^$doc,removeparam=postSlug
 ||afgp10l.com^
 ||afj.cc^
 ||afk3rs.xyz^

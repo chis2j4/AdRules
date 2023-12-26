@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2023-12-26 08:35:44（北京时间） 
-! Total count: 2537
+! Version: 2023-12-26 16:10:10（北京时间） 
+! Total count: 2538
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5484,6 +5484,7 @@
 @@||reallyfreegeoip.org/json/$domain=thekitchensafe.com
 @@||recaptcha.net/recaptcha/$script
 @@||receiveasms.com^$generichide
+@@||recommender.scarabresearch.com^|
 @@||redbull.com/gtm.js$~third-party
 @@||reddit.com^$generichide
 @@||redditinc.com/assets/images/site/*_300x250.$image,~third-party

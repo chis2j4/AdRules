@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-12-27 00:08:52（北京时间） 
-! Total count: 18219
+! Version: 2023-12-27 08:35:38（北京时间） 
+! Total count: 18240
 -960x*0.gif
 -250.js*
 
@@ -544,6 +544,21 @@ $doc,removeparam=LID
 $doc,removeparam=_clde
 $doc,removeparam=_cldee
 $doc,removeparam=_ft_
+$doc,removeparam=_p_rfs,domain=temu.com
+$doc,removeparam=_x_ads_account,domain=temu.com
+$doc,removeparam=_x_ads_channel,domain=temu.com
+$doc,removeparam=_x_ads_creative_id,domain=temu.com
+$doc,removeparam=_x_ads_id,domain=temu.com
+$doc,removeparam=_x_ads_set,domain=temu.com
+$doc,removeparam=_x_ads_sub_channel,domain=temu.com
+$doc,removeparam=_x_gmc_account,domain=temu.com
+$doc,removeparam=_x_gmc_catalog,domain=temu.com
+$doc,removeparam=_x_ns_device,domain=temu.com
+$doc,removeparam=_x_ns_match_type,domain=temu.com
+$doc,removeparam=_x_ns_msclkid,domain=temu.com
+$doc,removeparam=_x_ns_sku_id,domain=temu.com 
+$doc,removeparam=_x_ns_source,domain=temu.com
+$doc,removeparam=_x_vst_scene,domain=temu.com
 $doc,removeparam=af,domain=pnas.org|science.org|scitation.org|wiley.com|worldscientific.com
 $doc,removeparam=af_reengagement_window
 $doc,removeparam=aoOfferParams,domain=citi.com
@@ -565,10 +580,13 @@ $doc,removeparam=jp_cmp,domain=chase.com
 $doc,removeparam=l,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
 $doc,removeparam=lId,domain=apple.com|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion|youtube.com
 $doc,removeparam=method,domain=peacocktv.com
+$doc,removeparam=mkt_rec,domain=temu.com
 $doc,removeparam=o,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
 $doc,removeparam=orig_ref,domain=peacocktv.com
 $doc,removeparam=plcmt,domain=grafana.com
 $doc,removeparam=refId,domain=aebn.com|linkedin.com
+$doc,removeparam=refer_page_el_sn,domain=temu.com
+$doc,removeparam=refer_page_sn,domain=temu.com
 $doc,removeparam=referrer,domain=~bolt.com|~f4map.com|~deviantart.com|~github.com|~discover.*|~vimeo.*|~123-reg.co.uk
 $doc,removeparam=refresh,domain=cnn.com|startribune.com
 $doc,removeparam=selectedCCIndex,domain=citi.com
@@ -3201,6 +3219,8 @@ anzhi.com##.ft_module
 aoshitang.com##div#msg_win,div.lunbo
 apic.in##.ad,.adsbygoogle,[src="http://www.apic.in/dyd.png"]
 apk.tw##[class^=" yap-ad-"],.viewShare,#ct > div.mn> div:nth-child(1),div#favatarRight.fixedBox,div#focus.focus,div#sitefocus.focus,div.a_pb,div.a_p,div.a_pt,div.sitemajiad,iframe,div[style$="width:728px;height:90px;"],img[height="90"][width="728"],.sitemaji_banner,.adsbygoogle,#confirmBox,.w728,[id^="confirmOverlay"],.adsbygoogle,[id^="confirmOverla"]
+apkcombo.com##.diseanmevrtt
+apkcombo.com##[data-d-ad-id]
 app.bilibili.com##[id^="ad_info"]
 app.sogou.com##div.sogou-app
 app111.com##[height="60"],.ads
@@ -4341,9 +4361,11 @@ huxiu.com##div#app-guide-box
 huxiu.com##li:nth-of-type(1) > .header-top-list__link > .flip-wrap > .flip-up
 huya.com###J_duyaHeaderRight > .clearfix.duya-header-control > .hy-nav-download.hy-nav-right
 huya.com###player-download-guide-tip
+huya.com###template
 huya.com##.jump-to-phone
 huya.com##.tip-bg-common-new.diy-activity-icon-bubble-tips
 huya.com##.wrap-income.chat-wrap-panel
+huya.com##A[data-edesc='点击/推荐/左侧导航推荐图']
 huya.com##div[class*="NavDownload"]
 hwxz.com##.g3
 hxnews.com##div.rowa.clearfix,div.row.clearfix,div.ad_left,div.dxw,div.ty_3,div[id^="change_index_"],div.span-12.w495,div.link_drawing.clearfix,div.bd,.adv-text,.banner-100,.banner-90
@@ -6548,7 +6570,6 @@ www.hi1978.com##div.ad,div#miaov_float_layer
 www.hon3yhd.com##div[id^="MarketGidScriptRootC"],iframe[src^="http://bdfrm.bidvertiser.com/"]
 www.huadongty.com##DIV[id$=' img-containers']
 www.huadongty.com##SECTION
-www.huya.com##A[data-edesc='点击/推荐/左侧导航推荐图']
 www.hxsteel.cn###paihang,.xuanchuan,.baidulianmeng
 www.hxsxw.com##div.tac.mb5
 www.hzw.com.cn##.xfb_close_icon,#xfb_lbox,.xfb_close_btn

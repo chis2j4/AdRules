@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2023-12-27 16:09:49（北京时间） 
-! Total count: 18240
+! Version: 2023-12-28 00:09:20（北京时间） 
+! Total count: 18244
 -960x*0.gif
 -250.js*
 
@@ -579,16 +579,20 @@ $doc,removeparam=intc,domain=citi.com
 $doc,removeparam=jp_cmp,domain=chase.com
 $doc,removeparam=l,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
 $doc,removeparam=lId,domain=apple.com|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion|youtube.com
+$doc,removeparam=lyceumGuid,domain=bedbathandbeyond.com
 $doc,removeparam=method,domain=peacocktv.com
 $doc,removeparam=mkt_rec,domain=temu.com
 $doc,removeparam=o,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
 $doc,removeparam=orig_ref,domain=peacocktv.com
+$doc,removeparam=osp,domain=bedbathandbeyond.com
 $doc,removeparam=plcmt,domain=grafana.com
 $doc,removeparam=refId,domain=aebn.com|linkedin.com
+$doc,removeparam=refccid,domain=bedbathandbeyond.com
 $doc,removeparam=refer_page_el_sn,domain=temu.com
 $doc,removeparam=refer_page_sn,domain=temu.com
 $doc,removeparam=referrer,domain=~bolt.com|~f4map.com|~deviantart.com|~github.com|~discover.*|~vimeo.*|~123-reg.co.uk
 $doc,removeparam=refresh,domain=cnn.com|startribune.com
+$doc,removeparam=searchidx,domain=bedbathandbeyond.com
 $doc,removeparam=selectedCCIndex,domain=citi.com
 $doc,removeparam=sh,domain=forbes.com|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
 $doc,removeparam=share_id,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-01-01 16:10:22（北京时间） 
-! Total count: 18264
+! Version: 2024-01-02 00:09:19（北京时间） 
+! Total count: 18266
 -960x*0.gif
 -250.js*
 
@@ -153,6 +153,7 @@
 ##DIV.loc_banner.only-app
 ##DIV.module-adslist
 ##DIV.myui-content__acc[style='position: relative;padding: 0 10px']
+##DIV.playVideo-centerAd
 ##DIV.row.no-gutters.m-0
 ##DIV.sptable_do_not_remove f_one
 ##DIV.stui-player__item.clearfix > img[url]
@@ -191,6 +192,7 @@
 ##IMG#diads
 ##IMG.cupfox[src$='gif']
 ##IMG.lazyload[src='/statics/img/load.gif']
+##IMG.playVideo-checkin-img
 ##IMG[alt='155.fun']
 ##IMG[alt='五一特惠']
 ##IMG[alt^='kaiybet']

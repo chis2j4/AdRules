@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-01-04 08:37:11（北京时间） 
+! Version: 2024-01-04 16:09:57（北京时间） 
 ! Total count: 18266
 -960x*0.gif
 -250.js*
@@ -1358,7 +1358,7 @@ $removeparam=guce_referrer
 $removeparam=guce_referrer_sig
 $removeparam=gws_rd
 $removeparam=h,domain=clockks.com|tellywebnews.com
-$removeparam=h,domain=files.wordpress.com|store.playstation.com|s-microsoft.com|store-images.microsoft.com
+$removeparam=h,domain=files.wordpress.com|store.playstation.com|s-microsoft.com|store-images.microsoft.com|dr.dk
 $removeparam=hash,domain=ebay.*
 $removeparam=hasha
 $removeparam=hashb
@@ -2043,7 +2043,7 @@ $removeparam=vifNav
 $removeparam=visit_id,doc,domain=bilibili.com|google.*
 $removeparam=vndid,domain=paramountplus.com|cbs.com
 $removeparam=vxii_pdid
-$removeparam=w,domain=files.wordpress.com|store.playstation.com|s-microsoft.com|store-images.microsoft.com
+$removeparam=w,domain=files.wordpress.com|store.playstation.com|s-microsoft.com|store-images.microsoft.com|dr.dk
 $removeparam=waad
 $removeparam=wapa6,domain=hoteles.com|hotels.com
 $removeparam=wbraid

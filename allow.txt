@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-01-04 00:10:02（北京时间） 
-! Total count: 2539
+! Version: 2024-01-04 08:37:22（北京时间） 
+! Total count: 2542
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5420,6 +5420,7 @@
 @@||pttplay.com/js/momo/adsbygoogle.js
 @@||ptwxz.com/scripts/readindex/tongji.js
 @@||pub.alimama.com/common/adzone/
+@@||pub.doubleverify.com/dvtag/$script,domain=time.com
 @@||pub.pixels.ai/prebid_standard.js$script,domain=standard.co.uk
 @@||pub.pixels.ai/wrap-independent-no-prebid-lib.js$script,domain=independent.co.uk
 @@||pubads.g.doubleclick.net/gampad/ads?*&description_url=https%3A%2F%2Fani.gamer.com.tw$domain=imasdk.googleapis.com
@@ -5692,6 +5693,7 @@
 @@||static.knowledgehub.com/global/images/ping.gif?$~third-party
 @@||static.leaddyno.com/js$script,domain=s4l.us
 @@||static.vrv.co^$media,domain=crunchyroll.com
+@@||statics.zcool.com.cn/track/sensors.$script,~third-party
 @@||stats.g.doubleclick.net/dc.js$script,domain=chintaistyle.jp|gyutoro.com
 @@||stats.pusher.com/timeline/$script,domain=bringatrailer.com
 @@||stats.sports.bellmedia.ca^$domain=rds.ca|tsn.ca
@@ -5821,6 +5823,7 @@
 @@||toyota.com/recall/static/js/custom/facebookPixel.js$~third-party
 @@||tpc.googlesyndication.com/pagead/js/$domain=googleads.g.doubleclick.net
 @@||tq121.com.cn/j/ad/caoyu-min.js$domain=products.weather.com.cn
+@@||tr.rdrtr.com^|
 @@||tra.scds.pmdstatic.net/advertising-core/$domain=voici.fr
 @@||tra.scds.pmdstatic.net/sourcepoint/$domain=businessinsider.fr|capital.fr|voici.fr
 @@||traceparts.com/lib/piano-analytics/piano-analytics.js$script,~third-party

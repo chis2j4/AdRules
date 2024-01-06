@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-01-06 08:36:43（北京时间） 
-! Total count: 2543
+! Version: 2024-01-06 16:09:18（北京时间） 
+! Total count: 2545
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4119,6 +4119,7 @@
 @@||baidustatic.com^$domain=xoyo.com
 @@||baixing.net/combine/*,/css/ad-
 @@||bam.nr-data.net^$script,domain=kapwing.com
+@@||bam.nr-data.net^$xmlhttprequest,domain=abema.tv
 @@||banki.ru/bitrix/*/advertising.block/$stylesheet
 @@||bankofamerica.com^*?adx=$~third-party,xmlhttprequest
 @@||banma.com/statics/js/??
@@ -4962,6 +4963,7 @@
 @@||joyk.com^$generichide
 @@||jpush.cn^$domain=jiguang.cn
 @@||js-agent.newrelic.com^$domain=alliantcreditunion.com|giftcards.com|kapwing.com
+@@||js-agent.newrelic.com^$script,domain=abema.tv
 @@||js.captcha-display.com/xhr_tag.js$script,domain=auth.garena.com
 @@||js.datadome.co/tags.js$script,domain=sso.garena.com
 @@||js.monitor.azure.com/scripts/$script,domain=genya.it|microsoft.com|rubex.efilecabinet.net

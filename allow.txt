@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-01-07 08:41:04（北京时间） 
-! Total count: 2545
+! Version: 2024-01-07 16:09:50（北京时间） 
+! Total count: 2546
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3560,6 +3560,7 @@
 @@/adjs_pic_$domain=168gamer.net|slit.cn
 @@/admanager/*$domain=woego.cn
 @@/adpic/*$domain=baike.baidu.com|czsrc.com|nieyou.com|ontheup.com.tw|zform.net
+@@/adpro.js$domain=tingfm.com
 @@/ads-api.$domain=moneysave.info|zxmee.com
 @@/ads.js$domain=iyf.tv
 @@/ads/*$domain=189.cn|95516.com

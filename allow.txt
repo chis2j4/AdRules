@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-01-09 16:10:46（北京时间） 
-! Total count: 2548
+! Version: 2024-01-10 00:09:57（北京时间） 
+! Total count: 2549
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4047,6 +4047,7 @@
 @@||apmebf.com/ad/$domain=betfair.com
 @@||app-advertise.zhihuishu.com^
 @@||app-cdn.minepi.com^|
+@@||app.adjust.com^|
 @@||app.appsflyer.com^|
 @@||app.clarity.so^$~third-party
 @@||app.hubspot.com/api/ads/$~third-party

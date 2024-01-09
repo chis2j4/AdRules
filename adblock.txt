@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-01-09 08:37:45（北京时间） 
+! Version: 2024-01-09 16:10:38（北京时间） 
 ! Total count: 18273
 -960x*0.gif
 -250.js*
@@ -599,7 +599,7 @@ $doc,removeparam=refId,domain=aebn.com|linkedin.com
 $doc,removeparam=refccid,domain=bedbathandbeyond.com
 $doc,removeparam=refer_page_el_sn,domain=temu.com
 $doc,removeparam=refer_page_sn,domain=temu.com
-$doc,removeparam=referrer,domain=~bolt.com|~f4map.com|~deviantart.com|~github.com|~discover.*|~vimeo.*|~123-reg.co.uk
+$doc,removeparam=referrer,domain=~bolt.com|~f4map.com|~deviantart.com|~github.com|~discover.*|~vimeo.*|~123-reg.co.uk|~cravesandflames.com
 $doc,removeparam=refresh,domain=cnn.com|startribune.com
 $doc,removeparam=sal,domain=indeed.com
 $doc,removeparam=searchidx,domain=bedbathandbeyond.com
@@ -639,6 +639,7 @@ $removeparam=/^(\$)/,domain=boohoo.com|forever21.com
 $removeparam=/^CJEVENT=/i,doc
 $removeparam=/^Offers\.com/
 $removeparam=/^[a-z]?mc=/
+$removeparam=/^\??utm_/i,domain=~tradedoubler.com|~sendgb.com|~allegro.pl|~tix.axs.com|~transfernow.*|~carrefourpl.snrpage.com|~justdial.com|~pepper.pl
 $removeparam=/^\~/,domain=boohoo.com|forever21.com
 $removeparam=/^_sgm_/i
 $removeparam=/^action_(object|type|ref)_map=/
@@ -721,7 +722,6 @@ $removeparam=/^target=admitad$/
 $removeparam=/^tc_/,domain=bodenusa.com
 $removeparam=/^tracker=affiliatefuture$/i
 $removeparam=/^utm(_[a-z_]*)?=/
-$removeparam=/^utm_/i,domain=~tradedoubler.com|~sendgb.com|~allegro.pl|~tix.axs.com|~transfernow.*|~carrefourpl.snrpage.com|~justdial.com|~pepper.pl
 $removeparam=/^via=rss$/
 $removeparam=/^vn(_[a-z]*)+=/
 $removeparam=/^web_id\d+/,domain=tiktok.com

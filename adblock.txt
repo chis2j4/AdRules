@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-01-10 16:10:37（北京时间） 
+! Version: 2024-01-11 00:10:08（北京时间） 
 ! Total count: 18273
 -960x*0.gif
 -250.js*
@@ -1626,7 +1626,7 @@ $removeparam=oprtrack
 $removeparam=oref
 $removeparam=organic_search_click
 $removeparam=orig_referrer
-$removeparam=origin,denyallow=platform.twitter.com,domain=archive.org|buzzfeed.com|buzzfeednews.com|drop.com|flaticon.com|nordstrom.com|norton.com|philips.*|symbolab.com|yle.fi
+$removeparam=origin,denyallow=platform.twitter.com,domain=archive.org|buzzfeed.com|buzzfeednews.com|drop.com|flaticon.com|nordstrom.com|norton.com|philips.*|symbolab.com|yle.fi|dressmann.com
 $removeparam=os_ehash
 $removeparam=otracker
 $removeparam=otracker1

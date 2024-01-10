@@ -1,5 +1,5 @@
 ! Title: Allowlist
-! Version: 2024-01-10 00:09:57（北京时间） 
+! Version: 2024-01-10 08:37:57（北京时间） 
 ! Total count: 2549
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
@@ -3808,7 +3808,6 @@
 @@||ad-api-v01.uliza.jp^$script,xmlhttprequest,domain=golfnetwork.co.jp|tv-asahi.co.jp
 @@||ad-gone.com^
 @@||ad-img.gmarket.com/ads/$image,domain=gmarket.co.kr
-@@||ad-maven.com^$generichide
 @@||ad.10010.com^
 @@||ad.12306.cn^$elemhide,subdocument,domain=95306.cn
 @@||ad.3.cn/ads/mgets?$domain=jd.com
@@ -5061,7 +5060,7 @@
 @@||liulanmi.com/wp-content/uploads/*/StatCounter-
 @@||liumingye.cn^$generichide
 @@||live.lequipe.fr/thirdparty/prebid.js$~third-party
-@@||live.primis.tech^$script,domain=eurogamer.net|vg247.com|xxlmag.com
+@@||live.primis.tech^$script,domain=eurogamer.net|loudwire.com|vg247.com|xxlmag.com
 @@||live.rezync.com^$script,domain=batteriesplus.com
 @@||live.streamtheworld.com/partnerIds$domain=iheart.com|player.amperwave.net
 @@||liveapi.cleverpush.com/websocket$websocket,domain=heise.de
@@ -5231,6 +5230,7 @@
 @@||newscgp.com/prod/prebid/nyp/pb.js$domain=nypost.com
 @@||newsmth.net/nForum/*/ADAgent_
 @@||newver.api.dedecms.com/index.php$subdocument
+@@||next.co.uk/static-content/gtm-sdk/gtm.js$~third-party
 @@||nextcloud.com/remote.php/$~third-party,xmlhttprequest
 @@||nflcdn.com/static/site/$script,domain=nfl.com
 @@||nihasi.ru/upload/resize_cache/*/300_250_$image,~third-party

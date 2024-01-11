@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-01-11 08:37:45（北京时间） 
-! Total count: 18273
+! Version: 2024-01-11 16:10:54（北京时间） 
+! Total count: 18276
 -960x*0.gif
 -250.js*
 
@@ -13453,6 +13453,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mercadolibre.com^$removeparam=tracking_id
 ||mercadolibre.com^$removeparam=type
 ||mercury-sdk.snssdk.com^
+||merqieth.com^
 ||metauniverse88.com^
 ||metaversemolecule.com^
 ||metaword.cn^
@@ -16160,6 +16161,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||udiab1.jianshu.com^
 ||udiab2.jianshu.com^
 ||uebabuf.cn^
+||uebohjhh.xyz^
 ||uedas.qidian.com^
 ||ueg.cc^
 ||uejdsw.com^
@@ -17818,6 +17820,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zqzxz.com^
 ||zrakpxsf.com^
 ||zrgbh6bm.icu^
+||zrljzgs.xyz^
 ||zsh-work.com^
 ||zsnfdphz.com^
 ||zszhln.xyz^

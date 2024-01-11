@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-01-11 08:37:54（北京时间） 
-! Total count: 2549
+! Version: 2024-01-11 16:11:06（北京时间） 
+! Total count: 2548
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4007,7 +4007,6 @@
 @@||aniview.com/api/$script,domain=gamingbible.co.uk|ladbible.com
 @@||annhe.net^$generichide
 @@||answers.ros.org/m/default/media/images/$image,~third-party
-@@||antlionaudio.com/cdn/shop/*/assets/fastclick.min.js$~third-party
 @@||anwb.webpower.eu^|
 @@||anyclip.com/anyclip-widget/$script,domain=dictionary.com|heute.at|video.timeout.com
 @@||anyclip.com/main.js$script,domain=video.timeout.com

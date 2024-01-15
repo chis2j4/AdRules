@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-01-15 08:39:21（北京时间） 
-! Total count: 18277
+! Version: 2024-01-15 16:11:13（北京时间） 
+! Total count: 18284
 -960x*0.gif
 -250.js*
 
@@ -211,6 +211,7 @@
 ##IMG[src*='tupian.guanggao']
 ##IMG[src='/adBanner']
 ##IMG[src='/js/imgs/taote.jpg']
+##IMG[src='https://tanju.vip/wapxiezi.png']
 ##IMG[src^='http://socos.gitee.io/ss/poster'][alt][style='width: 100%;']
 ##IMG[src^='https://dzfzfv.xyz/']
 ##IMG[style='height:120px;width:100%;'][src*='/sucai/']
@@ -8422,6 +8423,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||aimg.shangdu.com/$script,image
 ||aiode.cn^
 ||aipai.com/rsd/
+||aiqu288.com/da/
 ||airbnb.*^$removeparam=federated_search_id
 ||airbnb.*^$removeparam=search_type
 ||airbnb.*^$removeparam=source
@@ -9544,6 +9546,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bp.blogspot.com^$removeparam=time
 ||bp776.com^
 ||bpimg.com^$domain=ref.so
+||bpztsxx.com^
 ||bqdzvl.xyz^
 ||bqg.tw/js/common.js
 ||bqgdd.net/images//banner.png
@@ -11253,6 +11256,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||geoguessr.com/join/$doc,domain=geoguessr.com,removeparam=s
 ||geoparker.net^
 ||gepush.com^
+||gepvgv.icu^
 ||getclicky.com^
 ||getnormalizedurl.com^
 ||getotal.com/api/v1/prepare/ads
@@ -12207,6 +12211,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||isancio.top^
 ||iscrv.com^
 ||isdfbvkvsc.xyz^
+||isine88.com^
 ||islbaho.top^
 ||issuecdn.baidupcs.com^
 ||istreamsche.com^
@@ -15091,6 +15096,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sdkconfig.play.aiseet.atianqi.com^
 ||sdkconfig.video.qq.com^
 ||sdkdfjksl.com^
+||sdklnlsknvcks.com^
 ||sdkm.w.inmobi.cn^
 ||sdkserver.op.hicloud.com/sdkserver^$app=com.huawei.hwvplayer.youku
 ||sdksp.video.qq.com^
@@ -17163,6 +17169,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xmywlyh.cn^
 ||xn--*.xn--fiqs8s:
 ||xn--2qu92fhtxsxexqab.xn--fiqs8s^
+||xn--2qux23cs4e63q.com^
 ||xn--2qux23cwrdmnaz3gj3w.xn--fiqs8s^
 ||xn--2ss830adjbqy7h.xn--fiqs8s^
 ||xn--521-x72fh66s.cn^

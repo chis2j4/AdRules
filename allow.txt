@@ -1,5 +1,5 @@
 ! Title: Allowlist
-! Version: 2024-01-16 08:37:38（北京时间） 
+! Version: 2024-01-16 16:10:55（北京时间） 
 ! Total count: 2550
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
@@ -5374,7 +5374,7 @@
 @@||playep.pro/log_event$~third-party,xmlhttprequest
 @@||player.aniview.com/script/$script,domain=odysee.com|pogo.com
 @@||player.avplayer.com^$script,domain=explosm.net|gamingbible.co.uk|justthenews.com|ladbible.com
-@@||player.ex.co/player/$script,domain=theautopian.com
+@@||player.ex.co/player/$script,domain=si.com|theautopian.com
 @@||player.fc-zenit.ru/msi/geoip?$xmlhttprequest
 @@||player.letvcdn.com*/newplayer/*.swf
 @@||player.letvcdn.com/*/letvPlayer.swf

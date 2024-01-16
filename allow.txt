@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-01-16 00:09:49（北京时间） 
-! Total count: 2549
+! Version: 2024-01-16 08:37:38（北京时间） 
+! Total count: 2550
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5872,6 +5872,7 @@
 @@||tvb.com^*/videojs.ads.
 @@||tvcom-static.ssl.cdn.cra.cz/*/videojs.ga.js$script,domain=tvcom.cz
 @@||twitter.com/oct.js$domain=jp.square-enix.com
+@@||twitter.com^$generichide
 @@||type.jp/common/js/clicktag.js
 @@||uaprom.net/image/blank.gif?$image
 @@||ucoz.net/cgi/uutils.fcg?$script,third-party

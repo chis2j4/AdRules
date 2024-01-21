@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-01-21 08:41:08（北京时间） 
-! Total count: 18297
+! Version: 2024-01-21 16:09:33（北京时间） 
+! Total count: 18307
 -960x*0.gif
 -250.js*
 
@@ -2205,7 +2205,6 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 *textad/
 *top_ad*
 *topad/
-*tplv-noop.gif*
 *videoclick*
 *wa5as4.com/crossdomain.
 *wa5as4.com/vd
@@ -7533,6 +7532,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||2te.com^
 ||2te.com^$third-party
 ||2u3v4w5x6y.com^
+||2vqgtxw.cn^
 ||2vv.cc^
 ||2wgolxk.com^
 ||2xmzazd.cn^
@@ -7618,6 +7618,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||3munion.net^
 ||3p-link.com^
 ||3q3l.cn^
+||3rsppty.cn^
 ||3shangyou.com^
 ||3t769up6.com^
 ||3v7c7y.online^
@@ -8433,6 +8434,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||aimg.shangdu.com/$script,image
 ||aiode.cn^
 ||aipai.com/rsd/
+||aiqu28.com/da/
 ||aiqu288.com/da/
 ||airbnb.*^$removeparam=federated_search_id
 ||airbnb.*^$removeparam=search_type
@@ -10738,6 +10740,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ec.yimg.com^
 ||ecard.shenzhentong.com^
 ||eccbb.com^
+||eccki.cn^
 ||eclick.baidu.com^
 ||eclkspbn.com^
 ||eclmy.vip/static/js/fc.js
@@ -12337,6 +12340,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jghklz.xyz^
 ||jgsajfggv.xyz^
 ||jh16csf.com^
+||jhdvcjvsjkvjkb.com^
 ||jheva.com^
 ||jhkggrr.icu^
 ||jhlazsot.icu^
@@ -14178,6 +14182,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||outbrain.com^
 ||outoctillerytor.com^
 ||ouyhh.xyz^
+||ovnrmvg.cn^
 ||owiurjngsd.com^
 ||owlfolk.com^
 ||owlinggnomist.com^
@@ -15116,6 +15121,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sdlmhb.com^
 ||sdqoi2d.com^
 ||sdtieta.com^
+||sdtsad.com^
 ||sdvfvgj.cn^
 ||sdvsv.com^
 ||sdzhongke.cn^
@@ -15176,6 +15182,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sfilm.com^
 ||sfl-fe-tos.pglstatp-toutiao.com^
 ||sfp.safe.baidu.com^
+||sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com^
 ||sg92.com^
 ||sgbbc.cn^
 ||sgegie.fun^
@@ -16558,6 +16565,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wd.adcolony.com^
 ||wd.adcolony.com^$app=com.iwantavnow
 ||wdad.cc^
+||wdadad.cn
 ||wddsva0.com^
 ||wdpkx.cn^
 ||wdswgjn.cn^
@@ -16969,6 +16977,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www1.ftchinese.com/log^$domain=m.ftchinese.com
 ||www5.technews.tw^
 ||wwwpromoter.com^
+||wwxufo.com^
 ||wx*.sinaimg.cn/large^$domain=kdw*.com
 ||wx*.sinaimg.cn/large^$domain=kdw*.com,important
 ||wx.uc.downcdn.top^
@@ -17050,6 +17059,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xegneils.com^
 ||xeikwh.icu^
 ||xerhibx.cn^
+||xerqfh.xyz^
 ||xeynozl.icu^
 ||xfgctg.com^
 ||xfile.a.88cdn.com/file^$third-party

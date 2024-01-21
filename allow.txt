@@ -1,5 +1,5 @@
 ! Title: Allowlist
-! Version: 2024-01-21 00:09:06（北京时间） 
+! Version: 2024-01-21 08:41:16（北京时间） 
 ! Total count: 2550
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
@@ -3820,7 +3820,7 @@
 @@||ad.azure.com^
 @@||ad.crwdcntrl.net^$script,domain=rtl.nl
 @@||ad.doubleclick.net/clk*&destinationURL=$popup
-@@||ad.doubleclick.net/ddm/$popup,domain=billiger.de|guide-epargne.be|legacy.com|mail.yahoo.com|nytimes.com|spaargids.be
+@@||ad.doubleclick.net/ddm/$popup,domain=billiger.de|creditcard.com.au|finder.com|finder.com.au|guide-epargne.be|legacy.com|mail.yahoo.com|nytimes.com|spaargids.be
 @@||ad.doubleclick.net/ddm/clk/*http$popup
 @@||ad.doubleclick.net/ddm/trackclk/*http$popup
 @@||ad.ext.azure.com^
@@ -4240,7 +4240,7 @@
 @@||cdn.cquotient.com/js/$domain=fender.com
 @@||cdn.doublemax.net/js/rwd_cap.js$domain=ibf.tw
 @@||cdn.duurzaam.greenchoice.nl^|
-@@||cdn.ex.co^$domain=si.com|theautopian.com
+@@||cdn.ex.co^$domain=theautopian.com
 @@||cdn.exp.qq.com/img/
 @@||cdn.heapanalytics.com^$script,domain=libertymutual.com
 @@||cdn.jsdelivr.net/npm/*/videojs-contrib-ads.min.js$domain=24ur.com
@@ -5373,7 +5373,7 @@
 @@||playep.pro/log_event$~third-party,xmlhttprequest
 @@||player.aniview.com/script/$script,domain=odysee.com|pogo.com
 @@||player.avplayer.com^$script,domain=explosm.net|gamingbible.co.uk|justthenews.com|ladbible.com
-@@||player.ex.co/player/$script,domain=si.com|theautopian.com
+@@||player.ex.co/player/$script,domain=theautopian.com
 @@||player.fc-zenit.ru/msi/geoip?$xmlhttprequest
 @@||player.letvcdn.com*/newplayer/*.swf
 @@||player.letvcdn.com/*/letvPlayer.swf

@@ -1,5 +1,5 @@
 ! Title: Allowlist
-! Version: 2024-01-22 16:11:29（北京时间） 
+! Version: 2024-01-23 00:10:30（北京时间） 
 ! Total count: 2553
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
@@ -5112,6 +5112,7 @@
 @@||material.angular.io^$generichide
 @@||material.io^$generichide
 @@||matomo.miraheze.org/matomo.js$script,~third-party
+@@||max.com^$generichide
 @@||maxcdn.bootstrapcdn.com^$stylesheet,domain=shink.me|shon.xyz
 @@||maxcdn.bootstrapcdn.com^$stylesheet,domain=up-4ever.net
 @@||maxmind.com/geoip/$xmlhttprequest,domain=ibanez.com
@@ -5371,7 +5372,6 @@
 @@||platform.twitter.com/oct.js$domain=ncsoft.jp
 @@||plausible.io/js/plausible.js$script,domain=sammobile.com
 @@||play.dlsite.com/csr/viewer/lib/newrelic.js
-@@||play.max.com^$generichide
 @@||playep.pro/log_event$~third-party,xmlhttprequest
 @@||player.aniview.com/script/$script,domain=odysee.com|pogo.com
 @@||player.avplayer.com^$script,domain=explosm.net|gamingbible.co.uk|justthenews.com|ladbible.com

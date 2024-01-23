@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-01-23 08:38:22（北京时间） 
-! Total count: 18313
+! Version: 2024-01-23 16:10:57（北京时间） 
+! Total count: 18315
 -960x*0.gif
 -250.js*
 
@@ -331,6 +331,7 @@
 ##[style*='width:9.6vw;height:8.5vw;background:#000;opacity:0.01;']
 ##[style='box-sizing: border-box; position: relative; left: 0px; z-index: 912944; text-indent: -10em;']
 ##[style='display: block; width: 100%; left: 0px; position: fixed; z-index: 2147483646; height: 49px; bottom: 132px;']
+##[style='position:relative !important;padding:0px !important;margin:0px !important;line-height:1 !important;']
 ##[style='text-align: center; margin: 40px 0; color: blue; font-size: larger;']
 ##[style='top: 0vw; display: block;']
 ##[style='top: 16.4vw; display: block;']
@@ -10132,6 +10133,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||coupang.com^$removeparam=wTime
 ||couplestupidity.com^
 ||courir.$removeparam=/^_mak_partner_/
+||courtoyz.com^
 ||cp.eoncreativity.com^
 ||cpc.9v.cn^
 ||cpc.cc^

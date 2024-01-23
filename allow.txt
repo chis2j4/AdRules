@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-01-23 16:11:09（北京时间） 
-! Total count: 2551
+! Version: 2024-01-24 00:10:26（北京时间） 
+! Total count: 2552
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5126,6 +5126,7 @@
 @@||mclo.gs/js/logview.js$~third-party
 @@||mcmod.cn/js/jquery.cookie.js
 @@||mealty.ru/js/ga_events.js$~third-party
+@@||media-consumer365.desigual.com^|
 @@||media.jd.com/static/*/ad
 @@||media.kijiji.ca/api/$image,~third-party
 @@||media.org.hk^*/ads_

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-01-28 08:37:47（北京时间） 
-! Total count: 18317
+! Version: 2024-01-28 16:09:27（北京时间） 
+! Total count: 18331
 -960x*0.gif
 -250.js*
 
@@ -246,6 +246,7 @@
 ##[href*='.top/?token=']
 ##[href*='.xacg.info/']
 ##[href*='anrvl.com']
+##[href*='slkdnlkfnskl.com']
 ##[href*='snnrb.com']
 ##[href*='sohu.com/hy-op']
 ##[href*='zthbe.com']
@@ -300,6 +301,7 @@
 ##[onclick='gourl()'][src^='/images/bfq/']
 ##[onclick^="window.location.href='https://apps.apple.com/cn/app/%E9%80%9F%E9%98%85%E5%B0%8F%E8%AF%B4"]
 ##[poster^='https://dingbu.bj.bcebos.com/']
+##[rel='nofollow'][href^='/book/baidu_verify_code']
 ##[src$='/dibu.adadadad']
 ##[src*='zdmbl.xyz']
 ##[src='/images/c_l.png']
@@ -315,6 +317,7 @@
 ##[src^='https://ae01.alicdn.com/'][alt='歪歪漫画']
 ##[src^='https://dingbu.bj.bcebos.com/']
 ##[src^='https://immmg.owowqrf.cn']
+##[src^='https://kykqss.xyz']
 ##[src^='https://l.bt5v.com/v.php']
 ##[src^='https://play.cdn6.buzz/js/']
 ##[src^='https://qwe0231141.bj.bcebos.com/']
@@ -5889,6 +5892,7 @@ solarzoom.com##[class^="adv"]
 songyongzhi.com##[width="300"][height="250"],[width="728"][height="90"]
 sosaw.com##A[href^="http://union.click.jd.com/jdc?"],div.wp.a_t,ins.adsbygoogle
 sosg.net##.home_promo_940x80,#read_728x90
+soshu888.net##[style$='width: 100vw; position: relative;']
 soso.com##div#promotion_adv_container.sponsored,div#leftbottomleadContainer.sponsored,div#rads,div.ad1
 souluo.net##.rowlist,.rowlista,.left_gg,.col1
 south-plus.net###header > div:last-child
@@ -6845,6 +6849,7 @@ xghylt.com##div[class="mb5"],.index_fivead,div.a_pr,div.a_pb,.ad,div.mt10,.a_mu
 xgo.com.cn##div.ad.ad-1,div[class^="ad ad_r"],div.gmine_ad
 xgrb.cn##div#MyMoveAd,DIV.ad_zhsh,DIV.tac.mb5,DIV.textMes,DIV[id^="ads_c_"],div.warp_ad,DIV.bl_2,div[class^="liebiao_ad"],div#aa,div.bl_gg,div.new_gg1,div.gsgg_gg,div.advert div[style],.d_2016_ggw
 xiachufang.com##div.apps-download
+xian360.top##CENTER
 xianbao5.com##div.bm.a_c,div.wp.a_h,ins.adsbygoogle,div.a_pt
 xianzhenyuan.cn##.sd_ad,[class="bm a_c"],.wp.a_t,.wp.a_f
 xiaobaipan.com##div.post-promo.text-center
@@ -8436,6 +8441,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||aimg.shangdu.com/$script,image
 ||aiode.cn^
 ||aipai.com/rsd/
+||aiqu222.com/da/
 ||aiqu28.com/da/
 ||aiqu288.com/da/
 ||airbnb.*^$removeparam=federated_search_id
@@ -9155,6 +9161,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||baike.com^$removeparam=view_id
 ||baike.sogou.com^$removeparam=ch
 ||baikebcs.bdimg.com/*banner*.jpg
+||baimakanshu.com/assets/public/
 ||baimuyuan.com.cn^
 ||bairenad.com^
 ||baitaiad.com^
@@ -10499,6 +10506,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||diyibanzhu*/js/html*.js
 ||diyijs.duapp.com/cp
 ||dj09j5u.cn^
+||djbgfit.com^
 ||djhuo.com/css/js/whosyourdaddy.js
 ||djjca.
 ||djv99sxoqpv11.cloudfront.net^
@@ -12167,6 +12175,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||intellitxt.com^
 ||intimidatepropel.com^
 ||intl.iqiyi.com/control/feature_switch?
+||inudpbi.com^
 ||inveno.com^
 ||iobvmtx.xyz^
 ||ioiksw.cn^
@@ -12896,6 +12905,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lendgo.com^$removeparam=apr
 ||lendgo.com^$removeparam=lt
 ||lendgo.com^$removeparam=rate
+||lengmen.cc/assets/public/
 ||lenovo.com^$removeparam=orgRef
 ||lenzmx.com^
 ||leshu.com^
@@ -13360,6 +13370,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||manyou.com^
 ||maobujie.com^
 ||maomaotang.com^
+||maoskk.com^
 ||map.baidu.com^$removeparam=compat
 ||map.baidu.com^$removeparam=da_src
 ||map.baidu.com^$removeparam=device_ratio
@@ -13646,6 +13657,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mosflower.cn^
 ||moshouba.top^
 ||mothership.sg^$removeparam=fs
+||motsjnv.cn^
 ||motuopj.cn^
 ||mouseflow.com^
 ||moxiaoqihuoguo.com^
@@ -15656,6 +15668,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||taipwl.com/yingshidaquan/popwin.js
 ||taiqingjiu.com^
 ||taisi666.top^
+||takjttz.cn^
 ||talkingdata.com^
 ||tangchaohes.cn^
 ||tangk.top^
@@ -16301,6 +16314,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||uslecce.it^$removeparam=et
 ||uslsxe.com^
 ||usn.cc^
+||uspauline.com^
 ||utienlt.top^
 ||uttlinediv.top^
 ||uty.micocc.com/api/ad^

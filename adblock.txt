@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-01-30 16:09:47（北京时间） 
+! Version: 2024-01-31 00:09:17（北京时间） 
 ! Total count: 18339
 -960x*0.gif
 -250.js*
@@ -2054,7 +2054,7 @@ $removeparam=vifNav
 $removeparam=visit_id,doc,domain=bilibili.com|google.*
 $removeparam=vndid,domain=paramountplus.com|cbs.com
 $removeparam=vxii_pdid
-$removeparam=w,domain=files.wordpress.com|store.playstation.com|s-microsoft.com|store-images.microsoft.com|dr.dk
+$removeparam=w,domain=files.wordpress.com|store.playstation.com|s-microsoft.com|store-images.microsoft.com|dr.dk|if.com.au
 $removeparam=waad
 $removeparam=wapa6,domain=hoteles.com|hotels.com
 $removeparam=wbraid

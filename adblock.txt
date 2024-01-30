@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-01-30 00:08:30（北京时间） 
-! Total count: 18331
+! Version: 2024-01-30 08:35:15（北京时间） 
+! Total count: 18339
 -960x*0.gif
 -250.js*
 
@@ -590,6 +590,8 @@ $doc,removeparam=icmp,domain=fortnite.com|lego.com
 $doc,removeparam=intc,domain=citi.com
 $doc,removeparam=jp_cmp,domain=chase.com
 $doc,removeparam=jsa,domain=indeed.com
+$doc,removeparam=km_adgroup
+$doc,removeparam=km_partner
 $doc,removeparam=l,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
 $doc,removeparam=lId,domain=apple.com|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion|youtube.com
 $doc,removeparam=lyceumGuid,domain=bedbathandbeyond.com
@@ -2857,7 +2859,6 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 @@=mm_12852562_1778064_$domain=alimarket.tmall.com|www.taobao.com|www.tmall.com
 @@=mm_12852562_1778064_$domain=taojinbi.taobao.com
 @@=mm_33231655_8000000_$domain=www.taobao.com
-@@^https?:/cu.bankid.com$removeparam
 @@^mkt_unsubscribe=$removeparam=mkt_tok
 @@^mod=djemalertNEWS^$removeparam=mod
 @@_adview_$domain=muzlan.top
@@ -2937,6 +2938,7 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 @@||cs-op.douyucdn.cn/vod-cover^
 @@||cs-op.douyucdn.cn/vod-index^
 @@||css.yhdmtu.xyz^$domain=yinghuavideo.com|yinghua8.tv
+@@||cu.bankid.com^$removeparam
 @@||dash.cloudflare.com^$domain=dash.cloudflare.com,important
 @@||developer.apple.com$generichide
 @@||dlkoo.com/down/Copydown1
@@ -11363,6 +11365,11 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gongxifc.com^
 ||gongyong002.xyz^
 ||gonpc.com^
+||goodreads.com^$removeparam=ac
+||goodreads.com^$removeparam=from_search
+||goodreads.com^$removeparam=from_srp
+||goodreads.com^$removeparam=qid
+||goodreads.com^$removeparam=rank
 ||goods.tudou.com^
 ||google-analytics.com$third-party
 ||google-analytics.com/analytics.js
@@ -15367,6 +15374,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||smartmail.cyou^
 ||smartmuchang.com^
 ||smartnextusa.com^
+||smartrecruiters.com^$doc,removeparam=km_matchtype
 ||smarttrade.cn^
 ||smetrics.samsung.com^
 ||smfjfgie.xyz^

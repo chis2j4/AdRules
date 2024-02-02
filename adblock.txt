@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-02-02 00:09:07（北京时间） 
+! Version: 2024-02-02 08:35:35（北京时间） 
 ! Total count: 18341
 -960x*0.gif
 -250.js*
@@ -1453,7 +1453,7 @@ $removeparam=irmpname
 $removeparam=irmptype
 $removeparam=irpid
 $removeparam=irsharedid
-$removeparam=is,domain=nextdoor.com|discordapp.*
+$removeparam=is,domain=nextdoor.com|media.discordapp.*
 $removeparam=is_copy_url
 $removeparam=is_from_origin_btn,domain=shein.com
 $removeparam=is_from_webapp
@@ -10490,8 +10490,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dipan.com^
 ||direct.wap.zol.com.cn^
 ||directrev.com^
-||discordapp.$removeparam=ex
-||discordapp.$removeparam=hm
 ||discountminds.com^
 ||discoveryplus.$removeparam=idp
 ||discoveryplus.$removeparam=responseCode
@@ -13459,6 +13457,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mdwhxw.com^
 ||meaqcj.cn^
 ||mechanicalkeyboards.com^$removeparam=creator
+||media.discordapp.$removeparam=ex
+||media.discordapp.$removeparam=hm
 ||media.livepromotools.com/ptools/pc/Content/Banners/imlive/asian/*.gif$domain=fans.91p20.space
 ||media.news18a.com/js/$third-party,script
 ||media8.cn^

@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-02-03 08:35:10（北京时间） 
-! Total count: 2540
+! Version: 2024-02-03 16:08:51（北京时间） 
+! Total count: 2538
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4230,7 +4230,6 @@
 @@||cdn.bootcss.com^$domain=openload.co|oload.tv|javno.me|imagebam.com|imagevenue.com|playvid.com|4horlover.com|linkshrink.net
 @@||cdn.bootcss.com^$script,domain=59xs.com|biqudd.com|didaxiaoshuo.cc|rijutv.com|shudai.org|xhxswz.com|xsw55.com|ysxs8.com
 @@||cdn.bootcss.com^$script,domain=59xs.com|biqudd.com|luoqiuzw.com|u33.me|xbiqugela.com|xhtxt.cc|xs98.me|ysxs8.vip
-@@||cdn.cquotient.com/js/$domain=fender.com
 @@||cdn.duurzaam.greenchoice.nl^|
 @@||cdn.ex.co^$domain=theautopian.com
 @@||cdn.exp.qq.com/img/
@@ -4521,7 +4520,6 @@
 @@||dz9qn8fh4jznm.cloudfront.net/script.js$script,domain=bostonglobe.com
 @@||e-stat.go.jp/modules/custom/retrieve/src/js/stat.js?$script,~third-party
 @@||e.cn.miaozhen.com/r/k=*=http
-@@||e.cquotient.com/recs/$script,domain=fender.com
 @@||e.crashlytics.com/spi/v2/events$app=com.gedoor.monkeybook
 @@||e.customeriomail.com^|
 @@||e9china.net^$generichide

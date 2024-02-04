@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-02-04 16:08:28（北京时间） 
-! Total count: 18342
+! Version: 2024-02-05 00:08:14（北京时间） 
+! Total count: 18341
 -960x*0.gif
 -250.js*
 
@@ -2252,7 +2252,6 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 .com:8008/*/*?*=$third-party
 .com:8008/sc/*?n=$third-party
 .com:8010/cc/
-.com:8077/*?$third-party
 .cyou/redbaiduct.com
 .cyou/xling_*_$third-party
 .gif$domain=787ck.cc

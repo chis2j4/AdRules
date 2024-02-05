@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-02-05 16:10:23（北京时间） 
-! Total count: 18342
+! Version: 2024-02-06 00:08:48（北京时间） 
+! Total count: 18343
 -960x*0.gif
 -250.js*
 
@@ -5832,6 +5832,7 @@ slide.history.sina.com.cn##iframe[src^="http://d1.sina.com.cn/litong/"]
 slit.cn##DIV.slit_ad_tonglan,DIV.a_mu,DIV.a_fl.a_cb,DIV.a_pb,DIV.a_pr
 sm.cn###index_banner
 sm.cn###index_hot_news
+sm.cn##.ad-wolong-container
 sm.cn##A.sc-title,A.app-wrap,DIV.app-rank app-no-trend sc-padding,DIV.sc-footer,A.uc-download-channel,#ad_*
 smartapps.cn##.sw-22__bdad-wrap,.sw-22__ad-expose
 smartapps.cn##swan-nest-banner-ad.ad-expose

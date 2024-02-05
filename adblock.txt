@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-02-05 08:36:24（北京时间） 
-! Total count: 18341
+! Version: 2024-02-05 16:10:23（北京时间） 
+! Total count: 18342
 -960x*0.gif
 -250.js*
 
@@ -6640,6 +6640,7 @@ www.kkkmh.com##div.mm-hot.box
 www.koopan.com##div.adv_box,ins.adsbygoogle
 www.kraaa.com##div.wp.a_f,ins.adsbygoogle
 www.ksbbs.com,kshot.com##div[id^="banner"],div[style="height:65px;margin-bottom:5px"],div[style="height:65px"],div[id^="read_ad_"],div#read_m_yytf2,div[id^="ads_r"],DIV#footer DIV.mb10,.banner_box
+www.ksksy.com##[style$='vw;background:#000;opacity:0.01;']
 www.kugou.com##div.adv,div.adv1,div.adv2
 www.kumi.cn##div.floatwindow
 www.kuwo.cn##div.ad

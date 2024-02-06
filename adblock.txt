@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-02-06 00:08:48（北京时间） 
-! Total count: 18343
+! Version: 2024-02-06 08:34:48（北京时间） 
+! Total count: 18345
 -960x*0.gif
 -250.js*
 
@@ -624,6 +624,7 @@ $doc,removeparam=src,domain=citi.com
 $doc,removeparam=sspUserID
 $doc,removeparam=st,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
 $doc,removeparam=t,domain=rakuten.com|steamcdn-a.akamaihd.net|duckduckgo.com|npr.org|elprecio.es|adressa.no|tiktok.com|lookmovie211.xyz
+$doc,removeparam=targetid,domain=~myanonamouse.net
 $doc,removeparam=tk,domain=indeed.com
 $doc,removeparam=traceId
 $doc,removeparam=trackID
@@ -1944,7 +1945,6 @@ $removeparam=tags,domain=reddit.app.link
 $removeparam=tagtag_uid
 $removeparam=taid
 $removeparam=tapad_id
-$removeparam=targetid
 $removeparam=tbas
 $removeparam=tblci
 $removeparam=tc,domain=media-cdn.costco.ca|media-cdn.costco.com
@@ -15576,6 +15576,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||storyren.com/images/dl
 ||storyren.com/imgg/
 ||strategy.beacon.qq.com^
+||streamable.com^$doc,removeparam=src_internal
+||streamable.com^$doc,removeparam=src_player
 ||stricaik.com^
 ||studylabs.cn^
 ||stunthedge.com^

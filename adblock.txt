@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-02-08 00:10:41（北京时间） 
+! Version: 2024-02-08 08:34:53（北京时间） 
 ! Total count: 18346
 -960x*0.gif
 -250.js*
@@ -1860,7 +1860,7 @@ $removeparam=share_link_id
 $removeparam=share_time,domain=etsy.com
 $removeparam=shrsl_analytics_sscid
 $removeparam=shrsl_analytics_sstid
-$removeparam=si,doc,domain=open.spotify.com|soundcloud.com|youtube.com|youtu.be|zappos.com
+$removeparam=si,doc,domain=open.spotify.com|soundcloud.com|zappos.com
 $removeparam=si,domain=youtube.com|youtu.be
 $removeparam=sid,domain=anrdoezrs.net|dpbolvw.net|gopjn.com|jdoqocy.com|kqzyfj.com|pepperjamnetwork.com|tkqlhce.com|gamereactor.*
 $removeparam=sifi_uid

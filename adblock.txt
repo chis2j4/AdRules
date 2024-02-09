@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-02-09 00:09:30（北京时间） 
-! Total count: 18346
+! Version: 2024-02-09 08:34:20（北京时间） 
+! Total count: 18349
 -960x*0.gif
 -250.js*
 
@@ -11381,7 +11381,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||google.$removeparam=gs_ssp
 ||google.$removeparam=prds
 ||google.$removeparam=ved
-||google.*/books$removeparam=source
 ||google.*/flights$removeparam=source
 ||google.*/search$removeparam=source
 ||google.*/search$removeparam=sqi
@@ -13722,6 +13721,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||msga.cupid.iqiyi.com^
 ||msite.baidu.com/sdk^
 ||msite.baidu.com^
+||msn.com/weather/service-worker.js?$removeparam=telemetrySync
 ||msn.com^$removeparam=ignorejs
 ||mssdhde.cn^
 ||mssdk-bu.snssdk.com^
@@ -15261,6 +15261,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||shiyanlou.com/img/shiyanlou-
 ||shjha.top^
 ||shoagooy.net^
+||shop.samsung.com^$doc,removeparam=hmz_campaign
+||shop.samsung.com^$doc,removeparam=hmz_inf
+||shop.samsung.com^$doc,removeparam=hmz_lid
 ||shop.yipanhaocai.com^
 ||shop265.com^
 ||shopbop.com^$removeparam=extid

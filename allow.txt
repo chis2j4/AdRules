@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-02-11 16:09:00（北京时间） 
-! Total count: 2540
+! Version: 2024-02-12 00:08:56（北京时间） 
+! Total count: 2541
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4165,6 +4165,7 @@
 @@||blueconic.net/capitolbroadcasting.js$script,domain=wral.com
 @@||bluecore.com/triggermail.js$script,domain=fcpeuro.com
 @@||bnet.163.com^
+@@||board-game.co.uk/cdn-cgi/zaraz/s.js$script,~third-party
 @@||boatwizard.com/ads_prebid.min.js$script,domain=boats.com
 @@||bokecc.com/flash/playlog?
 @@||book.com.tw/image/getImage?$domain=books.com.tw

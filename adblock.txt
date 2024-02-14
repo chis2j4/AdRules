@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-02-14 16:10:11（北京时间） 
-! Total count: 18353
+! Version: 2024-02-15 00:09:26（北京时间） 
+! Total count: 18355
 -960x*0.gif
 -250.js*
 
@@ -1269,7 +1269,7 @@ $removeparam=effect_medium
 $removeparam=effect_source
 $removeparam=effi_id
 $removeparam=effi_id2
-$removeparam=eid,doc,denyallow=embed.tapkal.fi|myanimelist.net,domain=~activationspot.com|~anidb.net|~howlongtobeat.com|~piwigo.org|~vmware.com|~eventbrite.*|~egift.blackhawknetwork.com|~redeem.giftcards.com|~scopus.com|~stockmann.com|~jugem.jp|~kake.fi|~calendar.google.*|~getqpay.com|~qpayhub.com
+$removeparam=eid,doc,denyallow=embed.tapkal.fi|myanimelist.net,domain=greatrun.org|mcafee.com
 $removeparam=elq
 $removeparam=elqCampaignId
 $removeparam=elqTrack
@@ -2194,14 +2194,6 @@ $~xmlhttprequest,removeparam=ref_,domain=amazon.*|awesomeopensource.com|boxoffic
 *playad/
 *popad/
 *pushad/
-*ref=404media.co*$doc,removeparam=/^ref=404media.co$/
-*ref=beep.blog*$doc,removeparam=/^ref=beep.blog$/
-*ref=blog.roboflow.com*$doc,removeparam=/^ref=blog.roboflow.com$/
-*ref=buffer.com*$doc,removeparam=/^ref=buffer.com$/
-*ref=easywithai*$doc,removeparam=/^ref=easywithai$/
-*ref=exploit.media*$doc,removeparam=/^ref=exploit.media$/
-*ref=labs.watchtowr.com*$doc,removeparam=/^ref=labs.watchtowr.com$/
-*ref=upstract.com*$doc,removeparam=/^ref=upstract.com$/
 *right_ad*
 *rightad/
 *show?id=*&static=*_url=
@@ -5675,6 +5667,14 @@ rednet.cn##div#topbanner,object#FlashId_ad1
 redocn.com##DIV#all_adv_2_3,DIV#BAIDU_DUP_wrapper_307960_0,DIV[id^="index_adv_"],DIV[id$="_adv_1_2"],DIV.ad_footerbanner
 redtube-com.info##.ima,.rmedia,.sppc
 ref.so##div[style="overflow:hidden; height:auto; width:1002px; margin:0 auto;  "]
+ref=404media.co$doc,removeparam=/^ref=404media.co$/
+ref=beep.blog$doc,removeparam=/^ref=beep.blog$/
+ref=blog.roboflow.com$doc,removeparam=/^ref=blog.roboflow.com$/
+ref=buffer.com$doc,removeparam=/^ref=buffer.com$/
+ref=easywithai$doc,removeparam=/^ref=easywithai$/
+ref=exploit.media$doc,removeparam=/^ref=exploit.media$/
+ref=labs.watchtowr.com$doc,removeparam=/^ref=labs.watchtowr.com$/
+ref=upstract.com$doc,removeparam=/^ref=upstract.com$/
 remenxs.com##div[class^="yd_ad"],div[class^="ml_ad"],div.sk1,div[class^="xsad_"]
 renrencd.com##div.duilian,div[style^="width:960px;height:90px;"]
 renrenfabu.com###\39 1banner
@@ -8107,6 +8107,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||abalado.com^
 ||abb.lxiaoxin.com^
 ||abcd.cnhuoche.com^
+||abcnyheter.no^$removeparam=nr
 ||abdluv.xyz^
 ||abenshishabi.com^
 ||abovede6.com^
@@ -12760,6 +12761,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kongregate.com^$doc,removeparam=acomplete
 ||koowo.com^
 ||kopde.xyz^
+||koreaherald.com^$doc,removeparam=ACE_SEARCH
 ||kouclo.com^
 ||koudaikeji.info^
 ||kowqd1.top^

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-02-16 16:10:14（北京时间） 
-! Total count: 18358
+! Version: 2024-02-17 00:09:29（北京时间） 
+! Total count: 18362
 -960x*0.gif
 -250.js*
 
@@ -7965,6 +7965,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||8nc8shot.txxx.com^
 ||8ox.cn^
 ||8pjqjxmr.com^
+||8suis.top^
 ||8v1.cn^
 ||8vod.net/detail/$script
 ||90370.com^$third-party
@@ -12937,6 +12938,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lf-hl.snssdk.com/*/article/information/
 ||lf-hl.snssdk.com/search/suggest^
 ||lf-hl.snssdk.com/ugc/publish^
+||lfffzv.xyz^
 ||lfjtiuy.cn^
 ||lflmdm.com^
 ||lftxali.fancyapi.com^
@@ -13860,6 +13862,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nektonsrutate.com^
 ||nend.net^
 ||neobux.com^
+||neolit.cn^
 ||nerdrooted.com^$removeparam=sfw
 ||net-parade.it^$removeparam=pl
 ||net/?ss=$script,third-party
@@ -14625,6 +14628,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qh.la/post.php
 ||qh.la/static/js/nrwzl.js
 ||qh.la/static/js/true.js
+||qhaarkie.com^
 ||qhcksjb.com/static/js/lunbo.js
 ||qhdjhw.com^
 ||qhdzljxsb.cn^

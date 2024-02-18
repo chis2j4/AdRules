@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-02-18 16:09:32（北京时间） 
-! Total count: 18365
+! Version: 2024-02-19 00:08:00（北京时间） 
+! Total count: 18379
 -960x*0.gif
 -250.js*
 
@@ -685,6 +685,9 @@ $doc,removeparam=ttclid
 $doc,removeparam=uid_bam
 $doc,removeparam=user_email_address
 $doc,removeparam=vjk,domain=indeed.com
+$doc,removeparam=vsm_cid
+$doc,removeparam=vsm_pid
+$doc,removeparam=vsm_type
 $doc,removeparam=waporef
 $doc,removeparam=wp_source,domain=ac24.cz|ambcrypto.com|glispa.com|whitepages.com
 $doc,removeparam=wt_mc
@@ -9730,6 +9733,17 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cardif.fr^$removeparam=at_custom_var9
 ||cards-css.iqiyi.com^
 ||careers.hotjar.com^
+||carousell.$removeparam=t-id
+||carousell.$removeparam=t-referrer_browse_type
+||carousell.$removeparam=t-referrer_category_id
+||carousell.$removeparam=t-referrer_page_type
+||carousell.$removeparam=t-referrer_request_id
+||carousell.$removeparam=t-referrer_search_query
+||carousell.$removeparam=t-referrer_search_query_source
+||carousell.$removeparam=t-referrer_sort_by
+||carousell.$removeparam=t-referrer_source
+||carousell.$removeparam=t-source
+||carousell.$removeparam=t-tap_index
 ||carpcw.com^
 ||carsales.com.au^$removeparam=Cr,doc
 ||carstat.bitauto.com^

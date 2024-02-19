@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-02-19 08:36:11（北京时间） 
-! Total count: 18379
+! Version: 2024-02-19 16:10:38（北京时间） 
+! Total count: 18380
 -960x*0.gif
 -250.js*
 
@@ -75,6 +75,7 @@
 ##A[href*='//v.wanfumei.net']
 ##A[href*='/adjump/?']
 ##A[href*='com:'] > IMG[src],A[href*='cc:'] > IMG[src]
+##A[href*='ds2f1sd31g.vip']
 ##A[href*='exuvu.com']
 ##A[href*='jdbfknsbkldns.com']
 ##A[href*='jialu6699h.vip']

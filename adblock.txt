@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-02-22 08:34:49（北京时间） 
-! Total count: 18383
+! Version: 2024-02-22 16:10:21（北京时间） 
+! Total count: 18384
 -960x*0.gif
 -250.js*
 
@@ -2940,7 +2940,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 @@||cs-op.douyucdn.cn/dycatr^
 @@||cs-op.douyucdn.cn/vod-cover^
 @@||cs-op.douyucdn.cn/vod-index^
-@@||css.yhdmtu.xyz^$domain=yinghuavideo.com|yinghua8.tv
+@@||css.yhdmtu.xyz^$domain=iyinghua.io|yinghua8.tv
 @@||cu.bankid.com^$removeparam
 @@||dash.cloudflare.com^$domain=dash.cloudflare.com,important
 @@||developer.apple.com$generichide
@@ -11531,6 +11531,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||guqsqfmi.com^
 ||gurun.cc^
 ||gus.host^
+||gushi.network^
 ||gushifanyi.com^$third-party
 ||guzsjdl.cn^
 ||gvbhae0.com^

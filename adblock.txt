@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-02-23 16:10:24（北京时间） 
-! Total count: 18384
+! Version: 2024-02-24 00:08:45（北京时间） 
+! Total count: 18386
 -960x*0.gif
 -250.js*
 
@@ -199,6 +199,7 @@
 ##IMG[alt='155.fun']
 ##IMG[alt='五一特惠']
 ##IMG[alt^='kaiybet']
+##IMG[onclick='godown()'][src$='gif']
 ##IMG[onclick='golh()'][src$='.gif']
 ##IMG[referrerpolicy='no-referrer'][src$='.gif'][width='100%']
 ##IMG[referrerpolicy='no-referrer'][style='box-sizing: border-box;height:calc(10vh); width:100%;padding: 0px 15px 10px 15px;']
@@ -16413,6 +16414,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||v6jt.cn^
 ||v88yaat.xyz^
 ||v9gfm.xyz^
+||vainews.cn^
 ||valerieavisnba.com^
 ||vali-g1.cp31.ott.cibntv.net*.mp4
 ||vali.cp12.wasu.tv^

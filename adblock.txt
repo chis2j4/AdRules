@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-02-27 00:09:38（北京时间） 
-! Total count: 18388
+! Version: 2024-02-27 08:34:40（北京时间） 
+! Total count: 18389
 -960x*0.gif
 -250.js*
 
@@ -5686,6 +5686,7 @@ ref=easywithai$doc,removeparam=/^ref=easywithai$/
 ref=exploit.media$doc,removeparam=/^ref=exploit.media$/
 ref=labs.watchtowr.com$doc,removeparam=/^ref=labs.watchtowr.com$/
 ref=upstract.com$doc,removeparam=/^ref=upstract.com$/
+ref=zetter-zeroday.com$doc,removeparam=/^ref=zetter-zeroday.com$/
 remenxs.com##div[class^="yd_ad"],div[class^="ml_ad"],div.sk1,div[class^="xsad_"]
 renrencd.com##div.duilian,div[style^="width:960px;height:90px;"]
 renrenfabu.com###\39 1banner

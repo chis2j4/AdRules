@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-02-27 00:09:47（北京时间） 
-! Total count: 2546
+! Version: 2024-02-27 08:34:49（北京时间） 
+! Total count: 2547
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4197,7 +4197,7 @@
 @@||c.mipcdn.com^$domain=prpcoin.com
 @@||c.office.com^|
 @@||c.paypal.com/da/r/fb.js$script
-@@||c.webtrends-optimize.com/acs/$script,domain=tvlicensing.co.uk
+@@||c.webtrends-optimize.com/acs/$image,script,domain=tvlicensing.co.uk
 @@||cache.tv.qq.com/gg/
 @@||cachead.com/*.css
 @@||caf.fr^*/smarttag.js$script,~third-party
@@ -4482,6 +4482,7 @@
 @@||dlkoo.com/down/copy0
 @@||dlkoo.com/down/copy1
 @@||dlkoo.com^$generichide
+@@||dlpanda.com^$generichide
 @@||dmhy.b168.net^$generichide
 @@||dmp.im-apps.net/pms/*/pmt.js$domain=zakzak.co.jp
 @@||dnbus.com.tw/AD/tab_route.html

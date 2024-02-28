@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-02-28 08:34:16（北京时间） 
-! Total count: 2549
+! Version: 2024-02-28 16:10:13（北京时间） 
+! Total count: 2546
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3943,7 +3943,6 @@
 @@||aixifan.com/static/home/widget/basic/advertisement/advertisement.$stylesheet
 @@||aixifan.com^*/sensorsdata.min.js?$domain=acfun.cn
 @@||ajax.googleapis.com/ajax/libs/$script,domain=govid.co
-@@||ajax.googleapis.com/ajax/libs/$script,domain=shink.me|shon.xyz
 @@||ajax.googleapis.com/ajax/libs/$script,domain=vidoza.co|vidoza.net
 @@||ajax.googleapis.com^$script,domain=imgbox.com
 @@||ajax.googleapis.com^$script,domain=rule34hentai.net
@@ -4321,7 +4320,6 @@
 @@||cloud.google.com^$~third-party
 @@||cloud.mail.ru^$image,~third-party
 @@||cloud.notification-naviextras.com^|
-@@||cloudflare.com/ajax/$stylesheet,domain=shink.me|shon.xyz
 @@||cloudflare.com/ajax/libs/fingerprintjs2/$domain=extracttable.com|fckrasnodar.ru|login.kroton.com.br
 @@||cloudflare.com/ajax/libs/fuckadblock/$domain=seselah.com
 @@||cloudflare.com/cdn-cgi/trace$domain=infyspringboard.onwingspan.com|myair.resmed.com
@@ -5106,7 +5104,6 @@
 @@||material.io^$generichide
 @@||matomo.miraheze.org/matomo.js$script,~third-party
 @@||max.com^$generichide
-@@||maxcdn.bootstrapcdn.com^$stylesheet,domain=shink.me|shon.xyz
 @@||maxcdn.bootstrapcdn.com^$stylesheet,domain=up-4ever.net
 @@||maxmind.com/geoip/$xmlhttprequest,domain=ibanez.com
 @@||maxmind.com^*/geoip.js$domain=aljazeera.com|ballerstatus.com|bikemap.net|carltonjordan.com|cashu.com|dr.dk|everydaysource.com|fab.com|girlgames4u.com|ip-address.cc|qatarairways.com|sat-direction.com|sotctours.com|stoli.com|vibe.com

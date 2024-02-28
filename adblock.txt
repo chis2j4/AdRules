@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-02-28 08:34:07（北京时间） 
-! Total count: 18389
+! Version: 2024-02-28 16:10:05（北京时间） 
+! Total count: 18390
 -960x*0.gif
 -250.js*
 
@@ -172,6 +172,7 @@
 ##DIV[id*="BAIDU_SSP__wrapper_"]
 ##DIV[onclick='if (!window.__cfRLUnblockHandlers) return false; window.location.href=\'https://a.biquge-app.com/apps/\''],[onclick='if (!window.__cfRLUnblockHandlers) return false; window.location.href=\'https://a.biquge-app.com/apps/\''] + div
 ##DIV[style$='display:block;width:9.6vw;height:7.96875vw;background: #000;opacity:0.01;']
+##DIV[style$='display:block;width:9.6vw;height:7.96875vw;background:#000;opacity:0.01;']
 ##DIV[style*='!important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important; line-height: 0px !important; height: 150px !important;']
 ##DIV[style*='.xyz/gif/']
 ##DIV[style*='animation: 1s ease 0.2s infinite normal none running shakegwegs; z-index:'][style*='background: url']

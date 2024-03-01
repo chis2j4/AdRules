@@ -2,8 +2,8 @@
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 12 Hours
-# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2024-03-01 00:39:20
-# Total count: 142147
+# 该规则合并自AdGuardDNS过滤器，Githosts，Adaway等# Version: 2024-03-01 08:09:56
+# Total count: 142145
 0.0.0.0 0.101tubeporn.com
 0.0.0.0 0.code.cotsta.ru
 0.0.0.0 0.net.easyjet.com
@@ -14405,6 +14405,7 @@
 0.0.0.0 alerts.thedailystar.net
 0.0.0.0 alerts.wolterskluwerfs.com
 0.0.0.0 alertsatwork.americanexpress.com
+0.0.0.0 alertsecurities.in
 0.0.0.0 alesneogaea.com
 0.0.0.0 alespeonor.com
 0.0.0.0 aletrenhegenmi.com
@@ -20347,24 +20348,20 @@
 0.0.0.0 avito.avito.avito.avito.booking.com-id809702.com
 0.0.0.0 avito.avito.avito.booking.com-id20341.info
 0.0.0.0 avito.avito.avito.booking.com-id90123.info
+0.0.0.0 avito.avito.avito.pay.booking.com-id809712.com
 0.0.0.0 avito.avito.avito.www.booking.com-id809702.com
+0.0.0.0 avito.avito.com-id809712.com
 0.0.0.0 avito.avito.pay.avito.avito.booking.com-id809702.com
-0.0.0.0 avito.avito.sber.avito.booking.com-id809712.com
 0.0.0.0 avito.avito.sber.avito.www.booking.com-id809702.com
 0.0.0.0 avito.avito.sber.booking.com-id809702.com
-0.0.0.0 avito.avito.sber.booking.com-id809712.com
 0.0.0.0 avito.avito.www.avito.booking.com-id90123.info
 0.0.0.0 avito.avito.www.avito.www.booking.com-id90123.info
 0.0.0.0 avito.avito.www.booking.com-id20341.info
-0.0.0.0 avito.avito.www.booking.com-id809712.com
-0.0.0.0 avito.com-id809712.com
 0.0.0.0 avito.pay.avito.avito.avito.avito.avito.com-id90123.info
 0.0.0.0 avito.pay.avito.avito.avito.avito.sber.com-id02349.info
 0.0.0.0 avito.pay.booking.com-id809702.com
-0.0.0.0 avito.pay.booking.com-id809712.com
 0.0.0.0 avito.pay.com-id02349.info
 0.0.0.0 avito.pay.www.booking.com-id809702.com
-0.0.0.0 avito.pay.www.booking.com-id809712.com
 0.0.0.0 avito.sber.booking.com-id20341.info
 0.0.0.0 avivid.likr.tw
 0.0.0.0 avividone.likr.tw
@@ -22314,7 +22311,6 @@
 0.0.0.0 bearbanepant.com
 0.0.0.0 bearpawclouty.com
 0.0.0.0 bears.daigostudio.com
-0.0.0.0 bearware.org
 0.0.0.0 beassilentasaf.xyz
 0.0.0.0 beastbuying.com
 0.0.0.0 beasthacks.com
@@ -28346,6 +28342,7 @@
 0.0.0.0 celebros-analytics.com
 0.0.0.0 celebrus.com
 0.0.0.0 celebsreflect.com
+0.0.0.0 celebtoysshop.com
 0.0.0.0 celebwelove.com
 0.0.0.0 celeftrmfyq.xyz
 0.0.0.0 celeph.com
@@ -29130,7 +29127,6 @@
 0.0.0.0 chippedaugur.com
 0.0.0.0 chipteeamz.com
 0.0.0.0 chiptionics.co
-0.0.0.0 chiptune.com
 0.0.0.0 chirkacylal.com
 0.0.0.0 chiroouterly.com
 0.0.0.0 chiroterapi.com
@@ -31010,7 +31006,6 @@
 0.0.0.0 cnnlive.io
 0.0.0.0 cnnx.io
 0.0.0.0 cnnx.link
-0.0.0.0 cnom.sante.gov.ml
 0.0.0.0 cnomy.com
 0.0.0.0 cnpc.infzm.com
 0.0.0.0 cnpxwl.cheapcaribbean.com
@@ -40086,7 +40081,6 @@
 0.0.0.0 dicinging.co.in
 0.0.0.0 dicknearbyaircraft.com
 0.0.0.0 dickssportinggoods.demdex.net
-0.0.0.0 diclegrup.org
 0.0.0.0 diclotrans.com
 0.0.0.0 dicotrebill.digital
 0.0.0.0 dicouksa.com
@@ -41000,7 +40994,6 @@
 0.0.0.0 dl-test.rivafashion.com
 0.0.0.0 dl-vip.bav.baidu.com
 0.0.0.0 dl-vip.pcfaster.baidu.co.th
-0.0.0.0 dl.198424.com
 0.0.0.0 dl.4buy.net
 0.0.0.0 dl.4kporn.xxx
 0.0.0.0 dl.6thstreet.com
@@ -41040,6 +41033,7 @@
 0.0.0.0 dl.ops.baidu.com
 0.0.0.0 dl.orders.accredo.com
 0.0.0.0 dl.orders.express-scripts.com
+0.0.0.0 dl.packetstormsecurity.net
 0.0.0.0 dl.popclub.co.in
 0.0.0.0 dl.purplle.com
 0.0.0.0 dl.qcash.ws
@@ -45727,6 +45721,7 @@
 0.0.0.0 eonmxd.urban-research.jp
 0.0.0.0 eonsmedia.com
 0.0.0.0 eontappetito.com
+0.0.0.0 eontent.powzerz.lol
 0.0.0.0 eonwayaha.com
 0.0.0.0 eooslfyhziubo.com
 0.0.0.0 eopad.cyou
@@ -51884,6 +51879,7 @@
 0.0.0.0 fxipreferral.americanexpress.com
 0.0.0.0 fxipwelcome.americanexpress.ca
 0.0.0.0 fxiuuaa.com
+0.0.0.0 fxjnfn.xyz
 0.0.0.0 fxjs.2541.com
 0.0.0.0 fxkfhbn.xyz
 0.0.0.0 fxluaijchj.com
@@ -53150,6 +53146,7 @@
 0.0.0.0 germinateensue.com
 0.0.0.0 geruksom.net
 0.0.0.0 gervasdonatee.guru
+0.0.0.0 geryh.online
 0.0.0.0 geseguridadsocial.com
 0.0.0.0 gessoesbeavers.uno
 0.0.0.0 gestiondocumentaire.ricoh.fr
@@ -63522,7 +63519,6 @@
 0.0.0.0 ingivervidetur.uno
 0.0.0.0 ingjymcmsqloxw.com
 0.0.0.0 inglunewly.com
-0.0.0.0 ingonherbal.com
 0.0.0.0 ingotsmyopic.com
 0.0.0.0 ingramony.com
 0.0.0.0 ingratitudemisty.com
@@ -65758,6 +65754,7 @@
 0.0.0.0 jfoowqditdf.com
 0.0.0.0 jfp6.destinia.de
 0.0.0.0 jfpltp.eyeforfashion.pl
+0.0.0.0 jfremovals.com
 0.0.0.0 jfsocqmvvqt.com
 0.0.0.0 jfthhbvpryrvbs.com
 0.0.0.0 jfvoewyifwed.com
@@ -67236,6 +67233,7 @@
 0.0.0.0 kalongyyds.com
 0.0.0.0 kalooga.com
 0.0.0.0 kaloriferbacasi.com
+0.0.0.0 kalp-s.com
 0.0.0.0 kalseech.xyz
 0.0.0.0 kalstats.kaltura.com
 0.0.0.0 kamachilinins.com
@@ -67975,6 +67973,7 @@
 0.0.0.0 kirujh.com
 0.0.0.0 kirverfurious.life
 0.0.0.0 kiss.trckiskegyed.monster
+0.0.0.0 kisserine.com
 0.0.0.0 kissfang.cn
 0.0.0.0 kissmetrics.com
 0.0.0.0 kissmetrics.io
@@ -70026,7 +70025,6 @@
 0.0.0.0 leeyuo.com
 0.0.0.0 leezeemu.com
 0.0.0.0 leezeept.com
-0.0.0.0 leeziptv.com
 0.0.0.0 leezoama.net
 0.0.0.0 lefirgaro.fr
 0.0.0.0 leforgotteddisg.info
@@ -77914,6 +77912,7 @@
 0.0.0.0 metaspoonfed.com
 0.0.0.0 metasterisk.com
 0.0.0.0 metatestruck.com
+0.0.0.0 metatradebox.net
 0.0.0.0 metauniverse88.com
 0.0.0.0 metaversemolecule.com
 0.0.0.0 metavertising.com
@@ -82179,6 +82178,7 @@
 0.0.0.0 muyoozrkkyr.com
 0.0.0.0 muyxmmz.cn
 0.0.0.0 muzarabeponym.website
+0.0.0.0 muzesen.info
 0.0.0.0 muzhskoy.xyz
 0.0.0.0 muziczion.com
 0.0.0.0 muzoohat.net
@@ -83395,12 +83395,15 @@
 0.0.0.0 navi39.ru
 0.0.0.0 navi4.com
 0.0.0.0 navi40.com
+0.0.0.0 navi42.ru
+0.0.0.0 navi44.ru
 0.0.0.0 navi45.ru
 0.0.0.0 navi47.com
 0.0.0.0 navi5.com
 0.0.0.0 navi50.com
 0.0.0.0 navi53.com
 0.0.0.0 navi56.com
+0.0.0.0 navi56.ru
 0.0.0.0 navi59.ru
 0.0.0.0 navi6.com
 0.0.0.0 navi61.com
@@ -83931,6 +83934,7 @@
 0.0.0.0 netstam.com
 0.0.0.0 netstat.yunnan.cn
 0.0.0.0 netstats.dk
+0.0.0.0 netsugar.shop
 0.0.0.0 netszex.com
 0.0.0.0 nettlyphosis.com
 0.0.0.0 nettube.top
@@ -84472,7 +84476,6 @@
 0.0.0.0 ngeoziadiyc4hi2e.com
 0.0.0.0 ngforanoppor.info
 0.0.0.0 ngfruitiesmatc.info
-0.0.0.0 nggw.sync.oystergardens.club
 0.0.0.0 nghiencltx.com
 0.0.0.0 ngineet.cfd
 0.0.0.0 nginxborder-server.naiadsystems.com
@@ -86327,7 +86330,6 @@
 0.0.0.0 ocadopartner.com
 0.0.0.0 ocalqoiw.com
 0.0.0.0 ocasosfjpbf.com
-0.0.0.0 ocbnx.sync.oystergardens.club
 0.0.0.0 ocbyxycdl.xyz
 0.0.0.0 occame.com
 0.0.0.0 occarv.com
@@ -90616,7 +90618,6 @@
 0.0.0.0 pay.avito.sber.com-id02349.info
 0.0.0.0 pay.avito.sber.com-id20341.info
 0.0.0.0 pay.avito.sber.com-id809702.com
-0.0.0.0 pay.avito.sber.com-id809712.com
 0.0.0.0 pay.avito.sber.sber.booking.com-id90123.info
 0.0.0.0 pay.avito.www.avito.www.booking.com-id90123.info
 0.0.0.0 pay.avito.www.booking.com-id20341.info
@@ -90626,7 +90627,6 @@
 0.0.0.0 pay.com-id20341.info
 0.0.0.0 pay.com-id409712.com
 0.0.0.0 pay.com-id809702.com
-0.0.0.0 pay.com-id809712.com
 0.0.0.0 pay.com-id90123.info
 0.0.0.0 pay.mobile.sina.cn
 0.0.0.0 pay.pay.avito.avito.avito.avito.avito.com-id90123.info
@@ -94111,7 +94111,6 @@
 0.0.0.0 prestamex.top
 0.0.0.0 prestigefunction.com
 0.0.0.0 prestigehackforghosts.dlcodes.com
-0.0.0.0 prestigehomeautomation.net
 0.0.0.0 prestlyamylan.com
 0.0.0.0 prestoris.com
 0.0.0.0 presumeauthorizationcamping.com
@@ -102105,6 +102104,7 @@
 0.0.0.0 saeedalkarmi.com
 0.0.0.0 saegissolutions.actonservice.com
 0.0.0.0 saemmvhnn.xyz
+0.0.0.0 saf-oil.ru
 0.0.0.0 safarlysins.com
 0.0.0.0 safarpanda.com
 0.0.0.0 safaservices.com.sa
@@ -102842,6 +102842,7 @@
 0.0.0.0 sberbank.avito.avito.avito.sber.com-id809702.com
 0.0.0.0 sberbank.avito.avito.booking.com-id20341.info
 0.0.0.0 sberbank.avito.avito.booking.com-id90123.info
+0.0.0.0 sberbank.avito.avito.pay.com-id809712.com
 0.0.0.0 sberbank.avito.avito.sber.avito.com-id02349.info
 0.0.0.0 sberbank.avito.avito.sber.com-id02349.info
 0.0.0.0 sberbank.avito.avito.sber.com-id20341.info
@@ -102860,7 +102861,6 @@
 0.0.0.0 sberbank.avito.sber.booking.com-id90123.info
 0.0.0.0 sberbank.avito.sber.com-id02349.info
 0.0.0.0 sberbank.avito.sber.com-id809702.com
-0.0.0.0 sberbank.avito.sber.com-id809712.com
 0.0.0.0 sberbank.avito.sber.sber.booking.com-id90123.info
 0.0.0.0 sberbank.avito.www.avito.www.booking.com-id90123.info
 0.0.0.0 sberbank.avito.www.booking.com-id20341.info
@@ -103439,7 +103439,6 @@
 0.0.0.0 sdhjueue.com
 0.0.0.0 sdhltncfqbu.com
 0.0.0.0 sdhuawen.cn
-0.0.0.0 sdigg.sync.oystergardens.club
 0.0.0.0 sdjbcjsbdjk.com
 0.0.0.0 sdjbvjsbvjz.com
 0.0.0.0 sdjkbcjksbdsvv.com
@@ -117239,6 +117238,7 @@
 0.0.0.0 szfr.fr
 0.0.0.0 szhcyxtszb.com
 0.0.0.0 szhgmd.com
+0.0.0.0 szhleq.bn.files.1drv.com
 0.0.0.0 szhomes.net
 0.0.0.0 szhszxfw.cn
 0.0.0.0 szhyzkj.com
@@ -117254,6 +117254,7 @@
 0.0.0.0 szmmb.cn
 0.0.0.0 szmnd.cn
 0.0.0.0 szmnf.cn
+0.0.0.0 szmnk.cn
 0.0.0.0 szmnl.cn
 0.0.0.0 szmns.cn
 0.0.0.0 szmtd.cn
@@ -119585,7 +119586,6 @@
 0.0.0.0 teslalive.io
 0.0.0.0 teslalive2023.com
 0.0.0.0 teslalive23.io
-0.0.0.0 teslalnc.net
 0.0.0.0 teslalnc.org
 0.0.0.0 teslalnvest.com
 0.0.0.0 teslaluck.org
@@ -121269,7 +121269,6 @@
 0.0.0.0 tkmftc.aotter.net
 0.0.0.0 tknet.rayjump.com
 0.0.0.0 tknkfd.xyz
-0.0.0.0 tkp214.com
 0.0.0.0 tkpopup.asia
 0.0.0.0 tkpopup.vn
 0.0.0.0 tkportal.aotter.net
@@ -129115,6 +129114,7 @@
 0.0.0.0 unicatethebe.org
 0.0.0.0 uniclick.openv.com
 0.0.0.0 unicornpride123.com
+0.0.0.0 unicorpbrunei.com
 0.0.0.0 unicume.com
 0.0.0.0 unid.go.com
 0.0.0.0 unidesk.alicdn.com
@@ -133501,6 +133501,7 @@
 0.0.0.0 wallpaperstudio.co.in
 0.0.0.0 wallstrads.com
 0.0.0.0 wallybuffed.uno
+0.0.0.0 walmartchina.top
 0.0.0.0 walmartshoping.com
 0.0.0.0 walrea.com
 0.0.0.0 walrus.blindemployment.solutions
@@ -136595,7 +136596,6 @@
 0.0.0.0 www.akiko.f9.co.uk
 0.0.0.0 www.alda1mure.com
 0.0.0.0 www.alea6badb.com
-0.0.0.0 www.alertsecurities.in
 0.0.0.0 www.alexrc.plus.com
 0.0.0.0 www.alga9frog.com
 0.0.0.0 www.algocashmaster.com
@@ -137041,6 +137041,7 @@
 0.0.0.0 www.info.redhat.com
 0.0.0.0 www.informationmoat.com
 0.0.0.0 www.infos-experts.adp.com
+0.0.0.0 www.ingonherbal.com
 0.0.0.0 www.ins-mercadeo.com
 0.0.0.0 www.ins-multiasistencia.com
 0.0.0.0 www.insightful-company-52.com
@@ -137075,7 +137076,6 @@
 0.0.0.0 www.jsnzoe301m.com
 0.0.0.0 www.justhookup.com
 0.0.0.0 www.jvzoo.com
-0.0.0.0 www.kalp-s.com
 0.0.0.0 www.kanglingjiu.com
 0.0.0.0 www.kcc4445.top
 0.0.0.0 www.keet1liod.com
@@ -137423,7 +137423,6 @@
 0.0.0.0 www.sa44.net
 0.0.0.0 www.saas-eue-1.com
 0.0.0.0 www.saas-euw-1.com
-0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.safecoprograms.com
 0.0.0.0 www.safetrck.com
 0.0.0.0 www.said3page.com
@@ -137713,6 +137712,7 @@
 0.0.0.0 www.yourplanprovisions.com
 0.0.0.0 www.youzonggw.com
 0.0.0.0 www.ypmate.com
+0.0.0.0 www.ysbaojia.com
 0.0.0.0 www.yueyuego.com
 0.0.0.0 www.yuyue008.cn
 0.0.0.0 www.yuzuni.com
@@ -139645,21 +139645,18 @@
 0.0.0.0 yandex.avito.com-id20341.info
 0.0.0.0 yandex.avito.pay.avito.avito.booking.com-id809702.com
 0.0.0.0 yandex.avito.pay.avito.avito.booking.com-id90123.info
-0.0.0.0 yandex.avito.sber.avito.booking.com-id809712.com
 0.0.0.0 yandex.avito.sber.avito.www.booking.com-id809702.com
 0.0.0.0 yandex.avito.sber.booking.com-id809702.com
 0.0.0.0 yandex.avito.sber.booking.com-id90123.info
 0.0.0.0 yandex.avito.sber.com-id809702.com
 0.0.0.0 yandex.avito.www.booking.com-id20341.info
 0.0.0.0 yandex.avito.www.booking.com-id809702.com
-0.0.0.0 yandex.booking.com-id809712.com
 0.0.0.0 yandex.com-id20341.info
 0.0.0.0 yandex.pay.avito.avito.avito.avito.avito.com-id20341.info
 0.0.0.0 yandex.pay.avito.avito.avito.avito.sber.com-id02349.info
 0.0.0.0 yandex.pay.avito.avito.avito.com-id02349.info
 0.0.0.0 yandex.pay.avito.avito.avito.com-id90123.info
 0.0.0.0 yandex.pay.avito.avito.booking.com-id809702.com
-0.0.0.0 yandex.pay.avito.avito.booking.com-id809712.com
 0.0.0.0 yandex.pay.booking.com-id809702.com
 0.0.0.0 yandex.pay.www.booking.com-id809702.com
 0.0.0.0 yandex.sber.avito.avito.avito.avito.avito.com-id20341.info
@@ -140892,6 +140889,7 @@
 0.0.0.0 z.moatads.com
 0.0.0.0 z.nowscore.com
 0.0.0.0 z.opmnstr.com
+0.0.0.0 z.shavsl.com
 0.0.0.0 z.tudouxy01.com
 0.0.0.0 z.webengage.com
 0.0.0.0 z0a.de

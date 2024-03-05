@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-03-05 00:10:43（北京时间） 
-! Total count: 18396
+! Version: 2024-03-05 08:34:46（北京时间） 
+! Total count: 18397
 -960x*0.gif
 -250.js*
 
@@ -6474,6 +6474,7 @@ www.1080pba.com##div.ad_960,div.ad_300,div#topxia,img[src="/templets/default/ima
 www.10s1.com##[src^="http://www.10s1.com/ggpic/"],.jyzxad,.adver
 www.115zk.com##div.wp.a_f,div.a_cn
 www.123pan.com##.advBanner
+www.123pan.com##.btn_reward.hide
 www.123pan.com##DIV.app-adv-container
 www.123pan.com##IMG[src*='-banner'],.ant-carousel
 www.123yq.com##div.Messageml

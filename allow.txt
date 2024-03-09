@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-03-09 00:09:18（北京时间） 
-! Total count: 2551
+! Version: 2024-03-09 08:34:02（北京时间） 
+! Total count: 2552
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4401,6 +4401,7 @@
 @@||cpt-static.gannettdigital.com/universal-web-client/master/latest/elements/vendor/adobe/visitor-api.html$xmlhttprequest
 @@||cq.qq.com/js/cody/*scroll_ad.js
 @@||cqcounter.com^$domain=cqcounter.com
+@@||crackedresource.com^$generichide
 @@||crackle.com/vendor/AdManager.js$script,~third-party
 @@||create.jd.com/ad/
 @@||creditas.cz/cb/public/assets/SmartTag-$script,~third-party

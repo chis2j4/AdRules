@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-03-09 00:09:04（北京时间） 
-! Total count: 18402
+! Version: 2024-03-09 08:33:53（北京时间） 
+! Total count: 18423
 -960x*0.gif
 -250.js*
 
@@ -14857,6 +14857,19 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qygzbxpt.com^
 ||qyzyd.top^
 ||qzda.cc^
+||qzone.qq.com^$doc,removeparam=blog_photo
+||qzone.qq.com^$doc,removeparam=bp1
+||qzone.qq.com^$doc,removeparam=bp2
+||qzone.qq.com^$doc,removeparam=bp7
+||qzone.qq.com^$doc,removeparam=cellid
+||qzone.qq.com^$doc,removeparam=ciphertext
+||qzone.qq.com^$doc,removeparam=g
+||qzone.qq.com^$doc,removeparam=g_f
+||qzone.qq.com^$doc,removeparam=jumptoqzone
+||qzone.qq.com^$doc,removeparam=loginfrom
+||qzone.qq.com^$doc,removeparam=res_uin
+||qzone.qq.com^$doc,removeparam=subid
+||qzone.qq.com^$doc,removeparam=subtype
 ||qzonestyle.gtimg.cn/qzone/phone/n/
 ||qzonestyle.gtimg.cn/qzone/qzact^
 ||qzonestyle.gtimg.cn/qzone/space_item/material/PolymorphicPraise^
@@ -16373,6 +16386,14 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||uri6.com^
 ||urimnugocfr.com^
 ||urlkwqi.cn^
+||urlshare.cn^$doc,removeparam=_wv
+||urlshare.cn^$doc,removeparam=apptype
+||urlshare.cn^$doc,removeparam=cli_scene
+||urlshare.cn^$doc,removeparam=loginuin
+||urlshare.cn^$doc,removeparam=plateform
+||urlshare.cn^$doc,removeparam=src_scene
+||urlshare.cn^$doc,removeparam=src_uin
+||urlshare.cn^$doc,removeparam=srctype
 ||ursegreatm.fun^
 ||urtr4hrq.com^
 ||usancit.top^

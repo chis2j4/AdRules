@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-03-09 08:33:53（北京时间） 
-! Total count: 18423
+! Version: 2024-03-09 16:08:58（北京时间） 
+! Total count: 18424
 -960x*0.gif
 -250.js*
 
@@ -252,6 +252,7 @@
 ##[href*='.top/?token=']
 ##[href*='.xacg.info/']
 ##[href*='anrvl.com']
+##[href*='pojuko.buzz']
 ##[href*='slkdnlkfnskl.com']
 ##[href*='snnrb.com']
 ##[href*='sohu.com/hy-op']

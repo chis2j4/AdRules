@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-03-09 16:08:58（北京时间） 
-! Total count: 18424
+! Version: 2024-03-10 00:08:10（北京时间） 
+! Total count: 18432
 -960x*0.gif
 -250.js*
 
@@ -50,6 +50,7 @@
 ##.ad_img
 ##.adsbygoogle
 ##.advertise
+##.adwap
 ##.ayx[style="position: fixed;bottom: -10px;right:0;z-index:999;width:250px"]
 ##.bottom-pic,.col-pd.mb10
 ##.clearfix > a > IMG[referrerpolicy='no-referrer'][src]:not([style='display: block;'])
@@ -243,6 +244,9 @@
 ##[alt='西瓜社']
 ##[at*='尼斯人注册送']
 ##[class$="_main_outstream"][style="right: 0px;"]
+##[class][style*='px; bottom: 0px; left: 0px; z-index'][style$='width: 100vw; position: fixed;']
+##[class][style*='px; top: 0px; left: 0px; z-index'][style$='width: 100vw; position: fixed;']
+##[class][style*='px; top: 0px; left: 0px; z-index'][style$='width: 100vw; position: relative;']
 ##[class^="chapter_"] > .baiduCenter
 ##[data^='/banners/pr_advertising_ads_banner']
 ##[href$='/ads.aspx']
@@ -274,6 +278,7 @@
 ##[href^='http://j6597v.hjlego.com']
 ##[href^='http://jg.awaliwa.com/']
 ##[href^='http://mm.alameinv.com/']
+##[href^='https://31jrx5y7.com/']
 ##[href^='https://65564535.com']
 ##[href^='https://97749516.com/']
 ##[href^='https://analytics.woozooo.com/jump.php?url=']
@@ -7625,6 +7630,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||36pn.com^$third-party
 ||37.1.213.100^
 ||37.com/$third-party
+||37bhof.com^
 ||37cs.com^
 ||37kx1.com^$third-party
 ||37mnm.com^
@@ -14796,6 +14802,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qqzy1.cc^
 ||qr.cp31.ott.cibntv.net^
 ||qrirud.xyz^
+||qrjsz.top^
 ||qrjxween.com^
 ||qrxmgfz.cn^
 ||qs.lagowang.com^$object-subrequest
@@ -15287,6 +15294,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||shangtuke.cn^
 ||shanhaogc.com^
 ||shanjewelry.com^
+||shanvezhu.com^
 ||shanxicloud.net^
 ||shared.youdao.com/dao/search/outweb/js/
 ||sharele.cn^

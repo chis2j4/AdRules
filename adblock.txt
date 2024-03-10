@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-03-10 08:38:01（北京时间） 
-! Total count: 18432
+! Version: 2024-03-10 16:09:20（北京时间） 
+! Total count: 18435
 -960x*0.gif
 -250.js*
 
@@ -2244,6 +2244,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 .cn/redbaiduct.com?s=$third-party
 .cn:*/vh5$third-party
 .cn:8001/*/*?*=$third-party
+.cn:8005/cc/*?is_not=
 .com/adv1/?q=
 .com/c.php?s=*=*=$third-party
 .com/candy*.js$third-party
@@ -2834,6 +2835,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 ?local_ga_js=
 @@$doc,removeparam=/^.*_dest_url=.*$/
 @@$removeparam=/^OCID=/i,app=Microsoft.Msn.News.exe
+@@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com
 @@.com/o.js$domain=2biqu.com
 @@.png#$domain=9zvip.net|club.tgfcer.com|coolinet.com|d1-dm.com
 @@/^https?:\/\/([a-z0-9-\.])*(chat|drive)\.google\.com\/videoplayback/$removeparam
@@ -14747,6 +14749,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qj202.cc^
 ||qjekt0c.xyz^
 ||qjhlc.com^
+||qjsp48.xyz^
 ||qjwpy.com^
 ||qjxys.cn^
 ||qktmwiq.cn^

@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-03-14 08:34:44（北京时间） 
-! Total count: 2560
+! Version: 2024-03-14 16:10:25（北京时间） 
+! Total count: 2561
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4151,6 +4151,7 @@
 @@||beyondsoft.com/dataservice/img/ad_
 @@||bgp.he.net/images/flags/*.gif?$image,~third-party
 @@||bigfishaudio.com/banners/$image,~third-party
+@@||bikeportland.org/wp-content/plugins/advanced-ads/public/assets/js/advanced.min.js$script,~third-party
 @@||bilder-a.akamaihd.net/ip/js/ipdvdc/ipdvdc.min.js$domain=n-tv.de|toggo.de|vip.de
 @@||bilibili.com^*/web_page_view?$domain=message.bilibili.com
 @@||bing.com/search?$generichide

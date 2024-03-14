@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-03-14 00:47:02（北京时间） 
-! Total count: 18435
+! Version: 2024-03-14 08:34:34（北京时间） 
+! Total count: 18437
 -960x*0.gif
 -250.js*
 
@@ -15517,6 +15517,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sogou.com^$removeparam=sut
 ||sogou.com^$removeparam=w
 ||sogoucdn.com/wap/js/
+||sohu.com^$removeparam=pvid
+||sohu.com^$removeparam=scm
 ||sohucs.com^$domain=renrenfabu.com
 ||sohulink.cc^
 ||solaron.top^

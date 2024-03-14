@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-03-14 16:10:25（北京时间） 
-! Total count: 2561
+! Version: 2024-03-15 00:09:59（北京时间） 
+! Total count: 2562
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4023,6 +4023,7 @@
 @@||api.ipinfodb.com^$xmlhttprequest,domain=management30.com
 @@||api.karte.io^|
 @@||api.perfops.net^$script,xmlhttprequest,domain=cdnperf.com|dnsperf.com
+@@||api.personaclick.com^|
 @@||api.touchnote.io^$xmlhttprequest,domain=app.touchnote.com
 @@||api.tv.sohu.com/mobile_user/device^$app=com.sohu.sohuvideo
 @@||api.us1.exponea.com^$script,xmlhttprequest,domain=walmartpetrx.com

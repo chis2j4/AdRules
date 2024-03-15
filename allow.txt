@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-03-15 00:09:59（北京时间） 
-! Total count: 2562
+! Version: 2024-03-15 08:35:27（北京时间） 
+! Total count: 2564
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5196,6 +5196,7 @@
 @@||msubload.com/sub/$xmlhttprequest
 @@||mtouch.facebook.com/ads/api/preview/$domain=business.facebook.com
 @@||mui.com^$generichide
+@@||multitest.ua/static/bower_components/boomerang/boomerang.js$~third-party
 @@||munchkin.marketo.net/munchkin.js$domain=st.com|telus.com
 @@||music.amazon.$generichide
 @@||musictrack.jp/a/ad/banner_member.jpg
@@ -5444,6 +5445,7 @@
 @@||px.a8.net^|
 @@||qbox.me/static/js/ads.js$domain=linux.cn
 @@||qcheng.cc/x/statics/js/guanggao.
+@@||qds.it/wp-content/plugins/digistream/digiplayer/js/videojs.ga.js?$script,~third-party
 @@||qhimg.com^*/monitor_analytic.
 @@||qhres.com^*/monitor_analytic.js$domain=mse.360.cn
 @@||qianpanso.cn/other/*.js$domain=cilimao.co|cilimao.one

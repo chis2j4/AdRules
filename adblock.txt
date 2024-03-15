@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-03-15 00:09:50（北京时间） 
-! Total count: 18437
+! Version: 2024-03-15 08:35:18（北京时间） 
+! Total count: 18439
 -960x*0.gif
 -250.js*
 
@@ -5695,11 +5695,13 @@ redocn.com##DIV#all_adv_2_3,DIV#BAIDU_DUP_wrapper_307960_0,DIV[id^="index_adv_"]
 redtube-com.info##.ima,.rmedia,.sppc
 ref.so##div[style="overflow:hidden; height:auto; width:1002px; margin:0 auto;  "]
 ref=404media.co$doc,removeparam=/^ref=404media.co$/
+ref=awesometechstack.com$doc,removeparam=/^ref=awesometechstack.com$/
 ref=beep.blog$doc,removeparam=/^ref=beep.blog$/
 ref=blog.roboflow.com$doc,removeparam=/^ref=blog.roboflow.com$/
 ref=buffer.com$doc,removeparam=/^ref=buffer.com$/
 ref=easywithai$doc,removeparam=/^ref=easywithai$/
 ref=exploit.media$doc,removeparam=/^ref=exploit.media$/
+ref=gtg.benabraham.net$doc,removeparam=/^ref=gtg.benabraham.net$/
 ref=labs.watchtowr.com$doc,removeparam=/^ref=labs.watchtowr.com$/
 ref=upstract.com$doc,removeparam=/^ref=upstract.com$/
 ref=zetter-zeroday.com$doc,removeparam=/^ref=zetter-zeroday.com$/

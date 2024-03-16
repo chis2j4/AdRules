@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-03-16 16:09:09（北京时间） 
+! Version: 2024-03-17 00:07:51（北京时间） 
 ! Total count: 18440
 -960x*0.gif
 -250.js*
@@ -542,7 +542,6 @@ $doc,removeparam=/^dpg_/
 $doc,removeparam=/^ds_/,domain=~clickserve.dartsearch.net
 $doc,removeparam=/^dv_adwords_/
 $doc,removeparam=/^ecid=/i,domain=~account.microsoft.com
-$doc,removeparam=/^from=ceneo$/
 $doc,removeparam=/^from=kelkoo/
 $doc,removeparam=/^from=rss$/
 $doc,removeparam=/^ga_/
@@ -563,16 +562,6 @@ $doc,removeparam=/^p\.litb_/
 $doc,removeparam=/^p\.utm_/
 $doc,removeparam=/^pid=.*_int$/
 $doc,removeparam=/^piwik_/
-$doc,removeparam=/^ref=admitad$/
-$doc,removeparam=/^ref=awin$/
-$doc,removeparam=/^ref=ceneo$/
-$doc,removeparam=/^ref=cj$/i
-$doc,removeparam=/^ref=itsfoss.com$/
-$doc,removeparam=/^ref=kelkoo/
-$doc,removeparam=/^ref=news.itsfoss.com$/
-$doc,removeparam=/^ref=pricespy/i
-$doc,removeparam=/^ref=prisjakt/i
-$doc,removeparam=/^ref=rss$/
 $doc,removeparam=/^referer=prisjakt/i
 $doc,removeparam=/^refsource=webgains$/
 $doc,removeparam=/^sfmc_/
@@ -602,7 +591,6 @@ $doc,removeparam=/^sv_tax/
 $doc,removeparam=/^target=admitad$/
 $doc,removeparam=/^tracker=affiliatefuture$/i
 $doc,removeparam=/^utm-/
-$doc,removeparam=/^via=rss$/
 $doc,removeparam=/^wickedid=/i
 $doc,removeparam=/^wickedkeyword=/i
 $doc,removeparam=/^wickedplacement=/i
@@ -745,8 +733,6 @@ $removeparam=/^publisherId=/i,domain=blissworld.com|burkesoutlet.com|dell.com|ki
 $removeparam=/^pubname=/i,domain=anntaylor.com|ashford.com|backcountry.com|bloomingdales.com|dermstore.com|express.com|famousfootwear.com|farmandfleet.com|gucci.com|hottopic.com|loft.com|naturalizer.com|samsclub.com
 $removeparam=/^quot;/,domain=outnorth.fi
 $removeparam=/^qxjkl=tsid:/
-$removeparam=/^ref=spreadprivacy.com$/
-$removeparam=/^ref=troyhunt\.com/
 $removeparam=/^refID=/i,domain=allmodern.com|calphalon.com|priceline.com|questrade.com|wayfair.*|yankeecandle.com
 $removeparam=/^shared/,domain=alibi.fi|anna.fi|eralehti.fi|hymy.fi|kaksplus.fi|kotiliesi.fi|rakennusmaailma.fi|seura.fi|tekniikanmaailma.fi
 $removeparam=/^srcCode=/i,domain=jcrew.com|magellans.com|teleflora.com|tigerdirect.com
@@ -3150,6 +3136,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 @@||zbj.com^
 MRelateFeedAd
 Mplay/kk1.js
+Ref=CJ$doc,removeparam=ref
 \:[0-9]{4,5}\/sogou\/
 ^adreaper^
 ^ads.swf|
@@ -4166,6 +4153,7 @@ fr2135.com###friendLink_contents
 fr2135.com###mv_mp4cg
 free.aliyun.com##div.module-wrap.J_tb_lazyload.aliyun-bottom
 freepik.com###layer_coupon,.ad
+from=ceneo$doc,removeparam=from
 ft.com##[class^="banner"],[class^="mpu-container"]
 ftchinese.com##.ad-hidden,.mpu-container-instory,[class^="banner-"],.bn-ph,.mpu-container
 ftchinese.com##DIV.banner-content,DIV.bn-ph,DIV.mpu-container-instory,n-internal-promo,show-image-in-mobile noneSubscriber,#ad-*
@@ -5694,17 +5682,28 @@ rednet.cn##div#topbanner,object#FlashId_ad1
 redocn.com##DIV#all_adv_2_3,DIV#BAIDU_DUP_wrapper_307960_0,DIV[id^="index_adv_"],DIV[id$="_adv_1_2"],DIV.ad_footerbanner
 redtube-com.info##.ima,.rmedia,.sppc
 ref.so##div[style="overflow:hidden; height:auto; width:1002px; margin:0 auto;  "]
-ref=404media.co$doc,removeparam=/^ref=404media.co$/
-ref=awesometechstack.com$doc,removeparam=/^ref=awesometechstack.com$/
-ref=beep.blog$doc,removeparam=/^ref=beep.blog$/
-ref=blog.roboflow.com$doc,removeparam=/^ref=blog.roboflow.com$/
-ref=buffer.com$doc,removeparam=/^ref=buffer.com$/
-ref=easywithai$doc,removeparam=/^ref=easywithai$/
-ref=exploit.media$doc,removeparam=/^ref=exploit.media$/
-ref=gtg.benabraham.net$doc,removeparam=/^ref=gtg.benabraham.net$/
-ref=labs.watchtowr.com$doc,removeparam=/^ref=labs.watchtowr.com$/
-ref=upstract.com$doc,removeparam=/^ref=upstract.com$/
-ref=zetter-zeroday.com$doc,removeparam=/^ref=zetter-zeroday.com$/
+ref=404media.co$doc,removeparam=ref
+ref=admitad$doc,removeparam=ref
+ref=awesometechstack.com$doc,removeparam=ref
+ref=awin$doc,removeparam=ref
+ref=beep.blog$doc,removeparam=ref
+ref=blog.roboflow.com$doc,removeparam=ref
+ref=buffer.com$doc,removeparam=ref
+ref=ceneo$doc,removeparam=ref
+ref=easywithai$doc,removeparam=ref
+ref=exploit.media$doc,removeparam=ref
+ref=gtg.benabraham.net$doc,removeparam=ref
+ref=itsfoss.com$doc,removeparam=ref
+ref=kelkoo$doc,removeparam=ref
+ref=labs.watchtowr.com$doc,removeparam=ref
+ref=news.itsfoss.com$doc,removeparam=ref
+ref=pricespy$doc,removeparam=ref
+ref=prisjakt$doc,removeparam=ref
+ref=rss$doc,removeparam=ref
+ref=spreadprivacy.com$removeparam=ref
+ref=troyhunt.com$doc,removeparam=ref
+ref=upstract.com$doc,removeparam=ref
+ref=zetter-zeroday.com$doc,removeparam=ref
 remenxs.com##div[class^="yd_ad"],div[class^="ml_ad"],div.sk1,div[class^="xsad_"]
 renrencd.com##div.duilian,div[style^="width:960px;height:90px;"]
 renrenfabu.com###\39 1banner
@@ -6302,6 +6301,7 @@ verypsp.com###ggDiv2,[width="960"][height="50"]
 vfe3.com##div#swtleft
 vgugu.com##div#bn_ad,div[id^="test"],div.in_br
 vhiphop.com##.slides
+via=rss$doc,removeparam=via
 vidhub.cc##div.player-info > div.module
 view.inews.qq.com##div[class^="infinite-comment-list_subText"]
 view.inews.qq.com##div[class^="interaction-bottom_interaction"]
@@ -16822,7 +16822,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||wooboo.com.cn^
 ||woodpecker.uc.cn^
 ||woot.com^$removeparam=/^ref_?=/
-||wordpress.com^$removeparam=/^ref=[a-z-]{5,}$/
+||wordpress.com^$doc,removeparam=/^ref=[a-z-]{5,}$/
 ||worjeklmq.com^
 ||worlderva.com^
 ||worldssl.net^

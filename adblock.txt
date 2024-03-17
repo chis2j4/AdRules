@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-03-17 16:09:03（北京时间） 
-! Total count: 18441
+! Version: 2024-03-18 00:08:08（北京时间） 
+! Total count: 18443
 -960x*0.gif
 -250.js*
 
@@ -5688,6 +5688,7 @@ ref=admitad$doc,removeparam=ref
 ref=awesometechstack.com$doc,removeparam=ref
 ref=awin$doc,removeparam=ref
 ref=beep.blog$doc,removeparam=ref
+ref=blog.isosceles.com$doc,removeparam=ref
 ref=blog.roboflow.com$doc,removeparam=ref
 ref=buffer.com$doc,removeparam=ref
 ref=ceneo$doc,removeparam=ref
@@ -9271,6 +9272,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bbc.$removeparam=pinned_post_locator
 ||bbc.$removeparam=pinned_post_type
 ||bbc.com^$removeparam=/^at_[a-z_]+=/
+||bbc.com^$removeparam=src_origin
 ||bbc.com^$removeparam=xtor
 ||bbges.xyz^
 ||bbhktv.xyz^

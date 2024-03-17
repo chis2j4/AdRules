@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-03-17 00:07:51（北京时间） 
+! Version: 2024-03-17 08:37:56（北京时间） 
 ! Total count: 18440
 -960x*0.gif
 -250.js*
@@ -620,6 +620,7 @@ $doc,removeparam=_x_vst_scene,domain=temu.com
 $doc,removeparam=af,domain=pnas.org|science.org|scitation.org|wiley.com|worldscientific.com
 $doc,removeparam=af_reengagement_window
 $doc,removeparam=af_xp
+$doc,removeparam=affiliate,domain=~justice.gov|~lippu.fi
 $doc,removeparam=aoOfferParams,domain=citi.com
 $doc,removeparam=bb,domain=indeed.com
 $doc,removeparam=bpli,domain=blogger.com
@@ -1002,7 +1003,6 @@ $removeparam=affc
 $removeparam=affcode
 $removeparam=affi_id
 $removeparam=affil
-$removeparam=affiliate,domain=~justice.gov
 $removeparam=affiliateCode
 $removeparam=affiliateCustomId
 $removeparam=affiliate_id

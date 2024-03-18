@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-03-18 16:10:14（北京时间） 
-! Total count: 18446
+! Version: 2024-03-19 00:10:12（北京时间） 
+! Total count: 18447
 -960x*0.gif
 -250.js*
 
@@ -169,6 +169,7 @@
 ##DIV[class$='_ad_wrap']
 ##DIV[class*='home'][class*='Ads']
 ##DIV[class*='id_ads__']
+##DIV[class][id][style$='px; background-size: 400px 127px !important;']
 ##DIV[class^='ads_border_']
 ##DIV[data-text-ad]
 ##DIV[id*="BAIDU_SSP__wrapper_"]

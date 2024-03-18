@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-03-18 08:36:20（北京时间） 
-! Total count: 18443
+! Version: 2024-03-18 16:10:14（北京时间） 
+! Total count: 18446
 -960x*0.gif
 -250.js*
 
@@ -5400,6 +5400,7 @@ netsh.org##DIV#ad-header-text,DIV#ad-above-content,div#ad-blog-header,.adsbygoog
 new.m.taobao.com##[style*="top: 0px"]
 new.qq.com###Recomend
 new.qq.com##.cms-bar
+new.qq.com##.godown.qqcom_fb-item
 new.qq.com##.group-pic-bar
 new.qq.com##.hot-choice-bar
 new.qq.com##.original-bar
@@ -6305,6 +6306,7 @@ vgugu.com##div#bn_ad,div[id^="test"],div.in_br
 vhiphop.com##.slides
 via=rss$doc,removeparam=via
 vidhub.cc##div.player-info > div.module
+view.inews.qq.com##div[class^="bottom-bar_buttonWrap"]
 view.inews.qq.com##div[class^="infinite-comment-list_subText"]
 view.inews.qq.com##div[class^="interaction-bottom_interaction"]
 view.inews.qq.com##div[class^="justify-text_showMore"]
@@ -6312,6 +6314,7 @@ view.inews.qq.com##div[class^="main-video_"]
 view.inews.qq.com##div[class^="new-hot-comment_subText"]
 view.inews.qq.com##div[class^="new-recommend_wrapper"]
 view.inews.qq.com##div[class^="normal_buttonWrap"]
+view.inews.qq.com##div[class^="slider-top-bar_newSliderWrapper"]
 view.inews.qq.com##div[class^="slider-top-bar_sliderWrapper"]
 vikacg.com$$a[href="asnebula.xyz"]
 vikacg.com$$a[onclick="trackOutboundLink"]

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-03-19 00:10:12（北京时间） 
-! Total count: 18447
+! Version: 2024-03-19 08:35:09（北京时间） 
+! Total count: 18448
 -960x*0.gif
 -250.js*
 
@@ -642,6 +642,7 @@ $doc,removeparam=helpref,domain=whatsapp.com|facebook.*|facebookwkhpilnemxj7asan
 $doc,removeparam=iId,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
 $doc,removeparam=icmp,domain=fortnite.com|lego.com
 $doc,removeparam=intc,domain=citi.com
+$doc,removeparam=jmtyClId
 $doc,removeparam=jp_cmp,domain=chase.com
 $doc,removeparam=jsa,domain=indeed.com
 $doc,removeparam=km_adgroup
@@ -3138,7 +3139,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 @@||zbj.com^
 MRelateFeedAd
 Mplay/kk1.js
-Ref=CJ$doc,removeparam=ref
+Ref=CJ^$doc,removeparam=ref
 \:[0-9]{4,5}\/sogou\/
 ^adreaper^
 ^ads.swf|
@@ -4155,7 +4156,7 @@ fr2135.com###friendLink_contents
 fr2135.com###mv_mp4cg
 free.aliyun.com##div.module-wrap.J_tb_lazyload.aliyun-bottom
 freepik.com###layer_coupon,.ad
-from=ceneo$doc,removeparam=from
+from=ceneo^$doc,removeparam=from
 ft.com##[class^="banner"],[class^="mpu-container"]
 ftchinese.com##.ad-hidden,.mpu-container-instory,[class^="banner-"],.bn-ph,.mpu-container
 ftchinese.com##DIV.banner-content,DIV.bn-ph,DIV.mpu-container-instory,n-internal-promo,show-image-in-mobile noneSubscriber,#ad-*
@@ -5686,24 +5687,24 @@ redocn.com##DIV#all_adv_2_3,DIV#BAIDU_DUP_wrapper_307960_0,DIV[id^="index_adv_"]
 redtube-com.info##.ima,.rmedia,.sppc
 ref.so##div[style="overflow:hidden; height:auto; width:1002px; margin:0 auto;  "]
 ref=404media.co$doc,removeparam=ref
-ref=admitad$doc,removeparam=ref
+ref=admitad^$doc,removeparam=ref
 ref=awesometechstack.com$doc,removeparam=ref
-ref=awin$doc,removeparam=ref
+ref=awin^$doc,removeparam=ref
 ref=beep.blog$doc,removeparam=ref
 ref=blog.isosceles.com$doc,removeparam=ref
 ref=blog.roboflow.com$doc,removeparam=ref
 ref=buffer.com$doc,removeparam=ref
-ref=ceneo$doc,removeparam=ref
+ref=ceneo^$doc,removeparam=ref
 ref=easywithai$doc,removeparam=ref
 ref=exploit.media$doc,removeparam=ref
 ref=gtg.benabraham.net$doc,removeparam=ref
 ref=itsfoss.com$doc,removeparam=ref
-ref=kelkoo$doc,removeparam=ref
+ref=kelkoo^$doc,removeparam=ref
 ref=labs.watchtowr.com$doc,removeparam=ref
 ref=news.itsfoss.com$doc,removeparam=ref
-ref=pricespy$doc,removeparam=ref
-ref=prisjakt$doc,removeparam=ref
-ref=rss$doc,removeparam=ref
+ref=pricespy^$doc,removeparam=ref
+ref=prisjakt^$doc,removeparam=ref
+ref=rss^$doc,removeparam=ref
 ref=spreadprivacy.com$removeparam=ref
 ref=troyhunt.com$doc,removeparam=ref
 ref=upstract.com$doc,removeparam=ref

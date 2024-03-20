@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-03-20 00:10:08（北京时间） 
-! Total count: 2567
+! Version: 2024-03-20 08:35:13（北京时间） 
+! Total count: 2568
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5491,6 +5491,7 @@
 @@||quapp.1122dh.com/v4/biquge/man.html
 @@||r10s.jp/share/themes/ds/js/show_ads_randomly.js$domain=travel.rakuten.co.jp
 @@||r3sub.com^$generichide
+@@||rackcdn.com/stf.js$script,domain=20min.ch
 @@||radio24.ilsole24ore.com/plugins/cordova-plugin-nielsen/www/nielsen.js$script,~third-party
 @@||radiofrance.targetspot.com^|
 @@||radiosun.fi/wp-content/uploads/*300x250$image,~third-party

@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-03-20 00:09:59（北京时间） 
+! Version: 2024-03-20 08:35:05（北京时间） 
 ! Total count: 18448
 -960x*0.gif
 -250.js*
@@ -619,6 +619,7 @@ $doc,removeparam=_x_ns_msclkid,domain=temu.com
 $doc,removeparam=_x_ns_sku_id,domain=temu.com 
 $doc,removeparam=_x_ns_source,domain=temu.com
 $doc,removeparam=_x_vst_scene,domain=temu.com
+$doc,removeparam=adid,domain=indeed.com|mcafee.com|nikkei.co.jp|tmz.com
 $doc,removeparam=af,domain=pnas.org|science.org|scitation.org|wiley.com|worldscientific.com
 $doc,removeparam=af_reengagement_window
 $doc,removeparam=af_xp
@@ -929,7 +930,6 @@ $removeparam=adg_id
 $removeparam=adgroup_id
 $removeparam=adgroupid
 $removeparam=adgrpid
-$removeparam=adid,domain=nikkei.co.jp|mcafee.com|indeed.com
 $removeparam=adj_adgroup
 $removeparam=adj_campaign
 $removeparam=adj_creative

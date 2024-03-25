@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-03-25 16:11:59（北京时间） 
-! Total count: 18461
+! Version: 2024-03-26 00:09:48（北京时间） 
+! Total count: 18467
 -960x*0.gif
 -250.js*
 
@@ -5899,6 +5899,12 @@ smzdm.com##.top-applink
 smzdm.com##a[class^="fixed-logo"]
 smzy.com##.ad_show
 so.360.cn##div#m-spread-left,div#so_kw-ad,DIV.spread
+so.com###so-activity-entry
+so.com##.c-title-tag
+so.com##.e_result
+so.com##.inner_left
+so.com##.res-mediav-right
+so.com##.tg-wrap
 so.com##DIV#m-google-top,DIV#so_kw-ad,DIV#m-spread-left,#so_bd-ad,#m-spread-bottom,.boxinner-r,div#bnbtm,.e_idea_wenda_spread,#e_idea_wenda_leftBox.result.e_clearfix,.commercialCell.cmcstyle2,.e_idea_list,.top-ads,.cmitem
 so.toutiao.com##.relative.pointer-events-none
 so.toutiao.com##DIV[id^='ad_']

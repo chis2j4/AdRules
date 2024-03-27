@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-03-27 16:10:21（北京时间） 
-! Total count: 18471
+! Version: 2024-03-28 00:10:50（北京时间） 
+! Total count: 18470
 -960x*0.gif
 -250.js*
 
@@ -3258,7 +3258,7 @@ apic.in##.ad,.adsbygoogle,[src="http://www.apic.in/dyd.png"]
 apk.tw##[class^=" yap-ad-"],.viewShare,#ct > div.mn> div:nth-child(1),div#favatarRight.fixedBox,div#focus.focus,div#sitefocus.focus,div.a_pb,div.a_p,div.a_pt,div.sitemajiad,iframe,div[style$="width:728px;height:90px;"],img[height="90"][width="728"],.sitemaji_banner,.adsbygoogle,#confirmBox,.w728,[id^="confirmOverlay"],.adsbygoogle,[id^="confirmOverla"]
 apkcombo.com##.diseanmevrtt
 apkcombo.com##[data-d-ad-id]
-apkpure.net##DIV.js-ad-slot
+apkpure.net,apkpure.com##DIV.js-ad-slot
 app.bilibili.com##[id^="ad_info"]
 app.sogou.com##div.sogou-app
 app111.com##[height="60"],.ads
@@ -12173,7 +12173,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||images9999.com^
 ||imall.cctv.com/$subdocument
 ||imanhuapi.com/style/js/mpmh.js
-||imasdk.googleapis.com^
 ||imdb.com^$removeparam=/^pf_rd_[a-z]*=/
 ||imdb.com^$removeparam=ref_
 ||imdns.hpplay.cn^

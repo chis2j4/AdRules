@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-03-31 08:39:35（北京时间） 
-! Total count: 18478
+! Version: 2024-03-31 16:09:50（北京时间） 
+! Total count: 18483
 -960x*0.gif
 -250.js*
 
@@ -7888,7 +7888,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||69shu.org/cnm.js
 ||6avz.com^
 ||6c.cn^
+||6cyfvvs.com^
 ||6dad.com^
+||6functf.com^
 ||6gukaitu.xyz^
 ||6hejing.cn^
 ||6iwoif.com^
@@ -10069,6 +10071,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cn/show?id=$script,third-party
 ||cn/showpage.asp?u=$script,third-party
 ||cn/vs.php?id=$script,third-party
+||cnalzlf.top^
 ||cnbc.com^$doc,removeparam=__source
 ||cnbc.com^$doc,removeparam=par
 ||cnbc.com^$removeparam=__source
@@ -13665,6 +13668,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||misc.pandora.xiaomi.com^
 ||mishop.cdn.pandora.xiaomi.com^
 ||mishop.pandora.xiaomi.com^
+||missav.com/pop?url=
 ||mix.sina.com.cn^
 ||mixer.sina.cn^
 ||miyudaquan.top^$third-party
@@ -16192,6 +16196,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||trustedcpmrevenue.com^
 ||trustutn.org^
 ||truthfulsensor.com^
+||truxalsl.com^
 ||ts.market.mi-img.com/thumbnail/gif/*/MusicServer^
 ||ts6.net^
 ||ts9.cc^

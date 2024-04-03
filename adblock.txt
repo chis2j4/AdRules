@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-04-03 16:10:28（北京时间） 
-! Total count: 18484
+! Version: 2024-04-04 00:08:56（北京时间） 
+! Total count: 18487
 -960x*0.gif
 -250.js*
 
@@ -7842,6 +7842,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||5nj.com/js/cnzz22.js
 ||5nj.com/js/cnzz33.js
 ||5u941.com^
+||5uxmusq.cn^
 ||5vuk.xyz^
 ||5wapp.com^$third-party
 ||5wl8x.xyz^
@@ -14054,6 +14055,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nmgyllh.cn^
 ||nmkghh.com^
 ||nmm9i.xyz^
+||nmntgd.cn^
 ||nmrdnqn.cn^
 ||nmssdbgmf.xyz^
 ||nndzsw.com^
@@ -17376,6 +17378,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xn--gov-x68dy61b.shop^
 ||xn--jvrp4x1zyfta.net^
 ||xn--m7r781dz66a.cn^
+||xn--qrq171dxpq.com^
 ||xn--wxtr44c.video^
 ||xn--wxtr9fwyxk9c.xn--fiqs8s^
 ||xn--wxtr9fwyxk9c.xn--io0a7i^

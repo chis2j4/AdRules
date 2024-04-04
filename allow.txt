@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-04-04 00:09:13（北京时间） 
-! Total count: 2576
+! Version: 2024-04-04 08:37:03（北京时间） 
+! Total count: 2578
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4023,7 +4023,6 @@
 @@||api.ipinfodb.com^$xmlhttprequest,domain=management30.com
 @@||api.karte.io^|
 @@||api.perfops.net^$script,xmlhttprequest,domain=cdnperf.com|dnsperf.com
-@@||api.personaclick.com^|
 @@||api.touchnote.io^$xmlhttprequest,domain=app.touchnote.com
 @@||api.tv.sohu.com/mobile_user/device^$app=com.sohu.sohuvideo
 @@||api.us1.exponea.com^$script,xmlhttprequest,domain=walmartpetrx.com
@@ -4759,6 +4758,7 @@
 @@||google.ru/translate_$media,third-party,xmlhttprequest
 @@||google.sn/translate_$media,third-party,xmlhttprequest
 @@||google.so/translate_$media,third-party,xmlhttprequest
+@@||googleads.g.doubleclick.net/ads/preferences/$domain=googleads.g.doubleclick.net
 @@||googleads.github.io/videojs-ima/node_modules/video.js/dist/video$domain=ulifestyle.com.hk
 @@||googleads4.g.doubleclick.net^$domain=renfei.net
 @@||googleadservices.com/pagead/conversion.js$domain=ncsoft.jp
@@ -4911,6 +4911,7 @@
 @@||indeed.com/rpc/log/myjobs/$~third-party
 @@||infotel.ca/images/ads/$image,~third-party
 @@||infoworld.com/www/js/ads/gpt_includes.js$~third-party
+@@||infra-api.newrelic.com^|
 @@||ingest.sentry.io/api/$xmlhttprequest,domain=orionprotocol.io|play.tv3.lv|tesco.com|tesco.hu
 @@||inoreader.com^$genericblock,generichide
 @@||inpad.com.tw/data/adv/
@@ -5849,7 +5850,8 @@
 @@||townwork.net/js/AppMeasurement.js$~third-party
 @@||toy-people.com^$generichide
 @@||toyota.com/recall/static/js/custom/facebookPixel.js$~third-party
-@@||tpc.googlesyndication.com/archive/simgad/$image,domain=adstransparency.google.com
+@@||tpc.googlesyndication.com/archive/$image,subdocument,xmlhttprequest,domain=adstransparency.google.com
+@@||tpc.googlesyndication.com/archive/sadbundle/$image,domain=tpc.googlesyndication.com
 @@||tpc.googlesyndication.com/pagead/js/$domain=googleads.g.doubleclick.net
 @@||tq121.com.cn/j/ad/caoyu-min.js$domain=products.weather.com.cn
 @@||tr.rdrtr.com^|

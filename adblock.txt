@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-04-04 08:36:52（北京时间） 
+! Version: 2024-04-04 16:10:55（北京时间） 
 ! Total count: 18488
 -960x*0.gif
 -250.js*
@@ -3769,7 +3769,7 @@ chushou.tv##.h5_footer
 chysg.com###comiis01,[height="90"],.a_pt,.ad,.comiis_ad
 cibaipuki.com##.table2
 cibaipuki.com##.topnotice a:not([href='http://7a7c.com'])
-cibaipuki.com##A[href^='/article-list-id'][target='_blank']
+cibaipuki.com##A[href^='/article-list-id']
 cibaipuki.com##IMG[border='0'][width='100%']
 cibaipuki.com##SECTION[id^='download_']
 cibaipuki.com##[href*=":"]

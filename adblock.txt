@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-04-05 16:09:59（北京时间） 
+! Version: 2024-04-06 00:10:28（北京时间） 
 ! Total count: 18488
 -960x*0.gif
 -250.js*
@@ -5703,6 +5703,7 @@ ref=buffer.com$doc,removeparam=ref
 ref=ceneo^$doc,removeparam=ref
 ref=easywithai$doc,removeparam=ref
 ref=exploit.media$doc,removeparam=ref
+ref=gandalf$doc,removeparam=/^ref=gandalf$/
 ref=gtg.benabraham.net$doc,removeparam=ref
 ref=itsfoss.com$doc,removeparam=ref
 ref=kelkoo^$doc,removeparam=ref
@@ -10946,7 +10947,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||erabaru.net^
 ||ercnrxa.cn^
 ||erfskhnpter.xyz^
-||ericgown.no^$removeparam=ggkey
 ||erjiyouhuiquan.com^
 ||erlirscid.com^
 ||erlpbwy.cn^

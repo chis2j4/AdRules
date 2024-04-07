@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-04-07 08:40:09（北京时间） 
-! Total count: 2580
+! Version: 2024-04-07 16:11:42（北京时间） 
+! Total count: 2581
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4592,6 +4592,7 @@
 @@||ez3c.tw/js/adblockDetector.js
 @@||ez3c.tw^$generichide
 @@||ezodn.com/cmp/gvl.json$xmlhttprequest
+@@||ezodn.com/tardisrocinante/lazy_load.js$script,domain=origami-resource-center.com
 @@||ezoic.net/detroitchicago/cmb.js$script,domain=gerweck.net
 @@||ezsoftwarestorage.com^$image,media,domain=ezfunnels.com
 @@||f-droid.org/assets/Ads_$~third-party

@@ -1,5 +1,5 @@
 ! Title: Allowlist
-! Version: 2024-04-10 00:09:00（北京时间） 
+! Version: 2024-04-10 08:35:59（北京时间） 
 ! Total count: 2586
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
@@ -5186,7 +5186,7 @@
 @@||mmy.la^*300*250
 @@||mnighthk.net/template/*/ad
 @@||mnighthk.net^$elemhide
-@@||moatads.com^$script,domain=imsa.com
+@@||moatads.com^$script,domain=imsa.com|nascar.com
 @@||moea.gov.tw/EgisWeb/Scripts/google-analytics.js
 @@||moegirl.org.cn^$generichide
 @@||momovod.com/js/momo/adsbygoogle.js

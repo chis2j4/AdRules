@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-04-13 08:30:44（北京时间） 
-! Total count: 2592
+! Version: 2024-04-13 16:07:56（北京时间） 
+! Total count: 2593
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4282,6 +4282,7 @@
 @@||cgmodel.com/plugin/share/
 @@||chaintv.xyz/homestatic/js/adjs.js
 @@||challenges.cloudflare.com/turnstile/$script
+@@||challenges.cloudflare.com^$domain=download.megaup.net
 @@||changyan.sohu.com/api/2^$app=com.biquge.ebook.app
 @@||changyan.sohu.com/debug/cookie?
 @@||changyou.com^$generichide

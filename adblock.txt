@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-04-14 08:41:30（北京时间） 
-! Total count: 18492
+! Version: 2024-04-14 18:34:20（北京时间） 
+! Total count: 18488
 -960x*0.gif
 -250.js*
 
@@ -1185,8 +1185,7 @@ $removeparam=coliid
 $removeparam=collection,domain=everlane.com
 $removeparam=compact_view,domain=reddit.app.link
 $removeparam=content,domain=1sol.io|bybit.com|coinpanel.com|docs.google.com|docsend.com|eonline.com|eventbrite.*|forms.gle|gleam.io|goodcrypto.app|instagram.com|kasta.io|runnode.com|t.me|twitter.com|x.com|youtube.com
-$removeparam=context,domain=avito.ru|avito.ma
-$removeparam=context,domain=imdb.com|fiverr.com|spotify.com
+$removeparam=context,domain=imdb.com|fiverr.com|spotify.com|avito.ru|avito.ma
 $removeparam=context_referrer
 $removeparam=correlation_id,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
 $removeparam=correlator
@@ -1486,8 +1485,7 @@ $removeparam=jb,domain=change.org
 $removeparam=jsession
 $removeparam=k_clickid
 $removeparam=kc,domain=autoanything.com
-$removeparam=keyword,domain=bindright.com|lendgo.com
-$removeparam=keyword,domain=reddit.app.link
+$removeparam=keyword,domain=bindright.com|lendgo.com|reddit.app.link
 $removeparam=keywordSellerId
 $removeparam=kltstamp
 $removeparam=ko_click_id
@@ -1607,7 +1605,6 @@ $removeparam=nosto
 $removeparam=nosto_source
 $removeparam=nr_email_referer
 $removeparam=nrtv_as_src
-$removeparam=nrtv_as_src,domain=bestbuy.com
 $removeparam=nrtv_cid
 $removeparam=ns__p
 $removeparam=ns__t
@@ -10940,7 +10937,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||eporner.$removeparam=trx
 ||epoun.top^
 ||epro.sogou.com^
-||epson.$removeparam=cje
 ||epu.1024txt.xyz^
 ||eqbyc.com^
 ||eqghuu.com^

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-04-16 00:08:40（北京时间） 
-! Total count: 18491
+! Version: 2024-04-16 08:35:41（北京时间） 
+! Total count: 18492
 -960x*0.gif
 -250.js*
 
@@ -5962,6 +5962,7 @@ sportscn.com##[class$="ads"],[class^="ad"],[height="160"],[height="50"],.bnr,#to
 sportsv.net##.article-ad,.article-ad2,.leftside-banner,#ad-big-top,.box.ad
 spp.com.tw##.banners
 spwhtw.cn##iframe[src^="http://zaixianlu.com/"]
+src=foodpanda.com$doc,domain=foodpanda.*,removeparam=src
 srzc.com###ad_right,#ad_left,[id^="adBody"],.gg,.zt_tonglang1,[height="60"],#ad,#srzcad
 sspai.com##.box-gapless,#s1,.advertDiv
 ssports.com##.ad-1,.new_i_rbanner

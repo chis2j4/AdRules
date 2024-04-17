@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-04-17 08:36:19（北京时间） 
-! Total count: 2593
+! Version: 2024-04-17 16:10:28（北京时间） 
+! Total count: 2594
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3907,6 +3907,7 @@
 @@||ads.taboola.com^$popup
 @@||ads.tdbank.com^|
 @@||ads.tiktok.com^$generichide
+@@||ads.tiktok.com^$popup
 @@||ads.tiktok.com^$~third-party
 @@||ads.twitter.com^$domain=ads.twitter.com|analytics.twitter.com
 @@||ads.twitter.com^$popup

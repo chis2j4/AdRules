@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-04-23 16:10:38（北京时间） 
-! Total count: 18500
+! Version: 2024-04-24 00:09:37（北京时间） 
+! Total count: 18501
 -960x*0.gif
 -250.js*
 
@@ -4902,6 +4902,7 @@ liulanmi.com##div.banner.banner-related,div.widget.d_slidebanner,div.textwidget,
 liumingye.cn#@#.ad-column
 liumingye.cn#@#.adsTest
 liumingye.cn#@#.advText
+live.bilibili.com##div.pointer:contains(下载客户端)
 livego.cc###ad_nrz
 livku.com##.ad960,.adjx
 llduang.com##[class$="cokitaobao1"]

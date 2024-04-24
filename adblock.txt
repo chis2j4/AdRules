@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-04-24 16:11:15（北京时间） 
-! Total count: 18501
+! Version: 2024-04-25 00:09:13（北京时间） 
+! Total count: 18507
 -960x*0.gif
 -250.js*
 
@@ -257,6 +257,7 @@
 ##[href*='.top/?token=']
 ##[href*='.xacg.info/']
 ##[href*='anrvl.com']
+##[href*='baidugg123.cc']
 ##[href*='pojuko.buzz']
 ##[href*='slkdnlkfnskl.com']
 ##[href*='snnrb.com']
@@ -4946,6 +4947,7 @@ lzdcctv.cn$$div[class="ac_pc"]
 lzdcctv.cn$$div[class="slinks"]
 lzep.cn##.ad_side_l,.ad_side_r,#add,#ad-win,.full-banner,.ad,[height="180"]
 lzyysw.com###topBanner,#topAdsBanner,.centerAds,.rightAds,.bigAdsBanner,.leftAds
+m.163.com##.floatMenu-logo
 m.163.com##.repacket-enter,[class^="footer-wrap"]
 m.163.com##footer > span
 m.1905.com##div.mod-latest-banner
@@ -5200,6 +5202,7 @@ m.tv.sohu.com##.advertise,.gg_icon
 m.tv.sohu.com##.btn-xz-app
 m.tv.sohu.com##.js-app-topbanner.actv-banner
 m.v.qq.com##.at-app-banner
+m.v.qq.com##.bottom-wrapper
 m.v.qq.com##.btn_sharpness
 m.v.qq.com##.js_open_app.btn_user_hd
 m.v.qq.com##.mod_app_banner
@@ -5210,6 +5213,8 @@ m.v.qq.com##.mod_open
 m.v.qq.com##.mod_rec
 m.v.qq.com##.mod_rec__animate.mod_rec
 m.v.qq.com##.mod_source
+m.v.qq.com##.old-open.open-app
+m.v.qq.com##.open-app
 m.v.qq.com##.site-top__open-app
 m.v.qq.com##.swiper-container-android.swiper-container-horizontal.mod_source_box_fixed.mod_source_box
 m.weathercn.com###gg_hfaw_1
@@ -15587,6 +15592,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||soulsoul.xyz^
 ||soup.v.qq.com^
 ||sovelswpq.com^
+||sp5vip.com/h.js
 ||spartoo.$removeparam=sx
 ||spartoo.$removeparam=track_id
 ||spiegel.de^$removeparam=b

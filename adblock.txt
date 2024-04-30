@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-04-30 08:35:48（北京时间） 
-! Total count: 18512
+! Version: 2024-04-30 16:10:39（北京时间） 
+! Total count: 18517
 -960x*0.gif
 -250.js*
 
@@ -256,6 +256,7 @@
 ##[href*='.lookxmh3']
 ##[href*='.top/?token=']
 ##[href*='.xacg.info/']
+##[href*='3400.org']
 ##[href*='anrvl.com']
 ##[href*='baidugg123.cc']
 ##[href*='pojuko.buzz']
@@ -7963,6 +7964,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||7caa.com/Runtime/Js/
 ||7caidai.xyz^
 ||7cbwus.cn^
+||7ccsch4.com^
 ||7cip.com^$third-party
 ||7cjsh.cn^
 ||7cl.app^
@@ -10443,6 +10445,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||daxiu01.oss-accelerate.aliyuncs.com^
 ||dazhantai.com^
 ||db11yy.com^
+||dbhfre.xyz^
 ||dbkdwe1.com^
 ||dbncp.com^$third-party
 ||dbnsd2viud.xyz^
@@ -12313,6 +12316,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||iprima.cz^$removeparam=dop_source_zone_name
 ||iprima.cz^$removeparam=sznclid
 ||ipservice.163.com^
+||ipsoazr.icu^
 ||iqede.xyz^
 ||iqgoukn.cn^
 ||iqiyi.com^$removeparam=bkt
@@ -12731,6 +12735,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kankanwu.com/js/ios.js
 ||kanseen.com^
 ||kanwby.com^
+||kaosts.com^
 ||kart2ks.icu^
 ||kasdwergv.com^
 ||kasiklz.cc^

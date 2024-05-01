@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-05-01 16:12:17（北京时间） 
+! Version: 2024-05-02 00:09:59（北京时间） 
 ! Total count: 18516
 -960x*0.gif
 -250.js*
@@ -6920,7 +6920,6 @@ xghylt.com##div[class="mb5"],.index_fivead,div.a_pr,div.a_pb,.ad,div.mt10,.a_mu
 xgo.com.cn##div.ad.ad-1,div[class^="ad ad_r"],div.gmine_ad
 xgrb.cn##div#MyMoveAd,DIV.ad_zhsh,DIV.tac.mb5,DIV.textMes,DIV[id^="ads_c_"],div.warp_ad,DIV.bl_2,div[class^="liebiao_ad"],div#aa,div.bl_gg,div.new_gg1,div.gsgg_gg,div.advert div[style],.d_2016_ggw
 xiachufang.com##div.apps-download
-xian360.top##CENTER
 xianbao5.com##div.bm.a_c,div.wp.a_h,ins.adsbygoogle,div.a_pt
 xianzhenyuan.cn##.sd_ad,[class="bm a_c"],.wp.a_t,.wp.a_f
 xiaobaipan.com##div.post-promo.text-center
@@ -8976,6 +8975,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||aqvwn18102h.com^
 ||ar.umeng.com^
 ||archive.org^$removeparam=iax
+||areyoutherenow.com^
 ||argos.co.uk^$removeparam=clickOrigin
 ||argos.co.uk^$removeparam=istBid
 ||argos.co.uk^$removeparam=istCompanyId

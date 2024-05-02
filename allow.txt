@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-05-02 00:10:14（北京时间） 
-! Total count: 2595
+! Version: 2024-05-02 08:36:30（北京时间） 
+! Total count: 2597
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3682,6 +3682,7 @@
 @@||*/assets/js/common/juqery/
 @@||060s.com/images_ad/*.png
 @@||073img.com/*,*,
+@@||1.1.1.1/cdn-cgi/trace$xmlhttprequest,domain=myair.resmed.com
 @@||10010.cn^*/ad
 @@||10010.com/mall/common/js/fa.js?referer=
 @@||10010.com^$generichide
@@ -5004,6 +5005,7 @@
 @@||kayixin.com^*/advert
 @@||kdslife.com/ui/css/share2.
 @@||kehai.com/front/dist/app/site/list/advertisement.js
+@@||keytiles.com/tracking/$script,domain=blikk.hu
 @@||kf.cn/ad/css/*.*.
 @@||kf.cn/ad/css/*.css
 @@||kf.cn/ad/css/images/

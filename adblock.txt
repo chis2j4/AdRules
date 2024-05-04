@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-05-04 16:09:13（北京时间） 
-! Total count: 18547
+! Version: 2024-05-05 00:08:22（北京时间） 
+! Total count: 18549
 -960x*0.gif
 -250.js*
 
@@ -4339,6 +4339,8 @@ heirui.cn##[class^="ad"],.logorightad,.sidecont,[class$="top5"],.r,[src="http://
 help.aliyun.com##div.module-wrap.J_tb_lazyload.aliyun-bottom
 henbt.com##div.clear.text_center,.intro_inner
 hentai89.com##iframe[width="308"][height="258"],[id^="dp-ad"]
+hentaicomic.ru#@#.Flagrow-Ads-under-header
+hentaicomic.ru#@#.pcd_ad
 hentaiporno.xxx##div.mibanner
 hentairon.net##div.fluid-width-video-wrapper
 hentaitubeitalia.com##iframe

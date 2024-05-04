@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-05-04 08:36:22（北京时间） 
-! Total count: 18544
+! Version: 2024-05-04 16:09:13（北京时间） 
+! Total count: 18547
 -960x*0.gif
 -250.js*
 
@@ -11870,6 +11870,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hladalliance.com^
 ||hlalliances.com^
 ||hlbbn6ii.icu^
+||hlegsdh.icu^
 ||hlnr9q.icu^
 ||hlrml.cn^
 ||hly.com^
@@ -17462,6 +17463,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xs177.com/js/dibu.js
 ||xs177.com/js/nei.js
 ||xs177.com/js/shangbu.js
+||xsbiquge.la/js/detail.js
 ||xshengyan.com/xxgg/bookll111.js
 ||xsjh001.xyz^
 ||xsolid.baidu.com^
@@ -17529,6 +17531,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xyz/vs.php?id=$script,third-party
 ||xzhwxfgc.cn^
 ||xzqxz.net^
+||xzvhyx.com^
 ||xzxhpcdz.icu^
 ||y.gtimg.cn/music/photo/config/qmapiurljson.txt
 ||y0764.cn^

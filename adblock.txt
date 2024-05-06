@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-05-06 08:37:49（北京时间） 
-! Total count: 18549
+! Version: 2024-05-06 16:11:03（北京时间） 
+! Total count: 18556
 -960x*0.gif
 -250.js*
 
@@ -274,6 +274,7 @@
 ##[href='http://ky53362.com/']
 ##[href='https://click.aliyun.com/m/1000332699/']
 ##[href='https://dpurl.cn/HifSTUtz']
+##[href='https://okok.com.tw/']
 ##[href='https://www.aiwajbh.com/mh.php']
 ##[href^="https://9996867.com"]
 ##[href^="https://lantianyong"]
@@ -4583,6 +4584,11 @@ izhufu.net##.index_tong,.news_cnxhz,[class$="_gg"],.aside_img1,.top_banner,.inde
 j3pz.com##.hidden-xs
 jandan.net##INS.adsbygoogle,IMG[src="http://s.tankr.net/n/poketec.png"],#ads,#random-ads,#adsense
 jandown.com##[target="_new"]
+jav777.cc,jav777.xyz###playertopads
+jav777.cc,jav777.xyz##.myad_alert_82
+jav777.cc,jav777.xyz##.myad_alert_82_box
+jav777.cc,jav777.xyz##P[style='margin-left:5px; margin-right:5px; text-align:center']
+jav777.cc,jav777.xyz##[src='/close.gif']
 javazhijia.com##[style="padding:4px;"]
 javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 javcc.net##.row div.col-lg-12,[class^="ad-left-"],[class^="ad-right-"]
@@ -8746,6 +8752,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||amdcopen.m.taobao.com^
 ||amerzbj.cn^
 ||amu520.com/imgnk/02.gif
+||amung.us^
 ||amung.us^$third-party
 ||amvecurt.cn^
 ||amxwqv.com^

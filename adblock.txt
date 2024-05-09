@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-05-09 16:11:19（北京时间） 
-! Total count: 18557
+! Version: 2024-05-10 00:09:42（北京时间） 
+! Total count: 18564
 -960x*0.gif
 -250.js*
 
@@ -520,7 +520,7 @@ $doc,removeparam=/^WT\..*$/i
 $doc,removeparam=/^WT_.*$/i
 $doc,removeparam=/^WTmc\..*$/i
 $doc,removeparam=/^WTmc_.*$/i
-$doc,removeparam=/^\??utm_.*$/i,domain=~tradedoubler.com|~sendgb.com|~allegro.pl|~tix.axs.com|~transfernow.*|~carrefourpl.snrpage.com|~justdial.com|~pepper.pl
+$doc,removeparam=/^\??utm_.*$/i,domain=~tradedoubler.com|~sendgb.com|~allegro.pl|~tix.axs.com|~transfernow.*|~carrefourpl.snrpage.com|~justdial.com|~pepper.pl|~gaugau.futabanet.jp
 $doc,removeparam=/^__xts__.*$/
 $doc,removeparam=/^_s=afl_impact$/
 $doc,removeparam=/^_sgm_.*$/i
@@ -5040,13 +5040,20 @@ m.dmzj.com##div.appTil
 m.dmzj.com##div.app_text
 m.douban.com###comment-list > div > .show-all
 m.douban.com##.TalionNav-static > .info
+m.douban.com##.download-app
 m.douban.com##.green.btn
 m.douban.com##.icon-wrap
 m.douban.com##.movie-reviews.bd > .show-all
+m.douban.com##.nav-open-app
 m.douban.com##.oia-wrap
 m.douban.com##.score-write
+m.douban.com##.section-header_link
 m.douban.com##.show-all
+m.douban.com##.splash-btn
 m.douban.com##.sub-vendor > [href^="https://www.douban.com/doubanapp/card/get_app"]
+m.douban.com##.subject-banner
+m.douban.com##.talion-nav-footer
+m.douban.com##.topic-content
 m.douban.com##.write-comment
 m.douban.com##.write-review
 m.douban.com##[href^="https://erebor.douban.com/monitor/"]

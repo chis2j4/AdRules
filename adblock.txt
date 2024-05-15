@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-05-15 08:37:42（北京时间） 
-! Total count: 18568
+! Version: 2024-05-15 16:11:12（北京时间） 
+! Total count: 18570
 -960x*0.gif
 -250.js*
 
@@ -7191,11 +7191,13 @@ zhicheng.com##[id^="BAIDU_SSP__wrapper_"],#guideLayer,.rdtj,.ad960,.adsbygoogle,
 zhidao.baidu.com###feed-recommend
 zhidao.baidu.com###knowledge-answer-list
 zhidao.baidu.com###main-content > div.mm-content-box
+zhidao.baidu.com###wap-youx-change-asp
 zhidao.baidu.com##.daily-header-download
 zhidao.baidu.com##.doodle-container,.feed-recommend,.wgt-recommend-business,[class*="-ads"],[class*="related-yxiao-item"],[class*="icon-bdad"],[class*="-youx"]
 zhidao.baidu.com##.icon-bdad
 zhidao.baidu.com##.singin-bubble
 zhidao.baidu.com##.zhidao-app.menu-right-list-item
+zhidao.baidu.com##[class$='-ecom-ads']
 zhidao.baidu.com##div.new-answer-entry.left-show
 zhidao.baidu.com$$div[class="doodle-container"]
 zhidao.baidu.com,www.baidu.com##.icon-bannerad

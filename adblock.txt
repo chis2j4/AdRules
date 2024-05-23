@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-05-23 16:10:55（北京时间） 
+! Version: 2024-05-24 00:10:53（北京时间） 
 ! Total count: 18573
 -960x*0.gif
 -250.js*
@@ -665,6 +665,14 @@ $doc,removeparam=draftsforfriends
 $doc,removeparam=dtpid
 $doc,removeparam=eblink
 $doc,removeparam=ectrans
+$doc,removeparam=elq,domain=~comcast.com
+$doc,removeparam=elqCampaignId,domain=~comcast.com
+$doc,removeparam=elqTrackId,domain=~comcast.com
+$doc,removeparam=elqah
+$doc,removeparam=elqaid,domain=~comcast.com
+$doc,removeparam=elqat
+$doc,removeparam=elqcsid
+$doc,removeparam=elqcst
 $doc,removeparam=es_id
 $doc,removeparam=ext_source
 $doc,removeparam=exta
@@ -1333,15 +1341,7 @@ $removeparam=effect_source
 $removeparam=effi_id
 $removeparam=effi_id2
 $removeparam=eid,doc,denyallow=embed.tapkal.fi|myanimelist.net,domain=greatrun.org|mcafee.com
-$removeparam=elq
-$removeparam=elqCampaignId
 $removeparam=elqTrack
-$removeparam=elqTrackId
-$removeparam=elqah
-$removeparam=elqaid
-$removeparam=elqat
-$removeparam=elqcsid
-$removeparam=elqcst
 $removeparam=email_work_card
 $removeparam=embeds_referring_euri
 $removeparam=eml,domain=endesa.com|scholastic.com

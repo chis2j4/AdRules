@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-05-27 08:39:09（北京时间） 
-! Total count: 18577
+! Version: 2024-05-27 16:11:44（北京时间） 
+! Total count: 18584
 -960x*0.gif
 -250.js*
 
@@ -7943,6 +7943,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||70950.com^
 ||70e.com^
 ||70e.com^$third-party,~script
+||70r8fo5.com^
 ||70yst.com^
 ||71.am^
 ||7116966.com^
@@ -7995,10 +7996,13 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||7dh26aja.com^
 ||7dlm.cn^
 ||7down.com/navdata^
+||7dqjgdk.com^
 ||7edown.com/newbd/$script,document
 ||7edown.com/show/complete.js$script
+||7j4tpio.com^
 ||7jkzmbd.cn^
 ||7kjiiu.cn^
+||7li0ohd.com^
 ||7m.cn/b1/$script
 ||7pk.com^
 ||7pud.com^
@@ -9766,6 +9770,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||byvlph.xyz^
 ||bzclk.baidu.com^
 ||bzhn9y.icu^
+||bzqqftz.icu^
 ||bzxvtj.xyz^
 ||bzyunding.com^
 ||c-gtc.getui.net^
@@ -15246,6 +15251,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sacre.cn^
 ||sacredperpetratorbasketball.com^
 ||sadjk.com^
+||sahqoo.com^
 ||saitef.cn^
 ||saksfifthavenue.com^$removeparam=LScreativeid
 ||saksfifthavenue.com^$removeparam=LSlinkid
@@ -16226,6 +16232,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tqdctl.xyz^
 ||tqdpqq.com^
 ||tqmcj.cn^
+||tquspo.com^
 ||tqytqdrq.icu^
 ||tr.jianshu.com^
 ||trac.i3.dmm.com^

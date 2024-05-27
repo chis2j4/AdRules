@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-05-27 00:10:20（北京时间） 
-! Total count: 18573
+! Version: 2024-05-27 08:39:09（北京时间） 
+! Total count: 18577
 -960x*0.gif
 -250.js*
 
@@ -17052,6 +17052,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.bjjabc.com^
 ||www.bjjxsb.net^
 ||www.bl2030.com^
+||www.booking.com^$doc,removeparam=aid
+||www.booking.com^$doc,removeparam=redirected
+||www.booking.com^$doc,removeparam=sid
+||www.booking.com^$doc,removeparam=srpvid
 ||www.bturl.biz/cdn-cgi/scripts^
 ||www.bturl.biz/static/js/sads.js
 ||www.bumimi.com/member/index/mini/

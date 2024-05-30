@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-05-30 16:11:41（北京时间） 
-! Total count: 18589
+! Version: 2024-05-31 00:10:19（北京时间） 
+! Total count: 18592
 -960x*0.gif
 -250.js*
 
@@ -757,7 +757,7 @@ $doc,removeparam=source_location
 $doc,removeparam=src,domain=citi.com
 $doc,removeparam=sspUserID
 $doc,removeparam=st,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
-$doc,removeparam=t,domain=rakuten.com|steamcdn-a.akamaihd.net|duckduckgo.com|npr.org|elprecio.es|adressa.no|tiktok.com|lookmovie211.xyz
+$doc,removeparam=t,domain=rakuten.com|steamcdn-a.akamaihd.net|duckduckgo.com|elprecio.es|adressa.no|tiktok.com|lookmovie211.xyz
 $doc,removeparam=taid
 $doc,removeparam=targetid,domain=~myanonamouse.net
 $doc,removeparam=tk,domain=indeed.com
@@ -8650,6 +8650,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||am.cupid.iqiyi.com/am
 ||am15.net^
 ||amazon-adsystem.com^
+||amazon.$doc,removeparam=skipTwisterOG
+||amazon.$doc,removeparam=social_share
+||amazon.$doc,removeparam=starsLeft
 ||amazon.$removeparam=/^__mk_*_.*$/
 ||amazon.$removeparam=/^aa_.*$/
 ||amazon.$removeparam=/^cv_ct_.*$/
@@ -17046,7 +17049,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.adm668.com^
 ||www.afmykaa.com^
 ||www.aizhigu.com.cn^
-||www.amazon.$removeparam=/^[a-z_]{1,20}=[a-zA-Z0-9._-]{80,}$/
+||www.amazon.$doc,removeparam=/^[a-z_]{1,20}=[a-zA-Z0-9._-]{80,}$/
 ||www.amazon.$removeparam=dib_tag
 ||www.amazon.$removeparam=sp_csd
 ||www.anbdd19.xyz^

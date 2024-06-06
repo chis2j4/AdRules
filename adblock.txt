@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-06-06 00:10:55（北京时间） 
-! Total count: 18596
+! Version: 2024-06-06 08:38:32（北京时间） 
+! Total count: 18608
 -960x*0.gif
 -250.js*
 
@@ -5739,6 +5739,7 @@ ref=itsfoss.com$doc,removeparam=ref
 ref=kelkoo^$doc,removeparam=ref
 ref=labs.watchtowr.com$doc,removeparam=ref
 ref=news.itsfoss.com$doc,removeparam=ref
+ref=news.risky.biz$doc,removeparam=ref
 ref=pricespy^$doc,removeparam=ref
 ref=prisjakt^$doc,removeparam=ref
 ref=privacy.thenexus.today$doc,removeparam=ref
@@ -17184,6 +17185,17 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.rdezbie.com^
 ||www.renrenhaigou.com^
 ||www.repyua.com^
+||www.roblox.com^$doc,removeparam=RelatedAssetID
+||www.roblox.com^$doc,removeparam=RelatedAssetType
+||www.roblox.com^$doc,removeparam=discoverPageSessionInfo
+||www.roblox.com^$doc,removeparam=gameSetTargetId
+||www.roblox.com^$doc,removeparam=isAd
+||www.roblox.com^$doc,removeparam=nativeAdData
+||www.roblox.com^$doc,removeparam=numberOfLoadedTiles
+||www.roblox.com^$doc,removeparam=sortPos
+||www.roblox.com^$doc,removeparam=universeId
+||www.roblox.com^$removeparam=gameSearchSessionInfo
+||www.roblox.com^$removeparam=treatmentType
 ||www.s184.com^
 ||www.seainan333.com^
 ||www.seinse27.com^

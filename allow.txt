@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-06-10 00:09:34（北京时间） 
-! Total count: 2635
+! Version: 2024-06-10 08:40:58（北京时间） 
+! Total count: 2636
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5820,6 +5820,7 @@
 @@||tanx.com/ex?i=mm_$domain=www.hao123.com
 @@||taobao.com/go/app/tmall/login-api.php?
 @@||taobao.com^*&adgroupid=
+@@||taplytics.com^$domain=royalbank.com
 @@||target.microsoft.com/rest/$xmlhttprequest,domain=microsoft.com
 @@||targetimg1.com/webui/$script,domain=target.com
 @@||tb.mgtv.com/sdk/*/ad-sdk.js^$script

@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-06-11 00:11:12（北京时间） 
-! Total count: 2637
+! Version: 2024-06-11 08:39:28（北京时间） 
+! Total count: 2638
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3927,6 +3927,7 @@
 @@||adswizz.com/adswizz/js/SynchroClient*.js$script,third-party,domain=jjazz.net
 @@||adswizz.com/sca_newenco/$xmlhttprequest,domain=triplem.com.au
 @@||adtng.com/get/$subdocument,domain=hanime.tv
+@@||adtraction.com^$image,domain=ebjudande.se
 @@||adv.asahi.com^$popup
 @@||adv.gg^$popup
 @@||adv.welaika.com^$popup

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-06-15 16:10:28（北京时间） 
-! Total count: 18614
+! Version: 2024-06-16 00:10:41（北京时间） 
+! Total count: 18617
 -960x*0.gif
 -250.js*
 
@@ -652,6 +652,7 @@ $doc,removeparam=channel,domain=1sol.io|amazon.*|bybit.com|coinpanel.com|docs.go
 $doc,removeparam=cid,domain=8days.sg|abcnews.go.com|adguard.com|adshares.net|ae.com|anntaylor.com|apple.com|bitdefender.*|blair.com|channelnewsasia.com|childrensplace.com|controld.com|dcard.tw|elmundo.es|emirates.com|factoryoutletstore.com|fifa.com|flipkart.com|gamestop.com|giphy.com|glasses.com|haband.com|intuit.com|jared.com|jcpenney.com|kay.com|kohls.com|lenovo.com|loft.com|marca.com|microsoft.com|nbcnews.com|nike.com|nyandcompany.com|overstock.com|persol.com|proshop.*|radissonhotelsamericas.com|ray-ban.com|rei.com|rightmove.co.uk|samsung.com|stadium.*|staples.com|telenor.no|todayonline.com|tokopedia.com|tommy.com|toms.com|totalbeauty.com|tractorsupply.com|underarmour.com|vineyardvines.com|voxi.co.uk|wine.com|wsj.com|xg4ken.com|zales.com
 $doc,removeparam=cn,domain=twitter.com|x.com
 $doc,removeparam=cndid
+$doc,removeparam=cnt,domain=lastampa.it|ilsecoloxix.it|huffingtonpost.*|themeditelegraph.com|ilgusto.it|italian.tech
 $doc,removeparam=coagent
 $doc,removeparam=cotracking
 $doc,removeparam=ct,domain=apple.com|bumble.com|newsroom.co.nz
@@ -751,7 +752,7 @@ $doc,removeparam=sms_click
 $doc,removeparam=sms_source
 $doc,removeparam=sms_uph
 $doc,removeparam=snr,domain=steampowered.com|steamcommunity.com|steamgames.com
-$doc,removeparam=source,denyallow=googlevideo.com,domain=1sol.io|ashford.com|asos.com|att.com|awd-it.*|bankofamerica.com|barenecessities.com|bedbathandbeyond.com|betterprogramming.pub|blavity.com|blog.getadblock.com|blogs.oracle.com|bluemountain.com|boscovs.com|boxboat.com|britishcornershop.co.uk|brownells.*|burkesoutlet.com|bybit.com|choicehotels.com|chollometro.com|coinpanel.com|contabo.com|cmswire.com|cyberghostvpn.com|despegar.*|directv.com|discord.*|docs.google.com|docsend.com|drinkhint.com|educba.com|edx.org|eonline.com|escentual.com|eventbrite.*|fiverr.com|fool.com|forms.gle|gethotspotshield.com|gleam.io|goodcrypto.app|googleusercontent.com|greenhouse.io|greenvoice.fr|about.gitlab.com|hammacher.com|hanes.com|hbomax.com|hobbyhall.fi|hotspotshield.com|hottopic.com|housing.com|hp.com|instagram.com|itnext.io|jacquielawson.com|jobs.deepl.com|just-eat.co.uk|kasta.io|ladbible.com|learn.microsoft.com|medium.com|microsoftedgewelcome.microsoft.com|monster.fi|nautica.com|netflix.com|nortonsafe.search.ask.com|ngx.me|onehanesplace.com|outnorth.fi|paypal.com|petsupplies.com|phonesoap.com|propublica.org|privatehomeclips.com|quizlet.com|remppatori.fi|riteaid.com|runnode.com|search.brave.com|seekingalpha.com|sonos.com|spiceworks.com|squarespace.com|studio.co.uk|subscribe.gq.com|t.me|tcgplayer.com|theathletic.com|thedailybeast.com|tiktok.com|tokopedia.com|tommybahama.com|torrid.com|tous.com|tradingview.com|trendmicro.com|tumblr.com|twitter.com|user.qzone.qq.com|vimeo.com|webhint.io|wilsonsleather.com|wired.com|xd.wayin.com|x.com|ylighting.com|youtube.com|yubo.live
+$doc,removeparam=source,denyallow=googlevideo.com,domain=1sol.io|about.gitlab.com|ashford.com|asos.com|att.com|awd-it.*|bankofamerica.com|barenecessities.com|bedbathandbeyond.com|betterprogramming.pub|blavity.com|blog.getadblock.com|blogs.oracle.com|bluemountain.com|boscovs.com|boxboat.com|britishcornershop.co.uk|brownells.*|burkesoutlet.com|bybit.com|choicehotels.com|chollometro.com|cmswire.com|coinpanel.com|contabo.com|cyberghostvpn.com|despegar.*|directv.com|discord.*|docs.google.com|docsend.com|drinkhint.com|educba.com|edx.org|eonline.com|escentual.com|eventbrite.*|fiverr.com|fool.com|forms.gle|gethotspotshield.com|gleam.io|goodcrypto.app|googleusercontent.com|greenhouse.io|greenvoice.fr|hammacher.com|hanes.com|hbomax.com|hobbyhall.fi|hotspotshield.com|hottopic.com|housing.com|hp.com|ilgusto.it|instagram.com|italian.tech|itnext.io|jacquielawson.com|jobs.deepl.com|just-eat.co.uk|kasta.io|ladbible.com|lastampa.it|learn.microsoft.com|medium.com|microsoftedgewelcome.microsoft.com|monster.fi|nautica.com|netflix.com|ngx.me|nortonsafe.search.ask.com|nytimes.com|onehanesplace.com|outnorth.fi|paypal.com|petsupplies.com|phonesoap.com|privatehomeclips.com|propublica.org|quizlet.com|remppatori.fi|repubblica.it|riteaid.com|runnode.com|search.brave.com|seekingalpha.com|sonos.com|spiceworks.com|squarespace.com|studio.co.uk|subscribe.gq.com|t.me|tcgplayer.com|theathletic.com|thedailybeast.com|themeditelegraph.com|tiktok.com|tokopedia.com|tommybahama.com|torrid.com|tous.com|tradingview.com|trendmicro.com|tumblr.com|twitter.com|user.qzone.qq.com|vimeo.com|webhint.io|wilsonsleather.com|wired.com|x.com|xd.wayin.com|ylighting.com|youtube.com|yubo.live
 $doc,removeparam=source_location
 $doc,removeparam=src,domain=citi.com
 $doc,removeparam=sspUserID
@@ -1189,6 +1190,7 @@ $removeparam=ch,domain=studio.co.uk
 $removeparam=channable
 $removeparam=channelID,domain=media-cdn.costco.ca|media-cdn.costco.com
 $removeparam=channelref,domain=asos.com
+$removeparam=checkout_entry_point,doc,domain=theathletic.com|nytimes.com
 $removeparam=cjReq
 $removeparam=cj_affid
 $removeparam=cj_affiliate
@@ -1548,6 +1550,7 @@ $removeparam=loc,doc,domain=bestbuy.*|shopping.google.com
 $removeparam=locale,domain=udemy.com
 $removeparam=location,domain=media-cdn.costco.ca|media-cdn.costco.com
 $removeparam=logTag,doc
+$removeparam=login_source,doc,domain=theathletic.com|nytimes.com
 $removeparam=loid,domain=reddit.app.link
 $removeparam=loid_created,domain=reddit.app.link
 $removeparam=lotamePanoramaId
@@ -1797,6 +1800,7 @@ $removeparam=ref_ctx_id
 $removeparam=ref_id,domain=expedia.com|intuit.com|tunnelbear.com
 $removeparam=ref_lp
 $removeparam=ref_medium
+$removeparam=ref_page,doc,domain=theathletic.com|nytimes.com
 $removeparam=ref_source
 $removeparam=ref_src,doc
 $removeparam=refclickid
@@ -4398,6 +4402,7 @@ hsw.cn##DIV.area.ad,DIV.ad-area,DIV.top_banner,DIV.wrapper.AdTop.hidden-tablet.h
 htai.co##.ml_ad_widget,img[src^="https://img.alicdn.com/imgextra/"]
 htai.me###text-10,#text-13,.single_free_space
 htcui.com###text-11,#text-17,.adsense
+https://video.repubblica.it/tecnologia/techtest/redmi-pad-pro-il-tablet-entry-level-con-prestazioni-da-top/471006/471957?cnt=1
 huabian.com##.banner,.title_con,.blanktop,.ad
 huacolor.com##[class^="list_l"]
 huangye88.com##[id^="o"]
@@ -15560,6 +15565,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||skluff.com^
 ||skogsborg.net^
 ||skxuueby.cn^
+||sky.it^$doc,removeparam=zoneid
 ||sky.tongjiai.com^
 ||skyjh.cn^
 ||skyscanner.$removeparam=previousCultureSource
@@ -16043,9 +16049,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||thallus.net^
 ||thcaes.top^
 ||thdidx.xyz^
-||theathletic.com^$removeparam=checkout_entry_point,doc
-||theathletic.com^$removeparam=login_source,doc
-||theathletic.com^$removeparam=ref_page,doc
 ||thefatherofsalmon.com^
 ||thefifthera.com^$domain=jianshu.com
 ||thefocusfuel.com^$removeparam=snowball,doc

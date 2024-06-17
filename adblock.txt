@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-06-17 16:11:45（北京时间） 
-! Total count: 18622
+! Version: 2024-06-18 00:10:06（北京时间） 
+! Total count: 18621
 -960x*0.gif
 -250.js*
 
@@ -2257,12 +2257,12 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 .com/sh/*.js$third-party
 .com/sh/to/$third-partyyhdmba.net
 .com/xz/*?token8=
-.com/z-*-*?123$third-party
+.com:*/d/*?c=*$third-party
+.com:*/sc/*?n=$third-party
 .com:10446/*/get*.html
 .com:7891/stats$third-party
 .com:8001/*/*?*=$third-party
 .com:8003/d/*&n=$third-party
-.com:8003/sc/*?n=$third-party
 .com:8004/*/*?*=$third-party
 .com:8005/*&n=$third-party
 .com:8007/*/*?*=$third-party
@@ -2508,7 +2508,6 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 /discor_list.js
 /disk-theme/disk.theme.
 /diyad*
-/dj*ll5c20ff.js
 /dmap.gif
 /dulian*js
 /dyxia/js/ny
@@ -2731,8 +2730,6 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 /sta.js?debug=
 /stat.asp
 /statIwt_
-/static/*/KdLmbuThM.js?v=
-/static/*/Lqho7OKcg.js?v=
 /static/js/bds_
 /static/js/miniyyrtv-config.js
 /static/localStorage.
@@ -7048,8 +7045,6 @@ xw.qq.com#?#.comment.follow_top:contains(热评)
 xw.qq.com#?#.wrap:contains(去种树)
 xw.qq.com#?#div.showDividingLine.container:contains(APP专享)
 xxroot.com###chs_bannerArea
-xyz/kallss?
-xyz/stimulus?
 y.qq.com###js_mod_dialog
 y.qq.com##.bottom_bar
 y.qq.com##.btn_download
@@ -11490,6 +11485,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||glczys.xyz^
 ||glhdan.site^
 ||glixaing.com^
+||gloaphoo.net^
 ||globalapi.ad.xiaomi.com^
 ||glores2.lanzoui.com^
 ||glpca.com^
@@ -13879,6 +13875,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mp4vod.com/js/foot.js
 ||mpp9h.cn^
 ||mpush.cn^
+||mqwmgs.xyz^
 ||mrgecm.xyz^
 ||mrhboe.xyz^
 ||mrqbuf.xyz^
@@ -15177,6 +15174,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||rongedui.com^
 ||ror12.cc^
 ||rou3.xyz^
+||rouwhapt.com^
 ||rp.hpplay.cn^
 ||rpahyhn.cn^
 ||rpkcqtf.cn^
@@ -16076,6 +16074,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||thisismoney.co.uk^$removeparam=molReferrerUrl
 ||thjunshi.com/theme/js/all.js
 ||thli43.cn^
+||thoohizoogli.xyz^
 ||thunderbird.net^$removeparam=src
 ||thvx9i.icu^
 ||tiandesign.top^

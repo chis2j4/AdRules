@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-06-18 08:40:01（北京时间） 
-! Total count: 18622
+! Version: 2024-06-18 16:12:20（北京时间） 
+! Total count: 18624
 -960x*0.gif
 -250.js*
 
@@ -2245,6 +2245,8 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 .cn/ack?s=*$third-party
 .cn/bid?url=*$third-party
 .cn/redbaiduct.com?s=$third-party
+.cn:*/d/*?c=*$third-party
+.cn:*/sc/*?n=$third-party
 .cn:*/vh5$third-party
 .cn:8001/*/*?*=$third-party
 .cn:8005/cc/*?is_not=

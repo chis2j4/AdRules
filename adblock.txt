@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-06-20 16:11:57（北京时间） 
+! Version: 2024-06-21 00:11:23（北京时间） 
 ! Total count: 18621
 -960x*0.gif
 -250.js*
@@ -4398,7 +4398,6 @@ hsw.cn##DIV.area.ad,DIV.ad-area,DIV.top_banner,DIV.wrapper.AdTop.hidden-tablet.h
 htai.co##.ml_ad_widget,img[src^="https://img.alicdn.com/imgextra/"]
 htai.me###text-10,#text-13,.single_free_space
 htcui.com###text-11,#text-17,.adsense
-https://video.repubblica.it/tecnologia/techtest/redmi-pad-pro-il-tablet-entry-level-con-prestazioni-da-top/471006/471957?cnt=1
 huabian.com##.banner,.title_con,.blanktop,.ad
 huacolor.com##[class^="list_l"]
 huangye88.com##[id^="o"]
@@ -15785,6 +15784,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||stgowan.com^
 ||stienlb.top^
 ||stmzzs.com^
+||stnew.xyz^
 ||store.hbr.org^$removeparam=fromSku
 ||store.hbr.org^$removeparam=fromSkuRelated
 ||store.tv.api.3g.youku.com^

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-06-27 08:39:41（北京时间） 
-! Total count: 18624
+! Version: 2024-06-27 16:11:32（北京时间） 
+! Total count: 18629
 -960x*0.gif
 -250.js*
 
@@ -3088,6 +3088,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 @@||seasungame.com/ad/
 @@||securepubads.g.doubleclick.net/gampad/ads?$domain=league-funny.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=league-funny.com
+@@||sobot.com^
 @@||sohu.com/cityjson$domain=114shouji.com|51credit.com|dilidili.one|jdboshi.com|jialingmm.net|lcm88.com|mop.com|shouji.com.cn|skk.moe|yxdm.tv
 @@||space.bilibili.com^$removeparam
 @@||speedtest.net^
@@ -3096,8 +3097,8 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 @@||startpage.com/suggestions$removeparam=segment
 @@||stat.pc.music.qq.com/fcgi-bin/player_
 @@||stat.v-56.com/player
-@@||stripe.com$domain=pay.openai.com
 @@||stripe.com/*?*referrer=$removeparam
+@@||stripe.com^$domain=pay.openai.com
 @@||sug.browser.miui.com^$important
 @@||support.steampowered.com^$removeparam
 @@||swjoy.com^
@@ -3122,6 +3123,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 @@||vd.l.qq.com^
 @@||w.pandora.xiaomi.com^$important
 @@||wallpaper.cdn.pandora.xiaomi.com^$important
+@@||wan.douyu.com^
 @@||web.archive.org/*_/http$removeparam
 @@||webapps.sftc.org/captcha/captcha.dll$removeparam
 @@||weibo.com/adshow/
@@ -8188,6 +8190,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||a1.itc.cn^
 ||a1.mingyihui.net^
 ||a168888.top^
+||a1bw2cup.top^
 ||a2.tenglongluntai.com:8081^$domain=m.haiduomi.com,third-party
 ||a2m.cn^
 ||a3.ikafan.com^
@@ -10910,6 +10913,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||edayday.com/img/ad
 ||eddjf.com^
 ||edong.link^
+||edoshbw.top^
 ||edssnet.changchunets.com^
 ||edu-yuedu.bdimg.com/v1/aiting^$app=com.baidu.yuedu
 ||edu.51cto.com/js/edu-ad.js
@@ -11327,6 +11331,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fvffd678.xyz^
 ||fvxlhn.xyz^
 ||fwepd.xyz^
+||fwlrv.cn^
 ||fwmbjrl.cn^
 ||fwsir.com/templets/img/ms.js
 ||fwzvlp.xyz^

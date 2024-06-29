@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-06-29 08:38:55（北京时间） 
-! Total count: 18629
+! Version: 2024-06-29 16:10:57（北京时间） 
+! Total count: 18630
 -960x*0.gif
 -250.js*
 
@@ -6862,6 +6862,7 @@ www.w3cfuns.com##div#topbanner,div#tabads
 www.wandoou.com##INS.adsbygoogle
 www.wangyesifu.com##div.a_fl.a_cb,div.a_pb,div.a_pt,ins.adsbygoogle
 www.wangzhuanbar.com##div#bianlangensui,div.ad,img[class^="aligncenter size-full wp-image-"],div#content table[style]
+www.wdbay.com##[class][classname]
 www.weiqitv.com##div#middle_bill,div.comment_right,img[src^="http://img.weiqitv.com/Uploads/video_"],a[href^="http://www.yiwugou.com/?hmsr="]
 www.wenshushu.cn##A[href^='https://wenshushu.cn/ad/']
 www.williamlong.info##div.divAdsense,ins.adsbygoogle

@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-07-02 16:11:53（北京时间） 
-! Total count: 2649
+! Version: 2024-07-03 00:11:49（北京时间） 
+! Total count: 2651
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5497,6 +5497,7 @@
 @@||public.fbot.me/events/$domain=casper.com
 @@||publicwww.com^$generichide
 @@||pushpushgo.com/js/$script,domain=centrumriviera.pl
+@@||pv.sohu.com/cityjson$domain=ems.com.cn
 @@||pv.sohu.com/suv/
 @@||pvtag.yahoo.co.jp^$script,domain=paypaymall.yahoo.co.jp
 @@||px-cdn.net/api/v2/collector/ocaptcha$xmlhttprequest
@@ -5617,6 +5618,7 @@
 @@||sanyonews.jp/files/image/ad/okachoku.jpg$~third-party
 @@||sascdn.com/tag/$script,domain=filmweb.pl
 @@||sax.sina.com.cn/video/newimpress?
+@@||sax.sina.com.cn^|
 @@||sc.omtrdc.net^$domain=cibc.com
 @@||sc.youmaker.com/site/article/count?
 @@||sc2casts.com^$generichide

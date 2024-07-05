@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-07-05 16:11:11（北京时间） 
-! Total count: 18632
+! Version: 2024-07-06 00:10:21（北京时间） 
+! Total count: 18633
 -960x*0.gif
 -250.js*
 
@@ -745,7 +745,7 @@ $doc,removeparam=scid,domain=~pnc.com
 $doc,removeparam=searchidx,domain=bedbathandbeyond.com
 $doc,removeparam=selectedCCIndex,domain=citi.com
 $doc,removeparam=sh,domain=forbes.com|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
-$doc,removeparam=share_id,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
+$doc,removeparam=share_id,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion|sky.it
 $doc,removeparam=shortlink
 $doc,removeparam=site,domain=affiliate.insider.com|alina.se
 $doc,removeparam=smid,domain=~amazon.*|~opinion.no
@@ -15575,6 +15575,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||skluff.com^
 ||skogsborg.net^
 ||skxuueby.cn^
+||sky.it^$doc,removeparam=social
 ||sky.it^$doc,removeparam=zoneid
 ||sky.tongjiai.com^
 ||skyjh.cn^

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-07-06 08:38:39（北京时间） 
-! Total count: 18633
+! Version: 2024-07-06 16:11:37（北京时间） 
+! Total count: 18635
 -960x*0.gif
 -250.js*
 
@@ -3275,6 +3275,7 @@ app.bilibili.com##[id^="ad_info"]
 app.sogou.com##div.sogou-app
 app111.com##[height="60"],.ads
 appinn.com##DIV.ads,DIV.ads-m,INS.adsbygoogle,a[href="http://i.appinn.com/licaifan"]
+applnn.cc##DIV.html-box
 apps.evozi.com##div#adunit,div.iab-ad,ins.adsbygoogle
 asiatvro.com##.wp.a_t,.a_pt
 asp300.com##[class^="ad1210"],.ad468x60,.ny_gg,div.asp300-indexAD
@@ -12362,6 +12363,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ipadf.xyz^
 ||iparty.asia^
 ||ipc08dt.com^
+||ipgsgtptgatf.xyz^
 ||ipinyou.com^$third-party,domain=~www.v1.cn|~ipinyou.com.cn
 ||iplm.cc^
 ||iplt20.com^$doc,removeparam=tagNames

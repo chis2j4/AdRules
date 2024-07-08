@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-07-08 08:41:54（北京时间） 
-! Total count: 2656
+! Version: 2024-07-08 16:12:07（北京时间） 
+! Total count: 2658
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -6036,6 +6036,8 @@
 @@||vivocha.com^*/vivocha.js?$script,domain=kartell.com
 @@||vk.com/ads?$popup,domain=vk.com
 @@||vlist.se/advertisement.js
+@@||vms-players.minutemediaservices.com^$script,domain=si.com
+@@||vms-videos.minutemediaservices.com^$xmlhttprequest,domain=si.com
 @@||vodjk.com/offlights.js
 @@||vvic.com/monetize/ads/index/
 @@||waaw.to/adv/ads/popunder.js$script

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-07-09 08:40:21（北京时间） 
-! Total count: 18636
+! Version: 2024-07-09 16:10:18（北京时间） 
+! Total count: 18642
 -960x*0.gif
 -250.js*
 
@@ -2259,6 +2259,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 .com/sh/*.js$third-party
 .com/sh/to/$third-partyyhdmba.net
 .com/xz/*?token8=
+.com:*/cc/*?is_not=*&target=*
 .com:*/d/*?c=*$third-party
 .com:*/sc/*?n=$third-party
 .com:10446/*/get*.html
@@ -10504,6 +10505,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dcsxv.com^
 ||dcvbnzss.xyz^
 ||dcvefz.xyz^
+||dcxdtp.com^
 ||dd112233dd.com^
 ||dd667788dd.com^
 ||dd778899dd.com^
@@ -12063,6 +12065,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||huzhanbin.cn^
 ||hvdath.xyz^
 ||hwfoct.icu^
+||hwgzp5.com^
 ||hwivedn.icu^
 ||hwmwin.com^
 ||hwnod.xyz^
@@ -13111,6 +13114,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lf-hl.snssdk.com/*/article/information/
 ||lf-hl.snssdk.com/search/suggest^
 ||lf-hl.snssdk.com/ugc/publish^
+||lfbz317s.icu^
 ||lfffzv.xyz^
 ||lfjtiuy.cn^
 ||lflmdm.com^
@@ -16376,6 +16380,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tvboxnow.com/adnow.js
 ||tvdpebx.cn^
 ||tvf4.com/1/$script
+||tvgkatu.icu^
 ||tvrom.cn^
 ||tvrshv.xyz^
 ||tvszazx.icu^
@@ -16939,6 +16944,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||windscribe.com^$doc,removeparam=pcpid
 ||winniephc.com^
 ||winnye.com^
+||wipbbok.com^
 ||wipew.com^
 ||wired.com^$removeparam=intcid
 ||wjgglm.com^$third-party

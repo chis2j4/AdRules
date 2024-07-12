@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-07-12 08:40:25（北京时间） 
-! Total count: 2659
+! Version: 2024-07-12 16:12:40（北京时间） 
+! Total count: 2658
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5972,7 +5972,6 @@
 @@||tvcom-static.ssl.cdn.cra.cz/*/videojs.ga.js$script,domain=tvcom.cz
 @@||twitch.tv^$generichide
 @@||twitter.com/oct.js$domain=jp.square-enix.com
-@@||twitter.com^$generichide
 @@||type.jp/common/js/clicktag.js
 @@||uaprom.net/image/blank.gif?$image
 @@||ucoz.net/cgi/uutils.fcg?$script,third-party
@@ -6051,7 +6050,7 @@
 @@||wavepc.pl/wp-content/*-500x100.png$image,~third-party
 @@||wavse.com^$generichide
 @@||web-ads.pulse.weatherbug.net/api/ads/targeting/$domain=weatherbug.com
-@@||web.archive.org^$generichide
+@@||web.basemark.com^$generichide
 @@||web.dev/patterns/web-vitals-$~third-party
 @@||web.telegram.org^$generichide
 @@||webbtelescope.org/files/live/sites/webb/$image,~third-party

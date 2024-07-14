@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-07-14 16:12:36（北京时间） 
-! Total count: 18642
+! Version: 2024-07-15 00:15:12（北京时间） 
+! Total count: 18645
 -960x*0.gif
 -250.js*
 
@@ -5364,6 +5364,7 @@ moe-acg.cc###text-5,#masthead + .textwidget,.adsense
 moe-acg.cc,tumutanzi.com###text-3
 moe123.net##.m-inner2[style="height: 160px;"]
 moegirl.org.cn##[class^='stevrhgmNo']
+moegirl.org.cn##[style*='box-shadow: rgb(136, 136, 136) 0px 0px']
 mogujie.com##div.ui-hada
 moonbt.com##.money_all
 moonbt.com##div[class="box mb"] > a
@@ -11330,6 +11331,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fumeiti.cc^
 ||fumiad.dxys.pro^
 ||fun/ad/
+||fundingchoicesmessages.google.com^
 ||fusion.qq.com^
 ||fuvbbjl.xyz^
 ||fuz.cc^$third-party
@@ -13827,6 +13829,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||modzj.net^$third-party
 ||moe.la/images/banner/$image
 ||moead.xyz^
+||moegirl.org.cn/insight/moegirlinsight.
 ||moerats.com/usr/ad/
 ||mohecm.com^
 ||moji.com/ad^

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-07-15 08:42:22（北京时间） 
-! Total count: 18645
+! Version: 2024-07-15 16:12:10（北京时间） 
+! Total count: 18647
 -960x*0.gif
 -250.js*
 
@@ -391,6 +391,8 @@
 ##body > [id][style*='width:100%'][style*='min-height:120px']
 ##body > a[id*='hudie_']
 ##body > div#bottommob.bottommob
+##body#nr_body #appss
+##body#nr_body [onclick='goAppHtml();']
 ##body#nr_body a[href*="/?utm_source="]
 ##body#nr_body div.fixed ~ *
 ##body#nr_body font > [id]
@@ -3290,7 +3292,6 @@ auto.ifeng.com##div.w1000.c-ad,.top-tg
 autofan.com.cn##div.ad_banner,.xf_ad,[class="add width"],[src^="ad/"]
 autohome.com.cn##.game-full-169,[class^="adv0"]
 autohome.com.cn##div#ad_990_tm,div#ad_fbanner_00,div#ad_fbutton_00,div#ad_ic_video,div#advarticles.advarticle,DIV.advbox,div.pop-autoapp,div[id^="ad_960_"],a[href^="http://qr.net/bvJfs"],[class="grid-14 column"],[class="grid-6 column"],[id^="ad_tuwen"],[id^="adBtmBanner"],[id^="ad_fk_"],[class="monkey monkey_box"],.mall-advbar-tab,.ad-top-1111,.hotcar-mall,.monkey_box_big,.monkey__iconmini,.serve-sm,#mall_960_90,[data-adparent=".monkey"],[id^="tmadv"],[class^="advbox"],.article-content__ad,[height="60px"],.union-ad-placeholder,.monkey-row,.monkeyicon-br,.ad-common
-autohome.com.cn##ol > li,.evade-operate
 autohome.com.cn,loveshang.com##.advbox
 autonet.com.tw##[src^="http://www.autonet.com.tw/90/"],[name="ntwad2"]
 av.xxyywo.com###\32 yujiazai
@@ -10801,6 +10802,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||duomeng.org^
 ||dup.baidustatic.com^
 ||duxingangtiaoban.com^
+||duyewnf.icu^
 ||duyixpy.top^
 ||duyvtanrheje.xyz^
 ||dv.amtwcvh.cn^

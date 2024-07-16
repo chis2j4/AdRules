@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-07-16 08:41:11（北京时间） 
-! Total count: 18647
+! Version: 2024-07-16 16:12:29（北京时间） 
+! Total count: 18652
 -960x*0.gif
 -250.js*
 
@@ -5449,12 +5449,16 @@ new.qq.com##.original-bar
 new.qq.com##.tuijian-bar
 new.qq.com##[href="//new.qq.com/hb_index.htm"]
 new.qq.com##[href="https://new.qq.com/mobile"]
+new.qq.com#?#div.operation:contains(手机看)
 newbiquge.com##[id^="index_ad_"]
 newhua.com##div.taobaoad,div.unionad,ins.adsbygoogle,div.adr,div.ad_center,div[class^="ad_ritht_"],DIV.ad_top,DIV.i1,DIV.i2,DIV.i3
 news.163.com##div.vhouse_ad_houselist,iframe[src^="http://img1.126.net/channel4/"]
 news.17173.com###ginfo,div.ad-zhanneituiguang
 news.ifeng.com###embed_hzh_div,[href^="http://yemei.tv"]
 news.lyd.com.cn##script + table[width="300"] > tbody > tr:first-child > td > table[width="300"]
+news.qq.com##.download-banner-wrap
+news.qq.com##.download-content.mr28.download-wrapper
+news.qq.com##.godown.qqcom_fb-item
 news.wehefei.com##iframe[src="http://new.wehefei.com/htmlphp/tmall/ad_www.php"]
 news.yesky.com##DIV[id^="f21ac82b21eeb7322631b6aa94e17f"]
 newsbim.com##.ny_banner,.right_banner,[class^="index_banner"],[class^="con_banner"]
@@ -6362,6 +6366,7 @@ vgugu.com##div#bn_ad,div[id^="test"],div.in_br
 vhiphop.com##.slides
 via=rss$doc,removeparam=via
 vidhub.cc##div.player-info > div.module
+view.inews.qq.com##div[class^="article-recommend_wrapper"]
 view.inews.qq.com##div[class^="bottom-bar_buttonWrap"]
 view.inews.qq.com##div[class^="infinite-comment-list_subText"]
 view.inews.qq.com##div[class^="interaction-bottom_interaction"]

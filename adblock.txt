@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-07-20 16:10:19（北京时间） 
-! Total count: 18652
+! Version: 2024-07-21 00:09:23（北京时间） 
+! Total count: 18654
 -960x*0.gif
 -250.js*
 
@@ -10072,6 +10072,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ck33.top^
 ||ckerw.xyz^
 ||clarins.com.cn^
+||classic.39health.com^
 ||clcmdie.com^
 ||click.fanyi.baidu.com^
 ||click.googleanalytics.com^
@@ -10395,6 +10396,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cz.ifeng0.com^
 ||czghjt.com^
 ||d*.wanzhuang.com^
+||d-test.39.net^
 ||d.1391.com^
 ||d.13mobi.com^
 ||d.fjqinan.com/app/semob5.16.12_161250_R19355_121098028_build58080_2.1.0.2367.apk

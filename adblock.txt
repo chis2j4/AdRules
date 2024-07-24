@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-07-24 16:11:23（北京时间） 
-! Total count: 18691
+! Version: 2024-07-25 00:10:56（北京时间） 
+! Total count: 18663
 -960x*0.gif
 -250.js*
 
@@ -3988,35 +3988,12 @@ douban.com##.lnk-doubanapp
 doubean.com##.ad-block-960
 doubibackup.com##footer.article-footer
 doupapa.com,dpp2019.com##.ad-body,.couplet_9cb0d,.dibu_9cb0d
-douyu.com###FansFestival2003Tips
-douyu.com###douyu_room_normal_player_danmuDom > .ani-base-hover.DanmuEffectBC.ani-broadcast
-douyu.com###douyu_room_normal_player_proxy_box > .PlayerSuspendedBallAd
-douyu.com###js-player-dialog
-douyu.com###js-player-guessgame
-douyu.com###js-room-activity
-douyu.com##.Bottom
-douyu.com##.ChatEffect
-douyu.com##.ConfigBroadcast.ani-broadcast
-douyu.com##.FishpondTreasure
-douyu.com##.FudaiGiftToolBarTips
+douyu.com##.ClientJump
+douyu.com##.Download
 douyu.com##.Header-download-wrap
-douyu.com##.HeaderGif-left
-douyu.com##.HeaderGif-right
-douyu.com##.PcDiversion
-douyu.com##.PrivilegeGiftModalDialog
-douyu.com##.SuperFansGuideTips
-douyu.com##.TaskIcon
-douyu.com##.ToolbarActivityArea
-douyu.com##.ToolbarActivityArea > div:nth-of-type(1) > div:nth-of-type(1) > div.ActivityItem:nth-of-type(3)
-douyu.com##.is-active.UPlayerLotteryEnter
 douyu.com##.is-mask.MedalUserGuide
-douyu.com##div.Title-row:nth-of-type(3)
-douyu.com##div.is-normal.Title-col:nth-of-type(2)
 douyu.com##div[class*=LiveRoomDianzan]
-douyu.com##li.RightNavigate-item:nth-of-type(1)
-douyu.com##li.RightNavigate-item:nth-of-type(1) > [href^="/client"]
-douyu.com##li.RightNavigate-item:nth-of-type(2)
-douyu.com##li.RightNavigate-item:nth-of-type(2) > [href^="/client"]
+douyu.com##div[class^="code_box"]
 douyutv.com,douyu.com,douyutv.wasu.cn##div.dy_bottom_gg,div.chat-right-ad,div#chat-top-ad,a.ad_shadow,div.lol_ad,div.lol-ad,div.offi_ad,div.other_ad,div.dy_top_gg,[class$=" sign_posid"],div.lyzm-prevent,div.bglink,#downwrapper,[class^="room-ad-"],.no-login,.chat-top-ad,.tab-content.promote,.vcode9-sign,[class="row row-3"],[class="super-rmd-bg tggcontrol"],[class^="hot-sign-"],[class^="theatre-"],[data-type="dyrec"],[data-dysign-adid]
 down.admin5.com##div#a22
 down12.com###btm-union,.fst,[class^="adr-ist-"],.adr-rt
@@ -5078,13 +5055,8 @@ m.douban.com##h2 > [href^="https://www.douban.com/doubanapp/card/get_app"]
 m.douban.com#?#a:contains(用App看更多)
 m.douban.com#?#div:matches-css(width:68px)
 m.douguo.com##div.footer,div#top.top
-m.douyu.com##.DownloadBtn
-m.douyu.com##.HomeHeader-openAppB
-m.douyu.com##.abtest-downloadDialog
-m.douyu.com##.btn-open-app
-m.douyu.com##.btn-open-app.open-btn-more
-m.douyu.com##.clarity-downDialog
 m.douyu.com##a.DownloadBtn
+m.douyu.com##div[class*="OpenAppBtn"]
 m.egame.qq.com###gcOfficialWidgetWrapper
 m.egame.qq.com###installGameBar
 m.egame.qq.com###installbar

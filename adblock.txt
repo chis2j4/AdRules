@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-07-24 08:42:01（北京时间） 
-! Total count: 18688
+! Version: 2024-07-24 16:11:23（北京时间） 
+! Total count: 18691
 -960x*0.gif
 -250.js*
 
@@ -4849,8 +4849,10 @@ kcili.com###hm_cpm_show
 kdhome.net,xinhuanet.com,yxdm.tv##.adv3
 kdhome.net,yxdm.tv##.adv2
 kdslife.com##.ad3,.mod_banner,.adsbygoogle
+ke.com##.app-down
 ke.com##.app_content
 ke.com##.app_daoliu_layer
+ke.com##.download
 keaidian.com##.lanmu_di
 kejianyuan.com##DIV.box_1 > TABLE:first-child > TBODY > TR:first-child,TD[width="234"][height="60"],div.box_gg
 keke.la###slide:first-child
@@ -6124,6 +6126,7 @@ tgbus.com##DIV#txt_ad2.txt_ad2,DIV[class^="a760x100"],DIV.s.a200x375,DIV[class^=
 th7.cn##div[style^="display: block; width: 200px; height: 200px;"]
 thegreatdaily.com##[id^="ads"],#fbbox,.adsbygoogle,#rightAds
 thegreatdaily.com/cat##.col-lg-8.col-md-8{width:1190px;}
+thepaper.cn###QRcode
 thepaper.cn##.download
 thepaper.cn##.news_imgad,.rt_ad
 thepaper.cn##[class^='index_footer_banner']

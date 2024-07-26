@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-07-26 08:40:43（北京时间） 
-! Total count: 18663
+! Version: 2024-07-26 16:11:13（北京时间） 
+! Total count: 18664
 -960x*0.gif
 -250.js*
 
@@ -3618,6 +3618,7 @@ bimibimi.cc##[src^='https://dd-static.jd.com']
 bing.com###BottomAppPro
 bing.com###TopApp
 bing.com###bnp_container
+bing.com###id_mobile
 bing.com##.b_ad
 bing.com##DIV.sb_adsNv2,li.b_ad,div.OpInNwWndw
 biqudao.com##.dahengfu,.con_ad

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-07-28 08:45:11（北京时间） 
-! Total count: 18664
+! Version: 2024-07-28 16:10:11（北京时间） 
+! Total count: 18668
 -960x*0.gif
 -250.js*
 
@@ -11270,6 +11270,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||flurry.com^
 ||flyigouwu.com^
 ||flzyw.com/js/foot.js
+||fmkipgm.icu^
 ||fmre1.com^
 ||fnac.$removeparam=Origin
 ||fnfhjka.xyz^
@@ -11738,6 +11739,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||haejkmm.cn^
 ||haffo70.com^
 ||haha.9ku.com/public/home/js/baidu
+||hahusa.top^
 ||haihongzg.com^
 ||hailfi.top^
 ||haili-spitzer.com^
@@ -12796,6 +12798,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kaicn.com/style/js/js.js$script
 ||kaiguangdou.com^
 ||kaimaohong20.cn^
+||kaishq.top^
 ||kanclick.com^$third-party
 ||kang08.com^
 ||kanguba.com/file/js/ifr.asp
@@ -14547,6 +14550,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pfqwbqs.cn^
 ||pftdmmc.xyz^
 ||pg-ad-b1.ws.126.net^
+||pgcciax.icu^
 ||pgdt.gtimg.cn^
 ||pgdt.ugdtimg.com^
 ||pgght17.com^

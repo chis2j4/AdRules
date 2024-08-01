@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-08-01 08:45:43（北京时间） 
-! Total count: 18669
+! Version: 2024-08-01 16:11:53（北京时间） 
+! Total count: 18671
 -960x*0.gif
 -250.js*
 
@@ -3603,6 +3603,7 @@ bilibili.com##.bili-app-link-container
 bilibili.com##.clearfix.h5-download-bar
 bilibili.com##.desktop-download-tip
 bilibili.com##.download-client-trigger.download-entry
+bilibili.com##.float-btn:contains(打开App)
 bilibili.com##.gg-window > .operate-card
 bilibili.com##.index__container__src-commonComponent-bottomOpenApp-
 bilibili.com##.index__downLoadBtn__src-videoPage-commentArea-
@@ -3612,6 +3613,7 @@ bilibili.com##.index__openApp__src-videoPage-related2Col-videoItem-
 bilibili.com##.mCS_img_loaded,[class^="gg-"],.adpos,div#b_app_link,div.goto-mobile,[data-id="68"],.live-ad-full,.index-promote,.ad-f,[data-id^="490"],[data-ad-type],.data-id-ad,.ad-e1
 bilibili.com##.mobile.nav-item
 bilibili.com##.open-app-bar
+bilibili.com##.open-btn
 bilibili.com##a[href="//app.bilibili.com"]
 bilibili.com#?#.van-popover__reference:contains(下载)
 bimibimi.cc##[src^='https://dd-static.jd.com']
@@ -4996,15 +4998,15 @@ m.baidu.com,www.baidu.com##P[class='c-line-clamp3 c-color ']
 m.baidu.com,www.baidu.com##div[tpl*="ball"]
 m.bilibili.com###floatBtn
 m.bilibili.com###openAppBtn
-m.bilibili.com##.home-float-openapp.open-app-btn
-m.bilibili.com##.m-comment-openapp.open-app-btn
-m.bilibili.com##.m-float-openapp.open-app-btn
+m.bilibili.com##.bottom-tab:contains(App)
+m.bilibili.com##.container:contains(打开App)
+m.bilibili.com##.launch-app-btn > a:contains(App)
+m.bilibili.com##.launch-app-btn:contains(打开APP)
 m.bilibili.com##.m-home-float-openapp
-m.bilibili.com##.m-nav-openapp.open-app-btn
+m.bilibili.com##.m-video2-awaken-btn
 m.bilibili.com##.m-video2-float-openapp
+m.bilibili.com##.natural-margin.visible-open-app-btn.m-video-main-launchapp.launch-app-btn
 m.bilibili.com##.nav-open-app-img
-m.bilibili.com##.visible-open-app-btn.m-video-main-launchapp.launch-app-btn
-m.bilibili.com##.visible-open-app-btn.m-video-main-openapp.open-app-btn
 m.bilibili.com##DIV.index__container__src-commonComponent-bottomOpenApp-
 m.bilibili.com##div.index__downLoadBtn__src-videoPage-commentArea-
 m.bilibili.com##div.index__itemWrap__src-videoPage-related2Col-

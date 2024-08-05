@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-08-05 16:12:35（北京时间） 
-! Total count: 18675
+! Version: 2024-08-06 00:10:48（北京时间） 
+! Total count: 18676
 -960x*0.gif
 -250.js*
 
@@ -5732,6 +5732,7 @@ ref=news.risky.biz$doc,removeparam=ref
 ref=pricespy^$doc,removeparam=ref
 ref=prisjakt^$doc,removeparam=ref
 ref=privacy.thenexus.today$doc,removeparam=ref
+ref=producthunt$doc,domain=producthunt.com,removeparam=ref
 ref=rss^$doc,removeparam=ref
 ref=spreadprivacy.com$removeparam=ref
 ref=troyhunt.com$doc,removeparam=ref

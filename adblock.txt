@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-08-09 08:42:13（北京时间） 
-! Total count: 18695
+! Version: 2024-08-09 16:12:16（北京时间） 
+! Total count: 18697
 -960x*0.gif
 -250.js*
 
@@ -4484,6 +4484,7 @@ ifeng.com##a[href*=".sm.cn"]
 ifeng.com##a[href*="popoxiu.com"]
 ifeng.com##a[href*="popoxiu.com"] + h3
 ifeng.com##a[href*="popoxiu.com"] + h3 + p
+ifeng.com##div[class*="callupBtn"]
 ifeng.com##div[class^="ad_"]
 ifeng.com##div[class^="ad_box"]
 ifeng.com##div[class^="bottomSlide"]
@@ -4496,6 +4497,7 @@ ifeng.com##div[class^="shareFix"]
 ifeng.com##div[class^="share_box"]
 ifeng.com##div[class^="silde_box"]
 ifeng.com##header:contains(立即打开)
+ifeng.com##header[class*="headerIn"]
 ifeng.com,~imall.ifeng.com##a[href*="imall.ifeng."]
 ifkdy.com##a[href*=".yhm11.com"]
 iguang.tw##.mall[shop],#googleAD1

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-08-09 16:12:16（北京时间） 
-! Total count: 18697
+! Version: 2024-08-10 00:10:52（北京时间） 
+! Total count: 18696
 -960x*0.gif
 -250.js*
 
@@ -6967,13 +6967,12 @@ xiaohongshu.com##.bottom-bar.button-bottom-bar.cube-z-bottom-bar
 xiaohongshu.com##.bottom-button-box
 xiaohongshu.com##.comment-items > .button-launch
 xiaohongshu.com##.fixed
+xiaohongshu.com##.hotlist-container
 xiaohongshu.com##.more-image-desc
 xiaohongshu.com##.nav-bar-box
 xiaohongshu.com##.recommend-box
-xiaohongshu.com##.reds-modal-open.reds-modal
 xiaohongshu.com##.section.related-notes
 xiaohongshu.com##.user-notes-clo-layout-container.user-notes-box
-xiaohongshu.com##.user-notes-clo-layout-container.user-notes-box > .button-launch
 xiaohongshu.com##.wx-open-launch-app-container
 xiaohua.360.cn##div#right-fixed
 xiaojianjian.net##div.a0d-m.a0d-site

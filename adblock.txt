@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-08-10 16:10:45（北京时间） 
-! Total count: 18696
+! Version: 2024-08-11 00:10:22（北京时间） 
+! Total count: 18697
 -960x*0.gif
 -250.js*
 
@@ -714,6 +714,7 @@ $doc,removeparam=lId,domain=apple.com|reddit.com|reddittorjg6rue252oqsxryoxengaw
 $doc,removeparam=lgw_code
 $doc,removeparam=lyceumGuid,domain=bedbathandbeyond.com
 $doc,removeparam=maid
+$doc,removeparam=maltcode,domain=gamestop.com|ubisoft.com|steampowered.com
 $doc,removeparam=mchn
 $doc,removeparam=mcid,domain=~miguvideo.*
 $doc,removeparam=method,domain=peacocktv.com
@@ -779,6 +780,7 @@ $doc,removeparam=tracking_user
 $doc,removeparam=tt_content
 $doc,removeparam=tt_medium
 $doc,removeparam=ttclid
+$doc,removeparam=ucid,domain=unicredit.it|steampowered.com
 $doc,removeparam=uid_bam
 $doc,removeparam=unp_tpcid
 $doc,removeparam=unptid
@@ -16567,7 +16569,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||un1.takefoto.cn^
 ||unetall.com^
 ||uni69.top^
-||unicredit.it^$doc,removeparam=ucid
 ||unieuro.it^$removeparam=dedup
 ||uniformer.biz^
 ||union001.com^

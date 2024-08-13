@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-08-13 00:11:08（北京时间） 
-! Total count: 18700
+! Version: 2024-08-13 08:42:44（北京时间） 
+! Total count: 18701
 -960x*0.gif
 -250.js*
 
@@ -17869,6 +17869,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||youtube.com/csi_204?
 ||youtube.com/pagead/
 ||youtube.com/ptracking?pltype=adhost
+||youtube.com^$doc,removeparam=bp
 ||youtube.com^$removeparam=ab_channel
 ||youtube.com^$removeparam=embeds_euri
 ||youtube.com^$removeparam=source_ve_path

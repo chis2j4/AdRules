@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-08-14 08:42:10（北京时间） 
-! Total count: 18702
+! Version: 2024-08-14 16:11:44（北京时间） 
+! Total count: 18705
 -960x*0.gif
 -250.js*
 
@@ -4259,6 +4259,7 @@ gotrip.hk##[class^="gpt_ads_"]
 goudidiao.com##.img-responsive.center-block
 gpshk.cc##div.wp.a_t,div.a_pt,div.a_pb,.ad,div.bm.a_c,div#diy4.area,div.wp.a_f,DIV#hd + DIV.wp.cl,.a_pr,div#chs_bannerArea,td#drk_ledtd,a[href="http://www.yihua365.com/"]
 greasyfork.org##div.ad
+greasyfork.org#@#body .ad
 greatwuyi.com##.ad_img,.main_9788,[class^="main_ad"],[height="80"]
 greenxf.com##.yinsu_xz,.app_fix_wrap,#BZlocationID2,[id^="BZlocationID"]
 greenxiazai.com##[class^="gg"],.list_lg,[class^="yinsu_"]
@@ -10112,6 +10113,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||clientlog3.music.163.com^
 ||clientservices.googleapis.com^
 ||clkads.com^
+||clkwnl.xyz^
 ||clldirectasianew.club^
 ||cloud-log.yy.com^
 ||cloudad.asia^
@@ -12411,6 +12413,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ipservice.163.com^
 ||ipsoazr.icu^
 ||iqede.xyz^
+||iqgessh.icu^
 ||iqgoukn.cn^
 ||iqiyi.com^$removeparam=bkt
 ||iqiyi.com^$removeparam=e

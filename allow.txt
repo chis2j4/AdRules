@@ -1,5 +1,5 @@
 ! Title: Allowlist
-! Version: 2024-08-17 08:40:46（北京时间） 
+! Version: 2024-08-17 16:11:18（北京时间） 
 ! Total count: 2673
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
@@ -4016,7 +4016,7 @@
 @@||api-mg2.db-ip.com^$xmlhttprequest,domain=journal-news.com
 @@||api-v*.trbo.com^|
 @@||api-v4.trbo.com/r.php?$script,domain=blau.de
-@@||api.adinplay.com/libs/aiptag/$script
+@@||api.adinplay.com/libs/aiptag/assets/adsbygoogle.js$domain=bigescapegames.com|brofist.io|findcat.io|geotastic.net|lordz.io
 @@||api.adnetmedia.lt/api/$~third-party
 @@||api.ads.tvb.com^
 @@||api.aliagents.ai/api/v1/activity$~third-party,xmlhttprequest

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-08-18 08:45:08（北京时间） 
-! Total count: 18705
+! Version: 2024-08-18 16:10:52（北京时间） 
+! Total count: 18706
 -960x*0.gif
 -250.js*
 
@@ -6942,6 +6942,7 @@ wxphp.com##.ad_a,.ad_d,.ads1,.ads
 wxsnsdy.tc.qq.com^
 wxsnsdy.video.qq.com^
 wydy8.com##[height="83"]
+x.com/*/videoads/
 x4p.co##iframe[SRC^="http://fans.bestvogue.com/fans/"]
 x8ccc.com##[id$="ad"],ins.adsbygoogle,div#ad4,div[class^="wumii-"]
 xa.58.com##img.wide

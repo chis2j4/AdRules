@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-08-22 16:11:54（北京时间） 
-! Total count: 18710
+! Version: 2024-08-23 00:10:41（北京时间） 
+! Total count: 18712
 -960x*0.gif
 -250.js*
 
@@ -69,6 +69,7 @@
 ##.zozoads
 ##A > IMG[alt][src*='resources/images/']
 ##A#floating-banner
+##A.gotoclick[adv_id]
 ##A.toptxt[target='_blank']
 ##A.wrapper_bg_c.hidden-xs
 ##ASIDE[id^='custom_html-']
@@ -431,6 +432,7 @@
 ##div#hengfu_wap_vod_xia > a
 ##div#liveline > l,div#liveline > ll
 ##div#main.main.read_page [id^="set_adds"]
+##div#notice_container > div.event-notice > div.modal
 ##div#nr_body.nr_all.c_nr div.show-app2
 ##div#page-back DIV.container.clearfix div > A > IMG[src]
 ##div#playlistbtn > A[href='/ht.html']

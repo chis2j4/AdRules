@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-08-28 16:12:26（北京时间） 
-! Total count: 2678
+! Version: 2024-08-29 00:11:12（北京时间） 
+! Total count: 2679
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5574,6 +5574,7 @@
 @@||raenonx.cc^$generichide
 @@||rakuten-bank.co.jp/rb/ams/img/ad/$~third-party
 @@||raw.githubusercontent.com^$domain=viewscreen.githubusercontent.com
+@@||rcb-gis.maps.arcgis.com/apps/instant/minimalist/*/AppMeasurement.js$script,~third-party
 @@||reactandshare.com^$domain=maanmittauslaitos.fi
 @@||readmoo.com/images/social/
 @@||realclearpolitics.com/esm/assets/js/admiral.js$~third-party

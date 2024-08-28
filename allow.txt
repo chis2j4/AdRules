@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-08-28 00:11:07（北京时间） 
-! Total count: 2677
+! Version: 2024-08-28 08:43:04（北京时间） 
+! Total count: 2678
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5054,6 +5054,7 @@
 @@||krok8.com/wp-content/plugins/pageviews/pageviews.min.js$script,~third-party
 @@||ksapisrv.com/rest/wd/common/log/collect/
 @@||l.ecn-ldr.de/loader/loader.js$domain=braun-hamburg.com
+@@||l.logly.co.jp/lift$script,domain=sponichi.co.jp
 @@||l.qq.com/lview?$domain=888.sports.qq.com
 @@||labrc.pw/advstats/$xmlhttprequest
 @@||lacoste.com^*/click-analytics.js$~third-party
@@ -5124,7 +5125,7 @@
 @@||logic-immo.com/lib/xiti/xiti.js$script,~third-party
 @@||login.ingbank.pl^*/satelliteLib-$script
 @@||login.sendpulse.com^|
-@@||logly.co.jp/recommend/img.benesse-cms.jp/$image,domain=benesse.ne.jp
+@@||logly.co.jp/recommend/$image,domain=benesse.ne.jp|sponichi.co.jp
 @@||logo.clearbit.com^$image,third-party
 @@||lokopromo.com^*/adsimages/$~third-party
 @@||loltmcheck.com/js/ads.js

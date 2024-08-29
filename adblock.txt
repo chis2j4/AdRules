@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-08-29 08:43:17（北京时间） 
-! Total count: 18717
+! Version: 2024-08-29 16:12:47（北京时间） 
+! Total count: 18722
 -960x*0.gif
 -250.js*
 
@@ -3477,6 +3477,7 @@ baihei.cc##.a_f,.a_mu,.a_cb,.a_cn,.it618_firstad_flex,td[colspan="5"],.a_pt,.bm.
 baihei.net##.a_h
 baijiahao.baidu.com##.contentPadding.bottomTTSStruct
 baijiahao.baidu.com##.headDeflectorContainer
+baijiahao.baidu.com##.newHeadDeflectorContainer
 baijiahao.baidu.com##.openImg
 baijiahao.baidu.com##.related-news
 baijiahao.baidu.com##.wxUnfoldText
@@ -3490,6 +3491,7 @@ baijiahao.baidu.com##DIV[class='openall3']
 baijiahao.baidu.com##DIV[class='outmargin']
 baijiahao.baidu.com##SPAN[class='_2v86xffLyWbTz5nRDFr_L_ _2xxXjJo3ZlFeRRLLUMtAr_']
 baijiahao.baidu.com##SPAN[class='psDTG2YH-UVvL5hI8Ye4a']
+baijiahao.baidu.com##div[id="bdrainrwDragButton"]
 baijiahao.baidu.com##div[style^="left: calc"]
 baijiahao.baidu.com##span[class*="cm-variable"]
 baijiahao.baidu.com#?#.layer-item:contains(百度)
@@ -11497,6 +11499,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gg*.miguvideo.com^
 ||gg1.jc001.cn^
 ||gg2888.com^
+||gg3a.cc^
 ||ggaji.com^
 ||ggc.cmvideo.cn^
 ||ggdfrl.com^
@@ -11689,6 +11692,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||gtlpaj.com^
 ||gtoyouin.biz^
 ||gtpxvpi.cn^
+||gtuavqu.icu^
 ||guanggao28.xyz^
 ||guangyaoli.
 ||guangzhengtwentynine.top^
@@ -16362,6 +16366,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||trafficfactory.biz^$third-party
 ||trafficforce.com^
 ||trafficjunky.net^
+||trafficmanager.net^
 ||trafficstars.com$third-party
 ||trafforsrv.com^
 ||translate.goog^$removeparam=_x_tr_pto

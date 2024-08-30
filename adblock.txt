@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-08-30 16:12:51（北京时间） 
-! Total count: 18721
+! Version: 2024-08-31 00:10:57（北京时间） 
+! Total count: 18726
 -960x*0.gif
 -250.js*
 
@@ -61,6 +61,7 @@
 ##.gr_slide_car_inner
 ##.mi_btcon.ad
 ##.player_pic_link > [src*='/player.gif']
+##.read-container [onclick='goAppHtml();']
 ##.scaled-juicyads
 ##.ssr1
 ##.theme-dark > .ayx > a
@@ -13883,6 +13884,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mohecm.com^
 ||moji.com/ad^
 ||mojoplain.com^
+||molpmh.xyz|
 ||mon.snssdk.com^
 ||monitor-uu.play.aiseet.atianqi.com^
 ||monitor.uu.qq.com^
@@ -14411,6 +14413,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||onlyfang.cn^
 ||onlyitv.com/assets/js/onlyitv.js
 ||onlytvb.com/assets/javascripts/
+||ooksq.top^
 ||oomyv.com^
 ||oopej.xyz^
 ||ooqwc.xyz^
@@ -16308,6 +16311,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tokopedia.com^$removeparam=xClientId
 ||tongda-bearings.com/d1/
 ||tongji.info^
+||tongji.trafficmanager.net/?
 ||tongji.xinmin.cn^
 ||tongjiniao.com^
 ||tongjiyu.com^
@@ -16661,6 +16665,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||utywsi.cn^
 ||uucm.cn^
 ||uuff.com^
+||uuiaoq.top^
 ||uujhveglpo.xyz^
 ||uum6.com/$third-party,~font,popup
 ||uunak.cn^

@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-09-01 00:11:07（北京时间） 
-! Total count: 2679
+! Version: 2024-09-01 08:53:15（北京时间） 
+! Total count: 2680
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3650,6 +3650,7 @@
 @@://10.1.1.$generichide
 @@://127.0.0.1$generichide
 @@://192.168.$generichide
+@@://localhost/$generichide
 @@://localhost:$generichide
 @@=mm_12852562_1778064_$domain=alimarket.tmall.com|www.taobao.com|www.tmall.com
 @@=mm_12852562_1778064_$domain=taojinbi.taobao.com

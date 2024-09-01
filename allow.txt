@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-09-01 16:11:47（北京时间） 
-! Total count: 2680
+! Version: 2024-09-02 00:10:20（北京时间） 
+! Total count: 2681
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4296,6 +4296,7 @@
 @@||chartbeat.com/js/chartbeat_brightcove_plugin.js$domain=capital.it|deejay.it|m2o.it
 @@||chasecdn.com/web/*/eventtracker.js$domain=chase.com
 @@||chat.d-id.com/assets/mixpanel.$~third-party
+@@||chaturbate.com/in/$subdocument,domain=cam-sex.net
 @@||check.ddos-guard.net/check.js$script
 @@||cheshi-img.com/ad/csad_2019.js
 @@||china.com/dianbo/adv1.xml

@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-09-02 00:10:20（北京时间） 
-! Total count: 2681
+! Version: 2024-09-02 08:45:30（北京时间） 
+! Total count: 2680
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4852,7 +4852,6 @@
 @@||hdslb.com/bfs/cm/cm-sdk/static/js/bili-collect.js
 @@||health.halodoc.com^|
 @@||healthgateway.gov.bc.ca/snowplow.js$~third-party
-@@||healthyadvertising.es^$~third-party
 @@||heatmap.it^$domain=heatmap.com|heatmap.it|heatmap.me|heatmap.org
 @@||helix.videotron.com/js/api/fingerprint.js$~third-party
 @@||hello.myfonts.net/count/$stylesheet,domain=cfr.org|condor.com|furniturevillage.co.uk|luggagehero.com

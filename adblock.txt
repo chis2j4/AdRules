@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-09-05 08:43:54（北京时间） 
-! Total count: 18732
+! Version: 2024-09-05 16:12:49（北京时间） 
+! Total count: 18734
 -960x*0.gif
 -250.js*
 
@@ -6178,6 +6178,7 @@ tieba.baidu.com##.j_click_stats, .j_click_stats+*
 tieba.baidu.com##.li.tl_shadow.tl_shadow_new
 tieba.baidu.com##.light_top_ext_area
 tieba.baidu.com##.list_item_
+tieba.baidu.com##.load-more.wake-app
 tieba.baidu.com##.more-btn-desc
 tieba.baidu.com##.more-image-desc
 tieba.baidu.com##.more_btn_package
@@ -6185,6 +6186,8 @@ tieba.baidu.com##.nav-bar-bottom
 tieba.baidu.com##.only-lz
 tieba.baidu.com##.open-app-guide
 tieba.baidu.com##.open-style
+tieba.baidu.com##.operate-btn
+tieba.baidu.com##.operation-chat.wake-app
 tieba.baidu.com##.post-cut-guide
 tieba.baidu.com##.post-page-entry-btn
 tieba.baidu.com##.recommend-list
@@ -6566,7 +6569,6 @@ wuhaozhan.net$$div[class="item-box"]
 wuhaozhan.net$$dl[class="item-fifth-dd shadow"]
 wuxi.cn##.ada1,.ada2,.ada3,.adgood
 wuxianfuli.com##div.couplet_ad,div#text-13.s-list,div#text-16.s-list,div#text-8.s-list,DIV.s-list:first-child,DIV#primary > A > IMG[src*="sinaimg.cn/mw690/60006c33jw1"],DIV.textwidget:first-child > A > IMG[src*="sinaimg.cn/mw690/60006c33j"]
-wuzhuiso.com##.download-app
 wuzuowei.net##.asb
 www.00170017.net##img[width="950"][height="70"]
 www.0371zm.com##div#diynavtop.area,DIV.wp.cl > TABLE,DIV[id^="diy1"].area

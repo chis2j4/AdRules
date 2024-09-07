@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-09-07 16:10:57（北京时间） 
-! Total count: 2680
+! Version: 2024-09-08 00:10:40（北京时间） 
+! Total count: 2681
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4233,6 +4233,7 @@
 @@||ccllaa.com^$generichide
 @@||cdc.gov/jscript/metrics/adobe/launch/$script,~third-party
 @@||cdn-net.com/cc.js
+@@||cdn-pci.optimizely.com/public/*/sales_snippet.js$domain=talktalk.co.uk
 @@||cdn.adsninja.ca^$domain=xda-developers.com
 @@||cdn.advertserve.com^$domain=hutchgo.com|hutchgo.com.cn|hutchgo.com.hk|hutchgo.com.sg|hutchgo.com.tw
 @@||cdn.bcebos.com^*/$script,domain=fyxfcw.com

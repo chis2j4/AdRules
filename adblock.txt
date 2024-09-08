@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-09-08 16:11:02（北京时间） 
+! Version: 2024-09-09 00:11:24（北京时间） 
 ! Total count: 18741
 -960x*0.gif
 -250.js*
@@ -754,7 +754,7 @@ $doc,removeparam=refccid,domain=bedbathandbeyond.com
 $doc,removeparam=refd
 $doc,removeparam=refer_page_el_sn,domain=temu.com
 $doc,removeparam=refer_page_sn,domain=temu.com
-$doc,removeparam=referrer,domain=~bolt.com|~f4map.com|~deviantart.com|~github.com|~discover.*|~vimeo.*|~123-reg.co.uk|~cravesandflames.com
+$doc,removeparam=referrer,domain=~bolt.com|~f4map.com|~deviantart.com|~github.com|~discover.*|~vimeo.*|~123-reg.co.uk|~cravesandflames.com|~portswigger.net
 $doc,removeparam=referringSource
 $doc,removeparam=refresh,domain=cnn.com|startribune.com
 $doc,removeparam=rlz

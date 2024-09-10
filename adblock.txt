@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-09-10 08:44:35（北京时间） 
-! Total count: 18743
+! Version: 2024-09-10 16:12:37（北京时间） 
+! Total count: 18747
 -960x*0.gif
 -250.js*
 
@@ -5902,6 +5902,7 @@ sina.cn##.qr_box
 sina.cn##.s_card.cj_24
 sina.cn##.sw_c2
 sina.cn##.topLogoBar
+sina.cn##.wap-msg-bar-wap-bottom,#m-sentiment3,.broadcast,.animated.pluse
 sina.cn##.z_c2.j_article_relevent_news.s_card
 sina.cn##.zhidi.sw_c0
 sina.cn##SECTION.sw_c0.sina_sliders_pos
@@ -7763,6 +7764,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||3i2i.com^
 ||3munion.net^
 ||3p-link.com^
+||3pkf5m0gd.com^
 ||3prndxd.cn^
 ||3q3l.cn^
 ||3rsppty.cn^
@@ -11030,6 +11032,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ems.youku.com^
 ||ename.com.cn^
 ||ename.net^
+||endowmentoverhangutmost.com^
 ||enennsa.gushiwen.cn^
 ||enet.com.cn/home/v6/images/adiy
 ||enhad.xyz^
@@ -11089,6 +11092,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||etahub.com^
 ||ete.cn^
 ||eteun.cn^
+||ethicalads.io^
 ||etienlw.top^
 ||etlanaberez.fun^
 ||etregh.fun^

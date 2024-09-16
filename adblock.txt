@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-09-16 16:13:34（北京时间） 
-! Total count: 18753
+! Version: 2024-09-17 00:12:02（北京时间） 
+! Total count: 18755
 -960x*0.gif
 -250.js*
 
@@ -4065,6 +4065,7 @@ e0575.cn##[id^="tid_"][class="cc mb10"],#adv_forum_home_full,[height="70"],#floa
 e0575.cn,e0575.com##td.tac,img[src^="http://img.e0575.com/attachment/image/"],div#ads_c_tpc,.tuig1,.tuig2,div#hiddenLayer,div.textMes,[placeid^="e_banner_"],.etxt_1
 e4dy.com##img[src^="style/"],[height="70"]
 eastday.com##.dspAd,.dsp_adxpf,.header_rightad,[id*="_ad_"],.new360ad,#ny_dbhf,.gglist,[src*="/images/ad/adarticle/"],[class^="banner"],[class^="gg-"],[id^="J_topappdownload"],.active-link,.interest-news,[class^="gg_"],[class^="channel_ybq_x gg_"],.ad,.index-ad,.img_click_gg,[class^="jrtt-ad"],[src^="https://mini.eastday.com/toutiaoh5/partner/gg_"],[data-ggid],[class^="ave_bd0"],.ave_spxia,[class*="_adv_"],[class^="ad-r"],.ad-l-three,.iframeDA,.ad-top,.ad-hf-l,.ad-hf-r
+eastday.com##DIV.lfyinliu
 eastmoney.com##.jjph_important,.lyad,div.wrap.h60,div.wrap.h90,div.mt8.h160,div.banner,DIV#ifhqheadad.adbox,DIV[class^="page-box h"],DIV.adframe,DIV.advert,IFRAME[src^="http://same.eastmoney.com/s?z=eastmoney"],DIV.mt8.h90,iframe[src*=".eastmoney.com/banner/"],[id^="bn_box_"],#leftAD,#rightAD,.cImgDiv,#headerggbig,[id^="flow-ad-"],#tgbottom,#tgtop,.wapad_pagebuttom_fix,.wapad_pagetop,.jjph_box
 eastmoney.com,1234567.com.cn##div.lazy.fund_hei90,div.lazy.fund_hei60,div[data-url^="http://same.eastmoney.com/s?z=eastmoney"]
 eastsilver.com##div.w1000>ul,div.coop_case,[src^="http://upload.eastsilver.com/2015"],.ad690,.ad_channel,.eastsilver_article_wenziAd,.eastsilver_article_endAd
@@ -10884,6 +10885,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dx00.live^
 ||dxp.baidu.com^
 ||dxpmedia.com^
+||dxqck.com^
 ||dxwhyp.com^
 ||dxwpedu.me^
 ||dxwsty.cn^

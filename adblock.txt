@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-09-18 00:11:49（北京时间） 
-! Total count: 18757
+! Version: 2024-09-18 08:44:26（北京时间） 
+! Total count: 18758
 -960x*0.gif
 -250.js*
 
@@ -754,7 +754,7 @@ $doc,removeparam=refccid,domain=bedbathandbeyond.com
 $doc,removeparam=refd
 $doc,removeparam=refer_page_el_sn,domain=temu.com
 $doc,removeparam=refer_page_sn,domain=temu.com
-$doc,removeparam=referrer,domain=~bolt.com|~f4map.com|~deviantart.com|~github.com|~discover.*|~vimeo.*|~123-reg.co.uk|~cravesandflames.com|~portswigger.net
+$doc,removeparam=referrer,domain=~bolt.com|~f4map.com|~deviantart.com|~github.com|~discover.*|~vimeo.*|~123-reg.co.uk|~cravesandflames.com|~portswigger.net|~aluminate.net
 $doc,removeparam=referringSource
 $doc,removeparam=refresh,domain=cnn.com|startribune.com
 $doc,removeparam=rlz
@@ -2892,6 +2892,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 @@/fuckadblock.$domain=bde4.com|datehub.co|dilidili.one|golangnote.com|lnk2.cc|nfmovies.com|papalah.com|qqdie.com
 @@/images/ad/*$domain=9588.com|casio.com.cn|dod-tec.com|jxedt.com|ourgame.com|pro-partner.com.tw|snh48.com|tingbook.com
 @@/login-redirect/*$removeparam
+@@/login?$removeparam=referrer
 @@/modules/ads/*$domain=shopee.tw
 @@/subscribe?$doc,removeparam=user_email_address
 @@/unsub/?$removeparam

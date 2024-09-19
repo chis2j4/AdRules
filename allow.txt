@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-09-19 00:12:24（北京时间） 
-! Total count: 2682
+! Version: 2024-09-19 08:45:40（北京时间） 
+! Total count: 2683
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4694,6 +4694,7 @@
 @@||games.pch.com^$generichide
 @@||ganji.com/findjob/send_resume.*&ad_type=
 @@||ganma.jp/view/magazine/viewer/pages/advertisement/googleAdSense.html|$~third-party,xmlhttprequest
+@@||ganyancanavari.com/js/fingerprint2.min.js$~third-party
 @@||gate.first-id.fr^|
 @@||gaus.ee^$generichide
 @@||gaybeeg.info^$generichide

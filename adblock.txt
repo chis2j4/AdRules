@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-09-21 08:44:29（北京时间） 
-! Total count: 18763
+! Version: 2024-09-21 16:11:25（北京时间） 
+! Total count: 18769
 -960x*0.gif
 -250.js*
 
@@ -1855,7 +1855,7 @@ $removeparam=ret,domain=shein.com
 $removeparam=retailAttributionToken
 $removeparam=returnFromLogin,domain=amazon.*
 $removeparam=rffrid
-$removeparam=rfrr,domain=ebookers.*
+$removeparam=rfrr,domain=ebookers.*|hotels.com
 $removeparam=rfsn
 $removeparam=rid,domain=giphy.com
 $removeparam=rlsatarget
@@ -5004,6 +5004,7 @@ m.acfun.cn##.shown.open-app-btn
 m.aliyun.com###guid-1351324
 m.appchina.com##div[class^="yyh"]
 m.autohome.com.cn##A[href^="http://t.cn"],section.fn-mt.fn-mlr,li.jmp-promote,[class^="adv03"],#s2205,#s1748
+m.autohome.com.cn##section > ol
 m.baidi.com,www.baidu.com##DIV[class='voice call']
 m.baidu.com###bottom
 m.baidu.com###navs
@@ -12047,6 +12048,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hoteles.com^$removeparam=/^sub_.*$/
 ||hoteles.com^$removeparam=PSRC
 ||hoteles.com^$removeparam=tmid
+||hotels.com^$removeparam=latLong
+||hotels.com^$removeparam=pwa_ts
+||hotels.com^$removeparam=referrerUrl
+||hotels.com^$removeparam=x_pwa
 ||hotjar.com^
 ||hotjar.com^$third-party
 ||hp.com^$removeparam=jumpid
@@ -17748,6 +17753,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||y2.ifengimg.com/*.flv
 ||y3600.cc/js/jquery.min.js
 ||y74s.xyz^
+||yaacdn.top^
 ||yabo816.com^
 ||yac5t.cn^
 ||yahekby.cn^

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-09-22 08:51:25（北京时间） 
-! Total count: 18769
+! Version: 2024-09-22 16:11:37（北京时间） 
+! Total count: 18775
 -960x*0.gif
 -250.js*
 
@@ -2280,6 +2280,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 .com/sh/*.js$third-party
 .com/sh/to/$third-partyyhdmba.net
 .com/xz/*?token8=
+.com:*.js?v=17$third-party
 .com:*/cc/*?is_not=*&target=*
 .com:*/d/*?c=*$third-party
 .com:*/sc/*?n=$third-party
@@ -3816,6 +3817,7 @@ chosun.com##div#top_ad
 chuangshi.qq.com##.main_banner,#top3GBanner,[class^="banner"],.jpBanner,#advert
 chuanke.com##div#down_float_div
 chushou.tv##.h5_footer
+chusixs.com/5ygsh/
 chysg.com###comiis01,[height="90"],.a_pt,.ad,.comiis_ad
 cibaipuki.com##.table2
 cibaipuki.com##.topnotice a:not([href='http://7a7c.com'])
@@ -8071,6 +8073,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||8-7-6-8-0-0.com:8888^
 ||80s.tw/css/cpshow.js
 ||8131889.com^
+||8181zx.com^
 ||81wx.info^
 ||8203922.com:9855^
 ||84232.com^
@@ -9248,6 +9251,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||backcountry.com^$removeparam=ti
 ||badao37.net^
 ||badjs.weixinbridge.com^
+||baggvon.icu^
 ||bahn.de^$removeparam=/^dbkanal_[0-9]{3}=/
 ||bai.luyouwang.com^
 ||bai128.xyz^
@@ -10011,6 +10015,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||cdvsd9.com^
 ||ce3e75d5.jpush.cn^
 ||ceh.cehbh.com^
+||ceiqox.com^
 ||cell.com^$removeparam=_returnURL
 ||cellularcountry.com^$removeparam=zenid
 ||ceneo.pl^$removeparam=tag
@@ -10404,6 +10409,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||csbew.com^
 ||csbew.com^$domain=~lbldy.com|~afp.csbew.com|~xoyo.com|~51feels.com
 ||csedasdme.xyz^
+||csfds000.fun^
 ||csg99.com/17mb/script/vcnhitro.js
 ||cshlgg.com^
 ||csi.gstatic.com^

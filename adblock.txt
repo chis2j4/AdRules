@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-09-26 00:12:56（北京时间） 
-! Total count: 18779
+! Version: 2024-09-26 08:46:45（北京时间） 
+! Total count: 18778
 -960x*0.gif
 -250.js*
 
@@ -2862,7 +2862,6 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 ?adspot_
 ?local_ga_js=
 @@$doc,removeparam=/^.*_dest_url=.*$/
-@@$removeparam=/^OCID=.*$/i,app=Microsoft.Msn.News.exe
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
 @@.com/o.js$domain=2biqu.com
 @@.png#$domain=9zvip.net|club.tgfcer.com|coolinet.com|d1-dm.com

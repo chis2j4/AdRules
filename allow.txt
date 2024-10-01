@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-10-01 16:13:45（北京时间） 
-! Total count: 2686
+! Version: 2024-10-02 00:12:10（北京时间） 
+! Total count: 2687
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4860,6 +4860,7 @@
 @@||helix.videotron.com/js/api/fingerprint.js$~third-party
 @@||hello.myfonts.net/count/$stylesheet,domain=cfr.org|condor.com|furniturevillage.co.uk|luggagehero.com
 @@||hh010.com^$generichide
+@@||hidive.com^|
 @@||highcharts.com.cn/highcharts/modules/heatmap.js
 @@||hinagiku-u.ed.jp/wp54/wp-content/themes/hinagiku/images/$image,~third-party
 @@||histock.tw/JScript/AD/

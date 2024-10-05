@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-10-05 00:12:46（北京时间） 
-! Total count: 2691
+! Version: 2024-10-05 08:46:42（北京时间） 
+! Total count: 2689
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4397,8 +4397,6 @@
 @@||console.statsig.com/_next/$~third-party
 @@||contacts.google.com^$generichide
 @@||content.adunity.com/aulib.js$script,domain=b1tv.ro
-@@||content.gap.com/fp/check.js$script,domain=oldnavy.gap.com
-@@||content.gap.com/fp/tags.js$script,domain=oldnavy.gap.com
 @@||content.pouet.net/avatars/adx.gif$image,~third-party
 @@||content.s8bbs.com/ad/bbs/*.jpg
 @@||cookielaw.org^*/OtAutoBlock.js$domain=bancsabadell.com|darkreading.com|uphold.com

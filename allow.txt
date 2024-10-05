@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-10-05 08:46:42（北京时间） 
-! Total count: 2689
+! Version: 2024-10-05 16:12:19（北京时间） 
+! Total count: 2690
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5281,6 +5281,7 @@
 @@||myssl.com/scripts/analyze.js
 @@||n8s.jp^$script,domain=nikkei.com
 @@||nakanohito.jp^*/bi.js$domain=kenko-tokina.co.jp|myna.go.jp
+@@||nakedwines.co.uk/search/hitcount?$~third-party
 @@||nascar.com/wp-content/themes/ndms-2023/assets/js/inc/ads/prebid8.$~third-party
 @@||nationwide.com/myaccount/includes/images/x.gif$~third-party
 @@||natureetdecouvertes.com^*/pixel.png$~third-party

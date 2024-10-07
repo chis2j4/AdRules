@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-10-07 16:13:00（北京时间） 
-! Total count: 2690
+! Version: 2024-10-08 00:12:00（北京时间） 
+! Total count: 2691
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4614,6 +4614,7 @@
 @@||f-gear.ec-optimizer.com/img/spacer.gif$image,domain=ec.f-gear.co.jp
 @@||f-gear.ec-optimizer.com/search4.do$script,domain=ec.f-gear.co.jp
 @@||f-gear.ec-optimizer.com/speights/searchresult2fgear.js$script,domain=ec.f-gear.co.jp
+@@||f-gear.ec-optimizer.com^|
 @@||f11.baidu.com/it^
 @@||facebook.com/ads/profile/$~third-party,xmlhttprequest
 @@||facebook.com^$generichide

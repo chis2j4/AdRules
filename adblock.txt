@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-10-10 16:13:06（北京时间） 
+! Version: 2024-10-11 00:11:39（北京时间） 
 ! Total count: 18788
 -960x*0.gif
 -250.js*
@@ -16635,7 +16635,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||um29.com/$third-party,~font,popup
 ||um5xcgngmart.xyz^
 ||umapi.cn^
-||umbrellaomendear.com,^
+||umbrellaomendear.com^
 ||umc.danuoyi.alicdn.com^
 ||umdc.aliapp.org^
 ||umeng.com^
@@ -17558,7 +17558,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xiaobao8888.com^
 ||xiaobeier.cn^
 ||xiaodongrui.com^
-||xiaofangtongzhi.xy^
+||xiaofangtongzhi.xyz^
 ||xiaohead.com^
 ||xiaohei.com^
 ||xiaohongshu.com^$removeparam=app_platform,doc

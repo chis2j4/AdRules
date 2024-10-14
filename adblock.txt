@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-10-14 00:10:51（北京时间） 
-! Total count: 18791
+! Version: 2024-10-14 08:49:54（北京时间） 
+! Total count: 18796
 -960x*0.gif
 -250.js*
 
@@ -682,6 +682,11 @@ $doc,removeparam=dclid
 $doc,removeparam=deliveryName,domain=abp.nl
 $doc,removeparam=draftsforfriends
 $doc,removeparam=dtpid
+$doc,removeparam=ebisOther1
+$doc,removeparam=ebisOther2
+$doc,removeparam=ebisOther3
+$doc,removeparam=ebisOther4
+$doc,removeparam=ebisOther5
 $doc,removeparam=eblink
 $doc,removeparam=ectrans
 $doc,removeparam=elq,domain=~comcast.com|~comcastforbusiness.com

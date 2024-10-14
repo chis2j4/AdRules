@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-10-14 08:49:54（北京时间） 
-! Total count: 18796
+! Version: 2024-10-14 16:13:50（北京时间） 
+! Total count: 18789
 -960x*0.gif
 -250.js*
 
@@ -4686,10 +4686,8 @@ jiaodong.net###FixedRight
 jiaoyizhe.com##.a_f
 jijidown.com##.Box-4x4
 jikipedia.com##.components-container
-jikipedia.com##.cursor.download-img
 jikipedia.com##.cursor.link.app-link
 jikipedia.com##.download-link
-jikipedia.com##[href="/app"]
 jin.baidu.com##a:last-child
 jin.baidu.com##div.loan-recommend.grid-mt
 jin10.com##.jin-declaration[class*="_b"]
@@ -5108,11 +5106,6 @@ m.douban.com#?#div:matches-css(width:68px)
 m.douguo.com##div.footer,div#top.top
 m.douyu.com##a.DownloadBtn
 m.douyu.com##div[class*="OpenAppBtn"]
-m.egame.qq.com###gcOfficialWidgetWrapper
-m.egame.qq.com###installGameBar
-m.egame.qq.com###installbar
-m.egame.qq.com##.ui-border-b.ui-tab-nav > li:nth-of-type(4)
-m.egame.qq.com##.widget-wrapper
 m.ftchinese.com##DIV.banner-content,DIV.bn-ph,DIV.subscription-promo-container show-image-in-mobile,#ad-*
 m.gome.com.cn##.m-downapp
 m.gongchang.com###app-download-link,div.advise-pic

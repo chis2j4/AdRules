@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-10-15 00:11:44（北京时间） 
-! Total count: 2697
+! Version: 2024-10-15 08:48:57（北京时间） 
+! Total count: 2698
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3875,7 +3875,7 @@
 @@||adoi.cn^$generichide
 @@||ads-i.org/images/ads3.jpg$~third-party
 @@||ads-twitter.com/oct.js$domain=ncsoft.jp
-@@||ads-twitter.com/uwt.js$domain=factory.pixiv.net
+@@||ads-twitter.com/uwt.js$domain=aussiebum.com|factory.pixiv.net
 @@||ads.adthrive.com/api/$domain=adamtheautomator.com|mediaite.com|packhacker.com|packinsider.com
 @@||ads.adthrive.com/builds/core/*/js/adthrive.min.js$domain=adamtheautomator.com|mediaite.com|packhacker.com|packinsider.com
 @@||ads.adthrive.com/builds/core/*/prebid.min.js$domain=mediaite.com
@@ -4642,6 +4642,7 @@
 @@||firebase.google.com/docs/analytics/$~third-party
 @@||firefox.com.cn/media/img/mozcn/spread/468-60-
 @@||fltaradio.com/js/ads.js
+@@||fluidplayer.com^$script,domain=rule34hentai.net
 @@||fluidplayer.com^$script,stylesheet,domain=canyoublockit.com
 @@||flyert.com/plug/socialShare/js/social-share.
 @@||flying-lines.com/banners/$image,~third-party

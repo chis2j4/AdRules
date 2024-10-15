@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-10-15 08:48:37（北京时间） 
-! Total count: 18789
+! Version: 2024-10-15 16:13:39（北京时间） 
+! Total count: 18795
 -960x*0.gif
 -250.js*
 
@@ -705,6 +705,7 @@ $doc,removeparam=exta
 $doc,removeparam=feature,domain=reddit.app.link
 $doc,removeparam=fvj,domain=indeed.com
 $doc,removeparam=gci
+$doc,removeparam=gs_lp,domain=www.google.*|ipv6.google.com
 $doc,removeparam=guccounter
 $doc,removeparam=guce_referrer
 $doc,removeparam=guce_referrer_sig
@@ -768,6 +769,7 @@ $doc,removeparam=refresh,domain=cnn.com|startribune.com
 $doc,removeparam=rlz
 $doc,removeparam=s_campaign
 $doc,removeparam=sal,domain=indeed.com
+$doc,removeparam=sca_upv,domain=www.google.*|ipv6.google.com
 $doc,removeparam=scid,domain=~pnc.com
 $doc,removeparam=searchidx,domain=bedbathandbeyond.com
 $doc,removeparam=selectedCCIndex,domain=citi.com
@@ -859,6 +861,7 @@ $removeparam=/^qxjkl=tsid:/
 $removeparam=/^shared.*$/,domain=alibi.fi|anna.fi|eralehti.fi|hymy.fi|kaksplus.fi|kotiliesi.fi|rakennusmaailma.fi|seura.fi|tekniikanmaailma.fi
 $removeparam=/^srcCode=.*$/i,domain=jcrew.com|magellans.com|teleflora.com|tigerdirect.com
 $removeparam=/^tc_.*$/,domain=bodenusa.com
+$removeparam=/^udm=$/,domain=www.google.*|ipv6.google.com
 $removeparam=/^utm(_[a-z_]*)?=/
 $removeparam=/^vn(_[a-z]*)+=/
 $removeparam=/^web_id\d+/,domain=tiktok.com
@@ -1155,6 +1158,7 @@ $removeparam=app,domain=tiktok.com|music.apple.*
 $removeparam=app_clickref
 $removeparam=app_nexus_uid
 $removeparam=appnxsid
+$removeparam=aqs,domain=www.google.*|ipv6.google.com
 $removeparam=argsite,domain=metaffiliation.com
 $removeparam=article-trending,domain=sportskeeda.com
 $removeparam=article_name,domain=shop-links.co
@@ -1198,6 +1202,7 @@ $removeparam=bsencid
 $removeparam=bsw_custom_parameter
 $removeparam=bsw_param
 $removeparam=bsw_user_id
+$removeparam=btnG,domain=www.google.*|ipv6.google.com
 $removeparam=btsid
 $removeparam=bx_uid
 $removeparam=byp455
@@ -1502,6 +1507,7 @@ $removeparam=icn,domain=shein.com
 $removeparam=ico,domain=dailymail.co.uk|inews.co.uk|metro.co.uk|thisismoney.co.uk
 $removeparam=id,domain=go.redirectingat.com|go.skimlinks.com|go.skimresources.com|karkkainen.com
 $removeparam=id_mid_4
+$removeparam=iflsig,domain=www.google.*|ipv6.google.com
 $removeparam=ifs,domain=pcgamesn.com|pockettactics.com|thedigitalfix.com|theloadout.com|wargamer.com
 $removeparam=ig_mid
 $removeparam=ignoreNavigationBar
@@ -2075,6 +2081,7 @@ $removeparam=u,domain=change.org
 $removeparam=u1,domain=linksynergy.com|shop-links.co
 $removeparam=u_c1
 $removeparam=u_code
+$removeparam=uact,domain=www.google.*|ipv6.google.com
 $removeparam=ucf_user_id
 $removeparam=ueid,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
 $removeparam=uid,domain=alldebrid.fr|columbia.com|entradas.com|links.e.malwarebytes.com|sorel.com|tomtop.com
@@ -2840,6 +2847,9 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 00sy.com##div.dahengfu,div.header,div.ad360,p[class="tl pd8 pd10"] + ul
 00sy.net##.dahengfu,.ad360,[style*="height:250px;"]
 0du123.com,24en.com,3gsc.com.cn,591hx.com,5g0a.com,acgnx.se,aguitar.cn,btzx2017.com,e0514.com,eastmoney.com,guitarchina.com,gz0668.com,hk.on.cc,iciba.com,iguaji.com,iqiyi.com,jia360.com,joy.cn,kdnet.net,kumi.cn,manyuancs8.xyz,newnet.cc,rain2.top,tiboo.cn,toocle.com,wallstreetcn.com,xingkbjm.com,xizi.com,zgfznews.com,zyue.com##.banner
+://ipv6.google.com*/search^$removeparam=entrypoint
+://ipv6.google.com*/search^$removeparam=kgs
+://ipv6.google.com*/search^$removeparam=shndl
 ://js.static.*/share/*.js$third-party
 ://js.static.*ping*
 ://www.*.js|$script,third-party,domain=159i.com|thisav.com
@@ -12474,6 +12484,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||iprima.cz^$removeparam=sznclid
 ||ipservice.163.com^
 ||ipsoazr.icu^
+||ipv6.google.com*/search$removeparam=oq,doc
+||ipv6.google.com*/search?$doc,removeparam=client
+||ipv6.google.com*/search?$doc,removeparam=sclient
 ||iqede.xyz^
 ||iqgessh.icu^
 ||iqgoukn.cn^
@@ -17269,13 +17282,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.ft.com/__origami/service/image/v2/images/raw/*.jpg?source=ftchinese&width=720&*=180*$domain=m.ftchinese.com
 ||www.ganbi66.com/js^
 ||www.geodeep.org^
-||www.google.$doc,removeparam=gs_lp
-||www.google.$doc,removeparam=sca_upv
-||www.google.$removeparam=/^udm=$/
-||www.google.$removeparam=aqs
-||www.google.$removeparam=btnG
-||www.google.$removeparam=iflsig
-||www.google.$removeparam=uact
 ||www.google.*/search$removeparam=oq,doc
 ||www.google.*/search?$doc,removeparam=client
 ||www.google.*/search?$doc,removeparam=sclient

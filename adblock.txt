@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-10-19 08:46:56（北京时间） 
-! Total count: 18797
+! Version: 2024-10-19 16:11:55（北京时间） 
+! Total count: 18794
 -960x*0.gif
 -250.js*
 
@@ -5251,12 +5251,9 @@ m.thepaper.cn##a[data-statclick="downloadApp"]
 m.thepaper.cn##div[class^="index_footer_banner"]
 m.thepaper.cn##li.icon_openapp
 m.tianya.cn##a[href^="http://dol.tianya.cn/c?z=tianya"]
-m.toutiao.com###root > div > div.bgwhite.android:nth-child(2) > div.article-container:nth-child(2) > div.fold-btn-container > div.fold-btn:last-child > div.fold-btn-btn:last-child
-m.toutiao.com###root > div > div.top-banner-container:first-child
-m.toutiao.com###root > div > div:last-child > div:first-child
-m.toutiao.com###root > div > div:nth-child(3)
-m.toutiao.com###root > div > div:nth-child(3) > div:first-child
-m.toutiao.com##.fold-btn-btn
+m.toutiao.com##.m-bottom-container
+m.toutiao.com##.m-index-tag
+m.toutiao.com##.open
 m.tv.sohu.com##.advertise,.gg_icon
 m.tv.sohu.com##.btn-xz-app
 m.tv.sohu.com##.js-app-topbanner.actv-banner

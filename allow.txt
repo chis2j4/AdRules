@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-10-22 16:13:48（北京时间） 
-! Total count: 2704
+! Version: 2024-10-23 00:12:39（北京时间） 
+! Total count: 2705
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4471,6 +4471,7 @@
 @@||data.digital.costco.ca^|
 @@||data.digital.costco.com^|
 @@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|dashboard.getdriven.app|hungryroot.com|usa.experian.com
+@@||daxiaamu.com^$generichide
 @@||daziba.cn/Images/share.css
 @@||dcdirtylaundry.com/cdn-cgi/challenge-platform/$~third-party
 @@||deezer.com^$generichide

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-10-22 08:48:32（北京时间） 
-! Total count: 18797
+! Version: 2024-10-22 16:13:33（北京时间） 
+! Total count: 18811
 -960x*0.gif
 -250.js*
 
@@ -2766,6 +2766,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 /sta.js?debug=
 /stat.asp
 /statIwt_
+/static/jietiandixs/jtd.js$~third-party
 /static/js/bds_
 /static/js/miniyyrtv-config.js
 /static/localStorage.
@@ -5401,6 +5402,7 @@ moe123.net##.m-inner2[style="height: 160px;"]
 moegirl.org.cn##[class^='stevrhgmNo']
 moegirl.org.cn##[style*='box-shadow: rgb(136, 136, 136) 0px 0px']
 mogujie.com##div.ui-hada
+momxs.com###inglestore.inglestore
 moonbt.com##.money_all
 moonbt.com##div[class="box mb"] > a
 mop.com##div.gg01,div.area.gg02,div.ggP,iframe[src^='http://pub.mop.com/widget.jsp?bId='],.r-adv,.quickReply-ad,[class^="ad mop-index-ad"]
@@ -7462,6 +7464,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||0ci.top^
 ||0dian8.org/data/js/$script
 ||0doo.net^
+||0er7pc8.xyz^
 ||0krdn3.com^
 ||0m483y7.cn^
 ||0n6h.cn^
@@ -7688,6 +7691,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||27ub.com/java/
 ||28.fyimg.kukuplay.com/plugins/EggModuleV5.1.swf
 ||2a.com.cn^
+||2axpwa4.xyz^
 ||2bj.cn^
 ||2cnjuh34jbpoint.com^
 ||2cursjb.com^
@@ -9756,6 +9760,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bookdepository.com^$removeparam=sr
 ||books-analytics-events.apple.com^
 ||booktxt.net/js/bbooll68.js
+||bootstron.com^
 ||boowang.com^
 ||boredpanda.com^$removeparam=h
 ||boroboromi.com/js/tbclick.js
@@ -10371,6 +10376,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||couplestupidity.com^
 ||courir.$removeparam=/^_mak_partner_.*$/
 ||courtoyz.com^
+||couvxlif.top^
 ||cp.eoncreativity.com^
 ||cpc.9v.cn^
 ||cpc.cc^
@@ -10838,6 +10844,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dpbgnf.xyz^
 ||dpijohb.icu^
 ||dpjzzgw.cn^
+||dpw202504.com^
 ||dq06u9lt5akr2.cloudfront.net^
 ||dqazwsxd.xyz^
 ||dqcgkpp.icu^
@@ -13134,6 +13141,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||laipeitu.com^
 ||lakefish.xyz^
 ||lakjdskls.zhdchb.com^
+||lalabaos1022.top^
 ||lalaping.com^
 ||laljjn.xyz^
 ||lamkghx.icu^
@@ -13278,6 +13286,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||likdie.com^
 ||likelife.cc^
 ||liliwoin.top^
+||limbecculvers.com^
 ||limei.com^
 ||limei.com^$third-party
 ||lindex.com^$removeparam=affiliate_source
@@ -15710,6 +15719,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||sjdfuvz.cn^
 ||sjh.baidu.com^
 ||sjoy7rq.cn^
+||sjyhead.icu^
 ||skfj5d.com^
 ||skfjd1.xyz^
 ||skfqxkk.cn^
@@ -16124,6 +16134,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tarqk5.com^
 ||taskrabbit.com^$removeparam=creative_id
 ||tatagou.com.cn^
+||taxismaned.top^
 ||taxscouts.$removeparam=referralSource
 ||tb.cn^$removeparam=sm
 ||tb1.bdstatic.com/??/tb/_/game_iframe_common_$script
@@ -17668,6 +17679,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xn--2ss830adjbqy7h.xn--fiqs8s^
 ||xn--49s928hlshoya.cn^
 ||xn--521-x72fh66s.cn^
+||xn--bqro42frpg5up.cn^
 ||xn--gov-x68dy61b.shop^
 ||xn--jvrp4x1zyfta.net^
 ||xn--m7r781dz66a.cn^
@@ -18318,6 +18330,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||znyjmbh.icu^
 ||zoho.com^$removeparam=iref
 ||zoho.com^$removeparam=zsrc
+||zokjds.com/js/xiao.js
 ||zone.guiderank-app.com/guiderank-web/app/ad^
 ||zone.guiderank-app.com/guiderank-web/app/common/addBehaviorRecord.do^
 ||zone.guiderank-app.com/guiderank-web/app/popUpAdCollection^
@@ -18329,6 +18342,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zouqiuyyds.com^
 ||zowralr.cn^
 ||zp0573.cn^
+||zpeqosn.icu^
 ||zpotkvpy.icu^
 ||zppfjh.xyz^
 ||zpsovpgyk.xyz^

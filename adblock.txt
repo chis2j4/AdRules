@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-10-25 00:11:46（北京时间） 
-! Total count: 18814
+! Version: 2024-10-25 08:48:15（北京时间） 
+! Total count: 18815
 -960x*0.gif
 -250.js*
 
@@ -5780,6 +5780,7 @@ ref=blog.roboflow.com$doc,removeparam=ref
 ref=blog.unpac.me$doc,removeparam=ref
 ref=buffer.com$doc,removeparam=ref
 ref=ceneo^$doc,removeparam=ref
+ref=dtf.ru$doc,removeparam=ref
 ref=easywithai$doc,removeparam=ref
 ref=exploit.media$doc,removeparam=ref
 ref=gandalf$doc,removeparam=ref

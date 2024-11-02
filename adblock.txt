@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-11-02 16:12:21（北京时间） 
-! Total count: 18816
+! Version: 2024-11-03 00:10:49（北京时间） 
+! Total count: 18818
 -960x*0.gif
 -250.js*
 
@@ -52,6 +52,7 @@
 ##.advertise
 ##.adwap
 ##.ayx[style="position: fixed;bottom: -10px;right:0;z-index:999;width:250px"]
+##.banner-container-h5 > .banner_all_wrap
 ##.bottom-pic,.col-pd.mb10
 ##.clearfix > a > IMG[referrerpolicy='no-referrer'][src]:not([style='display: block;'])
 ##.div.ps_
@@ -5742,6 +5743,8 @@ quanji.la###xinxi,#gegz
 quanji.la##[id^="qj960"],[id^="qj300"]
 quanmin.tv##.rbananer,.middleBananer,.starbananer,.star-ad-bottom,.play-bottom-hot,.w-recommend-live_bg,.p-star_adWrap,.p-room_chatad,.p-room_rbanner,.p-room_ad,.w-room-ad-tabs,.fixfooter,.w-room-banner,.w-header_mid-autumn-img,.w-room-footer_novparty-link,.w-room-rbanner
 qunar.com##DIV.b_banner,[id^="ad_"],OBJECT[id^="banner_home_"],div.qn_slide,div#QNT_box,div.mp-download,#js_bannerContent
+qushucheng.com##.appguide-wrap
+qushucheng.com##.hotcmd-wp
 quwanshe.com##.vivo-search,[class^="guanggao"],[src="http://www.187sy.com/image/7788.jpg"],[class^="m_ad"],.dhxgg
 qyule.us,qyule.lol,qyule.tv,qyule.tw##.ads,.ads-player,.ads-footer,[width="190"][height="200"]
 qzlc.net##div[id^="div_ad"]
@@ -6610,11 +6613,6 @@ www.0731fdc.com##div#menu2.fixed,div#fontAd
 www.1080pba.com##div.ad_960,div.ad_300,div#topxia,img[src="/templets/default/images/1.gif"]
 www.10s1.com##[src^="http://www.10s1.com/ggpic/"],.jyzxad,.adver
 www.115zk.com##div.wp.a_f,div.a_cn
-www.123pan.com##.advBanner
-www.123pan.com##.banner-container-h5
-www.123pan.com##.btn_reward.hide
-www.123pan.com##DIV.app-adv-container
-www.123pan.com##IMG[src*='-banner'],.ant-carousel
 www.123yq.com##div.Messageml
 www.12580sky.com##img[width="998"][height="70"],img[width="998"][height="80"],img[width="490"][height="80"],div.zz-list,div.bk8 + table
 www.126.com,mail.163.com##div.APP-dashi-botBanner,div.gWel-promt
@@ -10580,6 +10578,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||datouniao.com^
 ||daup.map.baidu.com/cltr/rcvr$app=com.qiyi.video
 ||daxiu01.oss-accelerate.aliyuncs.com^
+||dayujs.top^
 ||dazhantai.com^
 ||db11yy.com^
 ||dbhfre.xyz^
@@ -11245,6 +11244,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fangcunzhijian1.cn^
 ||fangfeng009.xyz^
 ||fangyuan365.com/js/fangyuan5.js
+||fanjs.top^
 ||fantuan.name^
 ||fanyi-app.baidu.com/transapp/api/jifengad?
 ||fanyi.baidu.com/wise/afd?
@@ -14100,6 +14100,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mydisplay.ctfile.com^
 ||mydrivers.com/2018/drivers/yjgg
 ||myexpendd.xyz^
+||myfenxi.com^
 ||mygeek.cn^$image
 ||myhaitang.xyz/assets/public/
 ||myhard.com^$third-party
@@ -15134,6 +15135,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qumi.com^
 ||qumi.com^$third-party
 ||qurl.f.360.cn^
+||qushucheng.com/public/
 ||quspga.xyz^
 ||qutyan8848.com^
 ||quyaoya.com^$third-party

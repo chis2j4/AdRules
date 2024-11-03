@@ -1,5 +1,5 @@
 ! Title: Allowlist
-! Version: 2024-11-03 00:11:04（北京时间） 
+! Version: 2024-11-03 08:52:44（北京时间） 
 ! Total count: 2706
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
@@ -3985,6 +3985,7 @@
 @@||aliyun.com/scratchCardSlide/analyze.jsonp?
 @@||aliyundrive.com^*/share_link/$xmlhttprequest
 @@||allabout.co.jp/mtx_cnt.js$script,~third-party
+@@||allpornstream.com/api/ads?type=thumbnail$~third-party
 @@||almayadeen.net/Content/VideoJS/js/videoPlayer/VideoAds.js$script,~third-party
 @@||alphaapi.brandify.com/rest/clicktrack$xmlhttprequest,domain=traderjoes.com
 @@||am730.com.hk^$generichide
@@ -5951,7 +5952,6 @@
 @@||tmall.com/go/*/banner.php
 @@||tms.capitalone.com^|
 @@||tms.oracle.com/main/prod/utag.sync.js$~third-party
-@@||tmx.bestbuy.com/z3nsvo31pnlmt3tw.js$domain=bestbuy.com
 @@||tntdrama.com/modules/custom/ten_video/js/analytics_v2.js$~third-party
 @@||toggo.de/static/js/sourcepoint.js$domain=toggo.de
 @@||tokbox.com/prod/logging/ClientEvent$domain=examroom.ai

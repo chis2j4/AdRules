@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-11-05 00:12:47（北京时间） 
-! Total count: 2706
+! Version: 2024-11-05 08:46:58（北京时间） 
+! Total count: 2707
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3850,6 +3850,7 @@
 @@||adjust.com/adjust-latest.min.js$domain=anchor.fm
 @@||adm.fwmrm.net^*/TremorAdRenderer.$object,domain=go.com
 @@||adm.fwmrm.net^*/videoadrenderer.$object,domain=cnbc.com|go.com|nbc.com|nbcnews.com
+@@||admin.corrata.com/console/dcconsolews/event-log?$~third-party
 @@||admin.dable.io^|
 @@||admin.memberspace.com/sites/*/analytics/views$~third-party
 @@||adnet.qq.com^$~third-party

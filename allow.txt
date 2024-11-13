@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-11-13 16:13:41（北京时间） 
-! Total count: 2707
+! Version: 2024-11-14 00:12:07（北京时间） 
+! Total count: 2708
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3801,6 +3801,7 @@
 @@||account.adobe.com/newrelic.js$~third-party
 @@||accounts.google.com^$generichide
 @@||accounts.google.com^$popup
+@@||accounts.home.id/authui/client/assets/vendors/new-relic.min.js$~third-party
 @@||accounts.intuit.com/fe_logger?$~third-party
 @@||accuweather.com/bundles/prebid.$script
 @@||acgbenzi.com//dist/images/top.png

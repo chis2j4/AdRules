@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-11-16 16:12:31（北京时间） 
-! Total count: 18838
+! Version: 2024-11-17 00:10:58（北京时间） 
+! Total count: 18840
 -960x*0.gif
 -250.js*
 
@@ -326,6 +326,7 @@
 ##[onclick*="trackEvent', 'ad"]
 ##[onclick*='fjbglfrv.com']
 ##[onclick*='https://i.opiwb.com:']
+##[onclick*='m.kanshuapp.net']
 ##[onclick*='pypyj.com']
 ##[onclick*='www.l4lui.com'],.col-12.position-relative>b
 ##[onclick="window.open('http://682kg.com/')"]
@@ -418,6 +419,7 @@
 ##body#nr_body.nr_all.c_nr > div > div[id][class] > [href]
 ##body#nr_body.nr_all.c_nr > div[class] > DIV[style='height:90px;width:100%;']
 ##body#nr_body.nr_all.c_nr > section[id]
+##body#read.read > a.appguide-wrap
 ##body#read.read DIV[style$=' width: 100vw; position: relative;']
 ##body#reader-m-fix IMG[src*='.gif'][style='width:100%;height:100%']
 ##body#wrapper A[ontouchstart='this.click();']

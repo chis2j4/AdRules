@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-11-24 16:13:10（北京时间） 
+! Version: 2024-11-25 00:11:40（北京时间） 
 ! Total count: 18851
 -960x*0.gif
 -250.js*
@@ -5279,7 +5279,6 @@ m.tv.sohu.com##.advertise,.gg_icon
 m.tv.sohu.com##.btn-xz-app
 m.tv.sohu.com##.js-app-topbanner.actv-banner
 m.v.qq.com##.at-app-banner
-m.v.qq.com##.bottom-wrapper
 m.v.qq.com##.btn_sharpness
 m.v.qq.com##.js_open_app.btn_user_hd
 m.v.qq.com##.mod_app_banner
@@ -5293,6 +5292,7 @@ m.v.qq.com##.mod_source
 m.v.qq.com##.old-open-banner > .open-app
 m.v.qq.com##.old-open.open-app
 m.v.qq.com##.pull-app-btns
+m.v.qq.com##.recommend-long__open.open-app
 m.v.qq.com##.site-top__open-app
 m.v.qq.com##.swiper-container-android.swiper-container-horizontal.mod_source_box_fixed.mod_source_box
 m.weathercn.com###gg_hfaw_1

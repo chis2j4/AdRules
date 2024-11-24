@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-11-24 08:54:35（北京时间） 
-! Total count: 18845
+! Version: 2024-11-24 16:13:10（北京时间） 
+! Total count: 18851
 -960x*0.gif
 -250.js*
 
@@ -8911,6 +8911,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||anwqj0i.xyz^
 ||anyunwl04.com^
 ||anzhuotan.com/Runtime/js/dwg.js
+||aoao11241iis.top^
 ||aobde.com^
 ||aobuygo.com^
 ||aolusb.com^$script
@@ -9234,6 +9235,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||axcdy.cn^
 ||axutongxue.com/js/uuiiio.js
 ||axz650.com^
+||ayads-network-centor.com^
 ||ayidaye.m.zwdu.com^
 ||aykibra.cn^
 ||aymtdcg.cn^
@@ -10943,6 +10945,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dx-wangsucdncnc.inter.iqiyi.com/qpdxv/other^$empty
 ||dx-wscdncnc.inter.71edge.com/videos/other^$media
 ||dx00.live^
+||dxlxjvmo.icu^
 ||dxp.baidu.com^
 ||dxpmedia.com^
 ||dxqck.com^
@@ -11601,6 +11604,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ghghgf.xuexiwa.com^
 ||ghland.site^
 ||ghsnhjk.cn^
+||gifcdncn.trafficmanager.net^
 ||gift.douyucdn.cn^
 ||giphy.com^$removeparam=ref
 ||gitee.com/joinli/Api/raw/master/banner$replace=/ad_url//
@@ -12619,6 +12623,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||jasonsavard.com^$removeparam=cUrl
 ||jauql.top^
 ||jav##[id^="divExoLayerWrapper"],[id^="playertopads"],[class*="ui-widget"],[height="60"],.textwidget
+||javascript.trafficmanager.net^
 ||javase.top^
 ||jayhou.top^
 ||jb51.net/good/$script
@@ -15977,6 +15982,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||stats.v.duowan.com^
 ||stats.wp.com^
 ||statsy.net^
+||status-un.trafficmanager.net^
 ||steampowered.com^$removeparam=ser
 ||steampowered.com^$removeparam=snr
 ||steelhousemedia.com^

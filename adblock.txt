@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-11-25 16:14:57（北京时间） 
-! Total count: 18851
+! Version: 2024-11-26 00:12:59（北京时间） 
+! Total count: 18852
 -960x*0.gif
 -250.js*
 
@@ -6607,6 +6607,7 @@ wk.baidu.com##div.guidetowkvipwg-root.vip-guide-contanier
 wm927.com##[src^="http://www.wm927.com/static/images/list_ad"],.ad-banner,[src="http://www.wm927.com/static/images/gp_ad1.jpg"]
 wmxa.cn##.asdft,.adsbygoogle,[class="imageplus-append imageplus-append-bug-fixer"]
 wmzhe.com##[class="overflow"],div[class="mt10"],.downgs
+wn01.uk##IMG[alt][style='width: 100%; height: 100%;']
 wobuka2.com##.c-r
 wofl86.com##.themeauthor,.HtmlMoKua
 wolepan.com##.gg-down-line

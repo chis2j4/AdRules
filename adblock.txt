@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-11-26 08:51:30（北京时间） 
-! Total count: 18852
+! Version: 2024-11-26 16:14:29（北京时间） 
+! Total count: 18854
 -960x*0.gif
 -250.js*
 
@@ -6523,6 +6523,8 @@ webtor.io##[data-element='empty']
 wei2008.com##[id^="topbanner"],#sadall1,#downintro2,.ad3
 weibo.com##DIV#pl_content_biztips,div#v6_pl_content_biztips,div[class^="WB_ad_"],div#v6_pl_rightmod_ads35,div.menberdy,div[ad-data^="id=ads_"],.vd_ads,[feedtype="ad"]
 weiphone.com##[class^="wea_d_"]
+wen.baidu.com##.related-asp-new
+wen.baidu.com##.wap-youx-change-asp
 wenda.haosou.com##div#e_idea_wenda_detail_rightBox,.mod-top-ad,div.garllery_ad,div[class="clearfix js-show-data"]
 wenda.so.com##div#tuiguang,.js-show-data,.garllery_ad
 wendu.cn###banner,#topads,div.summary,.duilian,[class^="t_2015_"],#top

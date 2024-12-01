@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-12-01 00:11:05（北京时间） 
-! Total count: 18858
+! Version: 2024-12-01 09:01:15（北京时间） 
+! Total count: 18861
 -960x*0.gif
 -250.js*
 
@@ -11672,9 +11672,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||google-analytics.com$third-party
 ||google-analytics.com/analytics.js
 ||google-analytics.com^
+||google.$doc,removeparam=/^sa=N$/
+||google.$doc,removeparam=/^sa=X$/
 ||google.$doc,removeparam=sca_esv
-||google.$removeparam=/^sa=N$/
-||google.$removeparam=/^sa=X$/
 ||google.$removeparam=fg
 ||google.$removeparam=gs_ssp
 ||google.$removeparam=prds
@@ -16171,7 +16171,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tapjoy.com^
 ||tapjoyads.com^
 ||tapjoyvod.8686c.com^
-||target.$removeparam=preselect
 ||target.com^$removeparam=clkid
 ||target.com^$removeparam=lnk
 ||target.com^$removeparam=lnm
@@ -17339,6 +17338,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.ft.com/__origami/service/image/v2/images/raw/*.jpg?source=ftchinese&width=720&*=180*$domain=m.ftchinese.com
 ||www.ganbi66.com/js^
 ||www.geodeep.org^
+||www.google.$doc,removeparam=dpr
+||www.google.$doc,removeparam=fbs
+||www.google.$doc,removeparam=ictx
+||www.google.$doc,removeparam=tfu
 ||www.google.*/search$removeparam=oq,doc
 ||www.google.*/search?$doc,removeparam=client
 ||www.google.*/search?$doc,removeparam=sclient

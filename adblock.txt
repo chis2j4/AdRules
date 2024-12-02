@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-12-02 08:54:23（北京时间） 
-! Total count: 18862
+! Version: 2024-12-02 16:15:07（北京时间） 
+! Total count: 18866
 -960x*0.gif
 -250.js*
 
@@ -2357,6 +2357,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 .xyz/ty/*-*-*$third-party
 .xyz/xefeliffng_$third-party
 .xyz/xling_*_*_*.js?
+.xyz:*/bug?*=$third-party
 /(?::\/\/i1\.hoopchina\.com\.cn\/blogfile\/.+_\d{3}x\d{4})/
 /*/*.add.*.add
 /*AdapterNew.
@@ -10775,6 +10776,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ditorialproce.biz^
 ||diwuyu.com^
 ||diyibanzhu*/js/cdn.js
+||diyibanzhu*/js/cdn.js$~third-party
 ||diyibanzhu*/js/html*.js
 ||diyijs.duapp.com/cp
 ||dj09j5u.cn^
@@ -12106,6 +12108,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hongdouav8.com^$script
 ||hongfachn.com^
 ||hongmao39.top^
+||hongosi.xn--*.cc$third-party
 ||hongteng.xyz^
 ||hoopchina.com.cn/pcbbs/js/read-shihuo-photo-ad.js
 ||hopefullyapricot.com^
@@ -17730,6 +17733,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xn--521-x72fh66s.cn^
 ||xn--bqro42frpg5up.cn^
 ||xn--gov-x68dy61b.shop^
+||xn--jor0b302fdhgwnccw8g.com^
 ||xn--jvrp4x1zyfta.net^
 ||xn--m7r781dz66a.cn^
 ||xn--qrq171dxpq.com^

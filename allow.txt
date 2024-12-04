@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-12-04 00:13:21（北京时间） 
-! Total count: 2713
+! Version: 2024-12-04 08:53:32（北京时间） 
+! Total count: 2714
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4096,6 +4096,7 @@
 @@||att.com/ui/services_co_myatt_common/$script,~third-party
 @@||att.tv^*/VisitorAPI.js$script,~third-party
 @@||atwiki.jp/common/_img/spacer.gif?$image,domain=atwiki.jp
+@@||audience.io/api/v3/app/fetchPromo/$domain=campaign.aptivada.com
 @@||ausha.tsbluebox.com^$media,domain=podcast.ausha.co
 @@||auth2.picpay.com^*/event-tracking.js$script,~third-party
 @@||autocomplete.clearbit.com^$xmlhttprequest

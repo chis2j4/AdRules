@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-12-04 08:53:18（北京时间） 
-! Total count: 18866
+! Version: 2024-12-04 16:14:40（北京时间） 
+! Total count: 18864
 -960x*0.gif
 -250.js*
 
@@ -3680,10 +3680,8 @@ bing.com###BottomAppPro
 bing.com###TopApp
 bing.com###id_mobile
 bing.com##DIV.sb_adsNv2,li.b_ad,div.OpInNwWndw
-bing.com,cn.bing.net###b_results > li:-abp-has(.b_adProvider)
 bing.com,cn.bing.net##.ad_sc
 bing.com,cn.bing.net##.adsMvC
-bing.com,cn.bing.net##.b_algo:has(.algoSlug_icon)
 bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
 bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="=AdsPlus"])
 bing.com,cn.bing.net##.pa_sb
@@ -3691,7 +3689,6 @@ bing.com,cn.bing.net##DIV#bnp_container
 bing.com,cn.bing.net##a[h$=",Ads"]
 bing.com,cn.bing.net##a[href*="/aclick?ld="]
 bing.com,cn.bing.net##li.b_ad
-bing.com,cn.bing.net##li[class="b_algo"]:-abp-has(.b_attribution[data-partnertag]+p[class])
 biqudao.com##.dahengfu,.con_ad
 biqulou.net##.dahengfu
 biqushu.com##.adlist
@@ -6032,6 +6029,7 @@ sogou.com###sogou_vr_10000901_0 > div[style="display:block;"]
 sogou.com###vl
 sogou.com##.ad_result
 sogou.com##.erwm-box
+sogou.com##DIV.banner-container
 sogou.com##[href^="https://s.click.taobao.com"],[id^="AD_"]
 sogou.com##div#bdfs0.rb,div#promotion_adv_container,div.sponsored,a.js_bannerImg,div.bottombar,div.advert-pos,.s_list_ad,#browser_ad,#sogouFrag_0,#frame_ad,.section_ad,#adContent,.ad-main,#wx_m,#adId,#googleAdId,.adsbygoogle,#sogouUnionAd,#spreadAd,#div_ad,[src^="http://amfi.gou.sogou.com/wapxml?pid="],#sf_t1,.side_adv_wrap,#side-module-ad
 sohu.com###bottomBanner[data-spm='b-mb'][data-spm-stop='init']

@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-12-06 00:13:38（北京时间） 
-! Total count: 2716
+! Version: 2024-12-06 08:53:05（北京时间） 
+! Total count: 2714
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5178,7 +5178,7 @@
 @@||manageengine.com/products/ad-manager/$~third-party
 @@||manhua.weibo.com/adv/
 @@||mapquestapi.com/logger/$domain=hertz.com
-@@||maps.arcgis.com/apps/instant/lookup/app/utilites/telemetry/AppMeasurement.js$~third-party
+@@||maps.arcgis.com/apps/*/AppMeasurement.js$~third-party
 @@||maptiles.ping-admin.ru^$image,domain=ping-admin.com
 @@||marketing.net.idealo-partner.com^|
 @@||marketing.unionpayintl.com/offer-promote/static/sensorsdata.min.js$script,~third-party
@@ -5334,7 +5334,6 @@
 @@||niotv.com^$generichide
 @@||nittsu.com/Tracking/Scripts/Tracking/track.js
 @@||nizista.com/api/v1/adbanner$~third-party
-@@||noaa.maps.arcgis.com/apps/instant/*/AppMeasurement.js$~third-party
 @@||noahedu.com/ad/$~third-party
 @@||noahedu.com/advertising/
 @@||nobook.com/open-interface/official-sensors.git/$script,~third-party
@@ -5603,7 +5602,6 @@
 @@||raenonx.cc^$generichide
 @@||rakuten-bank.co.jp/rb/ams/img/ad/$~third-party
 @@||raw.githubusercontent.com^$domain=viewscreen.githubusercontent.com
-@@||rcb-gis.maps.arcgis.com/apps/instant/minimalist/*/AppMeasurement.js$script,~third-party
 @@||reactandshare.com^$domain=maanmittauslaitos.fi
 @@||readmoo.com/images/social/
 @@||realclearpolitics.com/esm/assets/js/admiral.js$~third-party

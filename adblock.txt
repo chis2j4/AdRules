@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-12-07 16:12:42（北京时间） 
-! Total count: 18864
+! Version: 2024-12-08 00:11:30（北京时间） 
+! Total count: 18866
 -960x*0.gif
 -250.js*
 
@@ -5327,6 +5327,8 @@ m.youku.com##div.vo-links
 m.yuedu.163.com##.m-dl-tip
 m.zhanqi.tv##.h5-foot-area
 m.zhanqi.tv##.topbarOpenApp.btn-1
+m.zol.com.cn##.app-open
+m.zol.com.cn##.zolapp-download.flex-box
 m.zol.com.cn##SECTION[class="download-top"],A[href^="zolapp"]
 ma4r.com##div.fot3.w3.cen3.cl3,div.ia3
 macd.cn##div#hbad,div.wp.a_t

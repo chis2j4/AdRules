@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-12-12 16:14:39（北京时间） 
-! Total count: 18867
+! Version: 2024-12-13 00:13:22（北京时间） 
+! Total count: 18870
 -960x*0.gif
 -250.js*
 
@@ -7134,6 +7134,7 @@ xw.qq.com#?#.comment.follow_top:contains(热评)
 xw.qq.com#?#.wrap:contains(去种树)
 xw.qq.com#?#div.showDividingLine.container:contains(APP专享)
 xxroot.com###chs_bannerArea
+xyz:9002/*?x=$third-party
 y.qq.com###js_mod_dialog
 y.qq.com##.bottom_bar
 y.qq.com##.btn_download
@@ -13116,6 +13117,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kszvmqo.cn^
 ||kszxqq.com^
 ||ktdlsb.com^
+||ktgpgoa.top^
 ||ktienld.top^
 ||ku6.com^
 ||ku63.com^
@@ -17817,6 +17819,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xxmh456.com^
 ||xxmh645.com^
 ||xxniln.xyz^
+||xxsmad4.com^
 ||xxsmcps.com^
 ||xxsywxj.com^
 ||xxtalp.xyz^

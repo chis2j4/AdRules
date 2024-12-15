@@ -1,5 +1,5 @@
 ! Title: Allowlist
-! Version: 2024-12-15 00:11:35（北京时间） 
+! Version: 2024-12-15 08:57:30（北京时间） 
 ! Total count: 2712
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
@@ -3770,7 +3770,6 @@
 @@||79423.analytics.edgekey.net^|
 @@||7m.cn/v2/js/analyse.js
 @@||85po.com^$generichide
-@@||85porn.net^$generichide
 @@||85tube.com/player/player_ads.html
 @@||85tube.com^$generichide
 @@||8891.com.tw/js/v3/blueKai.js
@@ -5084,6 +5083,7 @@
 @@||l.ecn-ldr.de/loader/loader.js$domain=braun-hamburg.com
 @@||l.logly.co.jp/lift$script,domain=sponichi.co.jp
 @@||l.qq.com/lview?$domain=888.sports.qq.com
+@@||lab.eu.amplitude.com^$xmlhttprequest,domain=bluelightcard.co.uk
 @@||labrc.pw/advstats/$xmlhttprequest
 @@||lacoste.com^*/click-analytics.js$~third-party
 @@||ladsp.com/script-sf/$script,domain=str.toyokeizai.net

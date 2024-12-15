@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-12-15 08:57:22（北京时间） 
-! Total count: 18874
+! Version: 2024-12-15 16:12:51（北京时间） 
+! Total count: 18876
 -960x*0.gif
 -250.js*
 
@@ -2860,6 +2860,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 00sy.com##div.dahengfu,div.header,div.ad360,p[class="tl pd8 pd10"] + ul
 00sy.net##.dahengfu,.ad360,[style*="height:250px;"]
 0du123.com,24en.com,3gsc.com.cn,591hx.com,5g0a.com,acgnx.se,aguitar.cn,btzx2017.com,e0514.com,eastmoney.com,guitarchina.com,gz0668.com,hk.on.cc,iciba.com,iguaji.com,iqiyi.com,jia360.com,joy.cn,kdnet.net,kumi.cn,manyuancs8.xyz,newnet.cc,rain2.top,tiboo.cn,toocle.com,wallstreetcn.com,xingkbjm.com,xizi.com,zgfznews.com,zyue.com##.banner
+://*mp4*/js/wcount.js$~third-party
 ://ipv6.google.com*/search^$removeparam=entrypoint
 ://ipv6.google.com*/search^$removeparam=kgs
 ://ipv6.google.com*/search^$removeparam=shndl
@@ -3413,6 +3414,7 @@ baidu.com##.header-act-entry
 baidu.com##.hint-ft-questionnaire
 baidu.com##.j_footer
 baidu.com##.new-answer-entry.left-show
+baidu.com##.page-head-queryarea
 baidu.com##.popup-lead
 baidu.com##.rel-exp-feed-ad-item
 baidu.com##.se-recommend-word-list,#se-recommend-word-list-container

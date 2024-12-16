@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-12-16 16:15:46（北京时间） 
-! Total count: 18876
+! Version: 2024-12-17 00:13:25（北京时间） 
+! Total count: 18882
 -960x*0.gif
 -250.js*
 
@@ -3373,9 +3373,15 @@ avtb579.com###content > div.col-xs.col-sm-12.col-md-10:last-child > div.panel.pa
 avtb6677.com###menu-main-content > li:nth-child(n+5)
 awaker.cn###bew_10010,.adsbygoogle,div#wp125-2,div#text-31
 axutongxue.com##ASIDE[style*='height:58px;overflow:hidden;width:322px;border:dashed .5px']
+axutongxue.com##A[href^='https://marscode.cn/']
 axutongxue.com##DIV[style*='px;position:relative;box-shadow:rgb(0 0 0/24%)0px 3px 8px;']
 axutongxue.com##DIV[style*='z-index: 9999999;display: flex;justify-content: center;align-items: center;']
 axutongxue.com##DIV[style='text-align:center']
+axutongxue.com##li:has(A[href='https://mp.weixin.qq.com/s/ZARDTFAmy2mM7ExgcXOl-w'])
+axutongxue.com##li:has(A[href^='https://axu.simhaoka.com/phone/index'])
+axutongxue.com##li:has(A[href^='https://flowus.cn/share/f35316bd-0af5-490a-a755-ff3538e868f3'])
+axutongxue.com##li:has(A[href^='https://ibiling.cn/paper'])
+axutongxue.com##li:has(A[href^='https://marscode.cn/'])
 azhibo.tv##.fill-content,[width="680"][height="60"],[href^="http://www.00880808.com/go/"],[src="/images/leisu.png"]
 b2b.hc360.com##[class="maincont-one-main"],div#cu_channel,div#leftsuspend,div[class^="line"],div.wechactLi
 b2bname.com##.block-ad

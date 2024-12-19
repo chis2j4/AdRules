@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-12-19 08:51:41（北京时间） 
-! Total count: 18877
+! Version: 2024-12-19 16:13:57（北京时间） 
+! Total count: 18878
 -960x*0.gif
 -250.js*
 
@@ -5769,6 +5769,7 @@ qswtxt.com###midbanner,.adsbygoogle
 quanji.la###xinxi,#gegz
 quanji.la##[id^="qj960"],[id^="qj300"]
 quanmin.tv##.rbananer,.middleBananer,.starbananer,.star-ad-bottom,.play-bottom-hot,.w-recommend-live_bg,.p-star_adWrap,.p-room_chatad,.p-room_rbanner,.p-room_ad,.w-room-ad-tabs,.fixfooter,.w-room-banner,.w-header_mid-autumn-img,.w-room-footer_novparty-link,.w-room-rbanner
+quark.cn##.ad-wolong-container
 qunar.com##DIV.b_banner,[id^="ad_"],OBJECT[id^="banner_home_"],div.qn_slide,div#QNT_box,div.mp-download,#js_bannerContent
 qushucheng.com##.appguide-wrap
 qushucheng.com##.hotcmd-wp

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-12-21 08:47:21（北京时间） 
-! Total count: 18878
+! Version: 2024-12-21 16:11:44（北京时间） 
+! Total count: 18881
 -960x*0.gif
 -250.js*
 
@@ -2781,6 +2781,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 /static/jietiandixs/jtd.js$~third-party
 /static/js/bds_
 /static/js/miniyyrtv-config.js
+/static/lbsite/*/*.js?v=$third-party
 /static/localStorage.
 /statics/js/dddd.js
 /statics/js/guding.js
@@ -7828,6 +7829,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||3pkf5m0gd.com^
 ||3prndxd.cn^
 ||3q3l.cn^
+||3qxsa.cc/js/news2.js
 ||3rsppty.cn^
 ||3shangyou.com^
 ||3t769up6.com^
@@ -11517,6 +11519,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||g3.letv.com^
 ||g4u71y.cn^$domain=lurenshu.net|m.630shu.com
 ||g77776666.com^
+||g7htk7ls7.com^
 ||ga2.3dmgame.com^
 ||gahvy6ww.icu^
 ||gaipuzui.com^

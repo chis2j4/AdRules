@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2024-12-28 08:46:54（北京时间） 
-! Total count: 18881
+! Version: 2024-12-28 16:11:59（北京时间） 
+! Total count: 18886
 -960x*0.gif
 -250.js*
 
@@ -400,6 +400,7 @@
 ##a[href^="https://91keep.tv"]
 ##a[href^="https://uds24.com/"]
 ##body > A[ontouchstart='this.click();'][href]
+##body > DIV.ad3
 ##body > DIV[class][style='top: 132px;']
 ##body > DIV[class][style='top: 133px;']
 ##body > DIV[class][style^='bottom: '][style$='vw; display: block;']
@@ -2312,6 +2313,8 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 .com:8010/cc/
 .cyou/redbaiduct.com
 .cyou/xling_*_$third-party
+.fun/*.jss?17*&r=0$third-party
+.fun/*/17*/*.css?r=0$third-party
 .gif$domain=787ck.cc
 .icu/*_*_*.js$third-party
 .icu/?token=$third-party
@@ -2328,6 +2331,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 .shop:*/bid?url=
 .top/*/*.js?ts=$third-party
 .top/*/2022*/.js$third-party
+.top/*_*_vw*sbjs?$third-party
 .top/*q=*form=*&*url=http*$third-party
 .top/?token=$third-party
 .top/gluinfo.php?s=$third-party
@@ -16522,6 +16526,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||trendyol.com^$removeparam=/^tyutm_.*$/
 ||trfmxf.xyz^
 ||tribalfusion.com^
+||trjfoagf.icu^
 ||trk-cdpetl.emdlz.com.cn^
 ||trk.pinterest.com^
 ||trognoi.com^

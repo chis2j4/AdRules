@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2024-12-30 00:10:34（北京时间） 
-! Total count: 2719
+! Version: 2024-12-30 08:51:03（北京时间） 
+! Total count: 2720
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4808,6 +4808,7 @@
 @@||google.sn/translate_$media,third-party,xmlhttprequest
 @@||google.so/translate_$media,third-party,xmlhttprequest
 @@||googleads.g.doubleclick.net/ads/preferences/$domain=googleads.g.doubleclick.net
+@@||googleads.g.doubleclick.net^$domain=wandhi.com
 @@||googleads.github.io/videojs-ima/node_modules/video.js/dist/video$domain=ulifestyle.com.hk
 @@||googleads4.g.doubleclick.net^$domain=renfei.net
 @@||googleadservices.com/pagead/conversion.js$domain=ncsoft.jp

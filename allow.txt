@@ -1,5 +1,5 @@
 ! Title: Allowlist
-! Version: 2025-01-03 00:12:10（北京时间） 
+! Version: 2025-01-03 08:48:32（北京时间） 
 ! Total count: 2721
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
@@ -4285,8 +4285,8 @@
 @@||cdn.staticfile.org^$domain=00ksw.com|147xiaoshuo.com|91zww.com|biququ.info|bxwx.live|lzbao.net|shenzu.org|tianz.la
 @@||cdn.staticfile.org^$script,domain=00ksw.com|147xiaoshuo.com|31xs.org|31xsxs.com|35xs.org|biquge18.com|biququ.info|manhuadui.com|qihaoqihao.com|rijutv.com|tsxsw.net|xbiqugexsw.com|xx31xs.org|ziyouge.com
 @@||cdn.staticfile.org^$script,domain=movieffm.net
+@@||cdn.treasuredata.com/sdk/$script,domain=kfc.com.my|sso.lg.com
 @@||cdn.treasuredata.com/sdk/$script,domain=retty.me
-@@||cdn.treasuredata.com/sdk/$script,domain=sso.lg.com
 @@||cdn.us*.exponea.com^|
 @@||cdn.usefathom.com/script.js$domain=sharpen-free-design-generator.netlify.app
 @@||cdn.vidoza.co/js/$script,domain=vidoza.co|vidoza.net

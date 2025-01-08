@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-01-08 16:13:28（北京时间） 
+! Version: 2025-01-09 00:12:20（北京时间） 
 ! Total count: 18891
 -960x*0.gif
 -250.js*
@@ -635,7 +635,7 @@ $doc,removeparam=/^wtm_.*$/
 $doc,removeparam=FMID
 $doc,removeparam=IPID
 $doc,removeparam=LGWCODE
-$doc,removeparam=LID
+$doc,removeparam=LID,domain=~geocaching.com
 $doc,removeparam=SRC
 $doc,removeparam=Tcsack
 $doc,removeparam=WebSiteMapNodeID

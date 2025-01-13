@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2025-01-13 16:14:44（北京时间） 
-! Total count: 2723
+! Version: 2025-01-14 00:13:19（北京时间） 
+! Total count: 2724
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5107,6 +5107,7 @@
 @@||leadpages.io/analytics/v1/observations/capture?$xmlhttprequest
 @@||league-funny.com^$script,~third-party
 @@||leanplum.com^$domain=arkadium.com
+@@||learn.khanacademy.org^|
 @@||leechers-paradise.org^|
 @@||leerolymp.com/_nuxt/300-250.$script,~third-party
 @@||leffatykki.com/media/banners/tykkibanneri-728x90.png$image,~third-party

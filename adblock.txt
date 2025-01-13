@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-01-13 08:52:17（北京时间） 
-! Total count: 18900
+! Version: 2025-01-13 16:14:27（北京时间） 
+! Total count: 18904
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -7625,6 +7625,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||17173cdn.com/a/lib/vda/sources/ad17173
 ||1717gs.com^
 ||171hd.net/h5.js
+||17282.org^
 ||175pt.com^$third-party,~object
 ||177tvbxs.com^
 ||178gg.com^
@@ -9865,6 +9866,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||btbbt.cc/jslb.js
 ||btbbt.cc/jstb.js
 ||btbtdy.com/templets/btdy/js/
+||btcili.top^
 ||btescs.fun^
 ||btgoo.cc^
 ||btmango.com/templates/0111/style/*.js?v=
@@ -17835,6 +17837,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xwsqtngwa.xyz^
 ||xwuad.com^
 ||xww360.com^
+||xxaks01121sspao.xyz^
 ||xxba.cc^
 ||xxcgdq.com^
 ||xxczdfb.cn^
@@ -18751,6 +18754,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 126.com,163.com##[id$="_dvPrmot"]
 158pic.com###gaosu
 160.com##.ban_head,.tmall_ad,div#ad_index,div.bran_90
+163.com##.freeVip
 163.com##.js-open-app
 163.com##.m-download
 163.com##.newsapp-qrcode

@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2025-01-21 00:12:11（北京时间） 
-! Total count: 2729
+! Version: 2025-01-21 08:46:46（北京时间） 
+! Total count: 2730
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4984,6 +4984,7 @@
 @@||instawp.xyz^$generichide
 @@||intelyvale.com.mx/ads/images/$domain=valesdegasolina.mx
 @@||intersport.peerius.com^|
+@@||intuitcdn.net/libs/*/track-star.min.js$script,domain=turbotax.intuit.com
 @@||ipapi.co/json/$xmlhttprequest,domain=168.dailymaverick.co.za|audius.co
 @@||ipfs-lab.com^$generichide
 @@||ipinfo.io/?token=$domain=assurancemortgage.com|webtv.ert.gr

@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2025-01-22 16:13:49（北京时间） 
-! Total count: 2733
+! Version: 2025-01-23 00:12:49（北京时间） 
+! Total count: 2736
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3675,6 +3675,7 @@
 @@|beta.partners.adsterra.com^|
 @@|beta.publishers.adsterra.com^|
 @@|core.crazyegg.com^|
+@@|daraz.com^|
 @@|data:text^$popup,domain=box.com|clker.com|labcorp.com
 @@|ezodn.com^|
 @@|ftp.bmp.ovh^|
@@ -3683,6 +3684,7 @@
 @@|partners.adsterra.com^|
 @@|publishers.adsterra.com^|
 @@|statcounter.com^|
+@@|www.daraz.pk^|
 @@||*/assets/js/common/juqery/
 @@||060s.com/images_ad/*.png
 @@||073img.com/*,*,
@@ -5326,6 +5328,7 @@
 @@||nebula.tv^$generichide
 @@||nelonenmedia.fi/logger/logger-ini.json$xmlhttprequest,domain=embed.sanoma-sndp.fi|supla.fi
 @@||nemlog-in.dk/resources/js/adrum.js$~third-party
+@@||neo.btrl.ro/Scripts/services/fingerprint2.min.js$~third-party
 @@||netatmo.commander1.com^|
 @@||netcoresmartech.com/smartechclient.js$domain=cgv.vn
 @@||netcoresmartech.com/smartechclient.js$domain=hdfcfund.com

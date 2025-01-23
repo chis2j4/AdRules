@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2025-01-23 08:47:14（北京时间） 
-! Total count: 2737
+! Version: 2025-01-23 16:13:55（北京时间） 
+! Total count: 2738
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4416,6 +4416,7 @@
 @@||console.statsig.com/_next/$~third-party
 @@||contacts.google.com^$generichide
 @@||content.adunity.com/aulib.js$script,domain=b1tv.ro
+@@||content.ingbank.pl^
 @@||content.pouet.net/avatars/adx.gif$image,~third-party
 @@||content.s8bbs.com/ad/bbs/*.jpg
 @@||cookielaw.org^*/OtAutoBlock.js$domain=bancsabadell.com|darkreading.com|uphold.com

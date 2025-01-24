@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-01-24 16:13:31（北京时间） 
-! Total count: 18912
+! Version: 2025-01-25 00:11:53（北京时间） 
+! Total count: 18914
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -2339,7 +2339,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 .top/gluinfo.php?s=$third-party
 .userapi.com/impg^$removeparam=proxy
 .userapi.com/impg^$removeparam=type
-.xyz$domain=btsj6.com|yinghua8.tv|iyinghua.io|yhdmba.net
+.xyz$domain=btsj6.com|yinghua8.tv|iyinghua.io|yhdmba.net|xiakexsw.com
 .xyz/*0*0*==$third-party
 .xyz/*?16$third-party
 .xyz/*_*_1_*.js?$third-party
@@ -4204,6 +4204,7 @@ fenxiangshe.cn##.ads-content,[id^="tk_box_"]
 fh21.com.cn##.adv
 fifm.live###player_ad,.adsbygoogle
 finance.sina.cn##.s_card.cj_24
+finance.sina.com.cn###SFA_NV_POP_ZW
 finance.sina.com.cn###most_read
 finance.sina.com.cn###tab_related_btn
 finance.sina.com.cn##.app-viplive
@@ -5096,6 +5097,7 @@ m.bilibili.com##.container:contains(打开App)
 m.bilibili.com##.launch-app-btn > a:contains(App)
 m.bilibili.com##.launch-app-btn:contains(打开APP)
 m.bilibili.com##.m-home-float-openapp
+m.bilibili.com##.m-nav-openapp.m-open-app
 m.bilibili.com##.m-video2-awaken-btn
 m.bilibili.com##.m-video2-float-openapp
 m.bilibili.com##.natural-margin.visible-open-app-btn.m-video-main-launchapp.launch-app-btn

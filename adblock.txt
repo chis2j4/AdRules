@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-01-24 08:47:03（北京时间） 
-! Total count: 18911
+! Version: 2025-01-24 16:13:31（北京时间） 
+! Total count: 18912
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -4078,6 +4078,7 @@ douban.com##.lnk-doubanapp
 doubean.com##.ad-block-960
 doubibackup.com##footer.article-footer
 doupapa.com,dpp2019.com##.ad-body,.couplet_9cb0d,.dibu_9cb0d
+douyin.com##[class*='h5-ad-']
 douyu.com##.ClientJump
 douyu.com##.Download
 douyu.com##.Header-download-wrap

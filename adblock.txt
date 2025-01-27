@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-01-27 08:48:49（北京时间） 
-! Total count: 18916
+! Version: 2025-01-27 16:14:16（北京时间） 
+! Total count: 18917
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -3706,6 +3706,7 @@ bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
 bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="=AdsPlus"])
 bing.com,cn.bing.net##.pa_sb
 bing.com,cn.bing.net##DIV#bnp_container
+bing.com,cn.bing.net##LI.b_ans
 bing.com,cn.bing.net##a[h$=",Ads"]
 bing.com,cn.bing.net##a[href*="/aclick?ld="]
 bing.com,cn.bing.net##li.b_ad

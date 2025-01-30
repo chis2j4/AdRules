@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-01-30 00:12:33（北京时间） 
-! Total count: 18917
+! Version: 2025-01-30 08:45:58（北京时间） 
+! Total count: 18923
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -3097,6 +3097,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 @@||livew.l.qq.com/crossdomain.xml
 @@||loc.map.baidu.com/sdk.php$app=com.baidu.BaiduMap
 @@||local.adguard.org^$important
+@@||login.aliexpress.us^$removeparam
 @@||login.ingbank.pl^$removeparam
 @@||login.meijer.com/*?ref=$removeparam
 @@||login.progressive.com^$removeparam
@@ -11730,6 +11731,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||google.*^$removeparam=/^gfe_[a-z]*=/
 ||google.*^$removeparam=/^gs_[a-z]*=/
 ||google.*^$removeparam=/^gws_[a-z]*=/
+||google.*^$removeparam=/^sca_(esv|upv)=/
 ||google.*^$removeparam=_u
 ||google.*^$removeparam=aqs
 ||google.*^$removeparam=atyp
@@ -11739,13 +11741,15 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||google.*^$removeparam=dpr
 ||google.*^$removeparam=ei
 ||google.*^$removeparam=esrc
+||google.*^$removeparam=fbs
 ||google.*^$removeparam=i-would-rather-use-firefox
+||google.*^$removeparam=ictx
 ||google.*^$removeparam=ie
+||google.*^$removeparam=iflsig
 ||google.*^$removeparam=je
 ||google.*^$removeparam=oq
 ||google.*^$removeparam=pcampaignid
 ||google.*^$removeparam=rlz
-||google.*^$removeparam=sca_esv
 ||google.*^$removeparam=sei
 ||google.*^$removeparam=sourceid
 ||google.*^$removeparam=sxsrf
@@ -14489,6 +14493,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||oewtuho.cn^
 ||oeya.com/$domain=realtw.com
 ||offerwall.yandex.net^
+||office-partner.de^$removeparam=campaign
+||office-partner.de^$removeparam=sPartner
 ||officemonster.co.uk^$removeparam=/^fo_.*$/
 ||offline-adv.oray.com^
 ||ofooe.cn^

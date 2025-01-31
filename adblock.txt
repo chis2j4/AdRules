@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-01-31 08:47:24（北京时间） 
-! Total count: 18923
+! Version: 2025-01-31 16:12:55（北京时间） 
+! Total count: 18928
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -3831,6 +3831,8 @@ changsha.cn##[class^="site_ad_"]
 chapaofan.com##[class^="pf-ad-"],.details-ad
 chasedream.com##.a_h,.a_f,[id^="diycd-board"]
 chashebao.com##.ad960
+chat.deepseek.com##div:has(> .ds-icon + span)
+chat.deepseek.com##div:has(> .ds-icon[style*="width: 28px"][style*="height: 28px"])
 chaturbate.com##.ad,.banner,[href^="/external_link/?"]
 chcj.com##.a_cb,#diy1,.a_pt,.a_pb,#comiis_sfcs00,#comiis_sfcs08,[id^="comiis_ad"]
 chcj.com,pt80.net##img[width="960"]
@@ -4740,9 +4742,6 @@ jiaodong.net###FixedLeft
 jiaodong.net###FixedRight
 jiaoyizhe.com##.a_f
 jijidown.com##.Box-4x4
-jikipedia.com##.components-container
-jikipedia.com##.cursor.link.app-link
-jikipedia.com##.download-link
 jin.baidu.com##a:last-child
 jin.baidu.com##div.loan-recommend.grid-mt
 jin10.com##.jin-declaration[class*="_b"]
@@ -4934,6 +4933,7 @@ keke.la###slide:first-child
 keke001.com##.adbg
 kekenet.com##div.ad_catagory,div.topad,p[class^="ta_ad_"],ins.adsbygoogle,img[width="980"][height="60"],img[width="990"][height="35"]
 kikinote.ne###Popup
+kimi.moonshot.cn##.app-download
 kindle114.com##[class="portal_block_summary"]
 kindleren.com##DIV.a_pb,DIV.a_pt,DIV.a_mu
 kingsoft.hz.letv.com##div.fix-box,div.tab-content,.video-advert,#fixedad
@@ -6345,6 +6345,8 @@ tmall.com##div[style*="z-index: 99999; display: block;"]
 to8to.com##.float,.quote_pic_adv
 tom.com##div#popupDivgame,.modad
 tompda.com##A.tsxb,div.shop_right_news2,embed[width="980px"][height="60px"],div[pageid],iframe[src^="http://www.tompda.com/adv/"],iframe#tsdxb_frame
+tongyi.aliyun.com##div[class^="downloadWrap"]
+tongyi.aliyun.com##li:has(> i > svg[data-spm-anchor-id])
 tools.2345.com##div.p-tps
 top81.com.cn##[class^="ad_"]
 topfo.com##[src="http://zs.topfo.com/zt/kdgj/img/300_85.gif "],img[width="960px"][height="90px"],.con.jj-dk01
@@ -7096,6 +7098,8 @@ xilinjie.com##.xlj-container
 ximalaya.com##.change-logo.S_q,.packet-container._PC,.less-tips._PC *
 xindm.cn##div.gg_botom_gg,div.fengmian_comic_main_gg,TABLE[background="/image/04/line2.gif"],TABLE[width="976"][height="96"],.chapterAd
 xineurope.com##.ad,.wp.a_t,#qmenu_menu + .wp
+xinghuo.xfyun.cn##div[class*="download_btn"]
+xinghuo.xfyun.cn##div[class*="jump_btn"]:contains(下载APP)
 xingk.cc##div.a_mu,div.wp.a_t,div.wp.a_h,div.a_cn,div.a_pt,.adc_mf2,.adc_mf1
 xinhuanet.com##[class^="tempad"],[src^="ad/20"],[src^="../../../ad/20"]
 xinhuanet.com##[src^="../../ad/"]
@@ -7249,6 +7253,7 @@ yqdown.com##.pgzs,#wrapper1
 yse1234.com/template/phone/imagess/sdfwe.js
 yshw1.com##[id^="diynews_ad"]
 ysts8.com##[class^="ads_"]
+yuanbao.tencent.com##.icon-yb-downapp
 yunpan.cn###clientDl
 yunvs.com##img[height="270"]
 yuyouge.com##.gad2,.adsbygoogle

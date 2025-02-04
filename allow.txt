@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2025-02-04 16:13:57（北京时间） 
-! Total count: 2740
+! Version: 2025-02-05 00:12:26（北京时间） 
+! Total count: 2741
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4753,6 +4753,7 @@
 @@||geoip-db.com/jsonp/$script,third-party
 @@||geolocation-db.com/json/$domain=admanager.line.biz
 @@||geolocation-db.com/jsonp$script,domain=parts.hp.com
+@@||get.neofinancial.com^|
 @@||get.s-onetag.com/*/tag.min.js$domain=zakzak.co.jp
 @@||getflywheel.com/addons/google-analytics/$~third-party
 @@||getjad.io/library/$script,domain=allocine.fr

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-02-06 08:48:11（北京时间） 
-! Total count: 18933
+! Version: 2025-02-06 16:13:45（北京时间） 
+! Total count: 18957
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -1788,6 +1788,7 @@ $removeparam=pool,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x
 $removeparam=pop,domain=etsy.com
 $removeparam=porc
 $removeparam=post_index,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
+$removeparam=pp,domain=youtube.com|youtu.be
 $removeparam=ppref,domain=digidip.net
 $removeparam=pr_prod_strat
 $removeparam=pr_rec_id
@@ -1979,6 +1980,7 @@ $removeparam=src_term,doc
 $removeparam=srctype,domain=shein.com
 $removeparam=sref,domain=bloomberg.com|go.skimresources.com|go.skimlinks.com|go.redirectingat.com
 $removeparam=srnd
+$removeparam=srsltid
 $removeparam=srsltid,doc
 $removeparam=ss_ref
 $removeparam=sscid
@@ -8151,6 +8153,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||7xsf4r.com1.z0.glb.clouddn.com/lianzi.mp4
 ||7z66.com^
 ||8-7-6-8-0-0.com:8888^
+||80000hours.org^$removeparam=int_campaign
 ||80s.tw/css/cpshow.js
 ||8131889.com^
 ||8181zx.com^
@@ -8909,9 +8912,12 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||amazon.*^$removeparam=qid
 ||amazon.*^$removeparam=qualifier
 ||amazon.*^$removeparam=refRID
+||amazon.*^$removeparam=skipTwisterOG
 ||amazon.*^$removeparam=smid
+||amazon.*^$removeparam=social_share
 ||amazon.*^$removeparam=spIA
 ||amazon.*^$removeparam=sprefix
+||amazon.*^$removeparam=starsLeft
 ||amazon.*^$removeparam=th
 ||amdc.alipay.com^
 ||amdc.m.taobao.com/amdc^$app=com.huawei.hwvplayer.youku
@@ -15347,6 +15353,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||reddit.com^$removeparam=correlation_id
 ||reddit.com^$removeparam=ref_campaign
 ||reddit.com^$removeparam=ref_source
+||reddit.com^$removeparam=share_id
 ||redfin.com^$removeparam=riftinfo
 ||redianad.com^
 ||redirect.appmetrica.yandex.com^$removeparam=c
@@ -16383,6 +16390,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tiktok.com^$doc,removeparam=user_id
 ||tiktok.com^$removeparam=_d
 ||tiktok.com^$removeparam=_r
+||tiktok.com^$removeparam=_t
 ||tiktok.com^$removeparam=checksum
 ||tiktok.com^$removeparam=embed_source
 ||tiktok.com^$removeparam=preview_pb
@@ -17695,12 +17703,28 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||xiaofangtongzhi.xyz^
 ||xiaohead.com^
 ||xiaohei.com^
+||xiaohongshu.com^$removeparam=app_platform
 ||xiaohongshu.com^$removeparam=app_platform,doc
+||xiaohongshu.com^$removeparam=app_version
 ||xiaohongshu.com^$removeparam=app_version,doc
+||xiaohongshu.com^$removeparam=apptime
 ||xiaohongshu.com^$removeparam=apptime,doc
+||xiaohongshu.com^$removeparam=appuid
 ||xiaohongshu.com^$removeparam=appuid,doc
+||xiaohongshu.com^$removeparam=author_share
+||xiaohongshu.com^$removeparam=exSource
+||xiaohongshu.com^$removeparam=ignoreEngage
+||xiaohongshu.com^$removeparam=shareRedId
+||xiaohongshu.com^$removeparam=share_from_user_hidden
 ||xiaohongshu.com^$removeparam=share_from_user_hidden,doc
+||xiaohongshu.com^$removeparam=share_id
+||xiaohongshu.com^$removeparam=type
+||xiaohongshu.com^$removeparam=verifyBiz
+||xiaohongshu.com^$removeparam=verifyType
+||xiaohongshu.com^$removeparam=verifyUuid
+||xiaohongshu.com^$removeparam=xhsshare
 ||xiaohongshu.com^$removeparam=xhsshare,doc
+||xiaohongshu.com^$removeparam=xsec_source
 ||xiaohuangshu.me^
 ||xiaojifly.cn^
 ||xiaomifood.cn^

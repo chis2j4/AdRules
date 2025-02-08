@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-02-08 08:46:31（北京时间） 
-! Total count: 18969
+! Version: 2025-02-08 16:11:29（北京时间） 
+! Total count: 18971
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -210,7 +210,6 @@
 ##DIV[style^='display: block; aspect-ratio: 728 / 90; background-image: url("/static/resources/lp.php']
 ##DIV[style^='position: fixed; bottom: 50%; z-index: 19999 !important; ']
 ##DIV[style^='width:100%;height:100%;line-height: 100%;overflow:hidden; margin:auto;border:1px #']
-##I.fa.fa-close
 ##IFRAME[src*="//pos.baidu.com/"]
 ##IFRAME[src^='/Banner/index.html'][allowfullscreen='true']
 ##IFRAME[src^='https://mydisplay.ctfile.com/popview.php']
@@ -4686,6 +4685,8 @@ iyaxin.com##.ads,.adv-banner,.adv,.block_area_ads
 iyin.net##[id^="ad"]
 iyingdi.com##.downLoadApp
 iyouman.com##.w300
+izaiwen.cn##.item-box
+izaiwen.cn##DIV[carousel-item]
 izhufu.net##.index_tong,.news_cnxhz,[class$="_gg"],.aside_img1,.top_banner,.index_banner,.izfyxf
 j3pz.com##.hidden-xs
 jandan.net##INS.adsbygoogle,IMG[src="http://s.tankr.net/n/poketec.png"],#ads,#random-ads,#adsense
@@ -12248,6 +12249,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||huafangzhou.com^
 ||huafujr.com^
 ||huahuaka.com^
+||huakai2025.com/color.js
 ||huanrentv.cn^
 ||huatakj.com^
 ||huatuo.qq.com^

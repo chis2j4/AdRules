@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-02-08 00:12:04（北京时间） 
-! Total count: 18959
+! Version: 2025-02-08 08:46:31（北京时间） 
+! Total count: 18969
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -716,6 +716,8 @@ $doc,removeparam=esrc,domain=arstechnica.com|newyorker.com|wired.com
 $doc,removeparam=ext_source
 $doc,removeparam=exta
 $doc,removeparam=feature,domain=reddit.app.link
+$doc,removeparam=fpChannel,domain=tmall.com|taobao.com
+$doc,removeparam=fpChannelSig,domain=tmall.com|taobao.com
 $doc,removeparam=fvj,domain=indeed.com
 $doc,removeparam=gci
 $doc,removeparam=gs_lp,domain=www.google.*|ipv6.google.com
@@ -745,11 +747,13 @@ $doc,removeparam=lgw_code
 $doc,removeparam=lyceumGuid,domain=bedbathandbeyond.com
 $doc,removeparam=maid
 $doc,removeparam=maltcode,domain=gamestop.com|ubisoft.com|steampowered.com
+$doc,removeparam=maskChannel,domain=tmall.com|taobao.com
 $doc,removeparam=mchn
 $doc,removeparam=mcid,domain=~miguvideo.*
 $doc,removeparam=method,domain=peacocktv.com
 $doc,removeparam=mkt_rec,domain=temu.com
 $doc,removeparam=msid,domain=~rsc.org
+$doc,removeparam=ns,domain=tmall.com|taobao.com
 $doc,removeparam=o,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
 $doc,removeparam=oc,domain=indeed.com
 $doc,removeparam=orig_ref,domain=peacocktv.com
@@ -760,6 +764,7 @@ $doc,removeparam=pdpClick
 $doc,removeparam=pgrp
 $doc,removeparam=pk_cid
 $doc,removeparam=plcmt,domain=grafana.com
+$doc,removeparam=priceTId,domain=tmall.com|taobao.com
 $doc,removeparam=psf_variant
 $doc,removeparam=pub,domain=indeed.com
 $doc,removeparam=ranEAID
@@ -812,11 +817,14 @@ $doc,removeparam=tracking_user
 $doc,removeparam=tt_content
 $doc,removeparam=tt_medium
 $doc,removeparam=ttclid
+$doc,removeparam=u_channel,domain=tmall.com|taobao.com
 $doc,removeparam=ucid,domain=unicredit.it|steampowered.com
 $doc,removeparam=uid_bam
+$doc,removeparam=umpChannel,domain=tmall.com|taobao.com
 $doc,removeparam=unp_tpcid
 $doc,removeparam=unptid
 $doc,removeparam=user_email_address
+$doc,removeparam=utparam,domain=tmall.com|taobao.com
 $doc,removeparam=vjk,domain=indeed.com
 $doc,removeparam=vsm_cid
 $doc,removeparam=vsm_pid
@@ -827,6 +835,7 @@ $doc,removeparam=wp_source,domain=ac24.cz|ambcrypto.com|glispa.com|whitepages.co
 $doc,removeparam=wt_mc
 $doc,removeparam=wt_zmc
 $doc,removeparam=xtor
+$doc,removeparam=xxc,domain=tmall.com|taobao.com
 $image,third-party,domain=avtb6677.com|lady1.top
 $popup,third-party,domain=downdv.com|rmdown.com|soyunpan.com|youtubeto.com
 $removeparam=%243p,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
@@ -2905,6 +2914,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 ?*__$~xmlhttprequest,removeparam=/^__[bce-z]/,domain=facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|messenger.com
 ?adid=
 ?adspot_
+?from=glia^$removeparam=from
 ?local_ga_js=
 @@$doc,removeparam=/^.*_dest_url=.*$/
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com

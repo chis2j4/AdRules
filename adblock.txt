@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-02-11 16:13:29（北京时间） 
-! Total count: 18971
+! Version: 2025-02-12 00:12:47（北京时间） 
+! Total count: 18970
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -728,7 +728,7 @@ $doc,removeparam=hashb
 $doc,removeparam=hashc
 $doc,removeparam=helpref,domain=whatsapp.com|facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|instagram.com
 $doc,removeparam=iId,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
-$doc,removeparam=icmp,domain=fortnite.com|lego.com
+$doc,removeparam=icmp,domain=fortnite.com|lego.com|ho-mobile.it
 $doc,removeparam=igshid
 $doc,removeparam=im_company
 $doc,removeparam=im_edp
@@ -848,7 +848,6 @@ $removeparam=/^.*arena_search_query=.*$/,domain=altabibliotek.no|berlevagbibliot
 $removeparam=/^.*arenaportlet_back_url=.*$/,domain=altabibliotek.no|berlevagbibliotek.no|finnmarksbibliotekene.no|gamvikbibliotek.no|hasvikbibliotek.no|karasjokbibliotek.no|kautokeinofolkebibliotek.no|lebesbybibliotek.no|loppabibliotek.no|masoybibliotek.no|nessebybibliotek.no|porsangerbibliotek.no|sor-varangerbibliotek.no|tanabibliotek.no|vadsobibliotek.no|vardobibliotek.no
 $removeparam=/^.*traffic_source=Connatix.*$/i
 $removeparam=/^CJEVENT=.*$/i,doc
-$removeparam=/^[a-z]?mc=/
 $removeparam=/^\~/,domain=boohoo.com|forever21.com
 $removeparam=/^action_(object|type|ref)_map=/
 $removeparam=/^asc_.*$/,doc,domain=amazon.*|aboutamazon.com|amzn.to

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-02-12 16:13:34（北京时间） 
-! Total count: 18970
+! Version: 2025-02-13 00:12:36（北京时间） 
+! Total count: 18971
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -3569,6 +3569,7 @@ baijiahao.baidu.com#?#.layer-item:contains(百度)
 baijiahao.baidu.com#?#div.layer-item:contains(打开)
 baijiahao.baidu.com#?#span:contains(打开APP)
 baijiahao.baidu.com#?#span:contains(打开百度APP)
+baike.baidu.com###J-attention-wrapper
 baike.baidu.com###J-bds_app
 baike.baidu.com###adLayerSideWrap
 baike.baidu.com##.BK-after-content-wrapper

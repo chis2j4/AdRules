@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-02-14 08:48:09（北京时间） 
+! Version: 2025-02-14 16:13:26（北京时间） 
 ! Total count: 18971
 -1325890192.cos.
 -960x*0.gif
@@ -7600,7 +7600,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||11mtmt.com/java/$script
 ||11qqmm.com/java/$script
 ||1205qitiao2022.xyz^
-||120askimages.com^
 ||121.43.235.135^
 ||1222dfm3l.cc^
 ||1224.zg-babyroo.com^
@@ -18812,6 +18811,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 114la.com,78dm.net,chinairn.com,dav01.com,qzwb.com,silver.org.cn,solidot.org,ylmf.com##.adv
 115.com##div.sub-qcode.bottom-qcode,div.top-banner,div.bottom-banner,DIV.banner-box,div[class^="code-tv"]
 118pan.com##.card.mt-2:nth-child(2)
+120ask.com##IFRAME[width='400']
 120ask.com##div.h-top-pic,.test_b,#top_img_bd
 123cha.com##div.n_ads_box,img[src^="./2568"]
 123du.cc###fgg2,#fgg1,#divtop2,#divtop1,[style^="height:252px;"],[style="height:200px;"]

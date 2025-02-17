@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-02-17 16:14:36（北京时间） 
-! Total count: 18971
+! Version: 2025-02-18 00:12:13（北京时间） 
+! Total count: 18983
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -384,6 +384,7 @@
 ##[style='width: 100%; height: 123.75px;']
 ##[style='width: 100%; height: auto; position: fixed; left: 0px; top: 0px; z-index: 2147483647;']
 ##[style='width:100%;height:auto;min-height:120px;position:relative;display:block;']
+##[style='z-index: 2147483647; width: 100%;height: auto;left: 0;right: 0;margin: auto;']
 ##[style='z-index: 99999; text-indent: -10em;position: relative; left: 0px;box-sizing: border-box;']
 ##[style^="pointer-events: none;background-image:url('https://33789.qqqwww987.site"],[style^='z-index: 2147483647; height: 123px; ']
 ##[style^='bottom: 0px; width: 100%; height: 50vw; position: fixed; left: 0px; right: 0px; margin: 0px; background: url("https://']
@@ -3743,6 +3744,9 @@ blog.weeiy.com##DIV.widget.d_banner,DIV.banner.banner-post
 blueidea.com##.listcontent
 bmd.hk##[src^="/Ad/"],[src^="Ad/"],[src^="../Ad/"]
 bnext.com.tw##.no_margin_ad_box,.rmax_bnner,.google-dfp
+bohe.cn##.ml-30
+bohe.cn##.mt20
+bohe.cn##IFRAME[width='400'][height='200']
 boke112.com##div.abc-pc.abc-site
 boke112.com,techweb.com.cn##a[href*=".aliyun.com"]
 bokon.net##.DivMainLeft{width: 990px;}
@@ -8278,6 +8282,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||98765432100.site^
 ||988878.com^
 ||98fen.com/wordpress/head.js
+||990215.xyz^
 ||999.com^
 ||99999999.club^
 ||999gg.net^
@@ -10727,6 +10732,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||demeiguoji.com^
 ||demizhe.com^
 ||deployads.com^
+||deqixs.com/config/v7.js
 ||derew6xbsc.xyz^
 ||dermstore.com^$removeparam=URL
 ||dertyhsf.xyz^
@@ -11198,6 +11204,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||epoun.top^
 ||epro.sogou.com^
 ||epu.1024txt.xyz^
+||epxlt.xyz^
 ||eqbyc.com^
 ||eqghuu.com^
 ||eqlidke.cn^
@@ -11388,6 +11395,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fengyx.com^
 ||feq853.com^
 ||feqii.com^
+||ffdm2.cc/ht_cpc.js
 ||ffgpol.com^
 ||ffmehcg.cn^
 ||ffmobi.com^
@@ -11493,6 +11501,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fptdxkm.com^
 ||fqceyqo.com^
 ||fqpxzr.xyz^
+||fqquzqd.top^
 ||fqxkj.cn^
 ||fraudmetrix.cn^
 ||frcykpk.cn^
@@ -12668,6 +12677,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ivzfpwm.cn^
 ||iwan.$third-party
 ||iweiweb.com^
+||ixbua.xyz^
 ||ixelrsd.cn^
 ||ixisivomer.com^
 ||ixjtpbj.cn^
@@ -12913,6 +12923,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||js?advertID=
 ||jsapi.html5.qq.com^
 ||jsczde.cn^
+||jsdelivr.vip^
 ||jsdocker.com^
 ||jsebmcv.cn^
 ||jsgdvkjz.com^
@@ -17626,6 +17637,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||x.heyzap.com/_/0/ad$app=com.iwantavnow
 ||x.jd.com^
 ||x.mtrend.cn^
+||x1abo.com^
 ||x3zy2.icu^
 ||x4jdm.tv/%7Bmaccms:path_ads%7D960901.js
 ||x4jdm.tv/gog.js

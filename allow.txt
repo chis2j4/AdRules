@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2025-02-26 16:14:14（北京时间） 
-! Total count: 2741
+! Version: 2025-02-27 00:13:20（北京时间） 
+! Total count: 2742
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4347,6 +4347,7 @@
 @@||cleverpush.com/channel/$script,domain=bsdex.de|heise.de
 @@||cleverpush.com/sdk/$script,domain=heise.de
 @@||click.appcast.io^|
+@@||click.avs.io^|
 @@||click.cptrack.de^|
 @@||click.simba.taobao.com^|
 @@||click.trafficguard.ai^|

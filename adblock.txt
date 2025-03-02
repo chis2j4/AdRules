@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-03-02 08:53:34（北京时间） 
-! Total count: 18989
+! Version: 2025-03-02 16:12:02（北京时间） 
+! Total count: 18991
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -341,6 +341,7 @@
 ##[rel='nofollow'][href^='/book/baidu_verify_code']
 ##[src$='/dibu.adadadad']
 ##[src$='anyhosthub-480x90.gif']
+##[src*='tif'][style='width:100%;height:120px'],[src*='tif'][onerror='this.style.display=\'none\'']
 ##[src*='zdmbl.xyz']
 ##[src='/images/c_l.png']
 ##[src='/static/ads.png']
@@ -14727,6 +14728,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||paimgcdn-feed.baidu.com^
 ||paimgcdn.baidu.com/huitu^
 ||palm-ad.cn^
+||palmertx.com/template/js/img-1.php
 ||pan.baidu.com/api/getconfig?
 ||pan.baidu.com/api/taskscore/tasklist?
 ||pan.baidu.com/rest/2.0/xpan/smartprogram?

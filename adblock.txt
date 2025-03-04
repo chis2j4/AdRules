@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-03-04 00:13:16（北京时间） 
-! Total count: 18990
+! Version: 2025-03-04 08:51:05（北京时间） 
+! Total count: 18996
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -1977,6 +1977,7 @@ $removeparam=sp_campaign
 $removeparam=sp_medium
 $removeparam=sp_source
 $removeparam=spm
+$removeparam=spm,domain=~twitcasting.tv
 $removeparam=spr,domain=media-cdn.costco.ca|media-cdn.costco.com
 $removeparam=sr_id,domain=reddit.app.link
 $removeparam=sr_name,domain=reddit.app.link
@@ -2307,6 +2308,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 .cn:*/sc/*?n=$third-party
 .cn:*/vh5$third-party
 .cn:8005/cc/*?is_not=
+.com/*/status/$doc,removeparam=t,domain=twitter.com|x.com
 .com/adv1/?q=
 .com/c.php?s=*=*=$third-party
 .com/candy*.js$third-party
@@ -10748,6 +10750,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||despiteto.com^
 ||destc10.icu^
 ||destc8.icu^
+||detail.chiebukuro.yahoo.co.jp^$doc,removeparam=__ysp
+||detail.chiebukuro.yahoo.co.jp^$doc,removeparam=fr
 ||detail.taobao.com^
 ||detect.mb.qq.com^
 ||dev.rubaoo.com/TimeDiaryV2^$app=idm.internet.download.manager.plus
@@ -14920,6 +14924,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||polkkqm.com^
 ||polkmerth.com^
 ||polkmnhytgb.com^
+||pond5.com^$removeparam=dd_referrer
 ||popads.net^
 ||popcash.net^
 ||poppyta.com^
@@ -15465,6 +15470,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||rmzbfum.cn^
 ||rndhaunteran.com^
 ||rnhqxh.com^
+||roblox.$removeparam=friendshipSourceType
 ||roblox.com^$removeparam=refPageId
 ||romiyee.icu^
 ||ronbbf.xyz^

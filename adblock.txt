@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-03-08 00:12:30（北京时间） 
-! Total count: 18996
+! Version: 2025-03-08 08:39:27（北京时间） 
+! Total count: 18999
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -3700,6 +3700,7 @@ bilibili.com###openAppBtn
 bilibili.com##.app-download-link
 bilibili.com##.bili-app
 bilibili.com##.bili-app-link-container
+bilibili.com##.btn-ad
 bilibili.com##.clearfix.h5-download-bar
 bilibili.com##.desktop-download-tip
 bilibili.com##.download-client-trigger.download-entry
@@ -6372,6 +6373,7 @@ to8to.com##.float,.quote_pic_adv
 tom.com##div#popupDivgame,.modad
 tompda.com##A.tsxb,div.shop_right_news2,embed[width="980px"][height="60px"],div[pageid],iframe[src^="http://www.tompda.com/adv/"],iframe#tsdxb_frame
 tongyi.aliyun.com##div[class^="downloadWrap"]
+tongyi.aliyun.com##ul > li:nth-child(2):not(:contains("效率"))
 tools.2345.com##div.p-tps
 top81.com.cn##[class^="ad_"]
 topfo.com##[src="http://zs.topfo.com/zt/kdgj/img/300_85.gif "],img[width="960px"][height="90px"],.con.jj-dk01
@@ -7280,6 +7282,7 @@ yshw1.com##[id^="diynews_ad"]
 ysts8.com##[class^="ads_"]
 yuanbao.tencent.com##.agent-dialogue__content-qrcode
 yuanbao.tencent.com##.icon-yb-downapp
+yuanbao.tencent.com##div[class^="index_pc_download"]
 yunpan.cn###clientDl
 yunvs.com##img[height="270"]
 yuyouge.com##.gad2,.adsbygoogle

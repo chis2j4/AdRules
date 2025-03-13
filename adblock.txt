@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-03-13 16:15:07（北京时间） 
-! Total count: 18994
+! Version: 2025-03-14 00:13:27（北京时间） 
+! Total count: 18989
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -3144,7 +3144,6 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 @@||mp.weixin.qq.com/mp/qrcode?$removeparam=scene
 @@||msn.wrating.com^
 @@||myaccount.google.*^$removeparam
-@@||myqqjd.com^
 @@||mywot.com/user/*/confirmNewEmail$removeparam=/^utm_.*$/i
 @@||news.google.com.*?hl=$removeparam
 @@||nodkey.xyz^$genericblock,generichide
@@ -3153,7 +3152,6 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 @@||openapi.youku.com/router^$app=com.huawei.hwvplayer.youku
 @@||p.jwpcdn.com^$script
 @@||package.wallpaper.cdn.pandora.xiaomi.com.lan^$important
-@@||pagead2.googlesyndication.com^$domain=myqqjd.com
 @@||pan.quark.cn^
 @@||photovms.tv.sohu.com/*/*_hor_small_1.jpg$app=com.sohu.sohuvideo,important
 @@||photovms.tv.sohu.com/*/-*_1.jpg$app=com.sohu.sohuvideo,important
@@ -3232,8 +3230,6 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 @@||www.bilibili.com/html/iframemessage.html
 @@||www.contestgirl.com^$removeparam
 @@||www.cyberport.de/adscript.php$removeparam
-@@||www.google-analytics.com^$domain=myqqjd.com
-@@||www.googletagmanager.com^$domain=myqqjd.com
 @@||www.gsxt.gov.cn^
 @@||www.lanzous.com/includes/js/jquery.js$domain=lanzous.com,important
 @@||www.mma.go.kr^$removeparam
@@ -3731,7 +3727,6 @@ bing.com,cn.bing.net##.adsMvC
 bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
 bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="=AdsPlus"])
 bing.com,cn.bing.net##.pa_sb
-bing.com,cn.bing.net##DIV#bnp_container
 bing.com,cn.bing.net##a[h$=",Ads"]
 bing.com,cn.bing.net##a[href*="/aclick?ld="]
 bing.com,cn.bing.net##li.b_ad

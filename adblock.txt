@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-03-14 08:50:46（北京时间） 
-! Total count: 18989
+! Version: 2025-03-14 16:13:58（北京时间） 
+! Total count: 18990
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -64,6 +64,7 @@
 ##.fed-part-advs.fed-text-center.fed-font-xvi
 ##.ff-ads
 ##.gr_slide_car_inner
+##.guding312
 ##.mi_btcon.ad
 ##.player_pic_link > [src*='/player.gif']
 ##.read-container [onclick='goAppHtml();']

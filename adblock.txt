@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-03-15 00:12:40（北京时间） 
-! Total count: 18991
+! Version: 2025-03-15 08:50:33（北京时间） 
+! Total count: 18993
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -1090,6 +1090,7 @@ $removeparam=ads_targetid
 $removeparam=adsafe_jsinfo
 $removeparam=adsafe_type
 $removeparam=adsafe_url
+$removeparam=adset_id
 $removeparam=adt_ei
 $removeparam=adtech_uid
 $removeparam=adtype
@@ -1357,7 +1358,7 @@ $removeparam=deep_and_deferred
 $removeparam=deep_link_sub1
 $removeparam=depth_1-utm_source
 $removeparam=detail_from
-$removeparam=device,domain=ebay.*
+$removeparam=device,domain=ebay.*|obs.no
 $removeparam=dfw_tracker
 $removeparam=dgcid
 $removeparam=did,domain=columbiasportswear.*|aws
@@ -14520,6 +14521,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||obgbok.com^
 ||obl74.xyz^
 ||obmphi.xyz^
+||obs.no^$removeparam=matchtype
 ||oceanbot-steam.com^
 ||oceancode.top^
 ||octopuspop.com^

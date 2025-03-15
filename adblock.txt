@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-03-15 08:50:33（北京时间） 
-! Total count: 18993
+! Version: 2025-03-15 16:12:21（北京时间） 
+! Total count: 18995
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -9543,6 +9543,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bd-a-1.appmobile.cn^
 ||bd-js.baixing.net^
 ||bd-js.duote.com^
+||bd-retrieval1.2345.com^
 ||bd.ahsrst.cn^
 ||bd.hao224.com^
 ||bd.haomagujia.com^
@@ -12103,6 +12104,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hhff111222.com^
 ||hhfun.cn^
 ||hhllyt.com^
+||hhplayer.com/cdn/fb.js
 ||hhttm.top^
 ||hhvip86.com^
 ||hhvip87.com^

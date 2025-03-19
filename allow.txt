@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2025-03-19 16:14:28（北京时间） 
-! Total count: 2743
+! Version: 2025-03-20 00:13:38（北京时间） 
+! Total count: 2745
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5789,6 +5789,7 @@
 @@||smotrim.ru/js/stat.js$script
 @@||smsonline.cloud^$generichide
 @@||smtcaw.com^$generichide
+@@||smtp.focusgroupresearch.com^|
 @@||smushcdn.com^*/1.gif$domain=retrounlim.com
 @@||snap.licdn.com/li.lms-analytics/insight.min.js$domain=msci.com
 @@||snva.jp/javascripts/reco/$script,domain=store.charle.co.jp
@@ -5982,6 +5983,7 @@
 @@||tkec.com.tw/api/ad/
 @@||tlaol.com^|
 @@||tlc.com^$generichide
+@@||tlh.gedidigital.it^|
 @@||tm.r-ad.ne.jp/128/ra346756.js$script,domain=hpdsp.net
 @@||tmall.com/add?
 @@||tmall.com/go/*/banner.php

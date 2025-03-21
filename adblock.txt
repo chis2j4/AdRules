@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-03-21 08:52:22（北京时间） 
-! Total count: 19003
+! Version: 2025-03-21 16:13:53（北京时间） 
+! Total count: 19006
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -3727,6 +3727,7 @@ bing.com###BottomAppPro
 bing.com###TopApp
 bing.com###id_mobile
 bing.com##DIV.sb_adsNv2,li.b_ad,div.OpInNwWndw
+bing.com,cn.bing.net###bnp_rich_div
 bing.com,cn.bing.net##.ad_sc
 bing.com,cn.bing.net##.adsMvC
 bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
@@ -4112,7 +4113,6 @@ douban.com##.lnk-doubanapp
 doubean.com##.ad-block-960
 doubibackup.com##footer.article-footer
 doupapa.com,dpp2019.com##.ad-body,.couplet_9cb0d,.dibu_9cb0d
-douyin.com##[class*='h5-ad-']
 douyu.com##.ClientJump
 douyu.com##.Download
 douyu.com##.Header-download-wrap
@@ -6078,6 +6078,9 @@ so.com##.res-mediav
 so.com##.res-mediav-right
 so.com##.tg-wrap
 so.com##DIV#m-google-top,DIV#so_kw-ad,DIV#m-spread-left,#so_bd-ad,#m-spread-bottom,.boxinner-r,div#bnbtm,.e_idea_wenda_spread,#e_idea_wenda_leftBox.result.e_clearfix,.commercialCell.cmcstyle2,.e_idea_list,.top-ads,.cmitem
+so.douyin.com##X-VIEW.container
+so.douyin.com##[class*='h5-ad-']
+so.douyin.com##[class^='layout-']
 so.toutiao.com##.relative.pointer-events-none
 so.toutiao.com##DIV[id^='ad_']
 so.toutiao.com##section.commonbox.hasfooter

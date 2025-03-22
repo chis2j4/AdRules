@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-03-22 16:12:40（北京时间） 
-! Total count: 19006
+! Version: 2025-03-23 00:11:18（北京时间） 
+! Total count: 19009
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -2383,6 +2383,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 .xyz/xefeliffng_$third-party
 .xyz/xling_*_*_*.js?
 .xyz:*/bug?*=$third-party
+.xyz:*/hm$third-party
 /(?::\/\/i1\.hoopchina\.com\.cn\/blogfile\/.+_\d{3}x\d{4})/
 /*/*.add.*.add
 /*AdapterNew.
@@ -3339,6 +3340,7 @@ adreep.cn,baoliny.com,gasaq.com,hgitv.com,ifooday.cn,nen.com.cn,rznews.cn##.guan
 advertisers.js|
 ahgame.com,china.com.cn,dandanzan.com,netbardh.com,pangzi.ca,twoeggz.com###pop
 ahhouse.com##div#side_tuan
+ai-chatbot.top##.right-14
 aiaibt.com##[id$="_vvva"],[id$="_vvvaxx"],[href^="http://gotoweburl."],[width="960"],[id="adfdiv"]
 aihami.com##.h250,.ad300x90,.ad960,.ad640x90,.adDingT,.context_ad,.n_fs2,[style*="height:90px;"],[style^="width:636px; height:"],[style*="width:635px; height:"],[style*="width:640px; height:"],#adTe,DIV[id^="f21ac82b21eeb7322631b6aa94e17f"]
 aikongke.com##div.banner.banner-post
@@ -18240,6 +18242,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||yxhjt.com^
 ||yxlady.com/cdd/201005/$script
 ||yxmrqc.com^
+||yxqmryq.top^
 ||yxtvg.com/*/yxtvg.js|
 ||yxvoud.com^
 ||yy.com/policy/

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-03-24 08:53:59（北京时间） 
-! Total count: 19009
+! Version: 2025-03-24 16:15:11（北京时间） 
+! Total count: 19011
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -6080,7 +6080,7 @@ so.com##.res-mediav
 so.com##.res-mediav-right
 so.com##.tg-wrap
 so.com##DIV#m-google-top,DIV#so_kw-ad,DIV#m-spread-left,#so_bd-ad,#m-spread-bottom,.boxinner-r,div#bnbtm,.e_idea_wenda_spread,#e_idea_wenda_leftBox.result.e_clearfix,.commercialCell.cmcstyle2,.e_idea_list,.top-ads,.cmitem
-so.douyin.com##X-VIEW.container
+so.douyin.com##X-VIEW.inner.PrimaryBG-light
 so.douyin.com##[class*='h5-ad-']
 so.douyin.com##[class^='layout-']
 so.toutiao.com##.relative.pointer-events-none
@@ -13589,6 +13589,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||lpeolfa.top^
 ||lpjxzs.com^
 ||lpmzt.cn^
+||lpo03240aou.com^
 ||lpocne.top^
 ||lpqhkj.cn^
 ||lpsxssm.com^
@@ -17096,6 +17097,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||vwfppr.xyz^
 ||vwhi.gou.sogou.com^
 ||vwtjvd.xyz^
+||vxcewh.cn^
 ||vxhsj.cn^
 ||vxhtxt.xyz^
 ||vxinzheng.xyz^

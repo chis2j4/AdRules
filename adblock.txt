@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-03-25 16:14:37（北京时间） 
-! Total count: 19011
+! Version: 2025-03-26 00:12:17（北京时间） 
+! Total count: 19015
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -2384,6 +2384,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 .xyz/xling_*_*_*.js?
 .xyz:*/bug?*=$third-party
 .xyz:*/hm$third-party
+.xyz:*/js/b.php?v=*
 /(?::\/\/i1\.hoopchina\.com\.cn\/blogfile\/.+_\d{3}x\d{4})/
 /*/*.add.*.add
 /*AdapterNew.
@@ -2688,6 +2689,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 /js/qiguo.js
 /js/sjxf.
 /js/statistics/user_ad.js
+/js/tj.js
 /js/wap2-jm-zz.js
 /js/wap9.js
 /js/wg.js?
@@ -3280,6 +3282,7 @@ Ref=CJ^$doc,removeparam=ref
 ^z=*&var=$removeparam=var,doc
 _/bigREDcat.css?
 _/bigREDdog.js
+_300x250.js
 _ad&callback=
 _ad.htm
 _ad/*.js*$domain=~mp.weixin.qq.com
@@ -7944,6 +7947,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||51gongxiao.com^
 ||51jqq.top^
 ||51kaowang.com^
+||51korean.com^
 ||51la.net^
 ||51link.com^
 ||51minbingtuan.net^

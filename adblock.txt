@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-03-26 08:52:17（北京时间） 
-! Total count: 19015
+! Version: 2025-03-26 16:14:18（北京时间） 
+! Total count: 19018
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -2906,6 +2906,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 ://ipv6.google.com^$doc,removeparam=ie,domain=www.google.*|ipv6.google.com
 ://js.static.*/share/*.js$third-party
 ://js.static.*ping*
+://pic*.com/upload/*.js$third-party
 ://www.*.js|$script,third-party,domain=159i.com|thisav.com
 ://www.ebay.$doc,removeparam=/^itm[a-zA-Z0-9].*$/
 ://www.google.$doc,removeparam=ie,domain=www.google.*|ipv6.google.com
@@ -14843,6 +14844,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pic.ntxfr.cn/banner/*.jpeg$domain=m.shuquge.com
 ||pic.qiantucdn.com^$domain=soxx.cc
 ||pic0.iqiyipic.com/common/*/*.jpg$domain=iqiyi.com,third-party
+||pic22222.com^
 ||pica-pica.wikawika.xyz/static/banner_game.gif
 ||pifa.fobshanghai.com/link/$image
 ||pigewang.com.cn^
@@ -15295,6 +15297,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qweasd.vip^
 ||qweewq2021.online^
 ||qwer220.cn^
+||qwerhao.com^
 ||qwertyuadf.com^
 ||qwrnkpow.com^
 ||qwsy.com/script/TuiGuang.js

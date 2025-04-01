@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-04-01 08:59:29（北京时间） 
-! Total count: 19029
+! Version: 2025-04-01 16:14:57（北京时间） 
+! Total count: 19031
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -192,6 +192,7 @@
 ##DIV[id*="BAIDU_SSP__wrapper_"]
 ##DIV[style$='display:block;width:9.6vw;height:7.96875vw;background: #000;opacity:0.01;']
 ##DIV[style$='display:block;width:9.6vw;height:7.96875vw;background:#000;opacity:0.01;']
+##DIV[style$='width:9.6vw;height:7.96875vw;background: #000;opacity:0.01;']
 ##DIV[style*='!important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important; line-height: 0px !important; height: 150px !important;']
 ##DIV[style*='.xyz/gif/']
 ##DIV[style*='animation: 1s ease 0.2s infinite normal none running shakegwegs; z-index:'][style*='background: url']
@@ -10801,6 +10802,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dgvkrt.xyz^
 ||dgxlm.xyz^
 ||dh.xfplay.com/home/home_game_new_*.json
+||dh1dh.top^
 ||dhapp.qianhaitech.cn/api/ad^
 ||dheear.site^
 ||dherea.site^

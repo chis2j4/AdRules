@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-04-01 16:14:57（北京时间） 
-! Total count: 19031
+! Version: 2025-04-02 00:12:26（北京时间） 
+! Total count: 19033
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -900,7 +900,7 @@ $removeparam=3rdpcid
 $removeparam=ACRID
 $removeparam=AFFNAME
 $removeparam=AFID,domain=~chggtrx.com|~state.gov
-$removeparam=AID,doc,denyallow=firestore.googleapis.com,domain=~google.*|~disqus.*|~disquscdn.com
+$removeparam=AID,doc,denyallow=firestore.googleapis.com,domain=~google.*|~disqus.*|~disquscdn.com|~gov
 $removeparam=ASID
 $removeparam=ASUBID
 $removeparam=AV_C_USER_ID
@@ -2106,7 +2106,9 @@ $removeparam=ttd_tdid
 $removeparam=ttduuid
 $removeparam=turn_id
 $removeparam=tvh,domain=hotspotshield.com|gethotspotshield.com
+$removeparam=tw_adid
 $removeparam=tw_document_href
+$removeparam=tw_source
 $removeparam=twclid
 $removeparam=twitchReferral
 $removeparam=u,domain=change.org

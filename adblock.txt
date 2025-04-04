@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-04-04 16:14:30（北京时间） 
-! Total count: 19032
+! Version: 2025-04-05 00:12:55（北京时间） 
+! Total count: 19034
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -1845,6 +1845,7 @@ $removeparam=rbx_campaign
 $removeparam=rbx_medium
 $removeparam=rbx_source
 $removeparam=rcode,domain=kucoin.com
+$removeparam=rdid,domain=facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
 $removeparam=rec,domain=argos.co.uk|roboform.com
 $removeparam=recs_page_type,domain=nordstrom.com
 $removeparam=recs_placement,domain=nordstrom.com
@@ -5036,6 +5037,7 @@ letsebuy.com##DIV[style="margin: 10px auto -5px; width: 1000px;"]
 letv.com###j-bottomBanner
 lewen8.com##.cad
 lexun.com###leshop,.news_adImg
+lianjia.com##.app_daoliu_layer
 lianzifang.com##.widget_advert
 licai18.com##embed,[width="550"][height="60"]
 liebao.cn##[class^="ads_"],[class$="_ad"],.bottom_ad_1000,.detail_ads_append,.ad_auto_detail,.qr_game_group

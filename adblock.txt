@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-04-05 08:51:36（北京时间） 
-! Total count: 19041
+! Version: 2025-04-05 16:12:40（北京时间） 
+! Total count: 19043
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -18767,8 +18767,10 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 36dm.com##[href^="/qxads/ads"],a[href="http://www.acgsou.com/"]
 36kr.com##.app-track-banner-outer
 36kr.com##.float-app-button-wrp
+36kr.com##.float-home-button-wrp
 36kr.com##.goapp-btn
 36kr.com##.goapp-wrapper > .kr-mobile-goapp
+36kr.com##.interact-area
 36kr.com##.open-app-fixed
 36kr.com##.phone
 36kr.com##.show.article-top-swiper-goapp

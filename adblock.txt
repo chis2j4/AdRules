@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-04-05 16:12:40（北京时间） 
+! Version: 2025-04-06 00:11:08（北京时间） 
 ! Total count: 19043
 -1325890192.cos.
 -960x*0.gif
@@ -739,6 +739,7 @@ $doc,removeparam=igshid
 $doc,removeparam=im_company
 $doc,removeparam=im_edp
 $doc,removeparam=intc,domain=citi.com
+$doc,removeparam=irclickid,domain=~axs.com
 $doc,removeparam=irgwc
 $doc,removeparam=ito
 $doc,removeparam=jmtyClId
@@ -1565,7 +1566,6 @@ $removeparam=iradid
 $removeparam=iradtype
 $removeparam=ircid
 $removeparam=irclicid
-$removeparam=irclickid
 $removeparam=irclid
 $removeparam=irmpname
 $removeparam=irmptype

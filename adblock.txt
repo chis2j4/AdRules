@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-04-05 00:12:55（北京时间） 
-! Total count: 19034
+! Version: 2025-04-05 08:51:36（北京时间） 
+! Total count: 19041
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -3087,6 +3087,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 @@||ecitic.com^
 @@||ecmb.bdimg.com/*.jpg
 @@||ecmb.bdimg.com/*.png
+@@||edith.xiaohongshu.com/api/sns/web/v1/user/hover_card$removeparam
 @@||eiv.baidu.com/fcimg
 @@||email-link.$removeparam
 @@||exoclick.com/iframe.php?*=2596969&$domain=jav777.cc
@@ -11515,6 +11516,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||foisml.com^
 ||fooid.xyz^
 ||forad1.weimeicun.com^
+||forbes.com^$removeparam=sh
 ||forestseasons.com.cn^
 ||forflygonom.com^
 ||forms.office.com^$removeparam=route
@@ -13980,6 +13982,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||metrics2.data.hicloud.com^
 ||metricswpsh.com^
 ||metrika.yandex.ru^
+||metro.co.uk^$removeparam=ito
 ||metvb.com/js/z.js
 ||mf01.zybang.com^
 ||mfe.paqpq.com^
@@ -16344,6 +16347,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||te37w.cn^
 ||techain.baidu.com/plugin/v1^$app=com.baidu.yuedu
 ||techain.baidu.com^
+||techcrunch.com^$removeparam=guccounter
+||techcrunch.com^$removeparam=guce_referrer
+||techcrunch.com^$removeparam=guce_referrer_sig
 ||techcrunch.com^$removeparam=ncid
 ||techcrunch.com^$removeparam=sr
 ||techcrunch.com^$removeparam=sr_share
@@ -16413,6 +16419,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||thesac8.top^
 ||thesac9.top^
 ||thetestpage.39.net^$script
+||thetimes.co.uk^$removeparam=shareToken
 ||thewindrun.com^
 ||thezbpe5*.xyz^
 ||thinkmd.cn^

@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-04-08 08:52:47（北京时间） 
+! Version: 2025-04-08 16:15:35（北京时间） 
 ! Total count: 19043
 -1325890192.cos.
 -960x*0.gif
@@ -1895,6 +1895,7 @@ $removeparam=repost,domain=nbcnews.com|sacurrent.com
 $removeparam=req_id,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 $removeparam=ret,domain=shein.com
 $removeparam=retailAttributionToken
+$removeparam=retailerSlug
 $removeparam=returnFromLogin,domain=amazon.*
 $removeparam=rffrid
 $removeparam=rfrr,domain=ebookers.*|hotels.com
@@ -1917,7 +1918,7 @@ $removeparam=rx_job,domain=cvshealth.*
 $removeparam=rx_p,domain=cvshealth.*
 $removeparam=rx_source,domain=cvshealth.*
 $removeparam=rx_ts,domain=cvshealth.*
-$removeparam=s,domain=greenhouse.io|mothership.sg|spreadprivacy.com|youku.com|nextdoor.com
+$removeparam=s,domain=greenhouse.io|mothership.sg|spreadprivacy.com|youku.com|nextdoor.com|qwant.com
 $removeparam=sClickID
 $removeparam=sExtCookieId
 $removeparam=s_afcid
@@ -11297,7 +11298,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||events3.adccache.cn/t/5.0^$app=com.iwantavnow
 ||events3alt.adcolony.com^
 ||everesttech.net^$removeparam=/^ev_.*$/
-||everyplay.live^$removeparam=_gl
 ||evidhjksdtgyxrh.xyz^
 ||evtubescms.phncdn.com^
 ||evtubescms.phncdn.com^$redirect=noopmp4-1s
@@ -12597,6 +12597,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||insenz.com^
 ||insfengdata.com^
 ||insights.hotjar.com^
+||instacart.com^$removeparam=improvedParams
 ||instagram.*.fna.fbcdn.net^$removeparam=ccb,domain=~instagram.com
 ||instagram.com^$doc,removeparam=igsh
 ||instagram.com^$doc,removeparam=short_redirect
@@ -15309,7 +15310,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||qw2v.taoxiehui.cn^
 ||qwant.com^$removeparam=client
 ||qwant.com^$removeparam=hti
-||qwant.com^$removeparam=s
 ||qwcwnjk.com^
 ||qwdbsjnql.com^
 ||qwe0231141.bj.bcebos.com^

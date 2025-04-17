@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-04-17 08:53:30（北京时间） 
-! Total count: 19046
+! Version: 2025-04-17 16:15:24（北京时间） 
+! Total count: 19052
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -2329,6 +2329,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 .com/sh/*.js$third-party
 .com/xz/*?token8=
 .com:*.js?v=17*$third-party
+.com:*/api/v4/*?*=$third-party
 .com:*/cc/*?is_not=*&target=*
 .com:*/d/*?c=*$third-party
 .com:*/sc/*?n=$third-party
@@ -2360,6 +2361,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 .top/*/*.js?ts=*$third-party
 .top/*/2022*/.js$third-party
 .top/*_*_vw*sbjs?$third-party
+.top/*cx?17$third-party
 .top/*q=*form=*&*url=http*$third-party
 .top/?token=$third-party
 .top/gluinfo.php?s=$third-party
@@ -2828,6 +2830,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 /sta.js?debug=
 /stat.asp
 /statIwt_
+/static/2biqu/twgdh.js
 /static/jietiandixs/jtd.js$~third-party
 /static/js/bds_
 /static/js/miniyyrtv-config.js
@@ -2914,6 +2917,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 00sy.com##div.dahengfu,div.header,div.ad360,p[class="tl pd8 pd10"] + ul
 00sy.net##.dahengfu,.ad360,[style*="height:250px;"]
 0du123.com,24en.com,3gsc.com.cn,591hx.com,5g0a.com,acgnx.se,aguitar.cn,btzx2017.com,e0514.com,eastmoney.com,guitarchina.com,gz0668.com,hk.on.cc,iciba.com,iguaji.com,iqiyi.com,jia360.com,joy.cn,kdnet.net,kumi.cn,manyuancs8.xyz,newnet.cc,rain2.top,tiboo.cn,toocle.com,wallstreetcn.com,xingkbjm.com,xizi.com,zgfznews.com,zyue.com##.banner
+://*.yinghua*.*/bar$~third-party
 ://*mp4*/js/wcount.js$~third-party
 ://ipv6.google.com*/search^$removeparam=entrypoint
 ://ipv6.google.com*/search^$removeparam=kgs
@@ -7795,6 +7799,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||28.fyimg.kukuplay.com/plugins/EggModuleV5.1.swf
 ||2a.com.cn^
 ||2axpwa4.xyz^
+||2biqu.com/static/*/*.js
 ||2bj.cn^
 ||2cnjuh34jbpoint.com^
 ||2cursjb.com^
@@ -12155,6 +12160,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hikykhz.icu^
 ||hilltopads.net^
 ||hinta.fi^$removeparam=v
+||hiooq0417.com^
 ||hioqbb99.biqugeso.com^
 ||hiorange1.jobui.com^
 ||hiphotos.baidu.com/fex/pic/item^

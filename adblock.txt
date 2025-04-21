@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-04-21 00:11:24（北京时间） 
-! Total count: 19054
+! Version: 2025-04-21 08:57:05（北京时间） 
+! Total count: 19057
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -16417,6 +16417,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||thefocusfuel.com^$removeparam=snowball,doc
 ||theguardian.com^$removeparam=CMP
 ||thehackernews.com^$removeparam=_m
+||thehill.com^$removeparam=email
+||thehill.com^$removeparam=emaila
+||thehill.com^$removeparam=emailb
 ||thejierou.net^
 ||thekat.nz/u/$script
 ||thekat.se^$script

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-04-23 16:15:15（北京时间） 
-! Total count: 19058
+! Version: 2025-04-24 00:14:08（北京时间） 
+! Total count: 19059
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -4435,6 +4435,7 @@ halidown.com##.new_head_ad,#down_emptyids,[id^="movie_show_"]
 hanfan.cc##ins.adsbygoogle,div.widget_ui_ads
 hanhuazu.cc##.ad,[id^="ad"]
 hanime.tv##.smart-banner-content,.golden-saucer
+hanime1.me#@#[class*="juicyads"]
 hanman/static/dist/ppm/js/main.js
 hanyu.baidu.com###J_Suspens
 hanyu.baidu.com###download-wrapper

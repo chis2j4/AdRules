@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-04-30 08:55:03（北京时间） 
-! Total count: 19065
+! Version: 2025-04-30 16:15:13（北京时间） 
+! Total count: 19070
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -2686,6 +2686,10 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 /js/fumeiti.js
 /js/gg123/*
 /js/htmlk*.js
+/js/htmlk*.js$~third-party
+/js/htmlka.js
+/js/htmlkb.js
+/js/htmlkc.js
 /js/js/css.js
 /js/js4.js
 /js/lmdas.js
@@ -2919,6 +2923,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 00sy.net##.dahengfu,.ad360,[style*="height:250px;"]
 0du123.com,24en.com,3gsc.com.cn,591hx.com,5g0a.com,acgnx.se,aguitar.cn,btzx2017.com,e0514.com,eastmoney.com,guitarchina.com,gz0668.com,hk.on.cc,iciba.com,iguaji.com,iqiyi.com,jia360.com,joy.cn,kdnet.net,kumi.cn,manyuancs8.xyz,newnet.cc,rain2.top,tiboo.cn,toocle.com,wallstreetcn.com,xingkbjm.com,xizi.com,zgfznews.com,zyue.com##.banner
 ://*.yinghua*.*/bar$~third-party
+://*banzhu*/js/cdn.js$~third-party
 ://*mp4*/js/wcount.js$~third-party
 ://ipv6.google.com*/search^$removeparam=entrypoint
 ://ipv6.google.com*/search^$removeparam=kgs

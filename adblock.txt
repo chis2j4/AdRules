@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-05-02 08:55:14（北京时间） 
-! Total count: 19075
+! Version: 2025-05-02 16:14:55（北京时间） 
+! Total count: 19077
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -3681,6 +3681,7 @@ bbs.meizu.cn##.download
 bbs.my5600.com##img[src^="http://a.ajaj.be/img/"]
 bbs.ncar.cc##div[style^="background-color:#F"],[width="500"][height="90"],[width="234"][height="375"]
 bbs.ngacn.cc###postsign0,.adsc.adsch
+bbs.oneplus.com##.oneplus-app
 bbs.pinggu.org##div#mama_tips_right_bottom
 bbs.qieerxi.com##DIV.wp.a_t,DIV.a_pb
 bbs.qyer.com##iframe[src^="http://ad.qyer.com/www/delivery/afr.php?zoneid="]
@@ -5044,6 +5045,7 @@ ledinside.cn##.floatAD,[id^="ad-"],#center-block-0,#center-block-1,#center-block
 leiphone.com##div.lph-top-ad,.zhiqu-ads
 lejj.com##div.dw_ad,div.sideTest,div.ad_link,div#JS_zx_page_ad
 leju.com##.leju-ads,.close_btn
+lenovo.com.cn##.downloadBar
 lepan.cc,sx566.com##DIV[id^="BAIDU_DUP_wrapper_"],DIV[class^="banner_"],DIV[style^="width: 250px; height: 250px;"],DIV.ad,DIV[style^="width:960px;height:"],DIV[style="width=360px;height:80px;"],DIV.content_r.fr.w_305,DIV.fmright,IMG[src="/system/templates/32666/250.gif"],div.alert_windows,p.flip
 lepanc.com##.alert_windows
 leqiuba.com###wxad
@@ -5285,7 +5287,6 @@ m.ku6.com##div#tcly
 m.laonanren.com##.newsList2
 m.lemall.com##div#footSwarpAd
 m.lenovo.com.cn##.bottomOpenAppBtn
-m.lenovo.com.cn##.downloadBar
 m.letv.com##div#j-dl-fixtip,div#j-bottomBanner
 m.lianjia.com##.agent_download_head.arrow.agent_download.lazyload_ulog.flexbox.pictext
 m.lianjia.com##.contact_agent.fixed_bar
@@ -5655,6 +5656,7 @@ onlinedown.net##.gg300
 onlinedown.net##DIV.adr,DIV.adv,DIV.gameunion,DIV.banner_1,DIV#leftad514,DIV[class^="ad_right_"],div.indexad,div.taobaoad,.downxzqad,.downgs,.btmAD
 op.gg##.vm-placement,[class^="ads"]
 open-open.com##[src^="http://www.open-open.com/gg_images/"]
+opposhop.cn##.oc-hairline--bottom.welcome-wrapper
 opticsky.cn##[height="60"],.adsbygoogle
 or123.top##.qfe_wrapper > div > a[href^="http"]:not([href*="or123."])
 orsoon.com###youxi,#adsmid,.AD6,.ad_show,.ad_show_1,.ad_show_2,[width="870"][height="60"]

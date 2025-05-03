@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-05-03 08:53:44（北京时间） 
-! Total count: 19077
+! Version: 2025-05-03 16:13:02（北京时间） 
+! Total count: 19084
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -2321,6 +2321,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 .cn:*/vh5$third-party
 .cn:8005/cc/*?is_not=
 .com/*/status/$doc,removeparam=t,domain=twitter.com|x.com
+.com/5y*/31*.$~third-party
 .com/adv1/?q=
 .com/c.php?s=*=*=$third-party
 .com/candy*.js$third-party
@@ -2368,6 +2369,9 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 .top/gluinfo.php?s=$third-party
 .userapi.com/impg^$removeparam=proxy
 .userapi.com/impg^$removeparam=type
+.vip/facaishang.js
+.vip/facaishen*.js$~third-party
+.vip/happyxia.js
 .xyz$domain=btsj6.com|yinghua8.tv|iyinghua.io|yhdmba.net|xiakexsw.com
 .xyz/$domain=pan.huang1111.cn
 .xyz/*0*0*==$third-party
@@ -2837,6 +2841,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 /stat.asp
 /statIwt_
 /static/2biqu/twgdh.js
+/static/83zg/tss.js
 /static/jietiandixs/jtd.js$~third-party
 /static/js/bds_
 /static/js/miniyyrtv-config.js
@@ -2923,6 +2928,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 00sy.com##div.dahengfu,div.header,div.ad360,p[class="tl pd8 pd10"] + ul
 00sy.net##.dahengfu,.ad360,[style*="height:250px;"]
 0du123.com,24en.com,3gsc.com.cn,591hx.com,5g0a.com,acgnx.se,aguitar.cn,btzx2017.com,e0514.com,eastmoney.com,guitarchina.com,gz0668.com,hk.on.cc,iciba.com,iguaji.com,iqiyi.com,jia360.com,joy.cn,kdnet.net,kumi.cn,manyuancs8.xyz,newnet.cc,rain2.top,tiboo.cn,toocle.com,wallstreetcn.com,xingkbjm.com,xizi.com,zgfznews.com,zyue.com##.banner
+:*/xcdn*/js/_init.js?$third-party
 ://*.yinghua*.*/bar$~third-party
 ://*banzhu*/js/cdn.js$~third-party
 ://*mp4*/js/wcount.js$~third-party
@@ -12053,6 +12059,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hasgde.site^
 ||hauchi.com.tw^
 ||hauqou.top^
+||hax.co.id/dist/js/ajax.js
 ||haxdu.org/hi18/guding
 ||hbalx.cn^
 ||hbandier.com^

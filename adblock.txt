@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-05-04 09:00:39（北京时间） 
-! Total count: 19084
+! Version: 2025-05-04 16:13:08（北京时间） 
+! Total count: 19087
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -3160,6 +3160,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 @@||linkstars.com/union/
 @@||list-manage.com
 @@||livew.l.qq.com/crossdomain.xml
+@@||lobechat.com/_next/static/chunks/
 @@||loc.map.baidu.com/sdk.php$app=com.baidu.BaiduMap
 @@||local.adguard.org^$important
 @@||login.aliexpress.us^$removeparam
@@ -4472,6 +4473,8 @@ haote.com##.ztFocus
 haowj.com.cn##DIV.ad_top,DIV[id^="ad_pc_"]
 happymh.com##[src="https://c.nationaltcm.com/ad/tm1111dd.png"]
 happytogether2015.com##img[src^="http://p5.urrpic.com/2015/upload/image/"],img[width="760"][height="75"]
+hax.co.id#@#.ad-box
+hax.co.id#@#.ad-wrapper
 haxiu.com##.feedcomm,#pagelet-ad_taobao
 hb.ifeng.com###leftdl,#rightdl
 hb.qq.com##DIV.ad001,DIV#sideBars > DIV#tab,UL.tithd1107,DIV[style*="height:60px; width:1000px"],embed[src^="http://mat1.gtimg.com/hb/ad/"],div.absolute[id^="couplet_auto_gen_"],DIV#yashenghuo.common_channel + DIV.clear + DIV,div#hb_LMove,DIV.navigate + DIV.nav + DIV,DIV.navigate + DIV.nav + * + * + DIV,DIV.navigate + DIV.nav + * + * + * + DIV,.ad1

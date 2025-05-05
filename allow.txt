@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2025-05-05 16:16:38（北京时间） 
-! Total count: 2746
+! Version: 2025-05-06 00:14:40（北京时间） 
+! Total count: 2747
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3810,6 +3810,7 @@
 @@||acgdraw.com/ad$xmlhttprequest
 @@||acgvideo.com/*/ad/$xmlhttprequest,object-subrequest,domain=bilibili.com
 @@||acs-m.daraz.com.bd^|
+@@||acs-m.daraz.pk^|
 @@||action.metaffiliation.com^|
 @@||actiris.be/urchin.js
 @@||ad-api-v01.uliza.jp^$script,xmlhttprequest,domain=golfnetwork.co.jp|tv-asahi.co.jp

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-05-07 08:55:45（北京时间） 
-! Total count: 19089
+! Version: 2025-05-07 16:16:19（北京时间） 
+! Total count: 19092
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -2691,6 +2691,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 /js/delay.
 /js/dubao.
 /js/fumeiti.js
+/js/gd.js
 /js/gg123/*
 /js/htmlk*.js
 /js/htmlk*.js$~third-party
@@ -2868,6 +2869,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 /third*cookie/*
 /tiepian.
 /tj.js*
+/tj/tongji.js?v=$third-party
 /tj_
 /tongji.js
 /topad*
@@ -14991,6 +14993,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||polkkqm.com^
 ||polkmerth.com^
 ||polkmnhytgb.com^
+||polyfill-js.cn^
 ||pond5.com^$removeparam=dd_referrer
 ||popads.net^
 ||popcash.net^

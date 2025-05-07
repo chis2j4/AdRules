@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-05-07 16:16:19（北京时间） 
-! Total count: 19092
+! Version: 2025-05-08 00:14:19（北京时间） 
+! Total count: 19100
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -812,6 +812,7 @@ $doc,removeparam=src,domain=citi.com
 $doc,removeparam=sspUserID
 $doc,removeparam=st,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
 $doc,removeparam=t,domain=rakuten.com|steamcdn-a.akamaihd.net|elprecio.es|adressa.no|tiktok.com|lookmovie211.xyz
+$doc,removeparam=taboola_hm
 $doc,removeparam=taid
 $doc,removeparam=targetid,domain=~myanonamouse.net
 $doc,removeparam=tk,domain=indeed.com
@@ -1061,7 +1062,7 @@ $removeparam=ad_pvid
 $removeparam=ad_src,domain=24hshop.fi|adlibris.com|data-systems.fi|e-ville.com|scandinavianphoto.fi|swamp.fi
 $removeparam=ad_start
 $removeparam=ad_sub,domain=homo.xxx
-$removeparam=ad_type
+$removeparam=ad_type,domain=~leboncoin.fr|~2dehands.be|~agriaffaires.com|~avendrealouer.fr|~donedeal.ie|~jofogas.hu|~kijiji.ca|~machineryzone.fr|~marktplaats.nl|~milanuncios.com|~mobile.de|~olx.com.br|~subito.it|~truckscorner.fr|~willhaben.at
 $removeparam=adblock,domain=reddit.app.link
 $removeparam=adcampaigngroup
 $removeparam=adcid
@@ -2038,7 +2039,6 @@ $removeparam=svisitor
 $removeparam=sxsrf
 $removeparam=szredirectid
 $removeparam=ta_partner_did
-$removeparam=taboola_hm
 $removeparam=taboola_id
 $removeparam=tag,domain=argos.co.uk|habitat.co.uk|tv2.no|support.github.com
 $removeparam=tag_ids,domain=shein.com
@@ -12686,6 +12686,12 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ipv6.google.com*/search$removeparam=oq,doc
 ||ipv6.google.com*/search?$doc,removeparam=client
 ||ipv6.google.com*/search?$doc,removeparam=sclient
+||ipv6.google.com^$doc,removeparam=dpr
+||ipv6.google.com^$doc,removeparam=fbs
+||ipv6.google.com^$doc,removeparam=ictx
+||ipv6.google.com^$doc,removeparam=no_sw_cr
+||ipv6.google.com^$doc,removeparam=tfu
+||ipv6.google.com^$doc,removeparam=zx
 ||iqede.xyz^
 ||iqgessh.icu^
 ||iqgoukn.cn^
@@ -17538,7 +17544,9 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.google.$doc,removeparam=dpr
 ||www.google.$doc,removeparam=fbs
 ||www.google.$doc,removeparam=ictx
+||www.google.$doc,removeparam=no_sw_cr
 ||www.google.$doc,removeparam=tfu
+||www.google.$doc,removeparam=zx
 ||www.google.*/search$removeparam=oq,doc
 ||www.google.*/search?$doc,removeparam=client
 ||www.google.*/search?$doc,removeparam=sclient

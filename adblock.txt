@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-05-21 16:15:53（北京时间） 
-! Total count: 19146
+! Version: 2025-05-22 00:14:24（北京时间） 
+! Total count: 19148
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -3017,6 +3017,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
 @@.com/o.js$domain=2biqu.com
 @@.png#$domain=9zvip.net|club.tgfcer.com|coolinet.com|d1-dm.com
+@@/Netaxept.jsp?$removeparam
 @@/^https?:\/\/([a-z0-9-\.])*(chat|drive)\.google\.com\/videoplayback/$removeparam
 @@/^https?:\/\/([a-z0-9-]+\.)*?(cloudflare\.com|prismic\.io|tangerine\.ca|gitlab\.com)/$removeparam
 @@/^https?:\/\/([a-z0-9-]+\.)*?amazon(\.[a-z]{2,}){1,}\/(hz\/reviews-render\/ajax\/|message-us\?|s\?)/$removeparam
@@ -3278,6 +3279,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 @@||qun.qq.com^$important
 @@||res.yyets.com/ads/mediav-250.js
 @@||seasungame.com/ad/
+@@||secure.kps-payment.de^$removeparam
 @@||securepubads.g.doubleclick.net/gampad/ads?$domain=league-funny.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=league-funny.com
 @@||sobot.com^

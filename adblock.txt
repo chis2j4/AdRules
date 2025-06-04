@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-06-04 08:57:48（北京时间） 
-! Total count: 19158
+! Version: 2025-06-04 16:16:21（北京时间） 
+! Total count: 19159
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -4207,6 +4207,8 @@ dop2p.com##div.brand
 dospy.com##div#ad,div#phoneimg,div.com-adm,.fixed
 douban.com###dale_movie_subject_middle_right,#dale_movie_subject_top_right,#dale_movie_subject_bottom_super_banner,#dale_movie_home_top_right,#dale_movie_homepage_bottom
 douban.com##.lnk-doubanapp
+douban.com##IFRAME[width='315']
+douban.com##div.center [style*='padding: 4px;']
 doubean.com##.ad-block-960
 doubibackup.com##footer.article-footer
 doupapa.com,dpp2019.com##.ad-body,.couplet_9cb0d,.dibu_9cb0d
@@ -5291,7 +5293,6 @@ m.douban.com##.write-review
 m.douban.com##[href^="https://erebor.douban.com/monitor/"]
 m.douban.com##div.center
 m.douban.com##div.center > div
-m.douban.com##div.center [style*='padding: 4px;']
 m.douban.com##h2 > [href^="https://www.douban.com/doubanapp/card/get_app"]
 m.douban.com#?#a:contains(用App看更多)
 m.douban.com#?#div:matches-css(width:68px)

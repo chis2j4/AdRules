@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-06-09 16:17:31（北京时间） 
-! Total count: 19160
+! Version: 2025-06-10 00:14:21（北京时间） 
+! Total count: 19161
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -2180,7 +2180,6 @@ $removeparam=usqp,domain=gstatic.com|cdn.ampproject.org
 $removeparam=utmid
 $removeparam=uzcid
 $removeparam=variant,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
-$removeparam=variationId
 $removeparam=vc_lpp
 $removeparam=ved,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
 $removeparam=vero_conv
@@ -13386,6 +13385,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||kzsha.com^
 ||kzuxlydg.icu^
 ||l.aiseet.atianqi.com/livemsg^
+||l.clips4sale.com^$removeparam=a
+||l.clips4sale.com^$removeparam=o
 ||l.fancyapi.com^
 ||l.glrcy.cn^
 ||l.qq.com^

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-06-17 00:14:29（北京时间） 
-! Total count: 19163
+! Version: 2025-06-17 08:57:49（北京时间） 
+! Total count: 19166
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -890,6 +890,7 @@ $removeparam=/^pubname=.*$/i,domain=anntaylor.com|ashford.com|backcountry.com|bl
 $removeparam=/^quot;/,domain=outnorth.fi
 $removeparam=/^qxjkl=tsid:/
 $removeparam=/^shared.*$/,domain=alibi.fi|anna.fi|eralehti.fi|hymy.fi|kaksplus.fi|kotiliesi.fi|rakennusmaailma.fi|seura.fi|tekniikanmaailma.fi
+$removeparam=/^source=googleps$/
 $removeparam=/^srcCode=.*$/i,domain=jcrew.com|magellans.com|teleflora.com|tigerdirect.com
 $removeparam=/^tc_.*$/,domain=bodenusa.com
 $removeparam=/^udm=$/,domain=www.google.*|ipv6.google.com
@@ -17184,6 +17185,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||vitamix.com^$removeparam=di
 ||vitamix.com^$removeparam=dl
 ||vitamix.com^$removeparam=sd
+||vitusapotek.no^$removeparam=device
+||vitusapotek.no^$removeparam=keyword
 ||vivaldi.com^$removeparam=pk_campaign
 ||vivaldi.com^$removeparam=pk_kwd
 ||vizacasa.xyz^

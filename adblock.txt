@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-06-21 00:14:13（北京时间） 
-! Total count: 19168
+! Version: 2025-06-21 08:56:49（北京时间） 
+! Total count: 19170
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -3173,6 +3173,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 @@||facebook.com/privacy/specific_audience_selector_dialog/$removeparam
 @@||facebook.com^$removeparam=__s
 @@||feed.mix.sina.com.cn^
+@@||firebaseappdistribution.googleapis.com/app-binary-downloads/projects/?*utm_source=$removeparam
 @@||flagpedia.net^$ping,xhr,removeparam=gtm
 @@||front-go.lemall.com^
 @@||g.tbcdn.cn^
@@ -3288,6 +3289,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 @@||secure.kps-payment.de^$removeparam
 @@||securepubads.g.doubleclick.net/gampad/ads?$domain=league-funny.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=league-funny.com
+@@||sendgb.com/upload/?*utm_source=$removeparam
 @@||sobot.com^
 @@||sohu.com/cityjson$domain=114shouji.com|51credit.com|dilidili.one|jdboshi.com|jialingmm.net|lcm88.com|mop.com|shouji.com.cn|skk.moe|yxdm.tv
 @@||space.bilibili.com^$removeparam
@@ -9855,7 +9857,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||bing.$removeparam=ts
 ||bing.$removeparam=wlexpsignin
 ||bing.$removeparam=wsso
-||bing.*^$removeparam=form
 ||bing.*^$removeparam=qp
 ||bing.*^$removeparam=qs
 ||bing.*^$removeparam=sc
@@ -11899,6 +11900,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||google.*^$removeparam=atyp
 ||google.*^$removeparam=cad
 ||google.*^$removeparam=cd
+||google.*^$removeparam=cshid
 ||google.*^$removeparam=dcr
 ||google.*^$removeparam=dpr
 ||google.*^$removeparam=ei

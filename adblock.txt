@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-06-23 09:01:40（北京时间） 
-! Total count: 19173
+! Version: 2025-06-23 16:17:26（北京时间） 
+! Total count: 19172
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -753,6 +753,7 @@ $doc,removeparam=km_adgroup
 $doc,removeparam=km_partner
 $doc,removeparam=l,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
 $doc,removeparam=lId,domain=apple.com|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion|youtube.com
+$doc,removeparam=lcid,domain=~rekono.si
 $doc,removeparam=lgw_code
 $doc,removeparam=lyceumGuid,domain=bedbathandbeyond.com
 $doc,removeparam=maid
@@ -2252,7 +2253,6 @@ $script,subdocument,third-party,xmlhttprequest,domain=alicili.me|alicili8.com|al
 $script,third-party,xmlhttprequest,domain=btio.pw
 $third-party,~image,domain=12zw.com|32xs.org|3xs.cc|baoshuu.com|bbiqugew.com|biqu.ge|biqubao.com|biquduge.com|biqug.org|biquga.com|biquge.info|biquge.tv|biquge001.com|biquge123.com|biquge5200.cc|biqugedu.com|biqugeg.com|biquger.com|biquges.com|biqugewx.com|biqugle.com|biquku.la|biquw.com|biquwu.cc|gebiqu.com|hehuamei.com|ibqg5200.com|m.fengyunok.com|mybooks8.com|shuquge.com|snzb.org|xbiquge.la|xsbiquge.com|xshengyan.com|xswang.com|yiyi120.com|yuanzunxs.cc|zuimeng8.com|zzbiquge.com|75dr.com|bggee.com|biquge96.com|biqugeabc.com|aishu5.com|biquger.net|senwy.com|biqugeso.org|whzh-xs.com|bqg.org|mmbqg.com
 $~image,removeparam=itok
-$~ping,removeparam=lcid,domain=~rekono.si
 $~subdocument,removeparam=aff,domain=~discoverbank.com|~discover.com
 $~xmlhttprequest,removeparam=/^refsrc=.*$/i
 $~xmlhttprequest,removeparam=mbid
@@ -10976,7 +10976,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dl-protect.$removeparam=fn
 ||dl-protect.$removeparam=rl
 ||dl.ops.baidu.com^$third-party
-||dl.sourceforge.net^$doc,removeparam=viasf
 ||dl.weshineapp.com^
 ||dl12349.net^
 ||dlads.cn^

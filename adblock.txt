@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-07-02 16:16:29（北京时间） 
-! Total count: 19177
+! Version: 2025-07-03 00:14:12（北京时间） 
+! Total count: 19180
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -9434,6 +9434,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||b.a0trade.top^
 ||b.gushiciju.com^
 ||b.smartvideo.youku.com^
+||b08.fit^
 ||b0rbgroup.xyz^
 ||b0ufmrzl.icu^
 ||b1.51yangsheng.com^
@@ -10789,6 +10790,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||data.video.qiyi.com/videos/other
 ||data.zhongquanjy.com^
 ||dataflow.biliapi.com^
+||datakkko.top^
 ||dataprajna.net^
 ||datareportal.com^$doc,removeparam=rq
 ||datax.baidu.com^
@@ -17068,6 +17070,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||uum6.com/$third-party,~font,popup
 ||uunak.cn^
 ||uuoozz.com/L7QQ.js
+||uuyeghhbdhyetghuj.top^
 ||uuysiaq.com^
 ||uuzwvqc.cn^
 ||uvcourse.net^

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-07-15 09:02:14（北京时间） 
-! Total count: 19180
+! Version: 2025-07-15 16:17:10（北京时间） 
+! Total count: 19182
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -330,6 +330,8 @@
 ##[href^='https://www.qlspx.com:']
 ##[href^='https://xcc.'][href*='cn/']
 ##[href^='https://xxx.nunxun.com']
+##[id^="__ehbc0ejbc0hib"]
+##[id^="__ehbc0gjbc0ajb"]
 ##[onclick*="trackEvent', 'ad"]
 ##[onclick*='fjbglfrv.com']
 ##[onclick*='https://i.opiwb.com:']

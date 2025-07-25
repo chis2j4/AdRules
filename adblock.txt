@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-07-25 09:01:19（北京时间） 
-! Total count: 19184
+! Version: 2025-07-25 16:16:34（北京时间） 
+! Total count: 19187
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -6204,8 +6204,11 @@ sogou.com###sogou-ad-top-external
 sogou.com###sogou_vr_10000901_0 > div[style="display:block;"]
 sogou.com###vl
 sogou.com##.ad_result
+sogou.com##.banner-container
 sogou.com##.erwm-box
-sogou.com##DIV.banner-container
+sogou.com##.ips-overwrite-width
+sogou.com##.pc-brand-wrapper
+sogou.com##.qb-download-banner-non-share
 sogou.com##[href^="https://s.click.taobao.com"],[id^="AD_"]
 sogou.com##div#bdfs0.rb,div#promotion_adv_container,div.sponsored,a.js_bannerImg,div.bottombar,div.advert-pos,.s_list_ad,#browser_ad,#sogouFrag_0,#frame_ad,.section_ad,#adContent,.ad-main,#wx_m,#adId,#googleAdId,.adsbygoogle,#sogouUnionAd,#spreadAd,#div_ad,[src^="http://amfi.gou.sogou.com/wapxml?pid="],#sf_t1,.side_adv_wrap,#side-module-ad
 sohu.com###bottomBanner[data-spm='b-mb'][data-spm-stop='init']

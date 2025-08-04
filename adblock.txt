@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-08-04 09:07:47（北京时间） 
-! Total count: 19191
+! Version: 2025-08-04 16:18:51（北京时间） 
+! Total count: 19192
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -1825,6 +1825,7 @@ $removeparam=personaclick_input_query
 $removeparam=personaclick_search_query
 $removeparam=pfr,domain=msn.com
 $removeparam=pgtype,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion|scmp.com
+$removeparam=phcursor
 $removeparam=pid,doc,domain=123inkjets.com|appsflyer.com|bergfreunde.*|bybit.com|dobrytextil.cz|farfetch.com|fifa.com|glami.cz|hepsiburada.com|neeva.com|onelink.me|play.google.com|samsclub.com|shopee.*|th.bing.com|tiktok.com
 $removeparam=piggybackCookie
 $removeparam=pj_creativeid

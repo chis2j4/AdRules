@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-08-11 09:03:57（北京时间） 
-! Total count: 19195
+! Version: 2025-08-11 16:18:26（北京时间） 
+! Total count: 19198
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -408,6 +408,7 @@
 ##a.outlink
 ##a[href*=".com?s="]
 ##a[href*='html?channelCode'] > IMG[src*='.gif'][width='100%']
+##a[href][target="_blank"] > img[width="100%"][src$=".gif"]
 ##a[href^="/ad.html?url="]
 ##a[href^="https://91keep.tv"]
 ##a[href^="https://uds24.com/"]
@@ -2390,6 +2391,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 .com:*/sc/*?n=$third-party
 .com:10446/*/get*.html
 .com:7891/stats$third-party
+.com:8*/mj*$third-party
 .com:8001/*/*?*=$third-party
 .com:8003/d/*&n=$third-party
 .com:8005/*&n=$third-party
@@ -17136,6 +17138,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||variety.tc.qq.com^
 ||vas-hl-x.snssdk.com^
 ||vaxgyly.cn^
+||vbc08111op.com^
 ||vbdbmqzu.com^
 ||vbiakpu.icu^
 ||vbnmjjda.xyz^

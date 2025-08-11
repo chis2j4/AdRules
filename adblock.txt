@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-08-11 16:18:26（北京时间） 
-! Total count: 19198
+! Version: 2025-08-12 00:15:14（北京时间） 
+! Total count: 19201
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -3838,6 +3838,7 @@ bing.com##DIV.sb_adsNv2,li.b_ad,div.OpInNwWndw
 bing.com,cn.bing.net###bnp_rich_div
 bing.com,cn.bing.net##.ad_sc
 bing.com,cn.bing.net##.adsMvC
+bing.com,cn.bing.net##.b_algo:has(.b_ads1line)
 bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
 bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="=AdsPlus"])
 bing.com,cn.bing.net##.b_ans:has([class^="xm_"][class*="_ansCont"])
@@ -3845,6 +3846,7 @@ bing.com,cn.bing.net##.pa_sb
 bing.com,cn.bing.net##a[h$=",Ads"]
 bing.com,cn.bing.net##a[href*="/aclick?ld="]
 bing.com,cn.bing.net##li.b_ad
+bing.com,cn.bing.net##li:has(a[h$=",Ads"])
 biqudao.com##.dahengfu,.con_ad
 biqulou.net##.dahengfu
 biqushu.com##.adlist
@@ -4035,6 +4037,7 @@ club.pchome.net##.pic-list1,iframe[width="760"][height="130"]
 cm868.com###diy1,#diy3
 cn.bing.com##.bnp_rich_div_visible.bottom
 cn.bing.com##.bnp_rich_div_visible.top
+cn.bing.com,cn.bing.net##.b_bza_pole
 cn.bing.com,www.bing.com,www4.bing.com$$div[class="BottomAppPro"]
 cn.msn.com##DIV.topAd.cf,DIV.ad,div.left_Bg,div.right_Bg,div.bottomAd.cf
 cn3x.com.cn##.gg1,[class^="list_gg"]

@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2025-08-18 16:18:29（北京时间） 
-! Total count: 2752
+! Version: 2025-08-19 00:14:49（北京时间） 
+! Total count: 2753
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5548,6 +5548,7 @@
 @@||preromanbritain.com/maxymiser/$~third-party
 @@||privatbank.ua/content/*/fp2.min.js$~third-party
 @@||pro.gooooal.com/ad/ad_2.js
+@@||prod.impartner.live^|
 @@||promo.com/embed/$subdocument,third-party
 @@||promo.gramedia.com^|
 @@||promo.zendesk.com^$xmlhttprequest,domain=promo.com

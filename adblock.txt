@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-08-22 16:15:44（北京时间） 
-! Total count: 19202
+! Version: 2025-08-23 00:13:19（北京时间） 
+! Total count: 19204
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -2026,6 +2026,7 @@ $removeparam=sm12
 $removeparam=smtyp
 $removeparam=soc_src
 $removeparam=soc_trk
+$removeparam=source,domain=search.brave.com|search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion
 $removeparam=sourceID,domain=gamestop.com|verizon.com
 $removeparam=sourceType,domain=vitaminshoppe.com|aliexpress.com
 $removeparam=source_widget_id,domain=tapahtumat.almatalent.fi|tapahtumat.ekarjala.fi|tapahtumat.ekonomit.fi|tapahtumat.eslu.fi|tapahtumat.hel.fi|tapahtumat.hyvinkaa.fi|tapahtumat.intoseinajoki.fi|tapahtumat.joensuu.fi|tapahtumat.kaleva.fi|tapahtumat.kannus.fi|tapahtumat.karjalainen.fi|tapahtumat.kauppakamari.fi|tapahtumat.kerava.fi|tapahtumat.kirkkonummi.fi|tapahtumat.kokkola.fi|tapahtumat.kuusamo.fi|tapahtumat.lappeenranta.fi|tapahtumat.lempaala.fi|tapahtumat.loviisa.fi|tapahtumat.masku.fi|tapahtumat.mikkeli.fi|tapahtumat.munoulu.fi|tapahtumat.osakeliitto.fi|tapahtumat.pori.fi|tapahtumat.raasepori.fi|tapahtumat.rantalakeus.fi|tapahtumat.ratsastus.fi|tapahtumat.rovaniemi.fi|tapahtumat.salo.fi|tapahtumat.sipoo.fi|tapahtumat.sley.fi|tapahtumat.studentum.fi|tapahtumat.tampereensuomalainenklubi.fi|tapahtumat.tuusula.fi|tapahtumat.vantaa.fi|tapahtumat.vihti.fi|tapahtumat.visitespoo.fi|tapahtumat.visitkotkahamina.fi|tapahtumat.visitlohja.fi|tapahtumat.visitsavonlinna.fi|tapahtumat.visitvantaa.fi|tapahtumienkeskipohjanmaa.fi
@@ -5151,6 +5152,7 @@ liewen.cc##div#ad2,div.nav_bottom_ad
 lifan.moe##.ad-container
 lightnovel.cn##DIV.wp.a_h,DIV.a_mu,div.a_pb,div.a_pt,div#swRoller_1
 liisex.com###btn-convert3,table[height="31"],td[height="70"]
+link.bilibili.com#?#.shortcut-item:contains(下载客户端)
 linovel.net##div.download-app
 linux.cn##[href^="http://linux.cn/go/"],[href^="https://linux.cn/go/"],.linuxcnad
 linuxbaike.com$$div[class="celan"]

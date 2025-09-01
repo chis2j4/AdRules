@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2025-09-01 16:16:51（北京时间） 
-! Total count: 2753
+! Version: 2025-09-02 00:13:26（北京时间） 
+! Total count: 2754
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5350,6 +5350,7 @@
 @@||new.abb.com/ruxitagentjs_$~third-party
 @@||newrelic.com/nr-*.min.js$domain=surveymonkey.co.uk|surveymonkey.com|surveymonkey.de
 @@||news.u17i.com/advert/
+@@||news.warhammer.com^|
 @@||newscgp.com/prod/prebid/nyp/pb.js$domain=nypost.com
 @@||newsmth.net/nForum/*/ADAgent_
 @@||newver.api.dedecms.com/index.php$subdocument

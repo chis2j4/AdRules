@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-09-07 08:56:53（北京时间） 
-! Total count: 19229
+! Version: 2025-09-07 16:12:19（北京时间） 
+! Total count: 19230
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -3577,6 +3577,7 @@ baidu.com##.app-bar
 baidu.com##.barea-ad
 baidu.com##.brand-entry
 baidu.com##.c-result.result[srcid='mkt_ad_space']
+baidu.com##.cos-rich-video-player-video
 baidu.com##.drag-wrap
 baidu.com##.dynamicshareAdbox
 baidu.com##.ec-ad
@@ -3615,6 +3616,7 @@ baidu.com##footer > a[class="dl"]
 baidu.com##section.bottom-intro
 baidu.com#@##header > div:last-child
 baidu.com#@##page-pre
+baidu.com#@##results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar):not(.s-group-result):not(.hint-unsafe)
 baidu.com#@#div[class*="ads"]
 baidu.com$$article[rl-link-data-url="mbd.baidu.com"]
 baidu.com$$div[class="bannerad"]
@@ -5261,7 +5263,6 @@ m.baidu.com##.square-banner-bgicon.index-banner
 m.baidu.com##.suggest-hot
 m.baidu.com##.water-container.tab-news-content
 m.baidu.com##DIV#se-recommend-word-list-container.se-recommend-word-list-container
-m.baidu.com#@##results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar):not(.s-group-result):not(.hint-unsafe)
 m.baidu.com,www.baidu.com###provider,div[class$="fixed"],SECTION#middle_banner,.ec_ad_results,.shopping-item,#bottomOperate
 m.baidu.com,www.baidu.com##ARTICLE[class='c-container aladdin__10uYO']
 m.baidu.com,www.baidu.com##A[class='hint-qnaire-bar']

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-09-07 16:12:19（北京时间） 
-! Total count: 19230
+! Version: 2025-09-08 00:11:05（北京时间） 
+! Total count: 19231
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -2740,6 +2740,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 /hm.html?s=*=http
 /hm.js?$third-party
 /hm.js^$third-party
+/hm/ytymer?x=
 /homead*
 /hostinger-promote-$domain=nodkey.xyz
 /hotad*

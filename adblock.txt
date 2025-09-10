@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-09-10 00:13:35（北京时间） 
-! Total count: 19231
+! Version: 2025-09-10 08:51:39（北京时间） 
+! Total count: 19232
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -918,6 +918,7 @@ $removeparam=/^ref=runtime\.news$/
 $removeparam=/^ref=spyglass\.org$/
 $removeparam=/^ref=thediff\.co$/
 $removeparam=/^ref=underfl0w\.com$/
+$removeparam=/^ref=winstall$/
 $removeparam=/^shared.*$/,domain=alibi.fi|anna.fi|eralehti.fi|hymy.fi|kaksplus.fi|kotiliesi.fi|rakennusmaailma.fi|seura.fi|tekniikanmaailma.fi
 $removeparam=/^source=googleps$/
 $removeparam=/^srcCode=.*$/i,domain=jcrew.com|magellans.com|teleflora.com|tigerdirect.com

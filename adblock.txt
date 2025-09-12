@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-09-12 16:14:33（北京时间） 
-! Total count: 19232
+! Version: 2025-09-13 00:11:14（北京时间） 
+! Total count: 19234
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -4001,8 +4001,8 @@ changsha.cn##[class^="site_ad_"]
 chapaofan.com##[class^="pf-ad-"],.details-ad
 chasedream.com##.a_h,.a_f,[id^="diycd-board"]
 chashebao.com##.ad960
-chat.deepseek.com##div:has(> .ds-icon + span)
-chat.deepseek.com##div:has(> .ds-icon[style*="width: 28px"][style*="height: 28px"])
+chat.deepseek.com#?#div:has(> .ds-icon + span)
+chat.deepseek.com#?#div:has(> .ds-icon[style*="width: 28px"][style*="height: 28px"])
 chaturbate.com##.ad,.banner,[href^="/external_link/?"]
 chcj.com##.a_cb,#diy1,.a_pt,.a_pb,#comiis_sfcs00,#comiis_sfcs08,[id^="comiis_ad"]
 chcj.com,pt80.net##img[width="960"]
@@ -5729,6 +5729,8 @@ news.lyd.com.cn##script + table[width="300"] > tbody > tr:first-child > td > tab
 news.qq.com##.download-banner-wrap
 news.qq.com##.download-content
 news.qq.com##.godown.qqcom_fb-item
+news.qq.com#?#div:has(> div[dt-eid="em_rec_app"])
+news.qq.com#?#div[id="download-btn-wrapid"]
 news.wehefei.com##iframe[src="http://new.wehefei.com/htmlphp/tmall/ad_www.php"]
 news.yesky.com##DIV[id^="f21ac82b21eeb7322631b6aa94e17f"]
 newsbim.com##.ny_banner,.right_banner,[class^="index_banner"],[class^="con_banner"]

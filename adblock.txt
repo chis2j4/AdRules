@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-09-25 16:14:59（北京时间） 
-! Total count: 19238
+! Version: 2025-09-26 00:13:26（北京时间） 
+! Total count: 19243
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -10304,6 +10304,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ce3e75d5.jpush.cn^
 ||ceh.cehbh.com^
 ||ceiqox.com^
+||cekrfk.com^
 ||cell.com^$removeparam=_returnURL
 ||cellularcountry.com^$removeparam=zenid
 ||ceneo.pl^$removeparam=tag
@@ -11191,6 +11192,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dw.com^$removeparam=maca
 ||dwfjtz.xyz^
 ||dwibjkdsn.com^
+||dwuupq.com^
 ||dwyngjb.icu^
 ||dx-bdcdncnc.inter.71edge.com/qpdxv/other^$empty
 ||dx-bdcdncnc.inter.71edge.com/videos/other^$domain=iqiyi.com,redirect=noopmp4-1s
@@ -14717,6 +14719,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nyvgbt.xyz^
 ||nyzda.top^
 ||nz04com.com^
+||nzl09251oa.com^
 ||nzrlx6wc.icu^
 ||nzrovf.xyz^
 ||nzymeedg.icu^
@@ -15536,6 +15539,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||r.inews.qq.com/getQQNewsUnreadList?$replace=/adList//
 ||r.inews.qq.com/getSysPublishConfigAndroid?
 ||r.m.duyidu.net^
+||r0l7cp.com^
 ||r1.ykimg.com^$app=com.huawei.hwvplayer.youku
 ||r36ku.site^
 ||r3nvrr4uzh.com^
@@ -16891,6 +16895,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||tumeite.cn^
 ||tunion-api.m.taobao.com^
 ||tunka.com.cn/images/1234.gif
+||tuobeng.net^
 ||tupian888.*.bcebos.com^
 ||tuplzt.xyz^
 ||turn.com^

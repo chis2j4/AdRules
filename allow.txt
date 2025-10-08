@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2025-10-08 16:15:58（北京时间） 
-! Total count: 2755
+! Version: 2025-10-09 00:13:48（北京时间） 
+! Total count: 2756
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5576,6 +5576,7 @@
 @@||publicwww.com^$generichide
 @@||pubscholar.cn/static/common/fingerprint.js$script,~third-party
 @@||pushpushgo.com/js/$script,domain=centrumriviera.pl
+@@||puzzles-games-api.gp-prod.conde.digital^|
 @@||pv.sohu.com/cityjson$domain=ems.com.cn
 @@||pv.sohu.com/suv/
 @@||pvtag.yahoo.co.jp^$script,domain=paypaymall.yahoo.co.jp

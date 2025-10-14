@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-10-14 00:13:20（北京时间） 
-! Total count: 19254
+! Version: 2025-10-14 08:52:42（北京时间） 
+! Total count: 19257
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -880,6 +880,7 @@ $removeparam=/^fb_(source|ref)=/
 $removeparam=/^fb_action_(types|ids)=/
 $removeparam=/^featured_on=pythonbytes$/
 $removeparam=/^ga_[a-z_]+=/
+$removeparam=/^has-promotion=$/
 $removeparam=/^hc_.*$/,domain=facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|messenger.com
 $removeparam=/^hmb_(campaign|medium|source)=/
 $removeparam=/^itm_(campaign|medium|source)=/
@@ -10219,6 +10220,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||carousell.$removeparam=t-source
 ||carousell.$removeparam=t-tap_index
 ||carpcw.com^
+||carrefoursa.com^$removeparam=v
 ||carsales.com.au^$removeparam=Cr,doc
 ||carstat.bitauto.com^
 ||cartoonbrew.com^$removeparam=cbtr
@@ -14578,6 +14580,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ngacn.cc/common_res/js_dscommon.js^
 ||ngacn.cc/proxy/cache_attach/ds_list.js
 ||ngbthf.xyz^
+||ngfiles.com^$removeparam=/^f\d{4,}=$/
 ||nghdp.cn^
 ||ngishc.top^
 ||nhcdn.cn^

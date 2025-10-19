@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-10-19 16:12:58（北京时间） 
+! Version: 2025-10-20 00:11:47（北京时间） 
 ! Total count: 19259
 -1325890192.cos.
 -960x*0.gif
@@ -1510,7 +1510,7 @@ $removeparam=fobs
 $removeparam=fpestid
 $removeparam=fr,domain=baidu.com|thegay.com|todayonline.com|hclips.com|search.yahoo.com
 $removeparam=fref
-$removeparam=from,doc,domain=apkpure.com|bandcamp.com|browserling.com|cancam.jp|duckduckgo.com|duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|ettoday.net|landevei.no|luisaviaroma.com|sogou.com|store.hbr.org|app.snyk.io|onlinepngtools.com|indiatimes.com|jetbrains.com|nextdns.io|tvtropes.org|yandex.com
+$removeparam=from,doc,domain=apkpure.com|bandcamp.com|browserling.com|cancam.jp|duckduckgo.com|duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|ettoday.net|landevei.no|luisaviaroma.com|sogou.com|store.hbr.org|app.snyk.io|onlinepngtools.com|indiatimes.com|jetbrains.com|tvtropes.org|yandex.com
 $removeparam=from,domain=indeed.com
 $removeparam=fromLoggedOutHome,domain=ocado.com
 $removeparam=fromMostRead,domain=bloomberg.com

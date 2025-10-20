@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-10-20 00:11:47（北京时间） 
-! Total count: 19259
+! Version: 2025-10-20 08:57:55（北京时间） 
+! Total count: 19265
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -3031,6 +3031,9 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 ://ipv6.google.com*/search^$removeparam=kgs
 ://ipv6.google.com*/search^$removeparam=shndl
 ://ipv6.google.com^$doc,removeparam=ie,domain=www.google.*|ipv6.google.com
+://ipv6.google.com^$removeparam=/^num=\d{2,}$/
+://ipv6.google.com^$removeparam=aep
+://ipv6.google.com^$removeparam=ntc
 ://js.static.*/share/*.js$third-party
 ://js.static.*ping*
 ://pic*.com/upload/*.js$third-party
@@ -3038,6 +3041,9 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 ://www.*.js|$script,third-party,domain=159i.com|thisav.com
 ://www.ebay.$doc,removeparam=/^itm[a-zA-Z0-9].*$/
 ://www.google.$doc,removeparam=ie,domain=www.google.*|ipv6.google.com
+://www.google.$removeparam=/^num=\d{2,}$/
+://www.google.$removeparam=aep
+://www.google.$removeparam=ntc
 ://www.google.*/search^$removeparam=entrypoint
 ://www.google.*/search^$removeparam=kgs
 ://www.google.*/search^$removeparam=shndl

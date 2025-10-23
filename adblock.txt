@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-10-23 08:54:21（北京时间） 
-! Total count: 19270
+! Version: 2025-10-23 16:16:09（北京时间） 
+! Total count: 19274
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -557,7 +557,7 @@ $$p[class="ReadAd"]
 $$span[class="dmcenterb"]
 $doc,domain=bilibili.com|querie.me,removeparam=timestamp
 $doc,domain=youtube.com,removeparam=embeds_referring_origin
-$doc,image,removeparam=/^=$/,domain=discord.com|discordapp.net
+$doc,image,removeparam=/^=$/,domain=discord.com|discordapp.net|amazon.*
 $doc,removeparam=/^.*affcid.*$/i
 $doc,removeparam=/^ICID=.*$/i,domain=~api.mapbox.com|~microsoft.com
 $doc,removeparam=/^OCID=.*$/i,domain=~youtube.com|~reiseauskunft.bahn.de|~msn.com
@@ -12274,6 +12274,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||hengfaienterprises.com/template/reader/wap/revvd.js
 ||henghost.com/data/forum-$script
 ||henzhuan.com^
+||hepsiburada.com^$removeparam=ftid
 ||heroclick.cn^
 ||heshebei.com^
 ||heshun365.cn^
@@ -14130,6 +14131,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||mdwhxw.com^
 ||meaqcj.cn^
 ||mechanicalkeyboards.com^$removeparam=creator
+||media-amazon.com^$removeparam=aicid
 ||media.livepromotools.com/ptools/pc/Content/Banners/imlive/asian/*.gif$domain=fans.91p20.space
 ||media.news18a.com/js/$third-party,script
 ||media8.cn^
@@ -14660,6 +14662,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nnocsin.cn^
 ||nnqwe.xyz^
 ||nnwm.com^
+||no^$removeparam=/^source=core-carousel$/
 ||nochange.ggsafe.com^
 ||node.cdntxt.com^
 ||nogff.top^
@@ -16256,6 +16259,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ssjpx.com^
 ||ssjuxsc.cn^
 ||ssjy.shop^
+||ssl-images-amazon.com^$removeparam=xcp
 ||ssl.linyiccic.com^
 ||sslbahb.top^
 ||ssnnn.net^

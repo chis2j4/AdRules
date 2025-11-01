@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-11-01 00:13:41（北京时间） 
-! Total count: 19278
+! Version: 2025-11-01 08:58:19（北京时间） 
+! Total count: 19281
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -933,6 +933,7 @@ $removeparam=/^tc_.*$/,domain=bodenusa.com
 $removeparam=/^udm=$/,domain=www.google.*|ipv6.google.com
 $removeparam=/^utm(_[a-z_]*)?=/
 $removeparam=/^vn(_[a-z]*)+=/
+$removeparam=/^wdorigin=.*$/i
 $removeparam=/^web_id\d+/,domain=tiktok.com
 $removeparam=/^wt_?z?mc=/
 $removeparam=/^zero_.*$/,domain=facebook.*|facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion|messenger.com
@@ -1786,6 +1787,7 @@ $removeparam=nid,domain=columbia.com|columbiasportswear.*|sorel.com
 $removeparam=nl,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 $removeparam=nosto
 $removeparam=nosto_source
+$removeparam=notification_referrer_id
 $removeparam=nr_email_referer
 $removeparam=nrtv_as_src
 $removeparam=nrtv_cid
@@ -2244,7 +2246,6 @@ $removeparam=w,domain=files.wordpress.com|store.playstation.com|s-microsoft.com|
 $removeparam=waad
 $removeparam=wapa6,domain=hoteles.com|hotels.com
 $removeparam=wbraid
-$removeparam=wdorigin
 $removeparam=web,domain=microcenter.com|tomtop.com
 $removeparam=wfr,domain=weidian.com|baidu.com
 $removeparam=wgexpiry
@@ -10477,6 +10478,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||clkwnl.xyz^
 ||clldirectasianew.club^
 ||cloud-log.yy.com^
+||cloud.microsoft^$removeparam=origindomain
 ||cloudad.asia^
 ||cloudasbook.com^
 ||clouddn.com^$domain=btshoufa.net
@@ -18434,6 +18436,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||youtube.com^$removeparam=ab_channel
 ||youtube.com^$removeparam=embeds_euri
 ||youtube.com^$removeparam=source_ve_path
+||youtube.com^$removeparam=sub_confirmation
 ||youtubee.top^
 ||youtui.net^
 ||youxi.com/$third-party

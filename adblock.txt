@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-11-01 16:13:23（北京时间） 
-! Total count: 19282
+! Version: 2025-11-02 00:11:39（北京时间） 
+! Total count: 19285
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -775,7 +775,7 @@ $doc,removeparam=mchn
 $doc,removeparam=mcid,domain=~miguvideo.*
 $doc,removeparam=method,domain=peacocktv.com
 $doc,removeparam=mkt_rec,domain=temu.com
-$doc,removeparam=msid,domain=~rsc.org
+$doc,removeparam=msid,domain=~rsc.org|~editorialmanager.com
 $doc,removeparam=ns,domain=tmall.com|taobao.com
 $doc,removeparam=o,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
 $doc,removeparam=oc,domain=indeed.com
@@ -2056,6 +2056,7 @@ $removeparam=site_refer,domain=saksfifthavenue.com|saksoff5th.com
 $removeparam=sjdu,domain=indeed.com
 $removeparam=sk,domain=aliexpress.*|bing.com
 $removeparam=skip,domain=privatehomeclips.com
+$removeparam=slref
 $removeparam=sm12
 $removeparam=smtyp
 $removeparam=soc_src
@@ -2125,6 +2126,7 @@ $removeparam=sv_session
 $removeparam=svisitor
 $removeparam=sxsrf
 $removeparam=szredirectid
+$removeparam=t-src
 $removeparam=ta_partner_did
 $removeparam=taboola_id
 $removeparam=tag,domain=argos.co.uk|habitat.co.uk|tv2.no|support.github.com
@@ -2271,6 +2273,7 @@ $removeparam=wx_navbar_hidden
 $removeparam=wx_navbar_transparent
 $removeparam=wx_statusbar_hidden
 $removeparam=x-acqsource
+$removeparam=x-clickref
 $removeparam=x-wts
 $removeparam=x50878
 $removeparam=xcreo

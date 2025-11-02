@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-11-02 16:13:07（北京时间） 
-! Total count: 19287
+! Version: 2025-11-03 00:11:55（北京时间） 
+! Total count: 19300
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -1613,6 +1613,7 @@ $removeparam=icid2
 $removeparam=iclid
 $removeparam=icn,domain=shein.com
 $removeparam=ico,domain=dailymail.co.uk|inews.co.uk|metro.co.uk|thisismoney.co.uk
+$removeparam=id,domain=affiliate.orangewebsite.com|linksynergy.com|www.bestbuy.*
 $removeparam=id,domain=go.redirectingat.com|go.skimlinks.com|go.skimresources.com|karkkainen.com
 $removeparam=id_mid_4
 $removeparam=iflsig,domain=www.google.*|ipv6.google.com
@@ -9412,6 +9413,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||arms-retcode.aliyuncs.com^$removeparam=vp
 ||arpg2.com^
 ||arpun.com/arpun/$script
+||artlist.io^$removeparam=artlist_aid
 ||arts-cloud.net^
 ||artstation.com^$removeparam=/^\d.*$/
 ||arwh3scr.world^
@@ -10461,6 +10463,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||click.googleanalytics.com^
 ||click.hd.sohu.com.cn^
 ||click.hunantv.com^
+||click.linksynergy.com^$removeparam=mid
 ||click.oneplus.cn^
 ||click.taobao.com/$third-party,popunder
 ||click.tianyaui.com^
@@ -11573,6 +11576,11 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||fastapi.net^$domain=~ku6.com
 ||fastclick.com^
 ||fastclick.net^
+||fastmail.com^$removeparam=gspk
+||fastmail.com^$removeparam=gsxid
+||fastmail.com^$removeparam=ps_partner_key
+||fastmail.com^$removeparam=ps_xid
+||fastmail.com^$removeparam=pscd
 ||faxffjo.com^
 ||fbmjc.39yst.com^
 ||fc-feed.cdn.bcebos.com^
@@ -14593,6 +14601,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||nex.163.com/q?
 ||nex.163.com^
 ||nexage.com^
+||nextdns.io^$removeparam=from
 ||nezqmud.com^
 ||nfl9j.com^
 ||nflks.cn^
@@ -15000,6 +15009,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||paopao3.qiyipic.com^
 ||papaqq.com^
 ||paradisemall.net^
+||parallels.com^$removeparam=x-source
 ||parkingcrew.net^
 ||parnett55.xyz^
 ||partnerads.ysm.yahoo.com^
@@ -15227,6 +15237,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||promofarma.com^$removeparam=etf-publisher
 ||propeller-tracking.com^
 ||propellerads.com^
+||proton.me^$removeparam=phfp
+||proton.me^$removeparam=url_id
 ||providentsopport.site^
 ||prscripts.com/pub
 ||prvnizpravy.cz^$removeparam=xid
@@ -16921,6 +16933,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||ttykabh.icu^
 ||ttyyuuoo.com^
 ||ttzhongbao.com^
+||tubebuddy.com^$removeparam=a
 ||tudown.com^
 ||tuhzjrr.cn^
 ||tui.$removeparam=agent

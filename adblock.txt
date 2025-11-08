@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-11-08 08:52:47（北京时间） 
-! Total count: 19300
+! Version: 2025-11-08 16:13:41（北京时间） 
+! Total count: 19299
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -1790,7 +1790,6 @@ $removeparam=nid,domain=columbia.com|columbiasportswear.*|sorel.com
 $removeparam=nl,domain=nytimes.com|nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
 $removeparam=nosto
 $removeparam=nosto_source
-$removeparam=notification_referrer_id
 $removeparam=nr_email_referer
 $removeparam=nrtv_as_src
 $removeparam=nrtv_cid

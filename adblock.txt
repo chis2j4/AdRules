@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-11-10 00:12:03（北京时间） 
-! Total count: 19299
+! Version: 2025-11-10 08:59:03（北京时间） 
+! Total count: 19300
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -1622,6 +1622,7 @@ $removeparam=ignoreNavigationBar
 $removeparam=iid,domain=cnn.com
 $removeparam=iiqnodata
 $removeparam=iiqpciddate
+$removeparam=imgtk
 $removeparam=imoidviz
 $removeparam=imp_id,doc
 $removeparam=impr_uid

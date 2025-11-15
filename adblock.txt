@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-11-15 08:55:07（北京时间） 
-! Total count: 19302
+! Version: 2025-11-15 16:13:32（北京时间） 
+! Total count: 19303
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -7565,6 +7565,7 @@ zhihu.com##.RelatedReadings.Card
 zhihu.com##.TopstoryItem--advertCard
 zhihu.com##.ViewAllInappButton
 zhihu.com##.ZVideo-sideColumn
+zhihu.com##.zhihuAdvert-MBanner-wordDownload
 zhihu.com##OpenInAppButton OpenInApp is-shown
 zhihu.com##div.ModalWrap-item:nth-of-type(2)
 zhihu.com#?#button:contains(App)

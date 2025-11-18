@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-11-18 16:16:31（北京时间） 
-! Total count: 19302
+! Version: 2025-11-19 00:15:34（北京时间） 
+! Total count: 19303
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -4924,6 +4924,7 @@ jianshu.com###recommended-notes
 jianshu.com###web-nav-app-download-btn
 jianshu.com##._13lIbp
 jianshu.com##._27yofX
+jianshu.com##.app-float-btn
 jianshu.com##.app-open
 jianshu.com##.border.item
 jianshu.com##.call-app-Ad-bottom
@@ -4934,6 +4935,7 @@ jianshu.com##.header-download
 jianshu.com##.index_call-app-btn
 jianshu.com##.note-graceful-button
 jianshu.com##.note__flow__download
+jianshu.com##[aria-label='lwa-ad-one']
 jianshu.com##a[href*="/apps?utm_medium=desktop&utm_source=navbar-apps"]
 jianshu.com##button.call-app-btn
 jianshu.com##button.open-app-btn
@@ -7041,7 +7043,6 @@ www.jc35.com###luxury,.ad_position,.adPosition,.adRight
 www.jdon.com##ins.adsbygoogle
 www.jdunion.com##div.wp.a_t,div.wp.a_f,div.a_h,div.bm.a_c
 www.jgzj.net##table.adcss,div#ad_headerbanner,div#ad_text.ad_text,div.ad_column
-www.jianshu.com##[aria-label='lwa-ad-one']
 www.jianshu.com#@#div[class$="_0"]
 www.jiaosm.net##div#weizhi-a,div.viewt_cc,div#xinxi
 www.jisilu.cn##A[href^="http://www.nffund.com/upfiles/eb/home"],A[href^="http://www.yhfund.com.cn/activezone"]

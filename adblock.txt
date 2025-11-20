@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-11-20 16:16:54（北京时间） 
+! Version: 2025-11-21 00:14:48（北京时间） 
 ! Total count: 19303
 -1325890192.cos.
 -960x*0.gif
@@ -1105,7 +1105,7 @@ $removeparam=ad-session-id
 $removeparam=adSize,domain=media-cdn.costco.ca|media-cdn.costco.com
 $removeparam=ad_config_id
 $removeparam=ad_content,domain=24hshop.fi|adlibris.com|data-systems.fi|e-ville.com|scandinavianphoto.fi|swamp.fi
-$removeparam=ad_id,domain=~olx.ua
+$removeparam=ad_id,domain=~olx.*
 $removeparam=ad_medium
 $removeparam=ad_name
 $removeparam=ad_prodid,domain=24hshop.fi|adlibris.com|data-systems.fi|e-ville.com|scandinavianphoto.fi|swamp.fi
@@ -1113,7 +1113,7 @@ $removeparam=ad_pvid
 $removeparam=ad_src,domain=24hshop.fi|adlibris.com|data-systems.fi|e-ville.com|scandinavianphoto.fi|swamp.fi
 $removeparam=ad_start
 $removeparam=ad_sub,domain=homo.xxx
-$removeparam=ad_type,domain=~leboncoin.fr|~2dehands.be|~agriaffaires.com|~avendrealouer.fr|~donedeal.ie|~jofogas.hu|~kijiji.ca|~machineryzone.fr|~marktplaats.nl|~milanuncios.com|~mobile.de|~olx.com.br|~subito.it|~truckscorner.fr|~willhaben.at
+$removeparam=ad_type,domain=~leboncoin.fr|~2dehands.be|~agriaffaires.com|~avendrealouer.fr|~donedeal.ie|~jofogas.hu|~kijiji.ca|~machineryzone.fr|~marktplaats.nl|~milanuncios.com|~mobile.de|~olx.*|~subito.it|~truckscorner.fr|~willhaben.at
 $removeparam=adblock,domain=reddit.app.link
 $removeparam=adcampaigngroup
 $removeparam=adcid

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-11-23 09:04:01（北京时间） 
-! Total count: 19307
+! Version: 2025-11-23 16:14:31（北京时间） 
+! Total count: 19316
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -397,12 +397,14 @@
 ##[style='width:100%;height:auto;min-height:120px;position:relative;display:block;']
 ##[style='z-index: 2147483647; width: 100%;height: auto;left: 0;right: 0;margin: auto;']
 ##[style='z-index: 99999; text-indent: -10em;position: relative; left: 0px;box-sizing: border-box;']
-##[style^="pointer-events: none;background-image:url('https://33789.qqqwww987.site"],[style^='z-index: 2147483647; height: 123px; ']
+##[style^="pointer-events: none;background-image:url(': 2147483647; height: 123px; ']
 ##[style^='bottom: 0px; width: 100%; height: 50vw; position: fixed; left: 0px; right: 0px; margin: 0px; background: url("https://']
+##[style^='display: block; width: 100%; height: 125px; background: url'][style*='center top / contain no-repeat;']
 ##[style^='display: block; z-index: 2147483646; width: 10%;']
 ##[style^='display: block; z-index: 2147483646; width: 17px; ']
 ##[style^='position: fixed; bottom: 20%; z-index: 19999 !important; ']
 ##[style^='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: '][style*='; top: 0px; left: 0px;']
+##[style^='position: fixed; z-index: 100; display: block; bottom: 0px; '][style*='center top / contain no-repeat;']
 ##[style^='position: fixed; z-index: 2147483616; width: 10%; height: 32.5px;']
 ##a > I.gg-icon
 ##a > IMG[src$='.gif'][wapsrc][style^='width: 100%']
@@ -2420,6 +2422,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 .com/c.php?s=*=*=$third-party
 .com/candy*.js$third-party
 .com/gg.js
+.com/hm/*?*=*$third-party
 .com/js/g.js
 .com/qq.js$third-party
 .com/sh/*.js$third-party
@@ -2910,6 +2913,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 /randm.js*
 /redbaiduct.com?s=
 /referrer.js*
+/resolve?type=*&short=*&name=$third-party
 /rest?method=index.hot&from=
 /rightad*
 /s.js*
@@ -2974,6 +2978,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 /tj.js*
 /tj/tongji.js?v=$third-party
 /tj_
+/tjjs.js
 /tongji.js
 /topad*
 /toptip.js*
@@ -3022,6 +3027,8 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 /xitongxiaoxi.
 /xpgod/*
 /xtub_*_rony.js$third-party
+/xx/d.js
+/xx/f12.js
 /xxgg/gd*.js
 /xxgg/pf*.js
 /yinghuacd/bottom.js
@@ -3979,6 +3986,7 @@ bve8.xyz##div.main:nth-child(3) > div:first-child
 bxwx9.org##[class^="pagead_"],#bottomAD
 byfen.com##.fixed-bottom
 byhh.org##DIV#ad_tool
+bytegoofy.com/goofy/*/push.js?
 bywl6.com###topblock,[height="70"],[src^="/_uploadfile/image"],[style*="width:"]
 bz.moe.pm##.ad
 c.m.163.com##.commentBar
@@ -16989,6 +16997,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||twh5.com^
 ||twitch.com^$removeparam=tt_content
 ||twitch.com^$removeparam=tt_medium
+||twitch.tv/activate^$removeparam=device-metadata
 ||twitter.com^$removeparam=/^(ref_?)?src=/
 ||twitter.com^$removeparam=cn
 ||twitter.com^$removeparam=ref_url

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-12-01 16:19:06（北京时间） 
-! Total count: 19322
+! Version: 2025-12-02 00:16:47（北京时间） 
+! Total count: 19326
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -11522,6 +11522,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||exp.bdstatic.com/static/common-jquery^
 ||exp.bdstatic.com/static/exp-mobile/article-n/pkg/article-common_*.js
 ||expedia.com^$removeparam=my_ad
+||ext.baidu.com^
 ||extlog.snssdk.com^
 ||extmaps-api.yandex.net^
 ||eybstar.com^
@@ -12187,6 +12188,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||h1v3fa.com^
 ||h2ji5.xyz^
 ||h2sry.site^
+||h2tcbox.baidu.com^
 ||h45pmx1.cn^
 ||h4b0srs.cn^
 ||h5.dzgsdswh5.xyz^
@@ -12287,6 +12289,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||healio.com^$removeparam=m_bt
 ||hebstsmgs.com^
 ||hechaocheng.cn^
+||hectorstatic.baidu.com^
 ||hefan365.com^
 ||hefei126.com^
 ||hefei64.com^
@@ -15044,7 +15047,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pb.sogou.com^$removeparam=uigs_t
 ||pbaiyho.cn^
 ||pbcdn.com/data/attachment/album/$image
-||pbs.twimg.com^$removeparam=/^name=small$/
 ||pbtech.$removeparam=qr
 ||pbtsjh.xyz^
 ||pc.min.js*
@@ -15822,6 +15824,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||s*.sinaimg.cn/orignal^$domain=avtbf.com
 ||s*z.pstatp.com/site/download/app/pl/news_article/68004/ss_plugin_config.json$app=com.ss.android.article.news
 ||s.bdstatic.com/common/openjs/openBox.js^
+||s.bdstatic.com^
 ||s.btime.com^
 ||s.h5king.com^
 ||s.jpush.cn^
@@ -16273,6 +16276,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||soulsoul.xyz^
 ||soup.v.qq.com^
 ||sovelswpq.com^
+||sp1.baidu.com^
 ||sp5vip.com/h.js
 ||space.bilibili.com^$removeparam=spm_id_from
 ||spartoo.$removeparam=sx

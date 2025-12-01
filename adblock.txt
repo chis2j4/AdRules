@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-12-01 00:13:04（北京时间） 
-! Total count: 19319
+! Version: 2025-12-01 09:08:13（北京时间） 
+! Total count: 19322
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -559,11 +559,10 @@ $$ins[class="adsbygoogle"]
 $$p[class="ReadAd"]
 $$span[class="dmcenterb"]
 $doc,domain=bilibili.com|querie.me,removeparam=timestamp
-$doc,domain=youtube.com,removeparam=embeds_referring_origin
 $doc,image,removeparam=/^=$/,domain=discord.com|discordapp.net|amazon.*|adressa.no|polarismedia.no
 $doc,removeparam=/^.*affcid.*$/i
 $doc,removeparam=/^ICID=.*$/i,domain=~api.mapbox.com|~microsoft.com
-$doc,removeparam=/^OCID=.*$/i,domain=~youtube.com|~reiseauskunft.bahn.de|~msn.com
+$doc,removeparam=/^OCID=.*$/i,domain=~youtube.com|~reiseauskunft.bahn.de|~msn.com|~35.190.94.206|~206.94.190.35.bc.googleusercontent.com
 $doc,removeparam=/^Offers\.com.*$/
 $doc,removeparam=/^WT\..*$/i
 $doc,removeparam=/^WT_.*$/i
@@ -637,7 +636,7 @@ $doc,removeparam=/^source=pepperjam$/
 $doc,removeparam=/^source=rss$/
 $doc,removeparam=/^source=tradedoubler$/
 $doc,removeparam=/^source=webgains$/
-$doc,removeparam=/^src=Linkfire$/,domain=apple.com|youtube.com
+$doc,removeparam=/^src=Linkfire$/,domain=apple.com|youtube.com|35.190.94.206|206.94.190.35.bc.googleusercontent.com
 $doc,removeparam=/^src=aff$/
 $doc,removeparam=/^src=rss$/
 $doc,removeparam=/^stm_.*$/,domain=~redir.tradedoubler.com
@@ -697,11 +696,12 @@ $doc,removeparam=asgtbndr
 $doc,removeparam=awc
 $doc,removeparam=bb,domain=indeed.com
 $doc,removeparam=bbaid
+$doc,removeparam=bp,domain=youtube.com|35.190.94.206|206.94.190.35.bc.googleusercontent.com
 $doc,removeparam=bpli,domain=blogger.com
 $doc,removeparam=bxid
-$doc,removeparam=cId,domain=apple.com|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion|youtube.com
+$doc,removeparam=cId,domain=apple.com|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion|youtube.com|35.190.94.206|206.94.190.35.bc.googleusercontent.com
 $doc,removeparam=c[0]
-$doc,removeparam=campaign,domain=1sol.io|bdsmx.tube|blue-tomato.com|bybit.com|coinpanel.com|discord.*|docs.google.com|docsend.com|eventbrite.*|forms.gle|gleam.io|goodcrypto.app|instagram.com|kasta.io|mrgay.tube|outnorth.fi|peterhahn.*|reddit.app.link|runnode.com|scmp.com|shopee.*|sitepoint.com|sportler.com|t.me|twitter.com|ubereats.com|x.com|youtube.com
+$doc,removeparam=campaign,domain=1sol.io|bdsmx.tube|blue-tomato.com|bybit.com|coinpanel.com|discord.*|docs.google.com|docsend.com|eventbrite.*|forms.gle|gleam.io|goodcrypto.app|instagram.com|kasta.io|mrgay.tube|outnorth.fi|peterhahn.*|reddit.app.link|runnode.com|scmp.com|shopee.*|sitepoint.com|sportler.com|t.me|twitter.com|ubereats.com|x.com|youtube.com|235.190.94.206|206.94.190.35.bc.googleusercontent.com
 $doc,removeparam=campaignid
 $doc,removeparam=channel,domain=1sol.io|amazon.*|bybit.com|coinpanel.com|docs.google.com|docsend.com|eventbrite.*|forms.gle|gleam.io|goodcrypto.app|instagram.com|kasta.io|ngx.me|privateinternetaccess.com|reddit.app.link|rei.com|runnode.com|squarespace.com|t.me|twitter.com|xd.wayin.com|x.com
 $doc,removeparam=cid,domain=8days.sg|abcnews.go.com|adguard.com|adshares.net|ae.com|anntaylor.com|apple.com|bitdefender.*|blair.com|channelnewsasia.com|childrensplace.com|controld.com|dcard.tw|elmundo.es|emirates.com|factoryoutletstore.com|fifa.com|flipkart.com|gamestop.com|giphy.com|glasses.com|haband.com|intuit.com|jared.com|jcpenney.com|kay.com|kohls.com|lenovo.com|loft.com|marca.com|microsoft.com|nbcnews.com|nike.com|nyandcompany.com|overstock.com|persol.com|proshop.*|radissonhotelsamericas.com|ray-ban.com|rei.com|rightmove.co.uk|samsung.com|stadium.*|staples.com|telenor.no|todayonline.com|tokopedia.com|tommy.com|toms.com|totalbeauty.com|tractorsupply.com|underarmour.com|vineyardvines.com|voxi.co.uk|wine.com|wsj.com|xg4ken.com|zales.com
@@ -733,6 +733,7 @@ $doc,removeparam=elqaid,domain=~comcast.com|~comcastforbusiness.com
 $doc,removeparam=elqat
 $doc,removeparam=elqcsid
 $doc,removeparam=elqcst
+$doc,removeparam=embeds_referring_origin,domain=youtube.com|35.190.94.206|206.94.190.35.bc.googleusercontent.com
 $doc,removeparam=entrypoint,domain=bing.com
 $doc,removeparam=es_id
 $doc,removeparam=esrc,domain=arstechnica.com|newyorker.com|wired.com
@@ -766,7 +767,7 @@ $doc,removeparam=jsa,domain=indeed.com
 $doc,removeparam=km_adgroup
 $doc,removeparam=km_partner
 $doc,removeparam=l,domain=ask.com|askmoney.com|bloglines.com|consumersearch.com|directhit.com|faqtoids.com|findthedish.com|informationvine.com|internetcorkboard.com|life123.com|ohdeal.com|questionsanswered.net|reference.com|shop411.com|shopping.net|simpli.com|smarter.com|symptomfind.com
-$doc,removeparam=lId,domain=apple.com|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion|youtube.com
+$doc,removeparam=lId,domain=apple.com|reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion|youtube.com|35.190.94.206|206.94.190.35.bc.googleusercontent.com
 $doc,removeparam=lcid,domain=~rekono.si
 $doc,removeparam=lgw_code
 $doc,removeparam=line_uid
@@ -827,7 +828,7 @@ $doc,removeparam=sms_click
 $doc,removeparam=sms_source
 $doc,removeparam=sms_uph
 $doc,removeparam=snr,domain=steampowered.com|steamcommunity.com|steamgames.com
-$doc,removeparam=source,denyallow=googlevideo.com,domain=1sol.io|about.gitlab.com|ashford.com|asos.com|att.com|awd-it.*|bankofamerica.com|barenecessities.com|bedbathandbeyond.com|betterprogramming.pub|blavity.com|blog.getadblock.com|blogs.oracle.com|bluemountain.com|boscovs.com|boxboat.com|britishcornershop.co.uk|brownells.*|burkesoutlet.com|bybit.com|choicehotels.com|chollometro.com|cmswire.com|coinpanel.com|contabo.com|cyberghostvpn.com|despegar.*|directv.com|discord.*|docs.google.com|docsend.com|drinkhint.com|educba.com|edx.org|eonline.com|escentual.com|eventbrite.*|fiverr.com|fool.com|forms.gle|gethotspotshield.com|gleam.io|goodcrypto.app|googleusercontent.com|greenhouse.io|greenvoice.fr|hammacher.com|hanes.com|hbomax.com|hobbyhall.fi|hotspotshield.com|hottopic.com|housing.com|hp.com|ilgusto.it|instagram.com|italian.tech|itnext.io|jacquielawson.com|jobs.deepl.com|just-eat.co.uk|kasta.io|ladbible.com|lastampa.it|learn.microsoft.com|medium.com|microsoftedgewelcome.microsoft.com|monster.fi|nautica.com|netflix.com|ngx.me|nortonsafe.search.ask.com|nytimes.com|onehanesplace.com|outnorth.fi|paypal.com|petsupplies.com|phonesoap.com|privatehomeclips.com|propublica.org|quizlet.com|remppatori.fi|repubblica.it|riteaid.com|runnode.com|search.brave.com|seekingalpha.com|sonos.com|spiceworks.com|squarespace.com|startpage.com|studio.co.uk|subscribe.gq.com|t.me|tcgplayer.com|theathletic.com|thedailybeast.com|themeditelegraph.com|tiktok.com|tokopedia.com|tommybahama.com|torrid.com|tous.com|tradingview.com|trendmicro.com|tumblr.com|twitter.com|user.qzone.qq.com|vimeo.com|webhint.io|wilsonsleather.com|wired.com|x.com|xd.wayin.com|ylighting.com|youtube.com|yubo.live
+$doc,removeparam=source,denyallow=googlevideo.com,domain=1sol.io|about.gitlab.com|ashford.com|asos.com|att.com|awd-it.*|bankofamerica.com|barenecessities.com|bedbathandbeyond.com|betterprogramming.pub|blavity.com|blog.getadblock.com|blogs.oracle.com|bluemountain.com|boscovs.com|boxboat.com|britishcornershop.co.uk|brownells.*|burkesoutlet.com|bybit.com|choicehotels.com|chollometro.com|cmswire.com|coinpanel.com|contabo.com|cyberghostvpn.com|despegar.*|directv.com|discord.*|docs.google.com|docsend.com|drinkhint.com|educba.com|edx.org|eonline.com|escentual.com|eventbrite.*|fiverr.com|fool.com|forms.gle|gethotspotshield.com|gleam.io|goodcrypto.app|googleusercontent.com|greenhouse.io|greenvoice.fr|hammacher.com|hanes.com|hbomax.com|hobbyhall.fi|hotspotshield.com|hottopic.com|housing.com|hp.com|ilgusto.it|instagram.com|italian.tech|itnext.io|jacquielawson.com|jobs.deepl.com|just-eat.co.uk|kasta.io|ladbible.com|lastampa.it|learn.microsoft.com|medium.com|microsoftedgewelcome.microsoft.com|monster.fi|nautica.com|netflix.com|ngx.me|nortonsafe.search.ask.com|nytimes.com|onehanesplace.com|outnorth.fi|paypal.com|petsupplies.com|phonesoap.com|privatehomeclips.com|propublica.org|quizlet.com|remppatori.fi|repubblica.it|riteaid.com|runnode.com|search.brave.com|seekingalpha.com|sonos.com|spiceworks.com|squarespace.com|startpage.com|studio.co.uk|subscribe.gq.com|t.me|tcgplayer.com|theathletic.com|thedailybeast.com|themeditelegraph.com|tiktok.com|tokopedia.com|tommybahama.com|torrid.com|tous.com|tradingview.com|trendmicro.com|tumblr.com|twitter.com|user.qzone.qq.com|vimeo.com|webhint.io|wilsonsleather.com|wired.com|x.com|xd.wayin.com|ylighting.com|youtube.com|35.190.94.206|206.94.190.35.bc.googleusercontent.com|yubo.live
 $doc,removeparam=source_location
 $doc,removeparam=src,domain=citi.com
 $doc,removeparam=sspUserID
@@ -1092,6 +1093,7 @@ $removeparam=_zucks_suid
 $removeparam=a_aid
 $removeparam=a_fid
 $removeparam=ab,domain=fanatics.com|hbr.org|nhl.com
+$removeparam=ab_channel,domain=youtube.com|35.190.94.206|206.94.190.35.bc.googleusercontent.com
 $removeparam=acampID
 $removeparam=acid,domain=lenovo.com
 $removeparam=acontext
@@ -1387,7 +1389,7 @@ $removeparam=cnxclid
 $removeparam=coliid
 $removeparam=collection,domain=everlane.com
 $removeparam=compact_view,domain=reddit.app.link
-$removeparam=content,domain=1sol.io|bybit.com|coinpanel.com|docs.google.com|docsend.com|eonline.com|eventbrite.*|forms.gle|gleam.io|goodcrypto.app|instagram.com|kasta.io|runnode.com|t.me|twitter.com|x.com|youtube.com
+$removeparam=content,domain=1sol.io|bybit.com|coinpanel.com|docs.google.com|docsend.com|eonline.com|eventbrite.*|forms.gle|gleam.io|goodcrypto.app|instagram.com|kasta.io|runnode.com|t.me|twitter.com|x.com|youtube.com|35.190.94.206|206.94.190.35.bc.googleusercontent.com
 $removeparam=context,domain=imdb.com|fiverr.com|spotify.com|avito.ru|avito.ma
 $removeparam=context_referrer
 $removeparam=correlation_id,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion
@@ -1483,6 +1485,7 @@ $removeparam=effi_id2
 $removeparam=eid,doc,denyallow=embed.tapkal.fi|myanimelist.net,domain=greatrun.org|mcafee.com
 $removeparam=elqTrack
 $removeparam=email_work_card
+$removeparam=embeds_euri,domain=youtube.com|35.190.94.206|206.94.190.35.bc.googleusercontent.com
 $removeparam=embeds_referring_euri
 $removeparam=emcs_t
 $removeparam=eml,domain=endesa.com|scholastic.com
@@ -1718,7 +1721,7 @@ $removeparam=mc_eid
 $removeparam=mc_tc
 $removeparam=mclk
 $removeparam=mediapartner,domain=evesleep.co.uk
-$removeparam=medium,domain=1sol.io|bybit.com|coinpanel.com|deepdiscount.com|discord.*|docs.google.com|docsend.com|eonline.com|eventbrite.*|forms.gle|gleam.io|goodcrypto.app|instagram.com|kasta.io|ngx.me|outnorth.fi|runnode.com|t.me|twitter.com|xd.wayin.com|x.com|youtube.com
+$removeparam=medium,domain=1sol.io|bybit.com|coinpanel.com|deepdiscount.com|discord.*|docs.google.com|docsend.com|eonline.com|eventbrite.*|forms.gle|gleam.io|goodcrypto.app|instagram.com|kasta.io|ngx.me|outnorth.fi|runnode.com|t.me|twitter.com|xd.wayin.com|x.com|youtube.com|35.190.94.206|206.94.190.35.bc.googleusercontent.com
 $removeparam=messagesUtk
 $removeparam=mibextid
 $removeparam=mid,domain=agentprovocateur.com|change.org|columbia.com|dxl.com|hanes.com|josbank.com|links.e.malwarebytes.com|onehanesplace.com|productshopper.*|columbiasportswear.*|saksfifthavenue.com|saksoff5th.com|sorel.com|lookmovie211.xyz|verabradley.com
@@ -2067,8 +2070,9 @@ $removeparam=soc_trk
 $removeparam=source,domain=search.brave.com|search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion
 $removeparam=sourceID,domain=gamestop.com|verizon.com
 $removeparam=sourceType,domain=vitaminshoppe.com|aliexpress.com
+$removeparam=source_ve_path,domain=youtube.com|35.190.94.206|206.94.190.35.bc.googleusercontent.com
 $removeparam=source_widget_id,domain=tapahtumat.almatalent.fi|tapahtumat.ekarjala.fi|tapahtumat.ekonomit.fi|tapahtumat.eslu.fi|tapahtumat.hel.fi|tapahtumat.hyvinkaa.fi|tapahtumat.intoseinajoki.fi|tapahtumat.joensuu.fi|tapahtumat.kaleva.fi|tapahtumat.kannus.fi|tapahtumat.karjalainen.fi|tapahtumat.kauppakamari.fi|tapahtumat.kerava.fi|tapahtumat.kirkkonummi.fi|tapahtumat.kokkola.fi|tapahtumat.kuusamo.fi|tapahtumat.lappeenranta.fi|tapahtumat.lempaala.fi|tapahtumat.loviisa.fi|tapahtumat.masku.fi|tapahtumat.mikkeli.fi|tapahtumat.munoulu.fi|tapahtumat.osakeliitto.fi|tapahtumat.pori.fi|tapahtumat.raasepori.fi|tapahtumat.rantalakeus.fi|tapahtumat.ratsastus.fi|tapahtumat.rovaniemi.fi|tapahtumat.salo.fi|tapahtumat.sipoo.fi|tapahtumat.sley.fi|tapahtumat.studentum.fi|tapahtumat.tampereensuomalainenklubi.fi|tapahtumat.tuusula.fi|tapahtumat.vantaa.fi|tapahtumat.vihti.fi|tapahtumat.visitespoo.fi|tapahtumat.visitkotkahamina.fi|tapahtumat.visitlohja.fi|tapahtumat.visitsavonlinna.fi|tapahtumat.visitvantaa.fi|tapahtumienkeskipohjanmaa.fi
-$removeparam=sourceid,domain=~google.*|~youtube.com
+$removeparam=sourceid,domain=~google.*|~youtube.com|~35.190.94.206|~206.94.190.35.bc.googleusercontent.com
 $removeparam=spJobID
 $removeparam=spLa
 $removeparam=spMailingID
@@ -2112,6 +2116,7 @@ $removeparam=sub4
 $removeparam=sub5
 $removeparam=sub_ad,domain=hotels.com
 $removeparam=sub_aff_id
+$removeparam=sub_confirmation,domain=youtube.com|35.190.94.206|206.94.190.35.bc.googleusercontent.com
 $removeparam=sub_publisher,domain=hotels.com
 $removeparam=sub_site,domain=hotels.com
 $removeparam=subacctid
@@ -15039,6 +15044,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||pb.sogou.com^$removeparam=uigs_t
 ||pbaiyho.cn^
 ||pbcdn.com/data/attachment/album/$image
+||pbs.twimg.com^$removeparam=/^name=small$/
 ||pbtech.$removeparam=qr
 ||pbtsjh.xyz^
 ||pc.min.js*
@@ -16688,6 +16694,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||thjunshi.com/theme/js/all.js
 ||thli43.cn^
 ||thoohizoogli.xyz^
+||threads.com^$removeparam=slof
+||threads.com^$removeparam=xmt
 ||thunderbird.net^$removeparam=src
 ||thvx9i.icu^
 ||tiandesign.top^
@@ -18470,11 +18478,6 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||youtube.com/csi_204?
 ||youtube.com/pagead/
 ||youtube.com/ptracking?pltype=adhost
-||youtube.com^$doc,removeparam=bp
-||youtube.com^$removeparam=ab_channel
-||youtube.com^$removeparam=embeds_euri
-||youtube.com^$removeparam=source_ve_path
-||youtube.com^$removeparam=sub_confirmation
 ||youtubee.top^
 ||youtui.net^
 ||youxi.com/$third-party

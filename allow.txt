@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2025-12-09 16:17:59（北京时间） 
-! Total count: 2760
+! Version: 2025-12-10 08:59:45（北京时间） 
+! Total count: 2761
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -3538,6 +3538,7 @@
 @@.png#$domain=3dpchip.com|9zvip.net|club.tgfcer.com|coolinet.com|d1-dm.com|digit77.com|e9china.net|upxin.net
 @@.png#$domain=9zvip.net|club.tgfcer.com|coolinet.com|d1-dm.com
 @@/WebAd/*$domain=yongyoujia.com
+@@/\.(gif|jpe?g|png|webp)#(\/?.+)?(\/(ad)s?\/|\/ad-)/
 @@/ad-close.png$domain=ch.com
 @@/ad.aspx|$domain=biqudao.com|ldzw.com|xdingdiann.com
 @@/ad/images/*$domain=37-express.com|vnnox.com

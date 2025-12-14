@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-12-14 09:04:25（北京时间） 
-! Total count: 19329
+! Version: 2025-12-14 16:15:10（北京时间） 
+! Total count: 19330
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -6318,6 +6318,7 @@ sohu.com##.phone-scan
 sohu.com##.top-bill-wrapper[data-spm='a-tb'][data-spm-stop='init']
 sohu.com##A[href='javascript:void(0);']
 sohu.com##DIV[id^="ceans_"]
+sohu.com##IFRAME[width='325'][frameborder='0']
 sohu.com##[data-spm-content='ad']
 sohu.com##[data-spm^='ad-']
 sohu.com##[id^="ads_"],#miaozhenad

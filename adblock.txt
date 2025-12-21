@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-12-21 09:04:08（北京时间） 
-! Total count: 19341
+! Version: 2025-12-21 16:15:22（北京时间） 
+! Total count: 19343
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -4840,6 +4840,8 @@ ip.cn##[href^="https://s.click.taobao.com"],[width="360"]
 ip.sb##.wwads_abp
 ip.sb##[style='text-align: center;margin: 20px 0;width: 100%;']
 ipc.me##[style^="height:280px;width:336px;"],[id^="BAIDU_SSP__"],[id^="tanxssp-outer-conmm_"],.adsbygoogle,.d300
+iplark.com##body > #capture-area ~ div[class]:empty
+iplark.com##div.search-container > [style='display: block;']
 iplaypy.com##.if1200,[src^="http://dl.iplaypython.com/images/banner"],[style*="width:336px;height:280px"]
 iplaysoft.com##DIV.d336,DIV.d250,UL#section_event,DIV#sidebar_scroll_bdad,DIV.widget_content_b,ins.adsbygoogle,div.d300,#bottom_ad,div[style*="width:336px;height:280px"],#sidebar_scroll,.widget[style],[style^="width:680px;height:166px;"],[style*="height:132px;width:682px;"],.sidebar_bdad_list,div[style*="height:150px;width: 980px;"],[style^="width:300px;height:250px;"],[id^="BAIDU_SSP__wrapper_"],.widget_b
 iptv444.com$$a[target="_blank"]

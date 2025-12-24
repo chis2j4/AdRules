@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-12-24 16:17:56（北京时间） 
+! Version: 2025-12-25 00:15:16（北京时间） 
 ! Total count: 19343
 -1325890192.cos.
 -960x*0.gif
@@ -4044,8 +4044,8 @@ changsha.cn##[class^="site_ad_"]
 chapaofan.com##[class^="pf-ad-"],.details-ad
 chasedream.com##.a_h,.a_f,[id^="diycd-board"]
 chashebao.com##.ad960
-chat.deepseek.com#?#div:has(> .ds-icon + span)
-chat.deepseek.com#?#div:has(> .ds-icon[style*="width: 28px"][style*="height: 28px"])
+chat.deepseek.com#?#.ds-dropdown-menu-option:has-text(下载手机应用)
+chat.deepseek.com#?#button:has(span:contains(下载应用))
 chaturbate.com##.ad,.banner,[href^="/external_link/?"]
 chcj.com##.a_cb,#diy1,.a_pt,.a_pb,#comiis_sfcs00,#comiis_sfcs08,[id^="comiis_ad"]
 chcj.com,pt80.net##img[width="960"]

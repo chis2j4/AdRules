@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2025-12-26 16:17:13（北京时间） 
-! Total count: 2763
+! Version: 2025-12-27 00:13:59（北京时间） 
+! Total count: 2765
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -4500,6 +4500,7 @@
 @@||data.adxcel-ec2.com^$image,domain=laguardia.edu
 @@||data.digital.costco.ca^|
 @@||data.digital.costco.com^|
+@@||data.orders.costco.com^|
 @@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|cdn.spatialbuzz.com|dashboard.getdriven.app|hungryroot.com|usa.experian.com
 @@||daxiaamu.com^$generichide
 @@||daziba.cn/Images/share.css
@@ -5147,6 +5148,7 @@
 @@||line-scdn.net^*/torimochi.js$script,domain=demae-can.com
 @@||linetv.tw/public/scripts/ads.js
 @@||linetv.tw^*/scripts/ads.js
+@@||link.meet5.net^|
 @@||link.morningbrew.com^|
 @@||link.nzz.ch^|
 @@||link.sylikes.com^|

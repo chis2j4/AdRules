@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-12-27 00:13:52（北京时间） 
-! Total count: 19343
+! Version: 2025-12-27 08:58:21（北京时间） 
+! Total count: 19347
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -11108,6 +11108,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||dlfvgndsdfsn.com^
 ||dlili.tv/ufile/22222.js
 ||dlkoo.com/down/js/index_top
+||dllfiles.com^$removeparam=c
 ||dlrtz.com^
 ||dlswbr.baidu.com^
 ||dlxxjsh.top^
@@ -14269,6 +14270,8 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||microad-cn.com^
 ||microcenter.com^$removeparam=rf
 ||microfog.me^
+||microsoft.com/*/download/details$removeparam=lc
+||microsoft.com/*/download/details$removeparam=quot
 ||microsoft.com^$removeparam=/^AAAA.*$/
 ||microsoft.com^$removeparam=destrt
 ||microsoft.com^$removeparam=headerid
@@ -18793,6 +18796,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||zhihu.com/check_health
 ||zhihu.com^$removeparam=hybrid_search_extra
 ||zhihu.com^$removeparam=hybrid_search_source
+||zhihu.com^$removeparam=share_code
 ||zhihu.m.$popup
 ||zhihuiduijian.com^
 ||zhijiangweidu.top^

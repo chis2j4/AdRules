@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2025-12-30 09:00:04（北京时间） 
+! Version: 2025-12-30 16:17:59（北京时间） 
 ! Total count: 19347
 -1325890192.cos.
 -960x*0.gif
@@ -4299,6 +4299,7 @@ douban.com###dale_movie_subject_middle_right,#dale_movie_subject_top_right,#dale
 douban.com##.lnk-doubanapp
 douban.com##IFRAME[width='315']
 douban.com##div.center [style*='padding: 4px;']
+doubao.com##.group\/download
 doubean.com##.ad-block-960
 doubibackup.com##footer.article-footer
 doupapa.com,dpp2019.com##.ad-body,.couplet_9cb0d,.dibu_9cb0d
@@ -6594,8 +6595,6 @@ tmall.com##div[style*="z-index: 99999; display: block;"]
 to8to.com##.float,.quote_pic_adv
 tom.com##div#popupDivgame,.modad
 tompda.com##A.tsxb,div.shop_right_news2,embed[width="980px"][height="60px"],div[pageid],iframe[src^="http://www.tompda.com/adv/"],iframe#tsdxb_frame
-tongyi.aliyun.com##div[class^="downloadWrap"]
-tongyi.aliyun.com#?#ul > li:nth-child(2):not(:contains("效率"))
 tools.2345.com##div.p-tps
 top81.com.cn##[class^="ad_"]
 topfo.com##[src="http://zs.topfo.com/zt/kdgj/img/300_85.gif "],img[width="960px"][height="90px"],.con.jj-dk01
@@ -7130,6 +7129,7 @@ www.portablesoft.org##div.postads,ins.adsbygoogle
 www.potplayer.org##ins.adsbygoogle,a[href^="http://baiduyouqian.dxztc.com/"],a[href^="http://download.2345.cn/silence/"],DIV.post-body + TABLE,DIV#divMain > SCRIPT + A
 www.putonghua520.com##div.mid_ad,a[href^="http://item.taobao.com/item.htm?"]
 www.qdmm.com##div[id^="div_1003"]
+www.qianwen.com##.bg-weaken
 www.qianzhan.com##div.ad1000,div.ad300250,div.ad300
 www.qiqibudy.com##div[id^="ad_960_"],dl.Intr,div[id^="ad_300_"]
 www.qiuyi.cn##.zx_gg,.z_banner

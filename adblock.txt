@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2026-01-05 16:20:21（北京时间） 
-! Total count: 19349
+! Version: 2026-01-06 00:17:28（北京时间） 
+! Total count: 19355
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -9475,6 +9475,12 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||aspwg.cn^
 ||asset2.uniwa.cn/assets/custom/csstock$image
 ||astrategy.beacon.qq.com^
+||asuswebstorage.com^$removeparam=pv
+||asuswebstorage.com^$removeparam=tlt
+||asuswebstorage.com^$removeparam=ve
+||asuswebstorage.com^$removeparam=x-asc-device-name
+||asuswebstorage.com^$removeparam=x-asc-os-version
+||asuswebstorage.com^$removeparam=x-asc-sid-version
 ||asvysvxr.com^
 ||asycxtz.cn^
 ||at*.doubanio.com^

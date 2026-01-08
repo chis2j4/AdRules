@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2026-01-08 09:01:49（北京时间） 
-! Total count: 19356
+! Version: 2026-01-08 16:18:40（北京时间） 
+! Total count: 19358
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -7487,8 +7487,10 @@ yse1234.com/template/phone/imagess/sdfwe.js
 yshw1.com##[id^="diynews_ad"]
 ysts8.com##[class^="ads_"]
 yuanbao.tencent.com##.agent-dialogue__content-qrcode
+yuanbao.tencent.com##.agent-dialogue__tool
 yuanbao.tencent.com##.icon-yb-downapp
 yuanbao.tencent.com##div[class^="index_pc_download"]
+yuanbao.tencent.com#?#div.input-guide-v2-item:contains(下载)
 yunpan.cn###clientDl
 yunvs.com##img[height="270"]
 yuyouge.com##.gad2,.adsbygoogle

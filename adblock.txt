@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2026-01-14 16:18:24（北京时间） 
-! Total count: 19360
+! Version: 2026-01-15 00:18:57（北京时间） 
+! Total count: 19366
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -4416,6 +4416,7 @@ fbook.net##div.gg_t,div.head-d,.readads,div.tlgg
 fc2.com##div.ad_head_wide,div.side_menu_block
 fczym.xyz###fl
 fczym.xyz##.v
+featured_on=talkpython$doc,removeparam=featured_on
 fedce.com$$div[class="ad-"]
 fedce.com$$div[class="pic_group"]
 fei3d.com##div#aktuals_field,div.content-wrapper
@@ -6067,7 +6068,10 @@ redocn.com##DIV#all_adv_2_3,DIV#BAIDU_DUP_wrapper_307960_0,DIV[id^="index_adv_"]
 redtube-com.info##.ima,.rmedia,.sppc
 ref.so##div[style="overflow:hidden; height:auto; width:1002px; margin:0 auto;  "]
 ref=404media.co$doc,removeparam=ref
+ref=51st.news$doc,removeparam=ref
+ref=academy.socos.org$doc,removeparam=ref
 ref=admitad^$doc,removeparam=ref
+ref=aftermath.site$doc,removeparam=ref
 ref=awesometechstack.com$doc,removeparam=ref
 ref=awin^$doc,removeparam=ref
 ref=beep.blog$doc,removeparam=ref
@@ -6088,12 +6092,14 @@ ref=kelkoo^$doc,removeparam=ref
 ref=labs.watchtowr.com$doc,removeparam=ref
 ref=news.itsfoss.com$doc,removeparam=ref
 ref=news.risky.biz$doc,removeparam=ref
+ref=ppc.land$doc,removeparam=ref
 ref=pricespy^$doc,removeparam=ref
 ref=prisjakt^$doc,removeparam=ref
 ref=privacy.thenexus.today$doc,removeparam=ref
 ref=producthunt$doc,removeparam=ref
 ref=rss^$doc,removeparam=ref
 ref=spreadprivacy.com$removeparam=ref
+ref=the-browser$doc,removeparam=ref
 ref=troyhunt.com$doc,removeparam=ref
 ref=upstract.com$doc,removeparam=ref
 ref=words.filippo.io$doc,removeparam=ref

@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2026-01-21 09:03:32（北京时间） 
-! Total count: 19383
+! Version: 2026-01-21 16:19:51（北京时间） 
+! Total count: 19385
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -1619,6 +1619,7 @@ $removeparam=icn,domain=shein.com
 $removeparam=ico,domain=dailymail.co.uk|inews.co.uk|metro.co.uk|thisismoney.co.uk
 $removeparam=id,domain=affiliate.orangewebsite.com|linksynergy.com|www.bestbuy.*
 $removeparam=id,domain=go.redirectingat.com|go.skimlinks.com|go.skimresources.com|karkkainen.com
+$removeparam=id_externo_rsoc
 $removeparam=id_mid_4
 $removeparam=iflsig,domain=www.google.*|ipv6.google.com
 $removeparam=ifs,domain=pcgamesn.com|pockettactics.com|thedigitalfix.com|theloadout.com|wargamer.com
@@ -3095,6 +3096,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 ?adspot_
 ?from=glia^$removeparam=from
 ?local_ga_js=
+?ref=winget|$removeparam=/^ref=winget$/
 @@$doc,removeparam=/^.*_dest_url=.*$/
 @@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
 @@.com/o.js$domain=2biqu.com

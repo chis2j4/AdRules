@@ -1,6 +1,6 @@
 ! Title: Allowlist
-! Version: 2026-01-21 00:23:15（北京时间） 
-! Total count: 2766
+! Version: 2026-01-21 09:03:40（北京时间） 
+! Total count: 2767
 @@||bkimg.cdn.bcebos.com^
 @@||imgstat.baidu.com^
 @@||v6lvs.com^
@@ -5849,6 +5849,7 @@
 @@||src.fedoraproject.org/static/issues_stats.js?$~third-party
 @@||src.litix.io/shakaplayer/*/shakaplayer-mux.js
 @@||src.litix.io/videojs/*/videojs-mux.js
+@@||ssai.aniview.com^|
 @@||ssl-images-amazon.com^*/satelliteLib-$script,domain=audible.com
 @@||ssl.pstatic.net/sstatic/sdyn.js$script,domain=search.naver.com
 @@||ssports.com/images/resources/web/live/js/LiveAds.js

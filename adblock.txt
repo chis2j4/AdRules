@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2026-02-02 09:15:25（北京时间） 
-! Total count: 19394
+! Version: 2026-02-02 16:31:48（北京时间） 
+! Total count: 19396
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -5176,6 +5176,8 @@ keke.la###slide:first-child
 keke001.com##.adbg
 kekenet.com##div.ad_catagory,div.topad,p[class^="ta_ad_"],ins.adsbygoogle,img[width="980"][height="60"],img[width="990"][height="35"]
 kikinote.ne###Popup
+kimi.com##.download-app-btn
+kimi.com##.download-button
 kimi.moonshot.cn##.app-download
 kindle114.com##[class="portal_block_summary"]
 kindleren.com##DIV.a_pb,DIV.a_pt,DIV.a_mu

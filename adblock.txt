@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2026-02-03 00:26:13（北京时间） 
+! Version: 2026-02-03 09:16:01（北京时间） 
 ! Total count: 19396
 -1325890192.cos.
 -960x*0.gif
@@ -2030,7 +2030,7 @@ $removeparam=sb_referer_host
 $removeparam=sc,doc,domain=bing.com|qvc.com
 $removeparam=scd,domain=ashleystewart.com
 $removeparam=scici,domain=shein.com
-$removeparam=scm
+$removeparam=scm,domain=~v.youku.com
 $removeparam=scm-url
 $removeparam=scm_id
 $removeparam=scrolla
@@ -2085,7 +2085,7 @@ $removeparam=sp_campaign
 $removeparam=sp_medium
 $removeparam=sp_source
 $removeparam=spm
-$removeparam=spm,domain=~twitcasting.tv
+$removeparam=spm,domain=~twitcasting.tv|~v.youku.com
 $removeparam=spot_im_redirect_source
 $removeparam=spr,domain=media-cdn.costco.ca|media-cdn.costco.com
 $removeparam=sr_id,domain=reddit.app.link

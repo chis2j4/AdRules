@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2026-02-04 09:11:13（北京时间） 
-! Total count: 19396
+! Version: 2026-02-04 16:29:18（北京时间） 
+! Total count: 19397
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -1522,7 +1522,7 @@ $removeparam=fobs
 $removeparam=fpestid
 $removeparam=fr,domain=baidu.com|thegay.com|todayonline.com|hclips.com|search.yahoo.com
 $removeparam=fref
-$removeparam=from,doc,domain=apkpure.com|bandcamp.com|browserling.com|cancam.jp|duckduckgo.com|duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|ettoday.net|landevei.no|luisaviaroma.com|sogou.com|store.hbr.org|app.snyk.io|onlinepngtools.com|indiatimes.com|jetbrains.com|tvtropes.org|yandex.com
+$removeparam=from,doc,domain=apkpure.com|bandcamp.com|browserling.com|cancam.jp|duckduckgo.com|duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion|feeder.co|ettoday.net|landevei.no|luisaviaroma.com|sogou.com|store.hbr.org|app.snyk.io|onlinepngtools.com|indiatimes.com|jetbrains.com|tvtropes.org|yandex.com
 $removeparam=from,domain=indeed.com
 $removeparam=fromLoggedOutHome,domain=ocado.com
 $removeparam=fromMostRead,domain=bloomberg.com
@@ -6106,6 +6106,7 @@ ref=prisjakt^$doc,removeparam=ref
 ref=privacy.thenexus.today$doc,removeparam=ref
 ref=producthunt$doc,removeparam=ref
 ref=rss^$doc,removeparam=ref
+ref=shadcn.com$doc,removeparam=ref
 ref=spreadprivacy.com$removeparam=ref
 ref=the-browser$doc,removeparam=ref
 ref=troyhunt.com$doc,removeparam=ref

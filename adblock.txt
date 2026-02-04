@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2026-02-04 16:29:18（北京时间） 
+! Version: 2026-02-05 00:34:33（北京时间） 
 ! Total count: 19397
 -1325890192.cos.
 -960x*0.gif
@@ -6712,8 +6712,8 @@ v.ifeng.com##div[class^="index_container"]
 v.ifeng.com##section[class^="index_hot"]
 v.pps.tv##div.pgbox-content
 v.qq.com###pc_client > .quick_link
+v.qq.com##.client-loading-cta__btn
 v.qq.com##.svg_icon_client.svg_quick_icon
-v.qq.com##.svg_icon_client.svg_quick_icon > path:nth-of-type(1)
 v.qq.com##div.pop_ads_wide,div#QQlive_SP_RM.l_qq_com,DIV[class^="mod_ads mod_ads_main_"],iframe[src="http://games.qq.com/playgame/videoweb/videoweb.htm"],div[class^="mod_float_"],div.mod_ad,div.site_bg.site_bg_variety,.player_bg_ad,.top_banner,.mod_ads_play,#jimu-module-10,#jimu-module-11,.tvp_open_btns,[class^="txp_ad_"],.txp_ad,.figures_ad
 v.sogou.com##[uigs^="adv_pc_adv"]
 v.youku.com##div#dragDIV,div.listcontrol

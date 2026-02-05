@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2026-02-05 00:34:33（北京时间） 
+! Version: 2026-02-05 09:12:23（北京时间） 
 ! Total count: 19397
 -1325890192.cos.
 -960x*0.gif
@@ -2014,7 +2014,7 @@ $removeparam=rx_job,domain=cvshealth.*
 $removeparam=rx_p,domain=cvshealth.*
 $removeparam=rx_source,domain=cvshealth.*
 $removeparam=rx_ts,domain=cvshealth.*
-$removeparam=s,domain=greenhouse.io|mothership.sg|spreadprivacy.com|youku.com|nextdoor.com|qwant.com
+$removeparam=s,domain=greenhouse.io|mothership.sg|spreadprivacy.com|nextdoor.com|qwant.com
 $removeparam=sClickID
 $removeparam=sExtCookieId
 $removeparam=s_afcid

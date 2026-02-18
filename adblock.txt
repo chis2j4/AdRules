@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2026-02-18 09:17:55（北京时间） 
-! Total count: 19401
+! Version: 2026-02-18 16:33:49（北京时间） 
+! Total count: 19410
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -2427,8 +2427,15 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 .cn:*/vh5$third-party
 .cn:8005/cc/*?is_not=
 .com/*/status/$doc,removeparam=t,domain=twitter.com|x.com
+.com/00*00*00*_*c*p*v*.js$~third-party
+.com/11*11*11*_*c*p*v*.js$~third-party
 .com/17*?rid=17$third-party
+.com/22*22*22*_*c*p*v*.js$~third-party
+.com/33*33*33*_*c*p*v*.js$~third-party
+.com/44*44*44*_*c*p*v*.js$~third-party
+.com/55*55*55*_*c*p*v*.js$~third-party
 .com/5y*/31*.$~third-party
+.com/66*66*66*_*c*p*v*.js$~third-party
 .com/adv1/?q=
 .com/c.php?s=*=*=$third-party
 .com/candy*.js$third-party
@@ -2517,6 +2524,8 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 /*/*.add.*.add
 /*AdapterNew.
 /*_*_aubi.js$third-party
+/*_09c09p09v.js
+/*_10c10p10v.js
 /17mb/script/wap.js|
 /1905/1905.
 /300250/*

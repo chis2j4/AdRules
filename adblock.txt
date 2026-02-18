@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2026-02-18 00:44:46（北京时间） 
+! Version: 2026-02-18 09:17:55（北京时间） 
 ! Total count: 19401
 -1325890192.cos.
 -960x*0.gif
@@ -672,6 +672,7 @@ $doc,removeparam=_ft_
 $doc,removeparam=_ga,domain=~login.aliexpress.*
 $doc,removeparam=_hsenc
 $doc,removeparam=_p_rfs,domain=temu.com
+$doc,removeparam=_rand,domain=~goofish.com
 $doc,removeparam=_x_ads_account,domain=temu.com
 $doc,removeparam=_x_ads_channel,domain=temu.com
 $doc,removeparam=_x_ads_creative_id,domain=temu.com
@@ -1071,7 +1072,6 @@ $removeparam=_offer_super-low_rates.
 $removeparam=_openstat
 $removeparam=_puid
 $removeparam=_puuid
-$removeparam=_rand
 $removeparam=_rdc
 $removeparam=_rdr
 $removeparam=_ref,domain=fanatics.com|nhl.com

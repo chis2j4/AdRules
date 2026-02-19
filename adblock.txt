@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2026-02-19 00:52:10（北京时间） 
-! Total count: 19408
+! Version: 2026-02-19 09:16:59（北京时间） 
+! Total count: 19409
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -17934,6 +17934,7 @@ zznews.cn##.ad:not([style="margin-top:0px;padding-top:0px;"]),.ad1000-60
 ||www.rarbt.com/js/index960_1.js
 ||www.rawstory.com^$removeparam=rsplus
 ||www.rdezbie.com^
+||www.reddit.com^$doc,removeparam=entry_point
 ||www.renrenhaigou.com^
 ||www.repyua.com^
 ||www.roblox.com^$doc,removeparam=RelatedAssetID

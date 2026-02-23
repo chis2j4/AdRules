@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2026-02-23 09:15:44（北京时间） 
-! Total count: 19410
+! Version: 2026-02-23 16:37:28（北京时间） 
+! Total count: 19411
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -697,6 +697,7 @@ $doc,removeparam=af_xp
 $doc,removeparam=affiliate,domain=~justice.gov|~lippu.fi
 $doc,removeparam=afid
 $doc,removeparam=aoOfferParams,domain=citi.com
+$doc,removeparam=ap_id
 $doc,removeparam=asgtbndr
 $doc,removeparam=awc
 $doc,removeparam=bb,domain=indeed.com
@@ -1251,7 +1252,6 @@ $removeparam=ampcid
 $removeparam=an_uid
 $removeparam=analyticsCorrelationId
 $removeparam=anx_uId
-$removeparam=ap_id
 $removeparam=apnx_uid
 $removeparam=app,domain=tiktok.com|music.apple.*
 $removeparam=app_clickref
@@ -3156,6 +3156,7 @@ $~xmlhttprequest,removeparam=r,domain=tv2.no|linode.com|ledger.*|mrgay.com|odyse
 @@^mkt_unsubscribe=$removeparam=mkt_tok
 @@^mod=djemalertNEWS^$removeparam=mod
 @@_adview_$domain=muzlan.top
+@@gimg*.baidu.com/gimg/app=$domain=kimivod.com
 @@googlesyndication.com$domain=bilinovel.com
 @@guokr.com/apis/flowingboard/item/guokrapp_download_source.json
 @@https://static.ws.126.net/163/frontend/libs/antanalysis.min.js

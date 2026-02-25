@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2026-02-25 00:55:24（北京时间） 
-! Total count: 19410
+! Version: 2026-02-25 09:19:18（北京时间） 
+! Total count: 19421
 -1325890192.cos.
 -960x*0.gif
 -250.js*
@@ -573,7 +573,7 @@ $doc,removeparam=/^WT\..*$/i
 $doc,removeparam=/^WT_.*$/i
 $doc,removeparam=/^WTmc\..*$/i
 $doc,removeparam=/^WTmc_.*$/i
-$doc,removeparam=/^\??utm_.*$/i,domain=~tradedoubler.com|~sendgb.com|~allegro.pl|~tix.axs.com|~transfernow.*|~carrefourpl.snrpage.com|~justdial.com|~pepper.pl|~gaugau.futabanet.jp|~uploadnow.io|~usprobioticguide.com
+$doc,removeparam=/^\??utm_.*$/i,domain=~tradedoubler.com|~sendgb.com|~allegro.pl|~tix.axs.com|~transfernow.*|~carrefourpl.snrpage.com|~justdial.com|~pepper.pl|~gaugau.futabanet.jp|~uploadnow.io|~usprobioticguide.com|~canadacompanyregistry.com
 $doc,removeparam=/^__xts__.*$/
 $doc,removeparam=/^_s=afl_impact$/
 $doc,removeparam=/^_sgm_.*$/i
@@ -4120,6 +4120,12 @@ cibaipuki.com##A[href^='/article-list-id']
 cibaipuki.com##IMG[border='0'][width='100%']
 cibaipuki.com##SECTION[id^='download_']
 cibaipuki.com##[href*=":"]
+cj.sina.cn##.module-footer
+cj.sina.cn##.module-hot.module-extend
+cj.sina.cn##.u-article-video-title4
+cj.sina.cn##.unfold-words
+cj.sina.cn##.wap-msg-bar
+cj.sina.cn##div[class^="u-article-video-title"]
 cj0968.com###partner
 cjdby.net##[width="960"][height="30"],.wp.a_t,div.a_p,.a_pr,.ad,.a_t,.a_f
 cjn.cn##aside.sidebar.art-ad,ASIDE#slidelr,DIV.sidebar,IMG[src^="http://img.cjn.cn/2014cjn/ad/"],ASIDE.sidebar.side-w998.side-h68,ASIDE.main.side-h68
@@ -4453,7 +4459,12 @@ fengyunlive.com##.tipadds,.bottom-ads
 fenxiangshe.cn##.ads-content,[id^="tk_box_"]
 fh21.com.cn##.adv
 fifm.live###player_ad,.adsbygoogle
+finance.sina.cn##.pluse.animated
 finance.sina.cn##.s_card.cj_24
+finance.sina.cn##.wap-msg-bar
+finance.sina.cn##div[class^="s-"]
+finance.sina.cn#?#.flag_sf:upward(div):upward(div)
+finance.sina.cn#?#.snp-container:upward(div)
 finance.sina.com.cn###SFA_NV_POP_ZW
 finance.sina.com.cn###most_read
 finance.sina.com.cn###tab_related_btn

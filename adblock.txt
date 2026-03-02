@@ -4,7 +4,7 @@
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自My AdFilters（for PC）、EdentwCustom、adgk、ClearUrl等，并补充了一些规则
-! Version: 2026-03-02 09:14:06（北京时间） 
+! Version: 2026-03-02 16:32:58（北京时间） 
 ! Total count: 19428
 -1325890192.cos.
 -960x*0.gif
@@ -834,7 +834,7 @@ $doc,removeparam=sh,domain=forbes.com|reddit.com|reddittorjg6rue252oqsxryoxengaw
 $doc,removeparam=share_id,domain=reddit.com|reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion|sky.it
 $doc,removeparam=shortlink
 $doc,removeparam=site,domain=affiliate.insider.com|alina.se
-$doc,removeparam=smid,domain=~amazon.*|~opinion.no
+$doc,removeparam=smid,domain=~amazon.*|~clubassistant.com|~opinion.no|~swimphone.com
 $doc,removeparam=sms_click
 $doc,removeparam=sms_source
 $doc,removeparam=sms_uph

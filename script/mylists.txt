@@ -4,8 +4,8 @@
 ! Powerd by CatsTeam
 ! Expires: 12 Hours
 ! Description: 自用合并規則AdRules (For AdBlock)+AdRules (For AdGuard)
-! Version: 2026-03-07 16:19:29
-! Total count: 349251
+! Version: 2026-03-08 01:18:11
+! Total count: 349252
 -1325890192.cos.
 
 
@@ -105792,6 +105792,7 @@ news.pts.org.tw##.cookie-flex
 news.qq.com##.download-banner-wrap
 news.qq.com##.download-content
 news.qq.com##.godown.qqcom_fb-item
+news.qq.com##.qqcom-modal-mask
 news.qq.com##.slider-list.swiper-horizontal.swiper-initialized.swiper
 news.qq.com##div[id="download-btn-wrapid"]
 news.qq.com#?#div:has(> div[dt-eid="em_rec_app"])
